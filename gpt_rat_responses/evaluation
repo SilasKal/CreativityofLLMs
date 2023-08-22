@@ -1,0 +1,145 @@
+,response_filtered,solution,eval,prompt,RATItems,response_raw
+0,Cheese,cheese,True,cottage/swiss/cake,What word connects cottage/swiss/cake , Cheese.
+1,Ice,ice,True,cream/skate/water,What word connects cream/skate/water ," The word that connects cream/skate/water is ""Ice."""
+2,Sore,sore,True,loser/throat/spot,What word connects loser/throat/spot , Sore.
+3,stage,boat,False,show/life/row,What word connects show/life/row ," The word that connects show, life, and row is ""stage."""
+4,Watch,watch,True,night/wrist/stop,What word connects night/wrist/stop , Watch.
+5,Bill,bill,True,duck/fold/dollar,What word connects duck/fold/dollar , Bill
+6,Chair,chair,True,rocking/wheel/high,What word connects rocking/wheel/high , Chair
+7,Honey,honey,True,dew/comb/bee,What word connects dew/comb/bee , Honey.
+8,Soda,soda,True,fountain/baking/pop,What word connects fountain/baking/pop , Soda.
+9,Biodiversity,forest,False,preserve/ranger/tropical,What word connects preserve/ranger/tropical , Biodiversity.
+10,TIRE,band,False,aid/rubber/wagon,What word connects aid/rubber/wagon ," The word is ""TIRE""."
+11,icecream,snow,False,flake/mobile/cone,What word connects flake/mobile/cone ," The word that connects flake/mobile/cone is ""ice cream""."
+12,Pilot,fire,False,cracker/fly/fighter,What word connects cracker/fly/fighter , Pilot.
+13,protection,pin,False,safety/cushion/point,What word connects safety/cushion/point ," The word that connects safety, cushion, and point is ""protection."""
+14,Sugar,sugar,True,cane/daddy/plum,What word connects cane/daddy/plum , Sugar
+15,day,day,True,dream/break/light,What word connects dream/break/light ," The word is ""day."" Dream day - referring to a day when you are dreaming or wishful thinking. Break day - referring to a day off or a day of rest. Light day - can refer to a day that is bright and sunny or a day that is not too busy or demanding."
+16,gold,gold,True,fish/mine/rush,What word connects fish/mine/rush ," The word is ""gold"". Gold is found in mines, which is often referred to as a ""gold mine"". Rush is commonly associated with the gold rush, when people flocked to California in the 1800s to search for gold. Fish may refer to goldfish, which are often seen as a symbol of wealth and status. Additionally, some species of fish, such as salmon, are known for their gold or orange color."
+17,upset,party,False,political/surprise/line,What word connects political/surprise/line , upset.
+18,length,tape,False,measure/worm/video,What word connects measure/worm/video ," The word that connects measure, worm, and video is ""length."""
+19,school,school/court,True,high/district/house,What word connects high/district/house ," The word is ""school""."
+20,Manners,common,False,sense/courtesy/place,What word connects sense/courtesy/place , Manners.
+21,book,book,True,worm/shelf/end,What word connects worm/shelf/end ," The word that connects worm/shelf/end is ""book"". A book may have worms eating through its pages or be placed on a shelf, and at the end of the book, the reader reaches the conclusion or the end of the story."
+22,Game,game,True,piece/mind/dating,What word connects piece/mind/dating , Game.
+23,badge,girl,False,flower/friend/scout,What word connects flower/friend/scout ," The word that connects flower/friend/scout is ""badge""."
+24,bank,bank,True,river/note/account,What word connects river/note/account ," The word that connects river/note/account is ""bank."""
+25,Hawk,blue,False,print/berry/bird,What word connects print/berry/bird ," The word that connects print, berry, and bird is ""Hawk""."
+26,full,pot,False,pie/luck/belly,What word connects pie/luck/belly ," The word that connects pie/luck/belly is ""full""."
+27,blind,blind,True,date/alley/fold,What word connects date/alley/fold ," The word that connects date, alley, and fold is ""blind""."
+28,aria,soap,False,opera/hand/dish,What word connects opera/hand/dish ," The word that connects opera, hand, and dish is ""aria""."
+29,space,space,True,cadet/capsule/ship,What word connects cadet/capsule/ship ," The word that connects cadet/capsule/ship is ""space""."
+30,deer,coat,False,fur/rack/tail,What word connects fur/rack/tail ," The word that connects fur, rack, and tail is ""deer""."
+31,sharp,match,False,stick/maker/point,What word connects stick/maker/point ," The word that connects stick/maker/point is ""sharp""."
+32,hunt,blood,False,hound/pressure/shot,What word connects hound/pressure/shot ," The word that connects hound, pressure, and shot is ""hunt."""
+33,hole,hole,True,fox/man/peep,What word connects fox/man/peep ," hole (as in foxhole, manhole, peephole)"
+34,bag,bag,True,sleeping/bean/trash,What word connects sleeping/bean/trash ," The word that connects sleeping/bean/trash is ""bag""."
+35,crumbs,bowl,False,dust/cereal/fish,What word connects dust/cereal/fish , crumbs
+36,Candle,candle,True,light/birthday/stick,What word connects light/birthday/stick , Candle.
+37,fast,fast,True,food/forward/break,What word connects food/forward/break ," fast (fast food, forward fast, breakfast)"
+38,light,moon,False,shine/beam/struck,What word connects shine/beam/struck ," The word that connects shine/beam/struck is ""light""."
+39,tree,pit,False,peach/arm/tar,What word connects peach/arm/tar ," The word that connects peach, arm, and tar is tree."
+40,Salt,salt,True,water/mine/shaker,What word connects water/mine/shaker , Salt
+41,sole,tree,False,palm/shoe/house,What word connects palm/shoe/house ," The word that connects palm, shoe, and house is ""sole""."
+42,ball,ball,True,basket/eight/snow,What word connects basket/eight/snow ," The word that connects basket, eight, and snow is ""ball"". The words can be combined to form the phrase ""ball in the basket"", ""eight-ball"", and ""snowball""."
+43,Cart,cart,True,wheel/hand/shopping,What word connects wheel/hand/shopping , Cart
+44,black,copy,False,right/cat/carbon,What word connects right/cat/carbon ," The word that connects right/cat/carbon is ""black""."
+45,rest,sick,False,home/sea/bed,What word connects home/sea/bed ," The word that connects home/sea/bed is ""rest""."
+46,WAR,family,False,nuclear/feud/album,What word connects nuclear/feud/album , The word that connects nuclear/feud/album is WAR.
+47,Club,club,True,sandwich/house/golf,What word connects sandwich/house/golf , Club.
+48,CROSS,bow,False,cross/rain/tie,What word connects cross/rain/tie ," The word that connects cross/rain/tie is ""CROSS"". Explanation: - A cross is a shape made by two lines that intersect each other at right angles, forming four right angles. - A tie can refer to a long piece of cloth or other material that is worn around the neck or waist or tied in a knot, often as part of a formal outfit. It can also refer to the result of a game or contest where both sides score the same number of points. In this case, the score is said to be tied. - Rain is a type of precipitation that falls from the sky in drops of water.The word ""cross"" can be used as a verb to mean ""to pass or go across"" (e.g. to cross the street), as a noun to refer to the shape described above, or as an adjective to describe something that is situated at right angles to something else (e.g. a cross beam)."
+49,gray,brush,False,sage/paint/hair,What word connects sage/paint/hair ," The word that connects sage, paint, and hair is ""gray""."
+50,leather,horn,False,french/car/shoe,What word connects french/car/shoe ," The word that connects French, car, and shoe is ""leather."""
+51,foot,camp,False,boot/summer/ground,What word connects boot/summer/ground ," The word that connects boot, summer, and ground is ""foot."""
+52,breathing,gas,False,chamber/mask/natural,What word connects chamber/mask/natural ," The word that connects all three words is ""breathing."""
+53,Grind,saw,False,mill/tooth/dust,What word connects mill/tooth/dust , Grind.
+54,switch,street,False,main/sweeper/light,What word connects main/sweeper/light ," The word that connects main/sweeper/light is ""switch."""
+55,army,turn,False,pike/coat/signal,What word connects pike/coat/signal ," The word that connects pike, coat, and signal is ""army""."
+56,Box,box,True,office/mail/hat,What word connects office/mail/hat , Box.
+57,hang,paper,False,fly/clip/wall,What word connects fly/clip/wall ," The word that connects fly, clip, and wall is ""hang."""
+58,time,stone,False,age/mile/sand,What word connects age/mile/sand ," The word that connects age/mile/sand is ""time""."
+59,dog,dog,True,catcher/food/hot,What word connects catcher/food/hot , dog
+60,emergency,station,False,wagon/break/radio,What word connects wagon/break/radio ," The word that connects wagon, break, and radio is ""emergency""."
+61,war,top,False,tank/hill/secret,What word connects tank/hill/secret ," The word that connects tank/hill/secret is ""war."""
+62,care,care,True,health/taker/less,What word connects health/taker/less , care
+63,face,face,True,lift/card/mask,What word connects lift/card/mask , The word that connects lift/card/mask is 'face'.
+64,pattern,sun,False,dress/dial/flower,What word connects dress/dial/flower ," The word that connects dress, dial, and flower is pattern."
+65,head,air,False,force/line/mail,What word connects force/line/mail ," The word that connects ""fore"", ""line"", and ""mail"" is ""head"""
+66,pour,fall,False,guy/rain/down,What word connects guy/rain/down , pour
+67,Rink,figure,False,eight/skate/stick,What word connects eight/skate/stick ," The word that connects eight/skate/stick is ""Rink""."
+68,Mark,mark,True,down/question/check,What word connects down/question/check , Mark.
+69,Tail,pack,False,animal/back/rat,What word connects animal/back/rat , Tail
+70,theft,petty,False,officer/cash/larceny,What word connects officer/cash/larceny ," The word that connects officer/cash/larceny is ""theft""."
+71,apple,apple,True,pine/crab/sauce,What word connects pine/crab/sauce ," The word that connects pine/crab/sauce is ""apple""."
+72,green,green,True,house/thumb/pepper,What word connects house/thumb/pepper ," The word that connects house/thumb/pepper is ""green""."
+73,stain,red,False,carpet/alert/ink,What word connects carpet/alert/ink ," The word that connects these three words is ""stain."" A carpet can have stains, an alert can be raised due to a stain, and ink can cause stains on surfaces."
+74,control,ring,False,master/toss/finger,What word connects master/toss/finger ," The word that connects master/toss/finger is ""control"" - master implies control over a skill or situation, toss requires controlling the force and direction of an object, and finger requires control over fine movements and dexterity."
+75,tool,head,False,hammer/gear/hunter,What word connects hammer/gear/hunter ," The word that connects hammer, gear, and hunter is ""tool""."
+76,blade,pen,False,knife/light/pal,What word connects knife/light/pal ," The word that connects knife, light, and pal is ""blade""."
+77,play,play,True,foul/ground/mate,What word connects foul/ground/mate ," The word that connects foul/ground/mate is ""play"" as they are all terms used in sports, specifically baseball."
+78,short,short,True,change/circuit/cake,What word connects change/circuit/cake ," The word that connects change/circuit/cake is ""short."" ""Short"" can mean:  - Change: A short period of time - Circuit: A short circuit - Cake: A shortcake"
+79,walk,walk,True,way/board/sleep,What word connects way/board/sleep ," The word that connects way/board/sleep is ""walk""."
+80,Match,check,False,blank/list/mate,What word connects blank/list/mate , Match.
+81,current,gate,False,tail/water/flood,What word connects tail/water/flood ," The word that connects tail/water/flood is ""current""."
+82,Keys,grand,False,marshal/child/piano,What word connects marshal/child/piano ," Keys (a marshal leads a procession, a child may play with toy keys, and a piano has keys to play notes)"
+83,Sleeve,under,False,cover/arm/wear,What word connects cover/arm/wear , Sleeve
+84,Pain,acid,False,rain/test/stomach,What word connects rain/test/stomach , Pain.
+85,Bomb,full,False,time/blown/nelson,What word connects time/blown/nelson , Bomb.
+86,space,stock,False,pile/market/room,What word connects pile/market/room ," The word that connects pile, market, and room is ""space."" All three refer to a particular area or amount of space."
+87,trap,trap,True,mouse/bear/sand,What word connects mouse/bear/sand ," The word that connects mouse/bear/sand is ""trap""."
+88,call,call,True,cat/number/phone,What word connects cat/number/phone ," The word that connects cat/number/phone is ""call""."
+89,smoke,powder,False,keg/puff/room,What word connects keg/puff/room ," The word that connects keg/puff/room is ""smoke""."
+90,accomplishment,field,False,trip/house/goal,What word connects trip/house/goal ," The word that connect trip/house/goal is ""accomplishment""."
+91,shadow,pitch,False,fork/dark/man,What word connects fork/dark/man ," The word that connects fork, dark, and man is ""shadow""."
+92,deck,post,False,fence/card/master,What word connects fence/card/master ," The word that connects fence/card/master is ""deck"" (a deck of cards, a fence deck, a master deck)."
+93,course,road,False,test/runner/map,What word connects test/runner/map ," The word that connects test/runner/map is ""course""."
+94,Launch,sky,False,dive/light/rocket,What word connects dive/light/rocket , Launch.
+95,sticky,super,False,man/glue/star,What word connects man/glue/star ," The word that connects man/glue/star is ""sticky""."
+96,starch,sweet,False,tooth/potato/heart,What word connects tooth/potato/heart ," The word that connects tooth, potato, and heart is ""starch""."
+97,System,terminal,False,illness/bus/computer,What word connects illness/bus/computer , System.
+98,display,writer,False,type/ghost/screen,What word connects type/ghost/screen ," The word that connects type/ghost/screen is ""display""."
+99,lung,black,False,mail/board/lung,What word connects mail/board/lung ," The word that connects mail/board/lung is ""the word 'l'ung' appears in all three words."""
+100,decay,false,False,teeth/arrest/start,What word connects teeth/arrest/start ," The word that connects teeth/arrest/start is ""decay""."
+101,metal,steam,False,iron/shovel/engine,What word connects iron/shovel/engine ," The word that connects iron, shovel, and engine is ""metal""."
+102,regulation,suit,False,wet/law/business,What word connects wet/law/business ," The word that connects wet, law, and business is ""regulation."""
+103,cable,tow,False,rope/truck/line,What word connects rope/truck/line ," The word that connects rope/truck/line is ""cable."""
+104,base,base,True,off/military/first,What word connects off/military/first ," The word that connects off, military, and first is ""base."""
+105,wipe,table,False,spoon/cloth/card,What word connects spoon/cloth/card ," The word that connects spoon/cloth/card is ""wipe"" as we can use a spoon to wipe off excess sauce, a cloth to wipe a surface clean, and a card to wipe sweat from one's forehead."
+106,battle,cold,False,cut/cream/war,What word connects cut/cream/war ," The word that connects cut, cream, and war is ""battle."" Cut could refer to a wound sustained in battle. Cream could refer to a type of cream used to treat skin injuries sustained in battle. War refers to the conflict itself."
+107,Link,key,False,note/chain/master,What word connects note/chain/master , Link
+108,Razor,after,False,shock/shave/taste,What word connects shock/shave/taste , Razor
+109,building,clock,False,wise/work/tower,What word connects wise/work/tower ," The word that connects wise/work/tower is ""building."""
+110,Beef,crab,False,grass/king/meat,What word connects grass/king/meat ," Beef (as ""beef"" grass, ""beef"" as in meat, ""beef"" as in slang for a conflict with the ""king"" being someone in power or authority)."
+111,new,shower,False,baby/spring/cap,What word connects baby/spring/cap ," The word that connects baby, spring, and cap is ""new."""
+112,bake,coffee,False,break/bean/cake,What word connects break/bean/cake ," The word that connects break/bean/cake is ""bake."""
+113,Anchor,battle,False,cry/front/ship,What word connects cry/front/ship , Anchor.
+114,up,foot,False,hold/print/stool,What word connects hold/print/stool ," The word that connects hold/print/stool is ""up."" We can ""hold up"" a book, ""print up"" a document, and ""sit up"" on a stool."
+115,sushi,jelly,False,roll/bean/fish,What word connects roll/bean/fish ," The word that connects roll/bean/fish is ""sushi""."
+116,on?riding,race,False,horse/human/drag,What word connects horse/human/drag ," on? The word that connects horse/human/dragon is ""riding""."
+117,Can,salad,False,oil/bar/tuna,What word connects oil/bar/tuna ," Can. (Can of oil, can of tuna, can of bar nuts)"
+118,jump,bell,False,bottom/curve/hop,What word connects bottom/curve/hop ," The word that connects bottom, curve, and hop is ""jump."""
+119,Defuse,cherry,False,tomato/bomb/picker,What word connects tomato/bomb/picker ," The word that connects tomato/bomb/picker is ""Defuse""."
+120,nut,nut,True,pea/shell/chest,What word connects pea/shell/chest , nut
+121,Juice,punch,False,line/fruit/drunk,What word connects line/fruit/drunk , Juice
+122,up,goose,False,bump/egg/step,What word connects bump/egg/step ," The word that connects bump/egg/step is ""up."""
+123,power,gun,False,fight/control/machine,What word connects fight/control/machine ," The word that connects fight/control/machine is ""power""."
+124,house,rest,False,home/arm/room,What word connects home/arm/room ," The word that connects home/arm/room is ""house."""
+125,CLEAN,brain,False,child/scan/wash,What word connects child/scan/wash , The word that connects child/scan/wash is CLEAN.
+126,cold,brown,False,nose/stone/bear,What word connects nose/stone/bear ," The word that connects nose/stone/bear is ""cold""."
+127,closed,dead,False,end/line/lock,What word connects end/line/lock ," The word that connects end/line/lock is ""closed."""
+128,manage,birth,False,control/place/rate,What word connects control/place/rate ," The word is ""manage."""
+129,relaxation,cocktail,False,lounge/hour/napkin,What word connects lounge/hour/napkin ," The word that connects lounge, hour, and napkin is ""relaxation."""
+130,Sketch,escape,False,artist/hatch/route,What word connects artist/hatch/route , Sketch
+131,dirt,rock,False,pet/bottom/garden,What word connects pet/bottom/garden ," The word that connects pet/bottom/garden is ""dirt""."
+132,score,running,False,mate/shoes/total,What word connects mate/shoes/total , score
+133,Budget,defense,False,self/attorney/spending,What word connects self/attorney/spending , Budget.
+134,b,switch,False,board/blade/back,What word connects board/blade/back ," The word that connects board/blade/back is ""b""."
+135,ownership,farm,False,land/hand/house,What word connects land/hand/house ," The word that connects land, hand, and house is ""ownership""."
+136,loose,money,False,hungry/order/belt,What word connects hungry/order/belt ," The word that connects hungry/order/belt is ""loose"". When a person is hungry, their belt may feel loose due to their stomach shrinking. Similarly, if a person loses weight and their pants become loose, they may need to order a smaller belt to keep their pants up."
+137,shave,straight,False,forward/flush/razor,What word connects forward/flush/razor ," The word that connects forward, flush, and razor is ""shave""."
+138,line,eye,False,shadow/chart/drop,What word connects shadow/chart/drop ," The word that connects shadow/chart/drop is ""line""."
+139,Conditions,fair,False,way/ground/weather,What word connects way/ground/weather , Conditions.
+140,stage,broad,False,cast/side/jump,What word connects cast/side/jump ," The word that connects cast/side/jump is ""stage"". These are all terms commonly used in the context of theatre and performance."
+141,door,door,True,back/step/screen,What word connects back/step/screen ," The word that connects back, step, and screen is ""door."""
+142,book,lip,False,reading/service/stick,What word connects reading/service/stick ," The word that connects reading/service/stick is ""book."""
+143,Stable,power,False,over/plant/horse,What word connects over/plant/horse , Stable

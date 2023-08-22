@@ -1,0 +1,251 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_GloVe_c_m
+0,1,creative,1 Create a DIY rope swing for a backyard tree,create a diy rope swing for a backyard tree,rope,rope,1.10577
+1,2,creative,2 Use rope to create a decorative macrame wall hanging,use rope to create a decorative macrame wall hanging,rope,rope,1.10695
+2,3,creative,3 Use rope to create a makeshift clothesline for drying laundry,use rope to create a makeshift clothesline for drying laundry,rope,rope,0.89519
+3,4,creative,4 Create a rope ladder for a treehouse or loft space,create a rope ladder for a treehouse or loft space,rope,rope,0.8844
+4,5,creative,5 Use rope to create a heavyduty dog leash or harness,use rope to create a heavyduty dog leash or harness,rope,rope,0.88459
+5,6,creative,6 Create a rope hammock for lounging in the backyard,create a rope hammock for lounging in the backyard,rope,rope,1.12053
+6,7,creative,7 Use rope to create a unique plant hanger for indoor or outdoor plants,use rope to create a unique plant hanger for indoor or outdoor plants,rope,rope,1.10515
+7,8,creative,8 Create a rope obstacle course for a backyard or park,create a rope obstacle course for a backyard or park,rope,rope,1.10476
+8,9,creative,9 Use rope to create a DIY rope light fixture,use rope to create a diy rope light fixture,rope,rope,1.10692
+9,10,creative,10 Create a DIY rope basket for storing blankets or magazines,create a diy rope basket for storing blankets or magazines,rope,rope,0.89563
+10,11,creative,1 Use rope to create a makeshift clothesline for drying clothes outdoors,use rope to create a makeshift clothesline for drying clothes outdoors,rope,rope,1.10515
+11,12,creative,2 Tie a knot in a rope and use it as a doorstop to keep doors open,tie a knot in a rope and use it as a doorstop to keep doors open,rope,rope,1.1052
+12,13,creative,3 Create a rope swing by tying one end of the rope to a sturdy tree branch and the other end to a wooden seat,create a rope swing by tying one end of the rope to a sturdy tree branch and the other end to a wooden seat,rope,rope,0.89485
+13,14,creative,4 Use rope to create a DIY hammock by tying it to two trees and adding a piece of fabric for a comfortable seat,use rope to create a diy hammock by tying it to two trees and adding a piece of fabric for a comfortable seat,rope,rope,0.89422
+14,15,creative,5 Use rope to create a DIY climbing wall in your backyard,use rope to create a diy climbing wall in your backyard,rope,rope,1.10578
+15,16,creative,6 Use rope to create a DIY cat scratching post by wrapping it tightly around a wooden post or pole,use rope to create a diy cat scratching post by wrapping it tightly around a wooden post or pole,rope,rope,1.10554
+16,17,creative,7 Use rope to create a DIY bird feeder by tying it to tree branches and hanging a birdseedfilled container from it,use rope to create a diy bird feeder by tying it to tree branches and hanging a birdseedfilled container from it,rope,rope,1.1051
+17,18,creative,8 Use rope to create a DIY obstacle course in your backyard by tying it to trees and creating various challenges to navigate,use rope to create a diy obstacle course in your backyard by tying it to trees and creating various challenges to navigate,rope,rope,0.8949
+18,19,creative,9 Use rope to create a DIY pulley system for hauling heavy items up to a treehouse or elevated platform,use rope to create a diy pulley system for hauling heavy items up to a treehouse or elevated platform,rope,rope,1.11525
+19,20,creative,10 Create a DIY tugofwar game with friends by tying a long rope to a tree and dividing into two teams,create a diy tugofwar game with friends by tying a long rope to a tree and dividing into two teams,rope,rope,1.10515
+20,21,creative,1 Use it as a makeshift clothesline to dry clothes outdoors,use it as a makeshift clothesline to dry clothes outdoors,rope,rope,0.89493
+21,22,creative,2 Create a DIY hammock by tying the rope between two trees,create a diy hammock by tying the rope between two trees,rope,rope,0.89339
+22,23,creative,3 Use it to create a rope swing in your backyard,use it to create a rope swing in your backyard,rope,rope,1.10431
+23,24,creative,4 Secure a tarp or tent in windy conditions,secure a tarp or tent in windy conditions,rope,rope,0.89462
+24,25,creative,5 Use it to create a rope ladder for treehouses or other elevated structures,use it to create a rope ladder for treehouses or other elevated structures,rope,rope,1.10276
+25,26,creative,6 Tie it around a bundle of firewood for easy transport,tie it around a bundle of firewood for easy transport,rope,rope,1.10569
+26,27,creative,7 Use it to create a makeshift leash for your pet in an emergency,use it to create a makeshift leash for your pet in an emergency,rope,rope,0.89614
+27,28,creative,8 Create a decorative macrame wall hanging or plant hanger,create a decorative macrame wall hanging or plant hanger,rope,rope,0.89461
+28,29,creative,9 Use it to secure furniture to the roof of a car during a move,use it to secure furniture to the roof of a car during a move,rope,rope,1.10718
+29,30,creative,10 Use it to create a rope obstacle course for a backyard party or teambuilding activity,use it to create a rope obstacle course for a backyard party or teambuilding activity,rope,rope,1.10362
+30,31,creative,1 Create a rope swing in your backyard for hours of outdoor fun,create a rope swing in your backyard for hours of outdoor fun,rope,rope,1.10511
+31,32,creative,2 Use rope to make a unique rusticlooking chandelier or lampshade,use rope to make a unique rusticlooking chandelier or lampshade,rope,rope,0.88562
+32,33,creative,3 Build a rope ladder for a treehouse or elevated play area,build a rope ladder for a treehouse or elevated play area,rope,rope,1.08277
+33,34,creative,4 Make a rope hammock for a relaxing spot to nap or read,make a rope hammock for a relaxing spot to nap or read,rope,rope,0.89564
+34,35,creative,5 Use rope to create a DIY rope curtain or room divider,use rope to create a diy rope curtain or room divider,rope,rope,0.8952100000000001
+35,36,creative,6 Create a rope dog leash that is both functional and stylish,create a rope dog leash that is both functional and stylish,rope,rope,0.95195
+36,37,creative,7 Use rope to make a DIY hanging planter or plant hanger,use rope to make a diy hanging planter or plant hanger,rope,rope,1.10449
+37,38,creative,8 Build a rope bridge for an adventurous backyard obstacle course,build a rope bridge for an adventurous backyard obstacle course,rope,rope,1.10474
+38,39,creative,9 Make a rope jump rope for outdoor exercise and play,make a rope jump rope for outdoor exercise and play,rope,rope,1.10508
+39,40,creative,10 Create a ropetied canopy or tent for a fun camping experience,create a ropetied canopy or tent for a fun camping experience,rope,rope,1.1052
+40,41,creative,1 Create a rope swing in your backyard,create a rope swing in your backyard,rope,rope,0.89437
+41,42,creative,2 Use a rope to make a unique rusticlooking curtain tieback,use a rope to make a unique rusticlooking curtain tieback,rope,rope,1.10937
+42,43,creative,3 Build a hammock out of ropes to lounge in,build a hammock out of ropes to lounge in,rope,rope,1.10082
+43,44,creative,4 Use a rope to create a makeshift clothesline for drying laundry,use a rope to create a makeshift clothesline for drying laundry,rope,rope,1.10489
+44,45,creative,5 Make a rope ladder for kids to climb as a fun DIY project,make a rope ladder for kids to climb as a fun diy project,rope,rope,1.10547
+45,46,creative,6 Use a rope to create a unique plant hanger for your indoor plants,use a rope to create a unique plant hanger for your indoor plants,rope,rope,1.10516
+46,47,creative,7 Create a rope sculpture or wall hanging for a unique piece of art,create a rope sculpture or wall hanging for a unique piece of art,rope,rope,0.8941
+47,48,creative,8 Use a rope to create a DIY headboard for your bed,use a rope to create a diy headboard for your bed,rope,rope,0.89494
+48,49,creative,9 Tie a rope to a tire and create a DIY outdoor exercise tool,tie a rope to a tire and create a diy outdoor exercise tool,rope,rope,1.10494
+49,50,creative,10 Use a rope to create a unique and functional dog leash or harness,use a rope to create a unique and functional dog leash or harness,rope,rope,0.8845
+50,51,creative,1 Create a rope swing in your backyard,create a rope swing in your backyard,rope,rope,0.89437
+51,52,creative,2 Use a rope to create a hammock,use a rope to create a hammock,rope,rope,1.1204
+52,53,creative,3 Use a rope to create a makeshift clothesline,use a rope to create a makeshift clothesline,rope,rope,0.89516
+53,54,creative,4 Tie a rope around a tree to create a makeshift climbing wall,tie a rope around a tree to create a makeshift climbing wall,rope,rope,1.10508
+54,55,creative,5 Use a rope to create a rope bridge across a small creek or stream,use a rope to create a rope bridge across a small creek or stream,rope,rope,1.10509
+55,56,creative,6 Use a rope to create a tugofwar game,use a rope to create a tugofwar game,rope,rope,0.89257
+56,57,creative,7 Use a rope to create a rope maze in your yard,use a rope to create a rope maze in your yard,rope,rope,0.8938699999999999
+57,58,creative,8 Use a rope to create a rope obstacle course,use a rope to create a rope obstacle course,rope,rope,0.88946
+58,59,creative,9 Use a rope to create a rope ladder up to a tree house or fort,use a rope to create a rope ladder up to a tree house or fort,rope,rope,0.89486
+59,60,creative,10 Use a rope to create a DIY rope wall art piece,use a rope to create a diy rope wall art piece,rope,rope,1.10321
+60,61,creative,1 Create a rope swing in the backyard for kids or adults to play on,create a rope swing in the backyard for kids or adults to play on,rope,rope,1.10514
+61,62,creative,2 Use a rope to create a makeshift clothesline for drying clothes outdoors,use a rope to create a makeshift clothesline for drying clothes outdoors,rope,rope,0.89488
+62,63,creative,3 Tie a rope around a tree to create a hammock for relaxing,tie a rope around a tree to create a hammock for relaxing,rope,rope,0.89216
+63,64,creative,4 Create a DIY rope ladder for a child's treehouse,create a diy rope ladder for a childs treehouse,rope,rope,1.09779
+64,65,creative,5 Use a rope to create a DIY headboard for a bed,use a rope to create a diy headboard for a bed,rope,rope,0.8949199999999999
+65,66,creative,6 Create a rope handle for a heavy item such as a bucket or cooler,create a rope handle for a heavy item such as a bucket or cooler,rope,rope,1.1036
+66,67,creative,7 Make a rope leash for a dog or other pet,make a rope leash for a dog or other pet,rope,rope,1.11027
+67,68,creative,8 Use a rope to create a DIY curtain tieback for a window,use a rope to create a diy curtain tieback for a window,rope,rope,1.1046
+68,69,creative,9 Create a rope net for a sports activity such as volleyball or badminton,create a rope net for a sports activity such as volleyball or badminton,rope,rope,0.89082
+69,70,creative,10 Use a rope to create a DIY plant hanger for indoor or outdoor plants,use a rope to create a diy plant hanger for indoor or outdoor plants,rope,rope,1.10514
+70,71,creative,1 Create a rope swing to hang from a tree,create a rope swing to hang from a tree,rope,rope,0.89314
+71,72,creative,2 Use a rope to create a homemade zipline,use a rope to create a homemade zipline,rope,rope,0.89257
+72,73,creative,3 Make a DIY hammock using a rope and fabric,make a diy hammock using a rope and fabric,rope,rope,1.02225
+73,74,creative,4 Use a rope to create a climbing wall or obstacle course,use a rope to create a climbing wall or obstacle course,rope,rope,0.88985
+74,75,creative,5 Make a rope ladder to use for treehouses or play structures,make a rope ladder to use for treehouses or play structures,rope,rope,1.10479
+75,76,creative,6 Use a rope to create a makeshift clothesline for drying clothes,use a rope to create a makeshift clothesline for drying clothes,rope,rope,1.10457
+76,77,creative,7 Create a rope bridge over a small creek or stream,create a rope bridge over a small creek or stream,rope,rope,1.10483
+77,78,creative,8 Use a rope to create a pet leash or harness,use a rope to create a pet leash or harness,rope,rope,1.11478
+78,79,creative,9 Use a rope to create a decorative macrame wall hanging,use a rope to create a decorative macrame wall hanging,rope,rope,0.89357
+79,80,creative,10 Create a rope pulley system to help move heavy objects,create a rope pulley system to help move heavy objects,rope,rope,0.88863
+80,81,creative,1 Creating a DIY hammock in your backyard or on a camping trip,creating a diy hammock in your backyard or on a camping trip,rope,rope,1.10456
+81,82,creative,2 Tying up a makeshift clothesline for drying clothes,tying up a makeshift clothesline for drying clothes,rope,rope,0.89527
+82,83,creative,3 Making a rope ladder to climb up to a treehouse or attic,making a rope ladder to climb up to a treehouse or attic,rope,rope,0.91442
+83,84,creative,4 Creating a rope swing for kids or adults,creating a rope swing for kids or adults,rope,rope,1.10556
+84,85,creative,5 Tying up a boat or kayak to a dock or buoy,tying up a boat or kayak to a dock or buoy,rope,rope,1.1044
+85,86,creative,6 Using a rope to create a makeshift pulley system for heavy lifting,using a rope to create a makeshift pulley system for heavy lifting,rope,rope,0.89505
+86,87,creative,7 Making a sturdy dog leash or harness for a large dog,making a sturdy dog leash or harness for a large dog,rope,rope,1.08589
+87,88,creative,8 Tying up a tarp or tent for shelter from rain or sun,tying up a tarp or tent for shelter from rain or sun,rope,rope,1.10515
+88,89,creative,9 Creating a rope net for a backyard volleyball or badminton game,creating a rope net for a backyard volleyball or badminton game,rope,rope,0.89455
+89,90,creative,10 Using a rope to create a decorative wall hanging for a rustic or coastalthemed room,using a rope to create a decorative wall hanging for a rustic or coastalthemed room,rope,rope,1.10477
+90,91,creative,1 Use it as a makeshift clothesline to hang clothes to dry,use it as a makeshift clothesline to hang clothes to dry,rope,rope,1.10394
+91,92,creative,2 Create a rope ladder to climb up to a treehouse or attic,create a rope ladder to climb up to a treehouse or attic,rope,rope,0.91768
+92,93,creative,3 Use it to tie down furniture during a move or while transporting items in a vehicle,use it to tie down furniture during a move or while transporting items in a vehicle,rope,rope,1.10644
+93,94,creative,4 Create a rope swing for kids to play on,create a rope swing for kids to play on,rope,rope,0.8938699999999999
+94,95,creative,5 Use it for a game of tugofwar at a party or event,use it for a game of tugofwar at a party or event,rope,rope,0.89452
+95,96,creative,6 Use it to tie up a hammock for lounging,use it to tie up a hammock for lounging,rope,rope,1.00054
+96,97,creative,7 Create a DIY headboard by weaving multiple ropes together,create a diy headboard by weaving multiple ropes together,rope,rope,0.8944799999999999
+97,98,creative,8 Use it as a leash for a pet in a pinch,use it as a leash for a pet in a pinch,rope,rope,0.88506
+98,99,creative,9 Use it as a makeshift handle to pull heavy objects or furniture across the floor,use it as a makeshift handle to pull heavy objects or furniture across the floor,rope,rope,0.8952100000000001
+99,100,creative,10 Create a rope obstacle course for kids to play on,create a rope obstacle course for kids to play on,rope,rope,1.10597
+100,101,creative,1 Create a rope swing in your backyard for kids or adults,create a rope swing in your backyard for kids or adults,rope,rope,0.8949
+101,102,creative,2 Use a rope to create a unique and rustic picture frame,use a rope to create a unique and rustic picture frame,rope,rope,0.90138
+102,103,creative,3 Create a rope ladder to use in a treehouse or for a fun backyard obstacle course,create a rope ladder to use in a treehouse or for a fun backyard obstacle course,rope,rope,0.89386
+103,104,creative,4 Use a rope as a clothesline to hang laundry outside,use a rope as a clothesline to hang laundry outside,rope,rope,0.8942
+104,105,creative,5 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.07835
+105,106,creative,6 Create a rope handle for a rustic handmade tote bag,create a rope handle for a rustic handmade tote bag,rope,rope,0.89559
+106,107,creative,7 Use a rope to create a unique and functional dog leash,use a rope to create a unique and functional dog leash,rope,rope,0.87863
+107,108,creative,8 Use a rope to create a decorative and functional curtain tieback,use a rope to create a decorative and functional curtain tieback,rope,rope,1.10805
+108,109,creative,9 Create a rope wall hanging to add texture and interest to a room,create a rope wall hanging to add texture and interest to a room,rope,rope,1.09888
+109,110,creative,10 Use a rope to create a unique and rustic chandelier for a farmhousestyle home,use a rope to create a unique and rustic chandelier for a farmhousestyle home,rope,rope,1.10307
+110,111,creative,1 A makeshift clothesline for drying clothes,a makeshift clothesline for drying clothes,rope,rope,0.90177
+111,112,creative,2 Tying up a hammock for relaxation,tying up a hammock for relaxation,rope,rope,0.92876
+112,113,creative,3 Creating a rope swing in a backyard,creating a rope swing in a backyard,rope,rope,0.89508
+113,114,creative,4 Making a tugofwar game,making a tugofwar game,rope,rope,0.8619
+114,115,creative,5 A barrier to separate sections of a room or outdoor area,a barrier to separate sections of a room or outdoor area,rope,rope,0.89471
+115,116,creative,6 A rope ladder for climbing up to a treehouse,a rope ladder for climbing up to a treehouse,rope,rope,1.0981
+116,117,creative,7 Creating a rope obstacle course for a fun challenge,creating a rope obstacle course for a fun challenge,rope,rope,0.88965
+117,118,creative,8 Using a rope to make a DIY headboard for a bed,using a rope to make a diy headboard for a bed,rope,rope,0.89491
+118,119,creative,9 A DIY dog leash or collar,a diy dog leash or collar,rope,rope,0.96495
+119,120,creative,10 Weaving colorful ropes into a unique piece of wall art,weaving colorful ropes into a unique piece of wall art,rope,rope,1.10807
+120,121,creative,1 Creating a DIY rope swing in the backyard,creating a diy rope swing in the backyard,rope,rope,0.89593
+121,122,creative,2 Using it as a clothesline to dry laundry,using it as a clothesline to dry laundry,rope,rope,0.88392
+122,123,creative,3 Tying up a hammock for a relaxing outdoor nap,tying up a hammock for a relaxing outdoor nap,rope,rope,1.10573
+123,124,creative,4 Making a rope ladder for a fun backyard obstacle course,making a rope ladder for a fun backyard obstacle course,rope,rope,1.10459
+124,125,creative,5 Crafting a macramé plant hanger to display indoor greenery,crafting a macramé plant hanger to display indoor greenery,rope,rope,1.10609
+125,126,creative,6 Creating a makeshift jump rope for a workout,creating a makeshift jump rope for a workout,rope,rope,1.10499
+126,127,creative,7 Tying up a makeshift tent in the woods for camping,tying up a makeshift tent in the woods for camping,rope,rope,1.10512
+127,128,creative,8 Making a rope pulley system to transport items up and down a treehouse,making a rope pulley system to transport items up and down a treehouse,rope,rope,0.89453
+128,129,creative,9 Using a long rope as a fun and challenging game of tugofwar,using a long rope as a fun and challenging game of tugofwar,rope,rope,0.89414
+129,130,creative,10 Making a rope handle for a homemade wooden crate for easy carrying,making a rope handle for a homemade wooden crate for easy carrying,rope,rope,0.89446
+130,131,creative,1 Create a rope swing in your backyard or a nearby park,create a rope swing in your backyard or a nearby park,rope,rope,0.89485
+131,132,creative,2 Use a rope to make a DIY hammock,use a rope to make a diy hammock,rope,rope,1.08497
+132,133,creative,3 Create a rope ladder to access a treehouse or attic space,create a rope ladder to access a treehouse or attic space,rope,rope,1.0803
+133,134,creative,4 Use a rope to hang a piece of artwork or a plant from the ceiling,use a rope to hang a piece of artwork or a plant from the ceiling,rope,rope,0.89435
+134,135,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.89401
+135,136,creative,6 Use a rope to create a room divider or privacy screen,use a rope to create a room divider or privacy screen,rope,rope,1.10599
+136,137,creative,7 Make a rope leash for your pet,make a rope leash for your pet,rope,rope,0.87583
+137,138,creative,8 Use a rope to create a DIY clothesline for drying laundry,use a rope to create a diy clothesline for drying laundry,rope,rope,0.89659
+138,139,creative,9 Create a rope bridge for a fun backyard or playground activity,create a rope bridge for a fun backyard or playground activity,rope,rope,0.8947
+139,140,creative,10 Use a rope to create a DIY rope light fixture for your home,use a rope to create a diy rope light fixture for your home,rope,rope,1.10543
+140,141,creative,1 As a makeshift clothesline for drying clothes,as a makeshift clothesline for drying clothes,rope,rope,1.10422
+141,142,creative,2 To create a DIY swing for children,to create a diy swing for children,rope,rope,1.1042
+142,143,creative,3 To make a rope ladder for accessing an elevated area,to make a rope ladder for accessing an elevated area,rope,rope,1.10282
+143,144,creative,4 As a decorative element for wrapping around a tree trunk or fence post,as a decorative element for wrapping around a tree trunk or fence post,rope,rope,0.8888
+144,145,creative,5 As a prop in a theatrical performance or dance routine,as a prop in a theatrical performance or dance routine,rope,rope,0.8918699999999999
+145,146,creative,6 To hang a hammock for relaxing outdoors,to hang a hammock for relaxing outdoors,rope,rope,1.10752
+146,147,creative,7 To create a DIY rope curtain for a rustic or bohemian décor,to create a diy rope curtain for a rustic or bohemian décor,rope,rope,0.89555
+147,148,creative,8 To make a rope bridge for traversing over a small stream or ravine,to make a rope bridge for traversing over a small stream or ravine,rope,rope,0.89485
+148,149,creative,9 As a prop in a teambuilding activity such as a tugofwar or obstacle course,as a prop in a teambuilding activity such as a tugofwar or obstacle course,rope,rope,1.00033
+149,150,creative,10 To create a DIY hanging planter by tying knots to hold a pot in place,to create a diy hanging planter by tying knots to hold a pot in place,rope,rope,1.10471
+150,151,creative,1 Use a rope to create a makeshift clothesline for drying clothes,use a rope to create a makeshift clothesline for drying clothes,rope,rope,1.10457
+151,152,creative,2 Create a rope swing to entertain children or adults,create a rope swing to entertain children or adults,rope,rope,0.89486
+152,153,creative,3 Use a rope to create a fun obstacle course for a backyard or playground,use a rope to create a fun obstacle course for a backyard or playground,rope,rope,1.1052
+153,154,creative,4 Create a rope ladder for a treehouse or play structure,create a rope ladder for a treehouse or play structure,rope,rope,0.91779
+154,155,creative,5 Use a rope to create a pet leash or harness,use a rope to create a pet leash or harness,rope,rope,1.11478
+155,156,creative,6 Create a decorative wall hanging by wrapping and knotting colorful ropes,create a decorative wall hanging by wrapping and knotting colorful ropes,rope,rope,1.10561
+156,157,creative,7 Use a rope to secure and transport large items such as furniture or appliances,use a rope to secure and transport large items such as furniture or appliances,rope,rope,1.11543
+157,158,creative,8 Create a rope hammock for outdoor relaxation,create a rope hammock for outdoor relaxation,rope,rope,1.11745
+158,159,creative,9 Use a rope to create a DIY rope rug or doormat,use a rope to create a diy rope rug or doormat,rope,rope,0.89792
+159,160,creative,10 Create a rope maze or puzzle for a fun and challenging game,create a rope maze or puzzle for a fun and challenging game,rope,rope,1.1054
+160,161,creative,1 Use it as a makeshift clothesline for drying clothes or towels,use it as a makeshift clothesline for drying clothes or towels,rope,rope,1.10681
+161,162,creative,2 Create a swing for kids in your backyard or at the park,create a swing for kids in your backyard or at the park,rope,rope,1.10509
+162,163,creative,3 Use it as a prop for a theater performance or circus act,use it as a prop for a theater performance or circus act,rope,rope,0.89015
+163,164,creative,4 Tie it to a sled or inner tube for a fun DIY snow activity,tie it to a sled or inner tube for a fun diy snow activity,rope,rope,0.89401
+164,165,creative,5 Use it to create a rustic bohemianstyle room divider in your home,use it to create a rustic bohemianstyle room divider in your home,rope,rope,1.1038000000000001
+165,166,creative,6 Create a DIY hammock for lounging in the backyard or at the beach,create a diy hammock for lounging in the backyard or at the beach,rope,rope,0.89478
+166,167,creative,7 Use it to create a pulley system for getting heavy items up to high places,use it to create a pulley system for getting heavy items up to high places,rope,rope,1.10654
+167,168,creative,8 Use it to create a rope ladder for kids to climb in the backyard,use it to create a rope ladder for kids to climb in the backyard,rope,rope,1.10518
+168,169,creative,9 Use it as a leash for a large or strong dog,use it as a leash for a large or strong dog,rope,rope,0.87927
+169,170,creative,10 Create a DIY obstacle course for a backyard party or family event,create a diy obstacle course for a backyard party or family event,rope,rope,0.89468
+170,171,creative,1 Rope swing for a tree,rope swing for a tree,rope,rope,0.87836
+171,172,creative,2 DIY hammock,diy hammock,rope,rope,0.8897
+172,173,creative,3 Clothesline for drying clothes,clothesline for drying clothes,rope,rope,0.83278
+173,174,creative,4 Create a rope ladder for a treehouse or loft,create a rope ladder for a treehouse or loft,rope,rope,1.11752
+174,175,creative,5 Use as a leash for a pet,use as a leash for a pet,rope,rope,0.87875
+175,176,creative,6 Make a decorative rope wall hanging,make a decorative rope wall hanging,rope,rope,1.10842
+176,177,creative,7 Create a rope obstacle course for kids,create a rope obstacle course for kids,rope,rope,0.88935
+177,178,creative,8 Use as a tow rope for a car or boat,use as a tow rope for a car or boat,rope,rope,1.10588
+178,179,creative,9 Tie up a makeshift shelter in the wilderness,tie up a makeshift shelter in the wilderness,rope,rope,1.10513
+179,180,creative,10 Create a rope pulley system for lifting heavy objects,create a rope pulley system for lifting heavy objects,rope,rope,1.11031
+180,181,creative,1 Create a rope swing in your backyard,create a rope swing in your backyard,rope,rope,0.89437
+181,182,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.07835
+182,183,creative,3 Tie knots in a rope to create a unique piece of wall art,tie knots in a rope to create a unique piece of wall art,rope,rope,1.10213
+183,184,creative,4 Use a rope to create a pulley system for lifting heavy objects,use a rope to create a pulley system for lifting heavy objects,rope,rope,0.89255
+184,185,creative,5 Create a rope ladder for a treehouse or fort,create a rope ladder for a treehouse or fort,rope,rope,1.10676
+185,186,creative,6 Use a rope to create a DIY clothesline,use a rope to create a diy clothesline,rope,rope,1.10293
+186,187,creative,7 Tie a rope to a tire and create a fun tire swing,tie a rope to a tire and create a fun tire swing,rope,rope,1.10601
+187,188,creative,8 Use a rope to create a DIY dog leash or collar,use a rope to create a diy dog leash or collar,rope,rope,1.09511
+188,189,creative,9 Create a rope obstacle course for children or adults,create a rope obstacle course for children or adults,rope,rope,0.89371
+189,190,creative,10 Use a rope to create a unique macramé plant hanger,use a rope to create a unique macramé plant hanger,rope,rope,1.10581
+190,191,creative,1 Create a rope swing for a tree or porch,create a rope swing for a tree or porch,rope,rope,0.89496
+191,192,creative,2 Use the rope as a clothesline to hang laundry,use the rope as a clothesline to hang laundry,rope,rope,1.10706
+192,193,creative,3 Make a rope ladder for a treehouse or attic,make a rope ladder for a treehouse or attic,rope,rope,1.08007
+193,194,creative,4 Use the rope to create a DIY hammock,use the rope to create a diy hammock,rope,rope,1.07664
+194,195,creative,5 Use the rope to create a zip line in your backyard,use the rope to create a zip line in your backyard,rope,rope,0.89628
+195,196,creative,6 Tie the rope into a knot and use it as a doorstop,tie the rope into a knot and use it as a doorstop,rope,rope,1.1052
+196,197,creative,7 Use the rope to create a DIY cat scratcher,use the rope to create a diy cat scratcher,rope,rope,0.89897
+197,198,creative,8 Use the rope to create a makeshift dog leash in an emergency,use the rope to create a makeshift dog leash in an emergency,rope,rope,1.10446
+198,199,creative,9 Create a rope curtain or room divider,create a rope curtain or room divider,rope,rope,1.10867
+199,200,creative,10 Use the rope to create a DIY jump rope for exercise,use the rope to create a diy jump rope for exercise,rope,rope,1.10401
+200,201,creative,1 Create a rope swing in your backyard for a fun way to relax and enjoy the outdoors,create a rope swing in your backyard for a fun way to relax and enjoy the outdoors,rope,rope,0.89486
+201,202,creative,2 Use a rope to create a DIY hammock for a comfortable way to nap or read a book,use a rope to create a diy hammock for a comfortable way to nap or read a book,rope,rope,1.10652
+202,203,creative,3 Tie a rope around a tree trunk and use it as a natural obstacle course for a fun workout,tie a rope around a tree trunk and use it as a natural obstacle course for a fun workout,rope,rope,0.89423
+203,204,creative,4 Use a rope to create a makeshift clothesline for drying clothes outside,use a rope to create a makeshift clothesline for drying clothes outside,rope,rope,0.8950899999999999
+204,205,creative,5 Tie a rope to a large bucket and use it to transport heavy items like firewood or rocks,tie a rope to a large bucket and use it to transport heavy items like firewood or rocks,rope,rope,1.10513
+205,206,creative,6 Use a rope to create a DIY climbing wall in your backyard,use a rope to create a diy climbing wall in your backyard,rope,rope,0.8944
+206,207,creative,7 Create a rope ladder leading up to a treehouse or elevated platform,create a rope ladder leading up to a treehouse or elevated platform,rope,rope,0.96396
+207,208,creative,8 Tie a rope around a tree trunk and use it to train your pet to jump over or crawl under,tie a rope around a tree trunk and use it to train your pet to jump over or crawl under,rope,rope,1.10632
+208,209,creative,9 Use a rope to create a DIY tugofwar game for a fun group activity,use a rope to create a diy tugofwar game for a fun group activity,rope,rope,1.10481
+209,210,creative,10 Create a rope maze in your backyard for a fun and challenging game,create a rope maze in your backyard for a fun and challenging game,rope,rope,0.8949
+210,211,creative,1 Create a rope swing in your backyard,create a rope swing in your backyard,rope,rope,0.89437
+211,212,creative,2 Use the rope to make a DIY hammock,use the rope to make a diy hammock,rope,rope,1.08373
+212,213,creative,3 Tie a rope around a tree to create a natural bird feeder,tie a rope around a tree to create a natural bird feeder,rope,rope,0.89564
+213,214,creative,4 Make a rope ladder for a treehouse or play structure,make a rope ladder for a treehouse or play structure,rope,rope,0.9137500000000001
+214,215,creative,5 Use the rope to create a DIY clothesline for drying clothes,use the rope to create a diy clothesline for drying clothes,rope,rope,0.89884
+215,216,creative,6 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.89401
+216,217,creative,7 Use the rope to make a DIY dog leash or tieout,use the rope to make a diy dog leash or tieout,rope,rope,0.9028
+217,218,creative,8 Make a rope net for a sports game like volleyball or badminton,make a rope net for a sports game like volleyball or badminton,rope,rope,1.10457
+218,219,creative,9 Use the rope to create a DIY plant hanger,use the rope to create a diy plant hanger,rope,rope,0.89513
+219,220,creative,10 Create a rope pulley system to transport heavy items,create a rope pulley system to transport heavy items,rope,rope,1.11486
+220,221,creative,1 Use it as a makeshift clothesline to dry clothes,use it as a makeshift clothesline to dry clothes,rope,rope,1.10318
+221,222,creative,2 Tie it around a tree branch to create a swing,tie it around a tree branch to create a swing,rope,rope,1.10649
+222,223,creative,3 Use it as a jump rope for exercise,use it as a jump rope for exercise,rope,rope,1.11134
+223,224,creative,4 Create a DIY rope ladder for a treehouse or fort,create a diy rope ladder for a treehouse or fort,rope,rope,1.1028
+224,225,creative,5 Use it to create a rope course for team building activities,use it to create a rope course for team building activities,rope,rope,0.89185
+225,226,creative,6 Use it to tie down outdoor furniture during a storm,use it to tie down outdoor furniture during a storm,rope,rope,1.10632
+226,227,creative,7 Use it as a prop for theatrical performances or photo shoots,use it as a prop for theatrical performances or photo shoots,rope,rope,1.12247
+227,228,creative,8 Create a rope hammock for relaxing outdoors,create a rope hammock for relaxing outdoors,rope,rope,1.10779
+228,229,creative,9 Use it to create a makeshift leash for a pet in an emergency,use it to create a makeshift leash for a pet in an emergency,rope,rope,0.8958200000000001
+229,230,creative,10 Use it as a decorative element for a rustic or nauticalthemed wedding or event,use it as a decorative element for a rustic or nauticalthemed wedding or event,rope,rope,0.89494
+230,231,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,1.1051
+231,232,creative,2 Use a rope to make a DIY hammock for relaxing outdoors,use a rope to make a diy hammock for relaxing outdoors,rope,rope,0.89506
+232,233,creative,3 Create a rope ladder for a treehouse or loft space,create a rope ladder for a treehouse or loft space,rope,rope,0.8844
+233,234,creative,4 Use a rope to create a unique and rustic room divider,use a rope to create a unique and rustic room divider,rope,rope,1.10356
+234,235,creative,5 Make a rope leash for your pet with colorful and durable rope,make a rope leash for your pet with colorful and durable rope,rope,rope,1.11714
+235,236,creative,6 Use a rope to create a fun and challenging obstacle course for kids or adults,use a rope to create a fun and challenging obstacle course for kids or adults,rope,rope,0.89471
+236,237,creative,7 Make a rope handle for a heavy or awkward item like a large plant or piece of furniture,make a rope handle for a heavy or awkward item like a large plant or piece of furniture,rope,rope,1.10647
+237,238,creative,8 Use a rope to create a DIY clothesline for hanging laundry,use a rope to create a diy clothesline for hanging laundry,rope,rope,0.89518
+238,239,creative,9 Make a rope curtain tieback for a bohemian or coastalinspired home decor look,make a rope curtain tieback for a bohemian or coastalinspired home decor look,rope,rope,1.1159
+239,240,creative,10 Use a rope to create a DIY climbing wall or handhold for indoor or outdoor exercise,use a rope to create a diy climbing wall or handhold for indoor or outdoor exercise,rope,rope,1.10513
+240,241,creative,1 Create a DIY rope swing in your backyard for kids or adults to enjoy,create a diy rope swing in your backyard for kids or adults to enjoy,rope,rope,0.89485
+241,242,creative,2 Use a rope to create a unique and rustic room divider,use a rope to create a unique and rustic room divider,rope,rope,1.10356
+242,243,creative,3 Make a rope ladder to access a treehouse or loft,make a rope ladder to access a treehouse or loft,rope,rope,0.88456
+243,244,creative,4 Create a hammock using a long sturdy rope,create a hammock using a long sturdy rope,rope,rope,0.97164
+244,245,creative,5 Use a rope to create a DIY headboard for your bed,use a rope to create a diy headboard for your bed,rope,rope,0.89494
+245,246,creative,6 Hang a decorative rope shelf to display plants or other items,hang a decorative rope shelf to display plants or other items,rope,rope,0.89359
+246,247,creative,7 Make a rope light fixture by wrapping rope around a wire frame and adding a light bulb,make a rope light fixture by wrapping rope around a wire frame and adding a light bulb,rope,rope,1.10893
+247,248,creative,8 Use a rope to create a unique and functional handrail for stairs,use a rope to create a unique and functional handrail for stairs,rope,rope,0.89437
+248,249,creative,9 Create a rope curtain to add a bohemian touch to your home decor,create a rope curtain to add a bohemian touch to your home decor,rope,rope,1.11558
+249,250,creative,10 Use rope to create a DIY outdoor clothesline for ecofriendly laundry drying,use rope to create a diy outdoor clothesline for ecofriendly laundry drying,rope,rope,0.89514

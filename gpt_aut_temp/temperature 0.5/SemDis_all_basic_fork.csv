@@ -1,0 +1,251 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_GloVe_c_m
+0,1,creative,1 Use a fork as a makeshift hairpin to hold up a bun or updo,use a fork as a makeshift hairpin to hold up a bun or updo,fork,fork,0.94114
+1,2,creative,2 Use a fork to create perfectly spaced holes in soil for planting seeds,use a fork to create perfectly spaced holes in soil for planting seeds,fork,fork,0.94106
+2,3,creative,3 Use a fork to create texture in clay or other modeling materials,use a fork to create texture in clay or other modeling materials,fork,fork,0.94125
+3,4,creative,4 Use a fork as a mini easel to display small pieces of art or photos,use a fork as a mini easel to display small pieces of art or photos,fork,fork,1.05887
+4,5,creative,5 Use a fork to create decorative patterns in frosting on cakes or cupcakes,use a fork to create decorative patterns in frosting on cakes or cupcakes,fork,fork,0.94111
+5,6,creative,6 Use a fork to scratch lottery tickets or other scratchoff games,use a fork to scratch lottery tickets or other scratchoff games,fork,fork,1.05888
+6,7,creative,7 Use a fork to create a unique and textured border for a scrapbook page,use a fork to create a unique and textured border for a scrapbook page,fork,fork,1.05883
+7,8,creative,8 Use a fork to create a homemade musical instrument like a thumb piano,use a fork to create a homemade musical instrument like a thumb piano,fork,fork,0.94115
+8,9,creative,9 Use a fork to create a makeshift backscratcher,use a fork to create a makeshift backscratcher,fork,fork,0.94104
+9,10,creative,10 Use a fork to create a unique and textured design on a candle or soap,use a fork to create a unique and textured design on a candle or soap,fork,fork,1.0589
+10,11,creative,1 Use it as a hair accessory by bending the prongs to hold a bun or ponytail in place,use it as a hair accessory by bending the prongs to hold a bun or ponytail in place,fork,fork,0.94114
+11,12,creative,2 Create a unique piece of jewelry by wrapping the handle in wire and adding beads or charms,create a unique piece of jewelry by wrapping the handle in wire and adding beads or charms,fork,fork,1.0592
+12,13,creative,3 Use it as a gardening tool to aerate soil or remove small weeds,use it as a gardening tool to aerate soil or remove small weeds,fork,fork,1.05877
+13,14,creative,4 Use it as a makeshift lock pick in an emergency situation,use it as a makeshift lock pick in an emergency situation,fork,fork,0.94116
+14,15,creative,5 Create a fork sculpture by bending and shaping the prongs into a desired shape,create a fork sculpture by bending and shaping the prongs into a desired shape,fork,fork,0.94089
+15,16,creative,6 Use it to create textured patterns in clay or other soft materials,use it to create textured patterns in clay or other soft materials,fork,fork,0.94128
+16,17,creative,7 Use it as a musical instrument by tapping on different surfaces or plucking the prongs,use it as a musical instrument by tapping on different surfaces or plucking the prongs,fork,fork,1.03101
+17,18,creative,8 Use it to create a DIY wind chime by hanging multiple forks from a string or wire,use it to create a diy wind chime by hanging multiple forks from a string or wire,fork,fork,1.05866
+18,19,creative,9 Use it as a tool to help with knitting or crocheting by using the prongs to pick up dropped stitches,use it as a tool to help with knitting or crocheting by using the prongs to pick up dropped stitches,fork,fork,0.94114
+19,20,creative,10 Use it as a unique way to serve appetizers or desserts by skewering individual portions onto the prongs,use it as a unique way to serve appetizers or desserts by skewering individual portions onto the prongs,fork,fork,1.05914
+20,21,creative,1 As a mini rake for a small garden or potted plant,as a mini rake for a small garden or potted plant,fork,fork,1.05647
+21,22,creative,2 To create a textured pattern in clay or playdough,to create a textured pattern in clay or playdough,fork,fork,0.94146
+22,23,creative,3 As a makeshift hair pick or comb,as a makeshift hair pick or comb,fork,fork,0.94051
+23,24,creative,4 To hold a candle wick in place while pouring wax,to hold a candle wick in place while pouring wax,fork,fork,0.9412
+24,25,creative,5 As a tool to separate tangled jewelry chains,as a tool to separate tangled jewelry chains,fork,fork,1.0363
+25,26,creative,6 To make decorative patterns in frosting on a cake,to make decorative patterns in frosting on a cake,fork,fork,1.05871
+26,27,creative,7 As a tool to create a marbled effect in nail polish,as a tool to create a marbled effect in nail polish,fork,fork,1.05933
+27,28,creative,8 To create a unique pattern on a painted wall or furniture,to create a unique pattern on a painted wall or furniture,fork,fork,0.94205
+28,29,creative,9 As a tool to clean small crevices or hardtoreach areas,as a tool to clean small crevices or hardtoreach areas,fork,fork,1.05881
+29,30,creative,10 To hold a small piece of paper or fabric in place while sewing or crafting,to hold a small piece of paper or fabric in place while sewing or crafting,fork,fork,0.94288
+30,31,creative,1 Use a fork to create unique patterns in clay or playdough,use a fork to create unique patterns in clay or playdough,fork,fork,1.05893
+31,32,creative,2 Use a fork to create a decorative border on a pie crust,use a fork to create a decorative border on a pie crust,fork,fork,0.94111
+32,33,creative,3 Use a fork to create a DIY hair accessory by bending the prongs and adding beads or jewels,use a fork to create a diy hair accessory by bending the prongs and adding beads or jewels,fork,fork,1.05885
+33,34,creative,4 Use a fork to create a mini garden by sticking the prongs into soil and adding small plants or herbs,use a fork to create a mini garden by sticking the prongs into soil and adding small plants or herbs,fork,fork,0.94114
+34,35,creative,5 Use a fork to create a unique piece of jewelry by bending the prongs and adding a chain or ribbon,use a fork to create a unique piece of jewelry by bending the prongs and adding a chain or ribbon,fork,fork,0.94114
+35,36,creative,6 Use a fork to create a DIY stamp by dipping the prongs in paint and pressing onto paper or fabric,use a fork to create a diy stamp by dipping the prongs in paint and pressing onto paper or fabric,fork,fork,1.05884
+36,37,creative,7 Use a fork to create a makeshift guitar by strumming the prongs over a cardboard box,use a fork to create a makeshift guitar by strumming the prongs over a cardboard box,fork,fork,1.05886
+37,38,creative,8 Use a fork to create a DIY wind chime by hanging multiple forks from a string or wire and letting them clang together in the wind,use a fork to create a diy wind chime by hanging multiple forks from a string or wire and letting them clang together in the wind,fork,fork,1.05884
+38,39,creative,9 Use a fork to create a DIY bird feeder by sticking the prongs into a piece of fruit and hanging it outside,use a fork to create a diy bird feeder by sticking the prongs into a piece of fruit and hanging it outside,fork,fork,0.94114
+39,40,creative,10 Use a fork to create a DIY picture frame by bending the prongs to hold a photo in place,use a fork to create a diy picture frame by bending the prongs to hold a photo in place,fork,fork,0.94115
+40,41,creative,1 Use a fork as a makeshift hair accessory by twisting it into a bun or updo,use a fork as a makeshift hair accessory by twisting it into a bun or updo,fork,fork,1.05877
+41,42,creative,2 Create a unique piece of jewelry by bending the tines of a fork into a bracelet or necklace,create a unique piece of jewelry by bending the tines of a fork into a bracelet or necklace,fork,fork,0.9406
+42,43,creative,3 Use a fork to create textured patterns in clay or other sculpting materials,use a fork to create textured patterns in clay or other sculpting materials,fork,fork,0.94114
+43,44,creative,4 Use a fork to create a decorative pattern on a cake or other baked goods,use a fork to create a decorative pattern on a cake or other baked goods,fork,fork,0.94111
+44,45,creative,5 Use a fork to scratch designs into wood or leather,use a fork to scratch designs into wood or leather,fork,fork,1.05934
+45,46,creative,6 Use a fork to create a makeshift guitar pick,use a fork to create a makeshift guitar pick,fork,fork,0.94114
+46,47,creative,7 Use a fork to hold a book open while reading,use a fork to hold a book open while reading,fork,fork,1.05903
+47,48,creative,8 Use a fork to create a makeshift plant trellis by sticking it into the soil and wrapping vines around it,use a fork to create a makeshift plant trellis by sticking it into the soil and wrapping vines around it,fork,fork,0.94115
+48,49,creative,9 Use a fork to create a makeshift drumstick,use a fork to create a makeshift drumstick,fork,fork,0.94125
+49,50,creative,10 Use a fork to create a unique piece of wall art by arranging forks in a pattern and mounting them on a board,use a fork to create a unique piece of wall art by arranging forks in a pattern and mounting them on a board,fork,fork,0.94117
+50,51,creative,1 Use a fork to create textured patterns in clay or playdough,use a fork to create textured patterns in clay or playdough,fork,fork,0.9412
+51,52,creative,2 Use a fork to create a makeshift hair comb or hairbrush,use a fork to create a makeshift hair comb or hairbrush,fork,fork,1.05872
+52,53,creative,3 Use a fork to hold a small plant stem in place while repotting,use a fork to hold a small plant stem in place while repotting,fork,fork,1.05899
+53,54,creative,4 Use a fork to scratch off lottery tickets or scratchoff games,use a fork to scratch off lottery tickets or scratchoff games,fork,fork,1.05891
+54,55,creative,5 Use a fork to create a unique design on a cake or pie crust,use a fork to create a unique design on a cake or pie crust,fork,fork,0.9413
+55,56,creative,6 Use a fork to create a DIY jewelry holder by bending the prongs to hold earrings or necklaces,use a fork to create a diy jewelry holder by bending the prongs to hold earrings or necklaces,fork,fork,1.05884
+56,57,creative,7 Use a fork to create a miniature trellis for small plants or herbs,use a fork to create a miniature trellis for small plants or herbs,fork,fork,1.05886
+57,58,creative,8 Use a fork to create a unique texture on painted walls or furniture,use a fork to create a unique texture on painted walls or furniture,fork,fork,1.05843
+58,59,creative,9 Use a fork to create a makeshift guitar pick,use a fork to create a makeshift guitar pick,fork,fork,0.94114
+59,60,creative,10 Use a fork to create a unique texture on homemade soap bars,use a fork to create a unique texture on homemade soap bars,fork,fork,0.94118
+60,61,creative,1 Use a fork to create a unique pattern in clay or playdough,use a fork to create a unique pattern in clay or playdough,fork,fork,0.94109
+61,62,creative,2 Use a fork to create a makeshift hairbrush or comb,use a fork to create a makeshift hairbrush or comb,fork,fork,0.9412
+62,63,creative,3 Use a fork to carve designs into a pumpkin or watermelon,use a fork to carve designs into a pumpkin or watermelon,fork,fork,0.95763
+63,64,creative,4 Use a fork to create a textured pattern on a cake or dessert,use a fork to create a textured pattern on a cake or dessert,fork,fork,1.05882
+64,65,creative,5 Use a fork to create a DIY jewelry holder by bending the prongs upward,use a fork to create a diy jewelry holder by bending the prongs upward,fork,fork,1.05885
+65,66,creative,6 Use a fork to hold a nail in place while hammering,use a fork to hold a nail in place while hammering,fork,fork,1.05835
+66,67,creative,7 Use a fork to create a unique stamp for art projects,use a fork to create a unique stamp for art projects,fork,fork,0.9410499999999999
+67,68,creative,8 Use a fork to create a makeshift guitar pick,use a fork to create a makeshift guitar pick,fork,fork,0.94114
+68,69,creative,9 Use a fork to create a unique design on a piece of leather,use a fork to create a unique design on a piece of leather,fork,fork,0.94089
+69,70,creative,10 Use a fork to hold a hot dog or marshmallow over a campfire,use a fork to hold a hot dog or marshmallow over a campfire,fork,fork,1.05804
+70,71,creative,1 Use a fork to create a unique pattern in your mashed potatoes or other soft foods,use a fork to create a unique pattern in your mashed potatoes or other soft foods,fork,fork,0.9410499999999999
+71,72,creative,2 Create a miniature garden by using a fork to make holes in soil for planting seeds,create a miniature garden by using a fork to make holes in soil for planting seeds,fork,fork,1.05886
+72,73,creative,3 Use a fork to create a makeshift hair comb or brush in a pinch,use a fork to create a makeshift hair comb or brush in a pinch,fork,fork,1.05877
+73,74,creative,4 Use a fork to create a DIY stamp for art projects by dipping the prongs in paint and pressing onto paper,use a fork to create a diy stamp for art projects by dipping the prongs in paint and pressing onto paper,fork,fork,0.94114
+74,75,creative,5 Use a fork to create a unique texture in clay or other sculpting materials,use a fork to create a unique texture in clay or other sculpting materials,fork,fork,1.05883
+75,76,creative,6 Use a fork to create a DIY musical instrument by attaching it to a wooden block or box and plucking the prongs like a guitar,use a fork to create a diy musical instrument by attaching it to a wooden block or box and plucking the prongs like a guitar,fork,fork,0.94114
+76,77,creative,7 Use a fork to create a makeshift lock pick in an emergency situation,use a fork to create a makeshift lock pick in an emergency situation,fork,fork,0.94115
+77,78,creative,8 Use a fork to create a unique texture in frosting for cakes or cupcakes,use a fork to create a unique texture in frosting for cakes or cupcakes,fork,fork,0.94117
+78,79,creative,9 Use a fork to create a DIY bird feeder by threading string through the prongs and hanging it outside,use a fork to create a diy bird feeder by threading string through the prongs and hanging it outside,fork,fork,0.94114
+79,80,creative,10 Use a fork to create a unique pattern in your pie crust before baking,use a fork to create a unique pattern in your pie crust before baking,fork,fork,0.94108
+80,81,creative,1 Use a fork as a mini gardening tool to loosen soil around delicate plants,use a fork as a mini gardening tool to loosen soil around delicate plants,fork,fork,1.05921
+81,82,creative,2 Use a fork to create a textured pattern in clay or other malleable materials,use a fork to create a textured pattern in clay or other malleable materials,fork,fork,1.05886
+82,83,creative,3 Use a fork to create a unique design on a cake or other dessert,use a fork to create a unique design on a cake or other dessert,fork,fork,1.05886
+83,84,creative,4 Use a fork to create a makeshift hair accessory by bending the prongs and attaching it to a hair tie or clip,use a fork to create a makeshift hair accessory by bending the prongs and attaching it to a hair tie or clip,fork,fork,0.94114
+84,85,creative,5 Use a fork as a tool to help thread a needle,use a fork as a tool to help thread a needle,fork,fork,0.94053
+85,86,creative,6 Use a fork to create a unique piece of jewelry by bending the prongs and attaching beads or other small objects,use a fork to create a unique piece of jewelry by bending the prongs and attaching beads or other small objects,fork,fork,1.05886
+86,87,creative,7 Use a fork to create a makeshift drumstick and play a rhythm on a table or other surface,use a fork to create a makeshift drumstick and play a rhythm on a table or other surface,fork,fork,0.94115
+87,88,creative,8 Use a fork to create a unique print on paper or fabric by dipping the prongs in paint or ink and pressing it onto the surface,use a fork to create a unique print on paper or fabric by dipping the prongs in paint or ink and pressing it onto the surface,fork,fork,0.9409
+88,89,creative,9 Use a fork to create a unique texture on a piece of furniture or other wooden object by scraping it along the surface,use a fork to create a unique texture on a piece of furniture or other wooden object by scraping it along the surface,fork,fork,1.05856
+89,90,creative,10 Use a fork to create a unique piece of art by arranging and gluing together multiple forks in a pattern or design,use a fork to create a unique piece of art by arranging and gluing together multiple forks in a pattern or design,fork,fork,0.94115
+90,91,creative,1 Use a fork to create a decorative pattern in the frosting on a cake or cupcakes,use a fork to create a decorative pattern in the frosting on a cake or cupcakes,fork,fork,1.05888
+91,92,creative,2 Turn a fork upside down and use the tines to hold a hot dog or sausage while grilling,turn a fork upside down and use the tines to hold a hot dog or sausage while grilling,fork,fork,0.94116
+92,93,creative,3 Use a fork to scratch off a lottery ticket or scratchoff game,use a fork to scratch off a lottery ticket or scratchoff game,fork,fork,0.94113
+93,94,creative,4 Bend the tines of a fork to create a unique piece of jewelry such as a pendant or earrings,bend the tines of a fork to create a unique piece of jewelry such as a pendant or earrings,fork,fork,0.94115
+94,95,creative,5 Use a fork to create a makeshift hair accessory by twisting it into a bun or ponytail holder,use a fork to create a makeshift hair accessory by twisting it into a bun or ponytail holder,fork,fork,1.05885
+95,96,creative,6 Use a fork to stir paint or mix small amounts of ingredients together,use a fork to stir paint or mix small amounts of ingredients together,fork,fork,0.94107
+96,97,creative,7 Use a fork to create a textured pattern in clay or playdough,use a fork to create a textured pattern in clay or playdough,fork,fork,1.05883
+97,98,creative,8 Use a fork to carve intricate designs into a pumpkin for Halloween,use a fork to carve intricate designs into a pumpkin for halloween,fork,fork,1.05485
+98,99,creative,9 Use a fork to create a makeshift back scratcher,use a fork to create a makeshift back scratcher,fork,fork,1.05887
+99,100,creative,10 Use a fork to hold a small plant or herb in place while repotting,use a fork to hold a small plant or herb in place while repotting,fork,fork,0.94151
+100,101,creative,1 Use the tines of the fork to create a textured pattern in clay or playdough,use the tines of the fork to create a textured pattern in clay or playdough,fork,fork,1.05885
+101,102,creative,2 Use the handle of the fork to create a unique design in frosting on a cake or cupcakes,use the handle of the fork to create a unique design in frosting on a cake or cupcakes,fork,fork,1.05888
+102,103,creative,3 Use the fork as a makeshift hair pick to create volume and texture in your hair,use the fork as a makeshift hair pick to create volume and texture in your hair,fork,fork,0.94112
+103,104,creative,4 Use the tines of the fork to create a decorative border on a pie crust,use the tines of the fork to create a decorative border on a pie crust,fork,fork,0.94113
+104,105,creative,5 Use the fork to create a unique pattern on a piece of paper by dipping the tines in paint and stamping onto the paper,use the fork to create a unique pattern on a piece of paper by dipping the tines in paint and stamping onto the paper,fork,fork,0.94096
+105,106,creative,6 Use the handle of the fork as a tiny rolling pin to flatten out small pieces of dough,use the handle of the fork as a tiny rolling pin to flatten out small pieces of dough,fork,fork,1.05875
+106,107,creative,7 Use the fork to create a makeshift lock pick in case of an emergency,use the fork to create a makeshift lock pick in case of an emergency,fork,fork,1.05886
+107,108,creative,8 Use the tines of the fork to create a unique texture on a piece of leather or fabric,use the tines of the fork to create a unique texture on a piece of leather or fabric,fork,fork,1.05535
+108,109,creative,9 Use the fork to create a small garden rake for indoor plants,use the fork to create a small garden rake for indoor plants,fork,fork,0.94114
+109,110,creative,10 Use the handle of the fork to create a unique texture on a piece of clay pottery,use the handle of the fork to create a unique texture on a piece of clay pottery,fork,fork,1.05884
+110,111,creative,1 Use a fork as a makeshift hair pick or comb,use a fork as a makeshift hair pick or comb,fork,fork,1.05891
+111,112,creative,2 Use a fork to create a decorative pattern in the frosting on a cake,use a fork to create a decorative pattern in the frosting on a cake,fork,fork,0.94114
+112,113,creative,3 Use a fork to create texture in clay or other sculpting materials,use a fork to create texture in clay or other sculpting materials,fork,fork,1.0588899999999999
+113,114,creative,4 Use a fork to help plant small seeds in a garden,use a fork to help plant small seeds in a garden,fork,fork,0.94114
+114,115,creative,5 Use a fork to hold open a book when reading,use a fork to hold open a book when reading,fork,fork,1.05905
+115,116,creative,6 Use a fork to create a unique texture in a painting,use a fork to create a unique texture in a painting,fork,fork,1.05837
+116,117,creative,7 Use a fork to make small holes in a pie crust before baking,use a fork to make small holes in a pie crust before baking,fork,fork,1.05878
+117,118,creative,8 Use a fork to create a makeshift lock pick in an emergency,use a fork to create a makeshift lock pick in an emergency,fork,fork,1.05886
+118,119,creative,9 Use a fork to create a unique pattern in a pie lattice crust,use a fork to create a unique pattern in a pie lattice crust,fork,fork,0.9412
+119,120,creative,10 Use a fork to help untangle knots in string or yarn,use a fork to help untangle knots in string or yarn,fork,fork,1.05919
+120,121,creative,1 Use a fork as a mini rake to tend to small plants or herbs in a garden,use a fork as a mini rake to tend to small plants or herbs in a garden,fork,fork,1.05886
+121,122,creative,2 Use a fork to create textured designs in clay or other sculpting materials,use a fork to create textured designs in clay or other sculpting materials,fork,fork,0.94115
+122,123,creative,3 Use a fork as a hair accessory twisting it into a bun or using it to secure a braid,use a fork as a hair accessory twisting it into a bun or using it to secure a braid,fork,fork,0.9410000000000001
+123,124,creative,4 Use a fork as a makeshift lock pick in an emergency situation,use a fork as a makeshift lock pick in an emergency situation,fork,fork,1.05885
+124,125,creative,5 Use a fork to scratch a design or message into a piece of wood or other material,use a fork to scratch a design or message into a piece of wood or other material,fork,fork,0.94109
+125,126,creative,6 Use a fork as a tool to help remove stubborn knots in shoelaces or jewelry chains,use a fork as a tool to help remove stubborn knots in shoelaces or jewelry chains,fork,fork,0.94106
+126,127,creative,7 Use a fork as a guitar pick or to create unique sounds on other musical instruments,use a fork as a guitar pick or to create unique sounds on other musical instruments,fork,fork,1.05886
+127,128,creative,8 Use a fork as a holder for a small candle or tea light,use a fork as a holder for a small candle or tea light,fork,fork,0.94116
+128,129,creative,9 Use a fork to create a fun and unique pattern on a cake or other dessert,use a fork to create a fun and unique pattern on a cake or other dessert,fork,fork,1.05884
+129,130,creative,10 Use a fork as a tool to help thread a needle or to untangle thread,use a fork as a tool to help thread a needle or to untangle thread,fork,fork,1.05934
+130,131,creative,1 Use a fork to create a unique pattern in cookie dough or pie crust before baking,use a fork to create a unique pattern in cookie dough or pie crust before baking,fork,fork,1.06181
+131,132,creative,2 Use a fork to create a textured design on a clay sculpture,use a fork to create a textured design on a clay sculpture,fork,fork,0.94117
+132,133,creative,3 Use a fork to hold a nail in place while hammering it into a wall,use a fork to hold a nail in place while hammering it into a wall,fork,fork,1.05857
+133,134,creative,4 Use a fork to create a makeshift hair accessory by bending the tines into a desired shape and securing with bobby pins,use a fork to create a makeshift hair accessory by bending the tines into a desired shape and securing with bobby pins,fork,fork,0.94107
+134,135,creative,5 Use a fork to create a DIY garden marker by writing the name of a plant on the handle and sticking it in the soil,use a fork to create a diy garden marker by writing the name of a plant on the handle and sticking it in the soil,fork,fork,1.05886
+135,136,creative,6 Use a fork to create a decorative pattern on a piece of leather or fabric,use a fork to create a decorative pattern on a piece of leather or fabric,fork,fork,0.94062
+136,137,creative,7 Use a fork to create a unique design on a homemade greeting card by dipping the tines in paint and stamping onto paper,use a fork to create a unique design on a homemade greeting card by dipping the tines in paint and stamping onto paper,fork,fork,1.05886
+137,138,creative,8 Use a fork to create a makeshift guitar pick by cutting off the handle and shaping the tines,use a fork to create a makeshift guitar pick by cutting off the handle and shaping the tines,fork,fork,0.94114
+138,139,creative,9 Use a fork to create a DIY wind chime by hanging several forks from a string or wire and letting them clink together in the breeze,use a fork to create a diy wind chime by hanging several forks from a string or wire and letting them clink together in the breeze,fork,fork,0.94111
+139,140,creative,10 Use a fork to create a unique serving platter by arranging appetizers or small bites on the tines,use a fork to create a unique serving platter by arranging appetizers or small bites on the tines,fork,fork,0.94078
+140,141,creative,1 Use the tines of a fork to create a textured pattern in clay or playdough,use the tines of a fork to create a textured pattern in clay or playdough,fork,fork,1.05885
+141,142,creative,2 Use a fork to comb through tangled hair,use a fork to comb through tangled hair,fork,fork,1.05724
+142,143,creative,3 Use a fork to create a decorative pattern on top of a freshly baked pie or cake,use a fork to create a decorative pattern on top of a freshly baked pie or cake,fork,fork,0.94115
+143,144,creative,4 Use a fork as a makeshift screwdriver in a pinch,use a fork as a makeshift screwdriver in a pinch,fork,fork,0.94112
+144,145,creative,5 Use a fork to hold down a stubborn page while reading a book,use a fork to hold down a stubborn page while reading a book,fork,fork,1.05869
+145,146,creative,6 Use a fork to fish small items out of a narrow space like a dropped earring from a drain,use a fork to fish small items out of a narrow space like a dropped earring from a drain,fork,fork,1.05888
+146,147,creative,7 Use a fork to create a makeshift tripod for a smartphone or camera,use a fork to create a makeshift tripod for a smartphone or camera,fork,fork,0.94064
+147,148,creative,8 Use a fork to aerate soil when planting small seeds,use a fork to aerate soil when planting small seeds,fork,fork,0.94108
+148,149,creative,9 Use a fork to hold a nail steady while hammering it into a surface,use a fork to hold a nail steady while hammering it into a surface,fork,fork,0.95102
+149,150,creative,10 Use a fork to create a unique and textured stamp in ink or paint,use a fork to create a unique and textured stamp in ink or paint,fork,fork,0.94124
+150,151,creative,1 Use a fork to create a decorative pattern on the top of a pie or cake,use a fork to create a decorative pattern on the top of a pie or cake,fork,fork,1.05885
+151,152,creative,2 Use a fork to create a mini garden by sticking it in a small pot and using the tines to hold small plants,use a fork to create a mini garden by sticking it in a small pot and using the tines to hold small plants,fork,fork,1.05886
+152,153,creative,3 Use a fork as a hair accessory by twisting it into a bun or updo,use a fork as a hair accessory by twisting it into a bun or updo,fork,fork,0.94049
+153,154,creative,4 Use a fork to create a unique piece of jewelry by bending the tines into a shape and adding beads or other embellishments,use a fork to create a unique piece of jewelry by bending the tines into a shape and adding beads or other embellishments,fork,fork,0.94112
+154,155,creative,5 Use a fork as a tool for painting by dipping the tines into paint and using them to create texture or patterns on a canvas,use a fork as a tool for painting by dipping the tines into paint and using them to create texture or patterns on a canvas,fork,fork,0.94125
+155,156,creative,6 Use a fork to create a DIY back scratcher by bending the tines into a curved shape,use a fork to create a diy back scratcher by bending the tines into a curved shape,fork,fork,1.05838
+156,157,creative,7 Use a fork to create a makeshift tripod by sticking the tines into the ground and balancing a camera or phone on top,use a fork to create a makeshift tripod by sticking the tines into the ground and balancing a camera or phone on top,fork,fork,0.94126
+157,158,creative,8 Use a fork to create a unique piece of art by dipping the tines in ink and using them to create a pointillismstyle painting,use a fork to create a unique piece of art by dipping the tines in ink and using them to create a pointillismstyle painting,fork,fork,1.059
+158,159,creative,9 Use a fork to create a fun game by attaching a small ball to the tines and trying to bounce it into a cup or other target,use a fork to create a fun game by attaching a small ball to the tines and trying to bounce it into a cup or other target,fork,fork,1.05886
+159,160,creative,10 Use a fork to create a unique piece of furniture by bending the tines into a chair or stool shape and adding a seat,use a fork to create a unique piece of furniture by bending the tines into a chair or stool shape and adding a seat,fork,fork,0.94116
+160,161,creative,1 Use a fork to create a unique pattern in cookie dough or pie crust before baking,use a fork to create a unique pattern in cookie dough or pie crust before baking,fork,fork,1.06181
+161,162,creative,2 Use a fork to make a miniature garden by sticking it into a cork or small piece of foam and using it to hold tiny plants,use a fork to make a miniature garden by sticking it into a cork or small piece of foam and using it to hold tiny plants,fork,fork,0.94114
+162,163,creative,3 Use a fork to create a DIY hair accessory by wrapping it with ribbon or yarn and adding decorative elements,use a fork to create a diy hair accessory by wrapping it with ribbon or yarn and adding decorative elements,fork,fork,1.05894
+163,164,creative,4 Use a fork to create a makeshift guitar by plucking the tines and strumming the handle,use a fork to create a makeshift guitar by plucking the tines and strumming the handle,fork,fork,1.05875
+164,165,creative,5 Use a fork to create a unique piece of art by dipping it in paint and using it to make textured lines on a canvas,use a fork to create a unique piece of art by dipping it in paint and using it to make textured lines on a canvas,fork,fork,1.05883
+165,166,creative,6 Use a fork to create a fun game by balancing it on your nose and trying to keep it there for as long as possible,use a fork to create a fun game by balancing it on your nose and trying to keep it there for as long as possible,fork,fork,0.94113
+166,167,creative,7 Use a fork to create a unique piece of jewelry by bending the tines and adding beads or other embellishments,use a fork to create a unique piece of jewelry by bending the tines and adding beads or other embellishments,fork,fork,1.05887
+167,168,creative,8 Use a fork to create a DIY candle holder by bending the tines to hold a tea light or small candle,use a fork to create a diy candle holder by bending the tines to hold a tea light or small candle,fork,fork,0.94115
+168,169,creative,9 Use a fork to create a fun party decoration by wrapping it with colorful streamers or ribbons and hanging it from the ceiling,use a fork to create a fun party decoration by wrapping it with colorful streamers or ribbons and hanging it from the ceiling,fork,fork,0.94114
+169,170,creative,10 Use a fork to create a DIY stamp by carving a design into the tines and using it to create unique prints on paper or fabric,use a fork to create a diy stamp by carving a design into the tines and using it to create unique prints on paper or fabric,fork,fork,1.05842
+170,171,creative,1 Use the tines of the fork to create a pattern in clay or playdough,use the tines of the fork to create a pattern in clay or playdough,fork,fork,1.05888
+171,172,creative,2 Use the handle of the fork as a makeshift screwdriver in a pinch,use the handle of the fork as a makeshift screwdriver in a pinch,fork,fork,1.05886
+172,173,creative,3 Use the fork to create a unique texture on a cake or other baked goods,use the fork to create a unique texture on a cake or other baked goods,fork,fork,1.0587
+173,174,creative,4 Use the tines of the fork to create a miniature garden by poking holes in soil and planting small seeds,use the tines of the fork to create a miniature garden by poking holes in soil and planting small seeds,fork,fork,0.94114
+174,175,creative,5 Use the fork to create a DIY hair accessory by wrapping the handle with ribbon or string and attaching a decorative charm,use the fork to create a diy hair accessory by wrapping the handle with ribbon or string and attaching a decorative charm,fork,fork,0.94123
+175,176,creative,6 Use the fork to create a unique piece of jewelry by bending the tines into a desired shape and attaching a chain or earring hook,use the fork to create a unique piece of jewelry by bending the tines into a desired shape and attaching a chain or earring hook,fork,fork,0.94094
+176,177,creative,7 Use the fork to create a makeshift guitar by plucking the tines and humming along,use the fork to create a makeshift guitar by plucking the tines and humming along,fork,fork,0.94112
+177,178,creative,8 Use the fork to create a unique stamp by dipping the tines in ink and pressing onto paper,use the fork to create a unique stamp by dipping the tines in ink and pressing onto paper,fork,fork,0.94077
+178,179,creative,9 Use the fork to create a miniature sculpture by bending and shaping the tines into a desired form,use the fork to create a miniature sculpture by bending and shaping the tines into a desired form,fork,fork,0.94095
+179,180,creative,10 Use the fork to create a unique piece of wall art by arranging multiple forks in a pattern and mounting them on a board or canvas,use the fork to create a unique piece of wall art by arranging multiple forks in a pattern and mounting them on a board or canvas,fork,fork,1.05884
+180,181,creative,1 Use a fork to create a textured pattern on clay or playdough,use a fork to create a textured pattern on clay or playdough,fork,fork,1.05883
+181,182,creative,2 Use a fork to make a mini garden by poking holes in soil to plant seeds,use a fork to make a mini garden by poking holes in soil to plant seeds,fork,fork,1.05886
+182,183,creative,3 Use a fork to create a unique design on a cake or pie,use a fork to create a unique design on a cake or pie,fork,fork,0.94114
+183,184,creative,4 Use a fork as a hair accessory by twisting hair around the prongs and securing with bobby pins,use a fork as a hair accessory by twisting hair around the prongs and securing with bobby pins,fork,fork,0.94315
+184,185,creative,5 Use a fork to make a DIY jewelry holder by bending the prongs into hooks,use a fork to make a diy jewelry holder by bending the prongs into hooks,fork,fork,0.94113
+185,186,creative,6 Use a fork to create a makeshift guitar by plucking the prongs like strings,use a fork to create a makeshift guitar by plucking the prongs like strings,fork,fork,0.94111
+186,187,creative,7 Use a fork to clean hardtoreach spots in a keyboard or other small electronic device,use a fork to clean hardtoreach spots in a keyboard or other small electronic device,fork,fork,1.05887
+187,188,creative,8 Use a fork to create a homemade stencil for painting or drawing,use a fork to create a homemade stencil for painting or drawing,fork,fork,0.94114
+188,189,creative,9 Use a fork to create a DIY bird feeder by spreading peanut butter on the prongs and sticking birdseed to it,use a fork to create a diy bird feeder by spreading peanut butter on the prongs and sticking birdseed to it,fork,fork,0.94114
+189,190,creative,10 Use a fork to create a unique texture on leather or fabric by pressing it into the material,use a fork to create a unique texture on leather or fabric by pressing it into the material,fork,fork,0.95344
+190,191,creative,1 Use the prongs of a fork to create a unique pattern in clay or playdough,use the prongs of a fork to create a unique pattern in clay or playdough,fork,fork,0.94114
+191,192,creative,2 Use a fork to create a decorative edge on pie crusts or other baked goods,use a fork to create a decorative edge on pie crusts or other baked goods,fork,fork,1.05882
+192,193,creative,3 Use a fork to mix and fluff up soil in a garden bed before planting,use a fork to mix and fluff up soil in a garden bed before planting,fork,fork,1.05886
+193,194,creative,4 Use a fork to create a makeshift hair pick or comb in a pinch,use a fork to create a makeshift hair pick or comb in a pinch,fork,fork,1.05885
+194,195,creative,5 Use a fork to create a fun and interactive game of fork toss with friends or family,use a fork to create a fun and interactive game of fork toss with friends or family,fork,fork,0.94114
+195,196,creative,6 Use a fork to create a DIY jewelry holder by bending the prongs to hold earrings or necklaces,use a fork to create a diy jewelry holder by bending the prongs to hold earrings or necklaces,fork,fork,1.05884
+196,197,creative,7 Use a fork to create a unique texture on painted surfaces such as walls or furniture,use a fork to create a unique texture on painted surfaces such as walls or furniture,fork,fork,0.94236
+197,198,creative,8 Use a fork to create a fun and whimsical garden sculpture by bending the prongs into different shapes and designs,use a fork to create a fun and whimsical garden sculpture by bending the prongs into different shapes and designs,fork,fork,1.05886
+198,199,creative,9 Use a fork to create a unique and rusticlooking picture frame by wrapping twine or ribbon around the prongs and attaching a photo to the back,use a fork to create a unique and rusticlooking picture frame by wrapping twine or ribbon around the prongs and attaching a photo to the back,fork,fork,0.94114
+199,200,creative,10 Use a fork to create a fun and interactive musical instrument by attaching bells or other noisemakers to the prongs and shaking it,use a fork to create a fun and interactive musical instrument by attaching bells or other noisemakers to the prongs and shaking it,fork,fork,0.94114
+200,201,creative,1 Use a fork to create a unique piece of art by dipping the tines in paint and stamping it onto a canvas,use a fork to create a unique piece of art by dipping the tines in paint and stamping it onto a canvas,fork,fork,0.94108
+201,202,creative,2 Use a fork to create a DIY hair accessory by bending the tines and attaching it to a hair tie,use a fork to create a diy hair accessory by bending the tines and attaching it to a hair tie,fork,fork,1.05852
+202,203,creative,3 Use a fork to make a small garden tool by sharpening the tines and using it to dig small holes for planting seeds,use a fork to make a small garden tool by sharpening the tines and using it to dig small holes for planting seeds,fork,fork,0.94115
+203,204,creative,4 Use a fork to create a unique serving dish by bending the tines and using it as a holder for appetizers or small snacks,use a fork to create a unique serving dish by bending the tines and using it as a holder for appetizers or small snacks,fork,fork,0.94121
+204,205,creative,5 Use a fork to create a musical instrument by attaching it to a wooden block and using it as a percussion instrument,use a fork to create a musical instrument by attaching it to a wooden block and using it as a percussion instrument,fork,fork,1.05885
+205,206,creative,6 Use a fork to create a unique piece of jewelry by bending the tines and attaching it to a necklace or bracelet,use a fork to create a unique piece of jewelry by bending the tines and attaching it to a necklace or bracelet,fork,fork,0.94052
+206,207,creative,7 Use a fork to create a DIY back scratcher by bending the tines and using it to reach those hardtoreach spots,use a fork to create a diy back scratcher by bending the tines and using it to reach those hardtoreach spots,fork,fork,0.94116
+207,208,creative,8 Use a fork to create a unique candle holder by bending the tines and using it to hold a small candle,use a fork to create a unique candle holder by bending the tines and using it to hold a small candle,fork,fork,1.05888
+208,209,creative,9 Use a fork to create a DIY phone stand by bending the tines and using it to prop up your phone,use a fork to create a diy phone stand by bending the tines and using it to prop up your phone,fork,fork,1.05934
+209,210,creative,10 Use a fork to create a unique piece of furniture by attaching it to a wooden frame and using it as a decorative element,use a fork to create a unique piece of furniture by attaching it to a wooden frame and using it as a decorative element,fork,fork,1.05888
+210,211,creative,1 Use a fork to create a decorative pattern on a cake or pie crust,use a fork to create a decorative pattern on a cake or pie crust,fork,fork,0.94128
+211,212,creative,2 Turn a fork upside down and use the prongs to hold a book open while reading,turn a fork upside down and use the prongs to hold a book open while reading,fork,fork,0.94112
+212,213,creative,3 Use a fork to create a makeshift hairpin in a pinch,use a fork to create a makeshift hairpin in a pinch,fork,fork,1.05884
+213,214,creative,4 Use a fork to create a miniature trellis for a small plant,use a fork to create a miniature trellis for a small plant,fork,fork,0.94113
+214,215,creative,5 Use a fork to create a unique piece of jewelry such as a necklace or bracelet,use a fork to create a unique piece of jewelry such as a necklace or bracelet,fork,fork,1.05918
+215,216,creative,6 Use a fork to create a DIY stencil for painting or drawing,use a fork to create a diy stencil for painting or drawing,fork,fork,1.05885
+216,217,creative,7 Use a fork to create a textured pattern in clay or playdough,use a fork to create a textured pattern in clay or playdough,fork,fork,1.05883
+217,218,creative,8 Use a fork to create a makeshift musical instrument such as a percussion instrument,use a fork to create a makeshift musical instrument such as a percussion instrument,fork,fork,1.05886
+218,219,creative,9 Use a fork to create a unique piece of wall art by bending and shaping the prongs,use a fork to create a unique piece of wall art by bending and shaping the prongs,fork,fork,1.0588899999999999
+219,220,creative,10 Use a fork to create a makeshift comb for styling hair in a pinch,use a fork to create a makeshift comb for styling hair in a pinch,fork,fork,0.94088
+220,221,creative,1 Use a fork as a makeshift hair pick or comb,use a fork as a makeshift hair pick or comb,fork,fork,1.05891
+221,222,creative,2 Use a fork to create a textured pattern in clay or playdough,use a fork to create a textured pattern in clay or playdough,fork,fork,1.05883
+222,223,creative,3 Use a fork to create a decorative edge on a pie crust,use a fork to create a decorative edge on a pie crust,fork,fork,0.94131
+223,224,creative,4 Use a fork as a tool to help thread a needle,use a fork as a tool to help thread a needle,fork,fork,0.94053
+224,225,creative,5 Use a fork to help remove a stuck zipper,use a fork to help remove a stuck zipper,fork,fork,1.05895
+225,226,creative,6 Use a fork to create a unique texture on a painting or drawing,use a fork to create a unique texture on a painting or drawing,fork,fork,1.0587
+226,227,creative,7 Use a fork to create a DIY stamp for printing patterns on paper or fabric,use a fork to create a diy stamp for printing patterns on paper or fabric,fork,fork,1.05798
+227,228,creative,8 Use a fork to create a makeshift guitar pick,use a fork to create a makeshift guitar pick,fork,fork,0.94114
+228,229,creative,9 Use a fork to help plant small seeds in soil,use a fork to help plant small seeds in soil,fork,fork,1.05892
+229,230,creative,10 Use a fork as a tool to help remove a splinter,use a fork as a tool to help remove a splinter,fork,fork,0.94087
+230,231,creative,1 Use a fork to create a unique pattern in the frosting on a cake or cupcakes,use a fork to create a unique pattern in the frosting on a cake or cupcakes,fork,fork,1.0589
+231,232,creative,2 Use a fork to make small holes in the soil before planting seeds,use a fork to make small holes in the soil before planting seeds,fork,fork,0.94113
+232,233,creative,3 Use a fork to hold a nail in place while hammering,use a fork to hold a nail in place while hammering,fork,fork,1.05835
+233,234,creative,4 Use a fork to create a textured design in clay or playdough,use a fork to create a textured design in clay or playdough,fork,fork,1.05882
+234,235,creative,5 Use a fork to remove the pit from an avocado,use a fork to remove the pit from an avocado,fork,fork,0.94231
+235,236,creative,6 Use a fork to create a makeshift hair pick or comb,use a fork to create a makeshift hair pick or comb,fork,fork,0.94116
+236,237,creative,7 Use a fork to create a DIY cheese grater by bending the tines slightly,use a fork to create a diy cheese grater by bending the tines slightly,fork,fork,0.94111
+237,238,creative,8 Use a fork to mix paint or other liquids,use a fork to mix paint or other liquids,fork,fork,0.94085
+238,239,creative,9 Use a fork to create a unique design in melted chocolate,use a fork to create a unique design in melted chocolate,fork,fork,0.94027
+239,240,creative,10 Use a fork to create a makeshift fishing hook in a survival situation,use a fork to create a makeshift fishing hook in a survival situation,fork,fork,0.94115
+240,241,creative,1 Use a fork to create a unique pattern in cookie dough or pie crust,use a fork to create a unique pattern in cookie dough or pie crust,fork,fork,1.06619
+241,242,creative,2 Use a fork to create a makeshift hairbrush in a pinch,use a fork to create a makeshift hairbrush in a pinch,fork,fork,1.05886
+242,243,creative,3 Use a fork to hold a nail in place while hammering,use a fork to hold a nail in place while hammering,fork,fork,1.05835
+243,244,creative,4 Use a fork to create a fun and unique piece of jewelry,use a fork to create a fun and unique piece of jewelry,fork,fork,1.05899
+244,245,creative,5 Use a fork to create a miniature garden tool for planting small seeds,use a fork to create a miniature garden tool for planting small seeds,fork,fork,0.94114
+245,246,creative,6 Use a fork to create a DIY musical instrument by attaching it to a wooden box or container,use a fork to create a diy musical instrument by attaching it to a wooden box or container,fork,fork,0.94116
+246,247,creative,7 Use a fork to create a fun and unique stamp for art projects,use a fork to create a fun and unique stamp for art projects,fork,fork,0.94111
+247,248,creative,8 Use a fork to create a unique texture on pottery or clay projects,use a fork to create a unique texture on pottery or clay projects,fork,fork,1.05877
+248,249,creative,9 Use a fork to create a makeshift back scratcher,use a fork to create a makeshift back scratcher,fork,fork,1.05887
+249,250,creative,10 Use a fork to create a fun and unique design on a latte or cappuccino,use a fork to create a fun and unique design on a latte or cappuccino,fork,fork,0.94058

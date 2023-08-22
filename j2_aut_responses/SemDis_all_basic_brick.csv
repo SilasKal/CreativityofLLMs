@@ -1,0 +1,260 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_glove_c_m,SemDis_MEAN,SemDis_factor
+0,1,creative,Make a sculpture or decorative object,make a sculpture or decorative object,brick,brick,0.97196,1.00751,1.04386,1.09325,1.19257,1.06183,0.02607
+1,2,creative,Use as a doorstop,use as a doorstop,brick,brick,0.98179,1.0271,1.03961,0.99712,0.8082199999999999,0.97077,0.01298
+2,3,creative,Use as a paperweight or bookend,use as a paperweight or bookend,brick,brick,1.04159,0.95915,0.93972,0.96698,1.19285,1.02006,-0.00146
+3,4,creative,Use as a weight for exercise,use as a weight for exercise,brick,brick,1.02573,1.02062,1.05443,0.96706,1.1892800000000001,1.05142,0.03397
+4,5,creative,Use as a foundation for a DIY pizza oven or grill,use as a foundation for a diy pizza oven or grill,brick,brick,0.98982,0.94651,0.96517,0.96757,1.19166,1.01215,-0.00587
+5,6,creative,Use as a planter for a small plant or succulent,use as a planter for a small plant or succulent,brick,brick,1.04089,1.06686,0.9434400000000001,0.96756,1.17036,1.03782,0.01552
+6,7,creative,Use as an accent piece in a decorative tray or bowl,use as an accent piece in a decorative tray or bowl,brick,brick,0.98338,0.95485,0.96648,0.96729,0.81464,0.93733,-0.01746
+7,8,creative,Use as a coaster for drinks or hot dishes,use as a coaster for drinks or hot dishes,brick,brick,1.14494,0.95585,1.0563,0.96777,0.80836,0.98664,0.03224
+8,9,creative,Use as a building material for a DIY project such as a small wall or furniture,use as a building material for a diy project such as a small wall or furniture,brick,brick,1.03301,1.06356,1.01293,0.96753,0.80876,0.97716,0.01936
+9,10,creative,Use as a prop for a photo or video shoot,use as a prop for a photo or video shoot,brick,brick,0.8760600000000001,1.05435,1.02451,0.96751,0.81353,0.94719,-0.00559
+10,11,creative,Use as a building material for a DIY project such as a small wall or furniture,use as a building material for a diy project such as a small wall or furniture,brick,brick,1.03301,1.06356,1.01293,0.96753,0.80876,0.97716,0.01936
+11,12,creative,Make a miniature pizza oven,make a miniature pizza oven,brick,brick,0.95857,0.95346,0.96773,0.9154599999999999,0.7936799999999999,0.91778,-0.02461
+12,13,creative,Use it as a weight for exercise,use it as a weight for exercise,brick,brick,0.9749099999999999,1.03922,0.94385,0.96726,0.81169,0.94739,-0.01142
+13,14,creative,Create a decorative planter,create a decorative planter,brick,brick,1.10063,0.99539,1.01143,1.04718,0.83358,0.99764,0.0242
+14,15,creative,Use it as a doorstop,use it as a doorstop,brick,brick,0.9315100000000001,0.93535,0.95911,0.96557,1.19056,0.99642,-0.01912
+15,16,creative,Build a miniature brick wall,build a miniature brick wall,brick,brick,0.8469599999999999,1.00411,0.94707,0.82608,0.80521,0.88589,-0.04444
+16,17,creative,Use it as a paperweight,use it as a paperweight,brick,brick,0.98068,0.97424,0.9808,0.96706,1.19117,1.01879,7.9e-4
+17,18,creative,Use it as a decorative element in a terrarium,use it as a decorative element in a terrarium,brick,brick,0.98311,0.98332,1.0484,0.9652499999999999,1.19302,1.03462,0.01945
+18,19,creative,Use it as a surface for magnetic building toys,use it as a surface for magnetic building toys,brick,brick,0.92969,1.06797,0.97104,0.96789,0.8245899999999999,0.95224,-0.00734
+19,20,creative,Create a miniature garden path or walkway,create a miniature garden path or walkway,brick,brick,1.08227,0.95811,1.10475,0.93313,0.80798,0.97725,0.03247
+20,21,creative,Use it as a step stool to reach high places,use it as a step stool to reach high places,brick,brick,0.979,1.05095,1.08648,0.96753,1.19132,1.05506,0.03889
+21,22,creative,Create a garden path or walkway,create a garden path or walkway,brick,brick,1.07237,0.96662,1.0633,0.99524,1.19166,1.05784,0.03698
+22,23,creative,Use as a doorstop,use as a doorstop,brick,brick,0.98179,1.0271,1.03961,0.99712,0.8082199999999999,0.97077,0.01298
+23,24,creative,Use as bookends,use as bookends,brick,brick,0.98362,0.95182,0.91562,0.92159,1.09961,0.97445,-0.0235
+24,25,creative,Make a picture frame,make a picture frame,brick,brick,1.15751,1.05955,0.988,0.97055,1.17494,1.07011,0.0455
+25,26,creative,Use as a paperweight,use as a paperweight,brick,brick,1.0342,1.02739,1.00367,0.97167,0.80513,0.96841,0.01167
+26,27,creative,Use as a decoration or accent piece,use as a decoration or accent piece,brick,brick,0.95406,1.01583,0.97562,0.96368,1.02178,0.98619,-0.0041
+27,28,creative,Use as a planter for small plants,use as a planter for small plants,brick,brick,0.95828,0.99614,0.92101,0.96705,1.1846700000000001,1.00543,-0.01469
+28,29,creative,Use as a trivet,use as a trivet,brick,brick,0.95142,0.91381,0.93022,0.96671,0.82351,0.91713,-0.03808
+29,30,creative,Use as a weight for exercise,use as a weight for exercise,brick,brick,1.02573,1.02062,1.05443,0.96706,1.1892800000000001,1.05142,0.03397
+30,31,creative,Use to build a birdbath,use to build a birdbath,brick,brick,0.87646,0.94794,0.91517,0.97241,1.19069,0.98053,-0.0371
+31,32,creative,Use bricks as bookends for a bookshelf,use bricks as bookends for a bookshelf,brick,brick,0.98341,0.9658100000000001,0.98677,0.9621999999999999,0.80698,0.94103,-0.01116
+32,33,creative,Use bricks to create a pathway or walkway in a garden or yard,use bricks to create a pathway or walkway in a garden or yard,brick,brick,0.8476,1.00771,0.9776,0.96748,0.80833,0.92174,-0.02958
+33,34,creative,Use bricks as weights for resistance exercises such as bicep curls or squats,use bricks as weights for resistance exercises such as bicep curls or squats,brick,brick,1.03022,1.03838,0.97196,0.99514,1.19165,1.04547,0.01831
+34,35,creative,Use bricks as coasters for drinks or hot plates,use bricks as coasters for drinks or hot plates,brick,brick,0.95279,1.03709,0.97693,0.91714,0.80845,0.93848,-0.00965
+35,36,creative,Use bricks as planters for small plants or succulents,use bricks as planters for small plants or succulents,brick,brick,1.12875,0.97437,0.91074,1.06137,1.1889,1.05283,0.01264
+36,37,creative,Use bricks as base for an outdoor fire pit,use bricks as base for an outdoor fire pit,brick,brick,1.05049,1.02962,1.06947,0.97043,0.8083400000000001,0.98567,0.03122
+37,38,creative,Use bricks as building blocks for a creative construction project such as a birdhouse or a miniature castle,use bricks as building blocks for a creative construction project such as a birdhouse or a miniature castle,brick,brick,1.02987,1.05417,0.95732,0.96753,0.80832,0.96344,0.00348
+38,39,creative,Use bricks as weights for weighted blankets,use bricks as weights for weighted blankets,brick,brick,0.84883,0.94881,0.96679,0.87428,1.19143,0.96603000000000006,-0.03324
+39,40,creative,Use bricks as wall decorations by painting or stenciling patterns on them,use bricks as wall decorations by painting or stenciling patterns on them,brick,brick,0.97241,1.0265,0.97626,0.96599,0.80811,0.94985,-0.00593
+40,41,creative,Use bricks as decorative pieces for a rustic or industrialstyle home decor,use bricks as decorative pieces for a rustic or industrialstyle home decor,brick,brick,0.849,1.0363,1.00122,0.96773,0.80855,0.93255999999999994,-0.01895
+41,42,creative,Using bricks as building blocks to create structures or sculptures,using bricks as building blocks to create structures or sculptures,brick,brick,1.04707,0.93127,0.97377,0.97917,1.19175,1.02461,0.00411
+42,43,creative,Using bricks as weights in exercise or weightlifting routines,using bricks as weights in exercise or weightlifting routines,brick,brick,1.03289,0.93509,1.00555,0.95415,0.80838,0.94721,-0.00324
+43,44,creative,Using bricks as a building material for indoor or outdoor projects such as building a patio garden wall or fire pit,using bricks as a building material for indoor or outdoor projects such as building a patio garden wall or fire pit,brick,brick,1.00994,1.01301,0.92545,0.96753,0.80833,0.94485,-0.01428
+44,45,creative,Using bricks as a decorative element in landscaping such as creating a path or edging,using bricks as a decorative element in landscaping such as creating a path or edging,brick,brick,1.0063,1.00412,1.03701,0.96761,1.19168,1.04134,0.02385
+45,46,creative,Using bricks as a canvas for painting or decorating,using bricks as a canvas for painting or decorating,brick,brick,0.91879,0.8832,1.03975,0.96701,0.80808,0.92337,-0.02157
+46,47,creative,Using bricks as a writing tool to practice calligraphy or graffiti,using bricks as a writing tool to practice calligraphy or graffiti,brick,brick,0.79329,0.94379,0.99503,0.96992,0.80827,0.90206,-0.04432
+47,48,creative,Using bricks as an impactresistant surface for hammering or drilling,using bricks as an impactresistant surface for hammering or drilling,brick,brick,1.127,0.97655,1.0264199999999999,0.96749,1.18813,1.05712,0.0372
+48,49,creative,Using bricks as a cooking surface for grilling or baking,using bricks as a cooking surface for grilling or baking,brick,brick,0.87942,1.08144,1.08058,0.97171,1.19225,1.04108,0.02557
+49,50,creative,Using bricks as a planter for small plants or succulents,using bricks as a planter for small plants or succulents,brick,brick,1.044,0.97841,0.95167,0.96883,1.19262,1.02711,0.00502
+50,51,creative,Using bricks as a building material for a miniature model or diorama,using bricks as a building material for a miniature model or diorama,brick,brick,1.01289,1.01078,0.95635,0.96755,0.80718,0.95095,-0.00646
+51,52,creative,Using bricks as a building material for a small scale construction project such as a birdhouse or mailbox,using bricks as a building material for a small scale construction project such as a birdhouse or mailbox,brick,brick,1.02472,0.9646,0.98826,0.96753,0.8083400000000001,0.95069,-0.0037
+52,53,creative,As a paperweight,as a paperweight,brick,brick,0.8270500000000001,1.02797,0.87447,0.95355,1.13981,0.96457,-0.04557
+53,54,creative,As a doorstop,as a doorstop,brick,brick,0.80832,0.96702,0.82275,0.96937,1.18857,0.95121,-0.06889
+54,55,creative,As a bookend,as a bookend,brick,brick,0.92984,1.00138,0.8576900000000001,0.96484,1.14764,0.98028,-0.03576
+55,56,creative,As a decorative element,as a decorative element,brick,brick,0.97208,1.00023,1.01917,0.92736,1.19106,1.0219800000000001,0.01114
+56,57,creative,As a planter,as a planter,brick,brick,0.98224,0.96876,0.98113,0.9748,1.0342,0.98823,-0.00442
+57,58,creative,As a building material for small structures or furniture,as a building material for small structures or furniture,brick,brick,1.14324,1.02163,1.05447,0.9670300000000001,0.80708,0.99869,0.04173
+58,59,creative,As a base for a candle or other decorative object,as a base for a candle or other decorative object,brick,brick,1.03653,0.9678,0.96608,0.9675,1.19124,1.02583,0.00558
+59,60,creative,As a building material for a miniature house or model,as a building material for a miniature house or model,brick,brick,0.90603,1.03769,1.03149,0.96756,1.19268,1.02709,0.0108
+60,61,creative,As a building material for a mosaic or decorative pattern,as a building material for a mosaic or decorative pattern,brick,brick,1.00248,0.96676,0.9594,0.9676,1.19258,1.01776,-0.00196
+61,62,creative,As a building material for a sculpture or decorative object,as a building material for a sculpture or decorative object,brick,brick,1.03581,0.96657,1.03828,0.96704,1.19218,1.03998,0.02327
+62,63,creative,As a building material for an outdoor fire pit or grill,as a building material for an outdoor fire pit or grill,brick,brick,1.01856,0.99267,1.03175,0.96753,0.80832,0.96377,0.01049
+63,64,creative,Create a garden path or walkway,create a garden path or walkway,brick,brick,1.07237,0.96662,1.0633,0.99524,1.19166,1.05784,0.03698
+64,65,creative,Use it as a paperweight,use it as a paperweight,brick,brick,0.98068,0.97424,0.9808,0.96706,1.19117,1.01879,7.9e-4
+65,66,creative,Use it as a doorstop,use it as a doorstop,brick,brick,0.9315100000000001,0.93535,0.95911,0.96557,1.19056,0.99642,-0.01912
+66,67,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+67,68,creative,Use it as a piece of art,use it as a piece of art,brick,brick,0.97328,0.95081,0.97314,0.96748,0.80762,0.93447,-0.01836
+68,69,creative,Use it as a planter,use it as a planter,brick,brick,1.11988,0.92654,0.99223,0.96755,1.0909200000000001,1.01942,0.01651
+69,70,creative,Use it as a building material,use it as a building material,brick,brick,0.91014,1.08847,0.99479,0.96735,1.1831800000000001,1.02879,0.00999
+70,71,creative,Use it as a building material for a sculpture,use it as a building material for a sculpture,brick,brick,1.0903,0.94875,0.96013,0.96752,0.80719,0.95478,-0.00214
+71,72,creative,Use it as an accent piece in a garden or home,use it as an accent piece in a garden or home,brick,brick,0.97587,0.96985,1.04762,0.96754,1.19035,1.03025,0.01594
+72,73,creative,Use it as a decorative element on a shelf or table,use it as a decorative element on a shelf or table,brick,brick,1.03277,1.06694,0.95194,0.96749,0.80696,0.96522,0.00459
+73,74,creative,Making a garden path,making a garden path,brick,brick,1.15237,0.99762,0.87404,0.96444,1.1839,1.03447,0.00653
+74,75,creative,Building a planter,building a planter,brick,brick,1.00904,0.89137,0.9035,0.92647,1.02614,0.9513,-0.03383
+75,76,creative,Making a bird feeder,making a bird feeder,brick,brick,0.97642,1.07404,0.98905,0.94974,0.80826,0.9595,0.00465
+76,77,creative,Creating a sculpture,creating a sculpture,brick,brick,1.0713,0.91881,0.90097,1.04929,0.78162,0.9444,-0.02187
+77,78,creative,Making a mailbox,making a mailbox,brick,brick,0.85414,1.0342500000000001,0.95398,0.97605,0.81784,0.92725,-0.0295
+78,79,creative,Building a bench,building a bench,brick,brick,0.92419,0.94118,0.87534,0.87648,0.80534,0.88451,-0.0568
+79,80,creative,Creating a mosaic,creating a mosaic,brick,brick,0.95047,0.93477,0.9581,0.97967,0.77944,0.92049,-0.02883
+80,81,creative,Making a fire pit,making a fire pit,brick,brick,1.03586,0.93163,0.99124,0.94898,1.1846700000000001,1.01848,0.00501
+81,82,creative,Building a grill,building a grill,brick,brick,0.85562,0.90073,0.93933,0.97275,0.79001999999999994,0.89169,-0.05486
+82,83,creative,Making a wall,making a wall,brick,brick,0.72634,0.8902,0.88775,0.9229,0.81694,0.84883,-0.09266
+83,84,creative,Building a pizza oven,building a pizza oven,brick,brick,0.92899,1.00849,0.81021,0.95,1.18362,0.97626,-0.04615
+84,85,creative,Use bricks as weights in a workout,use bricks as weights in a workout,brick,brick,0.96216,0.90244,0.99583,0.96679,0.80827,0.9271,-0.02217
+85,86,creative,Use bricks as planters for succulents,use bricks as planters for succulents,brick,brick,0.94904,1.00581,0.98763,0.89536,0.82742,0.93305,-0.0129
+86,87,creative,Use bricks as building blocks for a miniature city or building,use bricks as building blocks for a miniature city or building,brick,brick,0.89263,0.99049,0.95443,0.96738,0.80832,0.92265,-0.03044
+87,88,creative,Use bricks as stepping stones in a garden,use bricks as stepping stones in a garden,brick,brick,1.16395,0.99572,1.00762,0.96771,1.19167,1.06533,0.04189
+88,89,creative,Use bricks as coasters for drinks,use bricks as coasters for drinks,brick,brick,1.0162,1.05559,0.9042,0.9979,1.19072,1.03292,0.00184
+89,90,creative,Use bricks as bookends for a bookshelf,use bricks as bookends for a bookshelf,brick,brick,0.98341,0.9658100000000001,0.98677,0.9621999999999999,0.80698,0.94103,-0.01116
+90,91,creative,Use bricks as markers for a garden or path,use bricks as markers for a garden or path,brick,brick,0.86303,1.05559,1.00156,0.96814,0.80831,0.93933,-0.01346
+91,92,creative,Use bricks as decoration for a mantle or coffee table,use bricks as decoration for a mantle or coffee table,brick,brick,1.03616,1.04712,1.10035,0.96762,1.19179,1.06861,0.05144
+92,93,creative,Use bricks as paperweights for important documents,use bricks as paperweights for important documents,brick,brick,1.00262,0.98563,0.90295,1.10305,1.19234,1.03732,-0.00686
+93,94,creative,Use bricks as doorstops to keep doors open or closed,use bricks as doorstops to keep doors open or closed,brick,brick,0.76606,0.97144,0.98748,0.9678,0.80797,0.90015,-0.04659
+94,95,creative,Use bricks as furniture feet to elevate and protect surfaces,use bricks as furniture feet to elevate and protect surfaces,brick,brick,0.90539,0.99169,0.99937,0.96754,0.84051,0.9409,-0.01584
+95,96,creative,Use the brick as a paperweight,use the brick as a paperweight,brick,brick,0.92169,1.13244,1.02394,0.96935,0.80785,0.97105,0.01412
+96,97,creative,Use it as a doorstopper,use it as a doorstopper,brick,brick,1.0009,0.94966,0.95456,0.96797,1.1802,1.01066,-0.0065
+97,98,creative,Use it as a makeshift dumbbell for strength training,use it as a makeshift dumbbell for strength training,brick,brick,0.88447,1.00617,1.04826,0.9676400000000001,1.18998,1.0193,0.00631
+98,99,creative,Use it as a candle holder,use it as a candle holder,brick,brick,1.03592,1.09474,1.06193,0.97057,1.17852,1.06834,0.04898
+99,100,creative,Use it as a soap dish,use it as a soap dish,brick,brick,1.07231,1.07334,1.01385,0.96734,1.18896,1.06316,0.03999
+100,101,creative,Use it as an ice crusher,use it as an ice crusher,brick,brick,1.02162,0.95704,1.00556,0.96826,0.81151,0.9528,-9.6e-4
+101,102,creative,Use it as a plant stand,use it as a plant stand,brick,brick,1.04917,0.99293,0.9939,0.96723,1.19204,1.03905,0.0186
+102,103,creative,Use it as a picture frame,use it as a picture frame,brick,brick,1.14643,0.98586,1.00382,0.96616,1.1857199999999999,1.0576,0.03617
+103,104,creative,Use it as a utensil holder,use it as a utensil holder,brick,brick,0.96994,1.02608,1.01363,0.97163,0.89116,0.97449,0.00584
+104,105,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+105,106,creative,Create a planter Fill the brick with soil and add a small plant or flower to create a unique planter,create a planter fill the brick with soil and add a small plant or flower to create a unique planter,brick,brick,0.97138,0.95256,1.03836,0.96754,1.19152,1.02427,0.0102
+106,107,creative,Make a stepping stone Place the brick in a shallow pond or along a path to create a decorative stepping stone,make a stepping stone place the brick in a shallow pond or along a path to create a decorative stepping stone,brick,brick,0.97514,0.98869,0.95014,0.96754,0.80833,0.93797,-0.01782
+107,108,creative,Create a mosaic Use the brick as a decorative element in a larger mosaic project,create a mosaic use the brick as a decorative element in a larger mosaic project,brick,brick,0.82372,1.02529,0.94951,0.96737,0.80831,0.91484,-0.03787
+108,109,creative,Use it as a paperweight Fill the brick with sand and use it as a paperweight on your desk,use it as a paperweight fill the brick with sand and use it as a paperweight on your desk,brick,brick,0.95962,1.06454,0.95562,0.96754,0.80832,0.95113,-0.0072
+109,110,creative,Make a birdbath Place the brick in a spot in your yard where birds can easily access it and fill it with water to provide birds with a place to drink and bathe,make a birdbath place the brick in a spot in your yard where birds can easily access it and fill it with water to provide birds with a place to drink and bathe,brick,brick,0.99312,1.05105,1.04842,0.96754,1.19167,1.05036,0.03182
+110,111,creative,Create a bookend Place the brick on a stack of books to keep them upright and organized,create a bookend place the brick on a stack of books to keep them upright and organized,brick,brick,0.95152,1.05364,0.99015,0.96754,1.19177,1.03092,0.01066
+111,112,creative,Use it as a doorstop Place the brick under the door knob to keep a door from closing,use it as a doorstop place the brick under the door knob to keep a door from closing,brick,brick,1.14444,0.94407,1.05951,0.96753,1.19167,1.06144,0.04343
+112,113,creative,Create a small fire pit Place bricks in a circle add some firewood and light it up to create a small fire pit,create a small fire pit place bricks in a circle add some firewood and light it up to create a small fire pit,brick,brick,0.8535699999999999,1.04085,0.96757,0.96754,0.80833,0.92757,-0.02587
+113,114,creative,Use it as a mortar and pestle Fill the brick with sand and use it as a mortar and pestle to crush herbs and spices,use it as a mortar and pestle fill the brick with sand and use it as a mortar and pestle to crush herbs and spices,brick,brick,1.06203,0.94504,1.07928,0.96754,0.80833,0.97244,0.02224
+114,115,creative,Create a candleholder Place the brick in a shallow dish and fill the dish with sand to hold the candle in place,create a candleholder place the brick in a shallow dish and fill the dish with sand to hold the candle in place,brick,brick,1.00254,1.04745,1.04773,0.96754,0.80833,0.97472,0.02035
+115,116,creative,Use bricks to create an artistic installation or sculpture,use bricks to create an artistic installation or sculpture,brick,brick,1.05177,1.00124,0.93133,0.8334699999999999,0.80813,0.92519,-0.01373
+116,117,creative,Use bricks as building blocks for a miniature city or a model train set,use bricks as building blocks for a miniature city or a model train set,brick,brick,1.13118,1.05176,1.03763,0.96753,1.19168,1.07596,0.0526
+117,118,creative,Use bricks as weights for strength training or weightlifting,use bricks as weights for strength training or weightlifting,brick,brick,0.95224,0.98003,0.99542,0.97074,0.80861,0.94141,-0.01161
+118,119,creative,Use bricks as coasters for protecting furniture surfaces,use bricks as coasters for protecting furniture surfaces,brick,brick,0.99768,0.99593,1.01199,1.02157,1.18824,1.04308,0.01724
+119,120,creative,Use bricks as planters for small plants or succulents,use bricks as planters for small plants or succulents,brick,brick,1.12875,0.97437,0.91074,1.06137,1.1889,1.05283,0.01264
+120,121,creative,Use bricks as door stops to prevent doors from slamming shut,use bricks as door stops to prevent doors from slamming shut,brick,brick,1.1536,0.95476,0.96421,0.96799,0.80831,0.96977,0.01059
+121,122,creative,Use bricks as bookends for organizing and displaying books,use bricks as bookends for organizing and displaying books,brick,brick,0.90995,0.9513199999999999,1.03727,0.96565,1.1923300000000001,1.0113,-7.2e-4
+122,123,creative,Use bricks to create a DIY pizza oven for cooking homemade pizzas,use bricks to create a diy pizza oven for cooking homemade pizzas,brick,brick,1.04819,0.96875,0.98851,0.97442,0.80795,0.95756,0.00128
+123,124,creative,Use bricks to create an outdoor fire pit for roasting marshmallows or hot dogs,use bricks to create an outdoor fire pit for roasting marshmallows or hot dogs,brick,brick,0.98177,1.15865,1.03014,0.97074,1.19167,1.06659,0.04234
+124,125,creative,Use bricks to create a raised garden bed for growing vegetables or flowers,use bricks to create a raised garden bed for growing vegetables or flowers,brick,brick,1.00811,1.12222,0.99143,0.96758,0.80833,0.97953,0.01897
+125,126,creative,Build a brick pizza oven in your backyard,build a brick pizza oven in your backyard,brick,brick,1.09971,1.01514,1.18194,0.96275,1.19187,1.09028,0.0773
+126,127,creative,Create a brick walkway in your garden,create a brick walkway in your garden,brick,brick,0.78134,0.9842,0.89937,1.01962,0.80818,0.89854,-0.06159
+127,128,creative,Create a brick mailbox for a unique curb appeal to your home,create a brick mailbox for a unique curb appeal to your home,brick,brick,1.0881,0.9875,0.91912,0.96751,1.19165,1.03078,0.0057
+128,129,creative,Use bricks as planters for succulents or cacti,use bricks as planters for succulents or cacti,brick,brick,0.8531299999999999,0.93698,0.92147,1.07326,0.86469,0.92991,-0.04705
+129,130,creative,Create a brick fire pit in your backyard,create a brick fire pit in your backyard,brick,brick,1.16064,1.04082,1.05647,0.95039,1.19164,1.07999,0.05978
+130,131,creative,Use bricks to create raised garden beds,use bricks to create raised garden beds,brick,brick,0.8603000000000001,1.09626,0.97031,0.94827,0.80828,0.93668,-0.01626
+131,132,creative,Use bricks to create a retaining wall in your yard,use bricks to create a retaining wall in your yard,brick,brick,1.1489,1.12245,0.92779,0.96795,1.19198,1.07181,0.03931
+132,133,creative,Use bricks to create a brick backsplash in your kitchen,use bricks to create a brick backsplash in your kitchen,brick,brick,0.8484,1.04361,0.99705,0.96888,0.80832,0.93325,-0.01891
+133,134,creative,Use bricks to create a brick accent wall in your home,use bricks to create a brick accent wall in your home,brick,brick,0.86006,0.98615,0.86101,0.96727,1.19144,0.97319,-0.0476
+134,135,creative,Use bricks to create a brick base for an outdoor table or bench,use bricks to create a brick base for an outdoor table or bench,brick,brick,1.05025,0.83846,0.8589,0.96753,0.80833,0.90469,-0.05139
+135,136,creative,Use bricks to create a brick planter box for flowers or herbs,use bricks to create a brick planter box for flowers or herbs,brick,brick,1.00741,0.9587,1.04153,0.96719,0.80833,0.95663,0.00571
+136,137,creative,As a paperweight,as a paperweight,brick,brick,0.8270500000000001,1.02797,0.87447,0.95355,1.13981,0.96457,-0.04557
+137,138,creative,As a doorstop,as a doorstop,brick,brick,0.80832,0.96702,0.82275,0.96937,1.18857,0.95121,-0.06889
+138,139,creative,As a bookend,as a bookend,brick,brick,0.92984,1.00138,0.8576900000000001,0.96484,1.14764,0.98028,-0.03576
+139,140,creative,As a decorative element in a landscaping or patio design,as a decorative element in a landscaping or patio design,brick,brick,0.94092,1.06047,1.02472,0.9709,1.19203,1.03781,0.01872
+140,141,creative,As a building material for small construction projects such as a small wall or planter,as a building material for small construction projects such as a small wall or planter,brick,brick,0.9923,1.01249,0.97448,0.96753,1.19302,1.02796,0.00725
+141,142,creative,As a weight for an exercise regimen,as a weight for an exercise regimen,brick,brick,0.96579,1.00283,0.99853,0.96609,0.80806,0.94826,-0.0052
+142,143,creative,As a prop for a stage or film production,as a prop for a stage or film production,brick,brick,1.04173,0.95012,1.00252,0.9675,1.16535,1.02544,0.01194
+143,144,creative,As a musical instrument such as a brick xylophone or brick chimes,as a musical instrument such as a brick xylophone or brick chimes,brick,brick,0.8424,1.08734,1.08286,0.96962,1.19252,1.03495,0.02071
+144,145,creative,As a prop for a magic trick,as a prop for a magic trick,brick,brick,0.96271,0.98688,0.91475,0.96754,1.15451,0.99728000000000006,-0.0179
+145,146,creative,As a personalized gift or memento such as a handpainted brick with the recipient's name or a special message,as a personalized gift or memento such as a handpainted brick with the recipients name or a special message,brick,brick,0.96876,1.03137,1.04433,0.96754,1.19102,1.0406,0.02357
+146,147,creative,As a fundraising or promotional item for a cause or organization,as a fundraising or promotional item for a cause or organization,brick,brick,0.97579,0.98602,0.95116,0.96826,0.80814,0.93787,-0.01785
+147,148,creative,Building a wall or structure,building a wall or structure,brick,brick,0.7824,0.92632,0.8804,0.90454,0.8298099999999999,0.86469,-0.07978
+148,149,creative,Creating a garden pathway,creating a garden pathway,brick,brick,1.05458,1.04133,0.99751,0.96795,1.18726,1.04973,0.02788
+149,150,creative,Making a planter or flower bed,making a planter or flower bed,brick,brick,1.04076,0.93107,0.98701,0.97433,0.82104,0.95084,-0.00583
+150,151,creative,Using it as a doorstop,using it as a doorstop,brick,brick,1.0616,0.94403,0.95714,0.96564,1.19087,1.02386,0.00377
+151,152,creative,Using it as a paperweight,using it as a paperweight,brick,brick,1.06199,0.8887,0.93938,0.96732,1.19317,1.01011,-0.0091
+152,153,creative,Using it as a bookend,using it as a bookend,brick,brick,0.96773,0.95707,0.9181,0.96741,1.15225,0.99251,-0.02096
+153,154,creative,Using it as a sculpture base,using it as a sculpture base,brick,brick,0.9802,1.0936,0.9255599999999999,0.96739,1.1917,1.03169,0.00566
+154,155,creative,Using it as a bookend,using it as a bookend,brick,brick,0.96773,0.95707,0.9181,0.96741,1.15225,0.99251,-0.02096
+155,156,creative,Using it as a doorstop,using it as a doorstop,brick,brick,1.0616,0.94403,0.95714,0.96564,1.19087,1.02386,0.00377
+156,157,creative,Using it as a building material for a miniature house or castle,using it as a building material for a miniature house or castle,brick,brick,0.7637,1.04745,1.03739,0.96754,1.19207,1.00163,-0.0103
+157,158,creative,Note Please be careful when using bricks for any of these purposes as they may break or crumble,note please be careful when using bricks for any of these purposes as they may break or crumble,brick,brick,0.95201,0.96292,1.05274,0.96754,0.80841,0.94872,-1.9e-4
+158,159,creative,Build a wall,build a wall,brick,brick,0.77946,0.85371,0.86481,1.03457,0.8141,0.86933,-0.09008
+159,160,creative,Create a planter,create a planter,brick,brick,0.99129,0.98077,0.93429,0.94067,1.03493,0.97639,-0.01422
+160,161,creative,Use it as a doorstop,use it as a doorstop,brick,brick,0.9315100000000001,0.93535,0.95911,0.96557,1.19056,0.99642,-0.01912
+161,162,creative,Create a sculpture,create a sculpture,brick,brick,0.97993,0.97541,0.92896,0.91918,0.78084,0.91686,-0.02747
+162,163,creative,Use it as a paperweight,use it as a paperweight,brick,brick,0.98068,0.97424,0.9808,0.96706,1.19117,1.01879,7.9e-4
+163,164,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+164,165,creative,Use it as a coaster,use it as a coaster,brick,brick,1.08596,1.0437400000000001,1.01006,0.968,0.80893,0.98334,0.02453
+165,166,creative,Use it as a weight for fitness training,use it as a weight for fitness training,brick,brick,0.94236,1.05228,1.03473,0.96797,1.1923,1.03793,0.02005
+166,167,creative,Use it as a building material for a pizza oven,use it as a building material for a pizza oven,brick,brick,0.91126,1.05568,0.96607,0.96753,1.1915499999999999,1.01842,-0.00184
+167,168,creative,Use it as a building material for a barbecue pit,use it as a building material for a barbecue pit,brick,brick,1.0284200000000001,1.05112,0.9667,0.96753,1.19234,1.04122,0.01745
+168,169,creative,Create a brick pizza oven,create a brick pizza oven,brick,brick,0.78335,0.95513,1.02721,0.93492,0.79623,0.89937,-0.03819
+169,170,creative,Use bricks as decorative elements in a flower garden,use bricks as decorative elements in a flower garden,brick,brick,0.97483,0.9845,1.18226,0.96116,0.80833,0.98222,0.03905
+170,171,creative,Create a brick pathway in a garden or yard,create a brick pathway in a garden or yard,brick,brick,0.85615,1.01784,0.97745,0.96621,0.80828,0.92519,-0.02664
+171,172,creative,Use bricks as building material for a retaining wall,use bricks as building material for a retaining wall,brick,brick,0.96549,0.93935,0.92537,0.96313,0.80776,0.92022,-0.03358
+172,173,creative,Use bricks as building material for a fireplace,use bricks as building material for a fireplace,brick,brick,0.87517,1.11879,0.98673,0.9679,1.1916,1.02804,0.0071
+173,174,creative,Use bricks as building material for a mailbox,use bricks as building material for a mailbox,brick,brick,0.8425199999999999,1.00953,1.02628,0.97316,1.19158,1.00861,-0.00543
+174,175,creative,Use bricks as building material for a BBQ grill,use bricks as building material for a bbq grill,brick,brick,1.06677,0.94339,0.89715,0.97122,1.1907,1.01385,-0.01016
+175,176,creative,Use bricks as building material for an outdoor fire pit,use bricks as building material for an outdoor fire pit,brick,brick,0.96215,1.03479,0.97585,0.95746,1.19166,1.02438,0.00548
+176,177,creative,Use bricks as building material for a raised garden bed,use bricks as building material for a raised garden bed,brick,brick,0.96633,1.06677,0.9761,0.96551,1.19169,1.03328,0.01162
+177,178,creative,Use bricks as building material for a brick mailbox,use bricks as building material for a brick mailbox,brick,brick,1.114,0.93303,1.06296,0.97551,0.8083400000000001,0.97877,0.02545
+178,179,creative,Use as a paperweight,use as a paperweight,brick,brick,1.0342,1.02739,1.00367,0.97167,0.80513,0.96841,0.01167
+179,180,creative,Use as a bookend,use as a bookend,brick,brick,1.07369,0.96043,0.96291,0.96671,0.83692,0.96013,-0.00151
+180,181,creative,Use as a doorstop,use as a doorstop,brick,brick,0.98179,1.0271,1.03961,0.99712,0.8082199999999999,0.97077,0.01298
+181,182,creative,Use as a planter for succulents or other small plants,use as a planter for succulents or other small plants,brick,brick,1.07811,0.94056,0.96423,0.9674,1.18803,1.02767,0.00778
+182,183,creative,Use as a soap dish or sponge holder,use as a soap dish or sponge holder,brick,brick,0.93064,1.08366,1.05729,0.97908,0.8202,0.97417,0.01715
+183,184,creative,Use as a decorative element in a vignette or on a shelf,use as a decorative element in a vignette or on a shelf,brick,brick,1.0346,0.94158,1.00929,0.96754,0.80701,0.952,-4.3e-4
+184,185,creative,Use as a coaster for drinks,use as a coaster for drinks,brick,brick,1.1188,0.92917,0.92683,0.96655,1.19143,1.02656,0.00363
+185,186,creative,Use as an outdoor planter for herbs or other small plants,use as an outdoor planter for herbs or other small plants,brick,brick,0.96863,1.01121,1.00655,0.96754,1.19178,1.02914,0.011
+186,187,creative,Use as a base for a small sculpture or piece of art,use as a base for a small sculpture or piece of art,brick,brick,1.04028,1.08707,1.03193,0.96753,1.19199,1.06376,0.04134
+187,188,creative,Use as an accent piece in a garden or outdoor space,use as an accent piece in a garden or outdoor space,brick,brick,0.97232,0.97894,0.99538,0.96749,1.19138,1.0211,0.00377
+188,189,creative,Build a LEGO wall,build a lego wall,brick,brick,0.99286,1.12917,0.98284,0.87249,1.16834,1.02914,0.02255
+189,190,creative,Create a mosaic art project,create a mosaic art project,brick,brick,0.92574,0.9285,0.9591,1.05103,0.79188,0.93125,-0.03008
+190,191,creative,Use it as a paperweight,use it as a paperweight,brick,brick,0.98068,0.97424,0.9808,0.96706,1.19117,1.01879,7.9e-4
+191,192,creative,Use it as a doorstop,use it as a doorstop,brick,brick,0.9315100000000001,0.93535,0.95911,0.96557,1.19056,0.99642,-0.01912
+192,193,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+193,194,creative,Use it as a planter,use it as a planter,brick,brick,1.11988,0.92654,0.99223,0.96755,1.0909200000000001,1.01942,0.01651
+194,195,creative,Use it as a soap dish,use it as a soap dish,brick,brick,1.07231,1.07334,1.01385,0.96734,1.18896,1.06316,0.03999
+195,196,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+196,197,creative,Use it as a candle holder,use it as a candle holder,brick,brick,1.03592,1.09474,1.06193,0.97057,1.17852,1.06834,0.04898
+197,198,creative,Use it as an accent piece in a home decor display,use it as an accent piece in a home decor display,brick,brick,0.99887,0.98846,1.01744,0.96754,1.02351,0.99916,0.00986
+198,199,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+199,200,creative,As a small step stool or ladder to reach high places,as a small step stool or ladder to reach high places,brick,brick,0.97195,1.03473,1.03391,0.96754,0.80826,0.96328,0.00973
+200,201,creative,As a doorstop to hold open a door or gate,as a doorstop to hold open a door or gate,brick,brick,0.97776,0.92747,1.01031,0.96752,0.80852,0.93832,-0.01196
+201,202,creative,As a paperweight to keep papers in place on a desk or table,as a paperweight to keep papers in place on a desk or table,brick,brick,0.96704,1.06303,0.9625900000000001,0.96754,1.19197,1.03043,0.00789
+202,203,creative,As a bookend to keep books upright on a shelf,as a bookend to keep books upright on a shelf,brick,brick,1.12866,0.9658100000000001,1.05066,0.96748,0.82548,0.98762,0.03018
+203,204,creative,As a coaster to protect a table or surface from heat or liquid,as a coaster to protect a table or surface from heat or liquid,brick,brick,0.99436,0.94506,0.99743,0.96756,0.80843,0.94257,-0.00961
+204,205,creative,As a planter for small plants or flowers,as a planter for small plants or flowers,brick,brick,1.02985,0.96896,0.94114,0.96817,0.80742,0.94311,-0.0139
+205,206,creative,As a weight to hold down a tarp or tent,as a weight to hold down a tarp or tent,brick,brick,1.01669,1.03773,0.95715,0.96754,1.1911100000000001,1.03404,0.01095
+206,207,creative,As a building material for a wall path or patio,as a building material for a wall path or patio,brick,brick,0.8287,0.9677,1.0314,0.96754,1.1896200000000001,0.99699,-0.01337
+207,208,creative,As a decorative element in a garden or outdoor space,as a decorative element in a garden or outdoor space,brick,brick,0.96958,1.0614,1.04861,0.96783,1.19169,1.04782,0.02952
+208,209,creative,As a tool to break glass in an emergency,as a tool to break glass in an emergency,brick,brick,0.8547899999999999,0.96121,0.94195,0.9675,0.80732,0.90655,-0.04456
+209,210,creative,Make a planter by filling a wooden box with soil and putting the brick on top of the soil,make a planter by filling a wooden box with soil and putting the brick on top of the soil,brick,brick,0.94949,0.95082,0.96277,0.96754,1.1918199999999999,1.00449,-0.01261
+210,211,creative,Use it as a doorstop,use it as a doorstop,brick,brick,0.9315100000000001,0.93535,0.95911,0.96557,1.19056,0.99642,-0.01912
+211,212,creative,Put it under one leg of a chair to keep it from wobbling,put it under one leg of a chair to keep it from wobbling,brick,brick,1.01716,1.05467,1.0253,0.96754,1.19241,1.05142,0.03071
+212,213,creative,Use it as a paperweight,use it as a paperweight,brick,brick,0.98068,0.97424,0.9808,0.96706,1.19117,1.01879,7.9e-4
+213,214,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+214,215,creative,Use it as a coaster,use it as a coaster,brick,brick,1.08596,1.0437400000000001,1.01006,0.968,0.80893,0.98334,0.02453
+215,216,creative,Use it to prop up a wobbly table or shelf,use it to prop up a wobbly table or shelf,brick,brick,1.07598,0.93733,1.01858,0.96754,1.10065,1.02002,0.01766
+216,217,creative,Use it as a weight to hold down a tablecloth on an outdoor table,use it as a weight to hold down a tablecloth on an outdoor table,brick,brick,0.97126,0.95935,0.94859,0.96753,0.80732,0.93081,-0.02349
+217,218,creative,Use it as a doorstop or wedge to keep a door open or closed,use it as a doorstop or wedge to keep a door open or closed,brick,brick,1.11577,1.05407,0.9713,0.96754,0.8104,0.98382,0.02155
+218,219,creative,Use it as a decorative element in your garden or patio,use it as a decorative element in your garden or patio,brick,brick,1.02594,0.98162,0.91933,0.96747,0.8084,0.94055,-0.01801
+219,220,creative,Build a wall,build a wall,brick,brick,0.77946,0.85371,0.86481,1.03457,0.8141,0.86933,-0.09008
+220,221,creative,Create a mosaic,create a mosaic,brick,brick,0.91118999999999994,0.99741,0.98965,1.02774,0.76753,0.9387,-0.01598
+221,222,creative,Use it as a paperweight,use it as a paperweight,brick,brick,0.98068,0.97424,0.9808,0.96706,1.19117,1.01879,7.9e-4
+222,223,creative,Use it as a doorstop,use it as a doorstop,brick,brick,0.9315100000000001,0.93535,0.95911,0.96557,1.19056,0.99642,-0.01912
+223,224,creative,Use it as a bookend,use it as a bookend,brick,brick,0.98815,0.99587,0.92355,0.96797,1.15949,1.00701,-0.00981
+224,225,creative,Use it as a garden border,use it as a garden border,brick,brick,1.03732,1.04007,0.99672,0.96723,1.19232,1.04673,0.02469
+225,226,creative,Use it as a planter,use it as a planter,brick,brick,1.11988,0.92654,0.99223,0.96755,1.0909200000000001,1.01942,0.01651
+226,227,creative,Use it as a mailbox,use it as a mailbox,brick,brick,0.88204,1.06055,1.00842,0.96742,0.8121700000000001,0.94612,-0.00767
+227,228,creative,Use it as a decorative element,use it as a decorative element,brick,brick,1.02743,1.02172,1.09974,0.97373,1.19128,1.06278,0.04609
+228,229,creative,Use it as a food warmer,use it as a food warmer,brick,brick,0.93498,0.98312,1.01834,0.96838,1.15729,1.01242,0.00277
+229,230,creative,Use them as bookends to hold your books in place,use them as bookends to hold your books in place,brick,brick,1.0341,0.99301,0.94876,0.96772,0.81469,0.95166,-0.0073
+230,231,creative,Use them as weights for strength training exercises,use them as weights for strength training exercises,brick,brick,1.01809,0.9532,1.01153,0.96047,1.19225,1.02711,0.01121
+231,232,creative,Use them as a foundation for a small garden or flower pot,use them as a foundation for a small garden or flower pot,brick,brick,1.03573,0.98044,1.01097,0.96753,1.19167,1.03727,0.01863
+232,233,creative,Use them as pavers to create a walkway or patio in your backyard,use them as pavers to create a walkway or patio in your backyard,brick,brick,0.86745,0.93681,0.95811,0.96753,1.1916,0.9843,-0.02986
+233,234,creative,Use them as stepping stones to create a path through a garden or yard,use them as stepping stones to create a path through a garden or yard,brick,brick,1.14295,1.0442,1.05822,0.96753,1.19168,1.08092,0.05854
+234,235,creative,Use them as weights to weigh down items in your tent while camping,use them as weights to weigh down items in your tent while camping,brick,brick,0.96962,0.93791,1.02269,0.96753,0.8083,0.94121,-0.00862
+235,236,creative,Use them as weights to hold down your tent during windy weather,use them as weights to hold down your tent during windy weather,brick,brick,0.96364,1.05046,1.04362,0.96982,0.80832,0.96717,0.01332
+236,237,creative,Use them as weights to hold down your tarp during rainy weather,use them as weights to hold down your tarp during rainy weather,brick,brick,1.02735,1.01323,0.98717,0.9675,1.19163,1.03738,0.01641
+237,238,creative,Use them as weights to hold down your awning during windy weather,use them as weights to hold down your awning during windy weather,brick,brick,1.02878,0.99173,1.04175,0.97495,1.18921,1.04528,0.02716
+238,239,creative,Use them as weights to hold down your outdoor rug during windy weather,use them as weights to hold down your outdoor rug during windy weather,brick,brick,1.01906,0.93114,0.97802,0.95708,1.19159,1.01538,-6.1e-4
+239,240,creative,Hide a GPS tracking device in a brick and use it to secretly track someone,hide a gps tracking device in a brick and use it to secretly track someone,brick,brick,0.79769,0.93791,1.01889,0.96754,0.80784,0.90597,-0.03867
+240,241,creative,Make a set of dominoes using the bricks,make a set of dominoes using the bricks,brick,brick,1.00228,0.96731,1.11757,0.96763,1.19048,1.04905,0.03746
+241,242,creative,Build a brick oven for baking pizza or other foods,build a brick oven for baking pizza or other foods,brick,brick,1.2199200000000001,1.0379,1.10508,0.96834,1.19178,1.1046,0.08229
+242,243,creative,Create a mosaic art piece using bricks as tiles,create a mosaic art piece using bricks as tiles,brick,brick,0.88088,0.98379,1.00225,1.03883,0.80811,0.94277,-0.01829
+243,244,creative,Make a brick phone case to protect your phone,make a brick phone case to protect your phone,brick,brick,1.00622,1.00725,1.09868,0.96822,0.80756000000000006,0.97759,0.02738
+244,245,creative,Build a fire pit using bricks,build a fire pit using bricks,brick,brick,1.06265,1.05557,0.86284,0.95949,1.19153,1.02642,-0.00235
+245,246,creative,Use bricks as weights for strength training,use bricks as weights for strength training,brick,brick,0.89474,0.90995,1.0578400000000001,0.97118,0.80782,0.92831,-0.01676
+246,247,creative,Use bricks as building blocks for a miniature city or village,use bricks as building blocks for a miniature city or village,brick,brick,0.89847,1.06161,0.95949,0.96744,0.80832,0.93907,-0.01704
+247,248,creative,Use bricks as coasters for drinks,use bricks as coasters for drinks,brick,brick,1.0162,1.05559,0.9042,0.9979,1.19072,1.03292,0.00184
+248,249,creative,Use bricks as bookends to keep books organized on a shelf,use bricks as bookends to keep books organized on a shelf,brick,brick,0.97298,0.98046,0.93619,0.96751,1.1926700000000001,1.00996,-0.0106
+249,250,creative,Make a brick phone case for your phone,make a brick phone case for your phone,brick,brick,0.85394,0.84471,1.07999,0.97494,1.19244,0.9892,-0.01582
+250,251,creative,Build a brick oven in your backyard for baking pizza or bread,build a brick oven in your backyard for baking pizza or bread,brick,brick,1.1432,0.95813,1.05008,0.96574,1.19168,1.06177,0.04299
+251,252,creative,Use bricks to create decorative patterns in your garden or yard,use bricks to create decorative patterns in your garden or yard,brick,brick,1.00083,0.98625,1.05703,0.96195,0.80832,0.96288,0.01254
+252,253,creative,Use bricks to make a path or walkway in your garden or yard,use bricks to make a path or walkway in your garden or yard,brick,brick,0.84812,1.01608,1.01538,0.96769,0.80833,0.93112,-0.01875
+253,254,creative,Use bricks to create a border or edging for your garden or yard,use bricks to create a border or edging for your garden or yard,brick,brick,0.9124099999999999,0.93827,1.00372,0.96749,1.19167,1.00271,-0.01065
+254,255,creative,Use bricks to create a base for an outdoor bench or table,use bricks to create a base for an outdoor bench or table,brick,brick,0.9716,1.06431,1.00306,0.9675,1.19167,1.03963,0.01894
+255,256,creative,Use bricks to create a raised garden bed,use bricks to create a raised garden bed,brick,brick,1.1029,1.10122,1.01477,0.95963,1.19171,1.07405,0.0495
+256,257,creative,Use bricks to create a planter for flowers or plants,use bricks to create a planter for flowers or plants,brick,brick,0.96924,0.98617,0.99786,0.96777,0.80823,0.94585,-0.00731
+257,258,creative,Use bricks to create a sculpture or art piece,use bricks to create a sculpture or art piece,brick,brick,0.99546,1.01499,0.96732,0.95435,0.80817,0.94806,-0.00659
+258,259,creative,Use bricks to create a mailbox,use bricks to create a mailbox,brick,brick,1.06691,1.06426,1.02175,0.9965,1.19122,1.06813,0.04103

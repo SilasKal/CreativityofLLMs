@@ -1,0 +1,144 @@
+#response_filtered#solution#eval#RATItems#prompt#response_raw
+0#  Hint: The word is a type of pastry.#cheese#False#cottage/swiss/cake#  Hint: The word is a type of pastry.#  Hint: The word is a type of pastry.
+1#"  Certainly! The connecting word between ""cream,"" ""skate,"" and ""water"" is: Rink"#ice#False#cream/skate/water#"  Certainly! The connecting word between ""cream,"" ""skate,"" and ""water"" is: Rink"#"  Certainly! The connecting word between ""cream,"" ""skate,"" and ""water"" is: Rink"
+2#  Answer: Lose#sore#False#loser/throat/spot#  Answer: Lose#  Answer: Lose
+3#  Answer: House#boat#False#show/life/row#  Answer: House#  Answer: House
+4#  Answer: Wrist#watch#False#night/wrist/stop#  Answer: Wrist#  Answer: Wrist
+5# #bill#False#duck/fold/dollar# # 
+6#  Answer: Chair#chair#True#rocking/wheel/high#  Answer: Chair#  Answer: Chair
+7#  Answer: Dew#honey#False#dew/comb/bee#  Answer: Dew#  Answer: Dew
+8#  Sounds#soda#False#fountain/baking/pop#  Sounds#  Sounds
+9#  connector#forest#False#preserve/ranger/tropical#  connector#  connector
+10#  Answer: Ride#band#False#aid/rubber/wagon#  Answer: Ride#  Answer: Ride
+11#  Pronoun#snow#False#flake/mobile/cone#  Pronoun#  Pronoun
+12#  Use one word only.#fire#False#cracker/fly/fighter#  Use one word only.#  Use one word only.
+13#  Answer: Hinge#pin#False#safety/cushion/point#  Answer: Hinge#  Answer: Hinge
+14#  (1 point)#sugar#False#cane/daddy/plum#  (1 point)#  (1 point)
+15#  Answer: Break#day#False#dream/break/light#  Answer: Break#  Answer: Break
+16#  Answer: MINE#gold#False#fish/mine/rush#  Answer: MINE#  Answer: MINE
+17#  Answer: In#party#False#political/surprise/line#  Answer: In#  Answer: In
+18#  answer: worm#tape#False#measure/worm/video#  answer: worm#  answer: worm
+19#  Answer: Street#school/court#False#high/district/house#  Answer: Street#  Answer: Street
+20#  I will provide a hint if you get stuck.#common#False#sense/courtesy/place#  I will provide a hint if you get stuck.#  I will provide a hint if you get stuck.
+21#  Answer: Worm#book#False#worm/shelf/end#  Answer: Worm#  Answer: Worm
+22#   Answer: Puzzle#game#False#piece/mind/dating#   Answer: Puzzle#   Answer: Puzzle
+23#"  Here is a hint: The word starts with the letter ""F""."#girl#False#flower/friend/scout#"  Here is a hint: The word starts with the letter ""F""."#"  Here is a hint: The word starts with the letter ""F""."
+24#"  Hint: The connecting word is a five-letter word that starts with the letter ""A""."#bank#False#river/note/account#"  Hint: The connecting word is a five-letter word that starts with the letter ""A""."#"  Hint: The connecting word is a five-letter word that starts with the letter ""A""."
+25#  Answer: Baird#blue#False#print/berry/bird#  Answer: Baird#  Answer: Baird
+26#  Answer: Lucky#pot#False#pie/luck/belly#  Answer: Lucky#  Answer: Lucky
+27# #blind#False#date/alley/fold# # 
+28#  _ _ _ _#soap#False#opera/hand/dish#  _ _ _ _#  _ _ _ _
+29#  Answer: Capsize#space#False#cadet/capsule/ship#  Answer: Capsize#  Answer: Capsize
+30#  The connecting word is: Dog#coat#False#fur/rack/tail#  The connecting word is: Dog#  The connecting word is: Dog
+31#  Answer: Tape#match#False#stick/maker/point#  Answer: Tape#  Answer: Tape
+32#  Answer: Hound#blood#False#hound/pressure/shot#  Answer: Hound#  Answer: Hound
+33#  Answer: Sly#hole#False#fox/man/peep#  Answer: Sly#  Answer: Sly
+34#  In the next question, you will have to give a brief explanation of why that particular word connects those three words. _ _ _ trash  Answer: Bag  Explanation: A bag can be used to carry sleeping beans (or other items) around.#bag#True#sleeping/bean/trash#  In the next question, you will have to give a brief explanation of why that particular word connects those three words. _ _ _ trash  Answer: Bag  Explanation: A bag can be used to carry sleeping beans (or other items) around.#  In the next question, you will have to give a brief explanation of why that particular word connects those three words. _ _ _ trash  Answer: Bag  Explanation: A bag can be used to carry sleeping beans (or other items) around.
+35#  Answer: Bread#bowl#False#dust/cereal/fish#  Answer: Bread#  Answer: Bread
+36#  Answer: Party#candle#False#light/birthday/stick#  Answer: Party#  Answer: Party
+37#  The connection is in the context of a meal: 1. Fruit 2. Bread 3. Water#fast#False#food/forward/break#  The connection is in the context of a meal: 1. Fruit 2. Bread 3. Water#  The connection is in the context of a meal: 1. Fruit 2. Bread 3. Water
+38#  L-A-S-E#moon#False#shine/beam/struck#  L-A-S-E#  L-A-S-E
+39#  Sounds like a fun game! Here is the next one: What word connects pine/crane/wine?#pit#False#peach/arm/tar#  Sounds like a fun game! Here is the next one: What word connects pine/crane/wine?#  Sounds like a fun game! Here is the next one: What word connects pine/crane/wine?
+40#    Hint: It's a common five-letter word that ends in -er.#salt#False#water/mine/shaker#    Hint: It's a common five-letter word that ends in -er.#    Hint: It's a common five-letter word that ends in -er.
+41#  Answer: Tree#tree#True#palm/shoe/house#  Answer: Tree#  Answer: Tree
+42#  Answer: Bate#ball#False#basket/eight/snow#  Answer: Bate#  Answer: Bate
+43#  Answer: HAND#cart#False#wheel/hand/shopping#  Answer: HAND#  Answer: HAND
+44#  Answer: Rat#copy#False#right/cat/carbon#  Answer: Rat#  Answer: Rat
+45#  Answer: Fusion#family#False#nuclear/feud/album#  Answer: Fusion#  Answer: Fusion
+46#  Answer: Home#club#False#sandwich/house/golf#  Answer: Home#  Answer: Home
+47#  Answer: St.#bow#False#cross/rain/tie#  Answer: St.#  Answer: St.
+48#  The answer can be a noun, verb or adjective. The word is: dye#brush#False#sage/paint/hair#  The answer can be a noun, verb or adjective. The word is: dye#  The answer can be a noun, verb or adjective. The word is: dye
+49#  Answer: Drive#horn#False#french/car/shoe#  Answer: Drive#  Answer: Drive
+50#  Answer: Boot#camp#False#boot/summer/ground#  Answer: Boot#  Answer: Boot
+51#  The word that connects chamber, mask, and natural is: Air#gas#False#chamber/mask/natural#  The word that connects chamber, mask, and natural is: Air#  The word that connects chamber, mask, and natural is: Air
+52#   #saw#False#mill/tooth/dust#   #   
+53#  (One answer only.)#street#False#main/sweeper/light#  (One answer only.)#  (One answer only.)
+54#  Answer: Pattern#turn#False#pike/coat/signal#  Answer: Pattern#  Answer: Pattern
+55#  Answer: Letter#box#False#office/mail/hat#  Answer: Letter#  Answer: Letter
+56#  Add a comment if you wish to explain your reasoning. Answer: CLIP#paper#False#fly/clip/wall#  Add a comment if you wish to explain your reasoning. Answer: CLIP#  Add a comment if you wish to explain your reasoning. Answer: CLIP
+57#  Answer: Mile#stone#False#age/mile/sand#  Answer: Mile#  Answer: Mile
+58#  Fish#dog#False#catcher/food/hot#  Fish#  Fish
+59#  Answer: Wheel#station#False#wagon/break/radio#  Answer: Wheel#  Answer: Wheel
+60#  Answer: Tunnel#top#False#tank/hill/secret#  Answer: Tunnel#  Answer: Tunnel
+61# #care#False#health/taker/less# # 
+62#  The answer is a common four-letter English word.#face#False#lift/card/mask#  The answer is a common four-letter English word.#  The answer is a common four-letter English word.
+63#  Answer: Dial#sun#False#dress/dial/flower#  Answer: Dial#  Answer: Dial
+64#"  Here is a hint: it starts with an ""M""."#air#False#force/line/mail#"  Here is a hint: it starts with an ""M""."#"  Here is a hint: it starts with an ""M""."
+65#  Here is the list of words: guy rain down#fall#False#guy/rain/down#  Here is the list of words: guy rain down#  Here is the list of words: guy rain down
+66#  Here is the list of words: 1. Eight 2. Skate 3. Stick#figure#False#eight/skate/stick#  Here is the list of words: 1. Eight 2. Skate 3. Stick#  Here is the list of words: 1. Eight 2. Skate 3. Stick
+67#  answer: And#mark#False#down/question/check#  answer: And#  answer: And
+68#  (1 word)#pack#False#animal/back/rat#  (1 word)#  (1 word)
+69#  The connecting word is: Crime#petty#False#officer/cash/larceny#  The connecting word is: Crime#  The connecting word is: Crime
+70#  Answer: Tree#apple#False#pine/crab/sauce#  Answer: Tree#  Answer: Tree
+71#  Answer: Lemon#green#False#house/thumb/pepper#  Answer: Lemon#  Answer: Lemon
+72#  Answer: Alert#red#False#carpet/alert/ink#  Answer: Alert#  Answer: Alert
+73# #ring#False#master/toss/finger# # 
+74#  Answer: Hunt#head#False#hammer/gear/hunter#  Answer: Hunt#  Answer: Hunt
+75#  Answer: Bright#pen#False#knife/light/pal#  Answer: Bright#  Answer: Bright
+76#  Answer: Ground#play#False#foul/ground/mate#  Answer: Ground#  Answer: Ground
+77#  Answer: Switch#short#False#change/circuit/cake#  Answer: Switch#  Answer: Switch
+78#  It is a three-letter word.#walk#False#way/board/sleep#  It is a three-letter word.#  It is a three-letter word.
+79#  Answer: List#check#False#blank/list/mate#  Answer: List#  Answer: List
+80#  Answer: Wave#gate#False#tail/water/flood#  Answer: Wave#  Answer: Wave
+81#  Answer: Marsh#grand#False#marshal/child/piano#  Answer: Marsh#  Answer: Marsh
+82#  answer: Cover#under#False#cover/arm/wear#  answer: Cover#  answer: Cover
+83#  Please include the three words in question for context.#acid#False#rain/test/stomach#  Please include the three words in question for context.#  Please include the three words in question for context.
+84#  Answer: Nelson#full#False#time/blown/nelson#  Answer: Nelson#  Answer: Nelson
+85#  Answer: Market#stock#False#pile/market/room#  Answer: Market#  Answer: Market
+86#"  Answer: Sand  Explanation: The connecting word between ""mouse"" and ""bear"" is ""cub."" A cub is a young bear, and a young mouse is also called a cub. Therefore, the connection between ""bear"" and ""mouse"" is through the word ""cub."" Similarly, the connection between ""bear"" and ""sand"" is through the word ""cub,"" as bears are known to dig in sand."#trap#False#mouse/bear/sand#"  Answer: Sand  Explanation: The connecting word between ""mouse"" and ""bear"" is ""cub."" A cub is a young bear, and a young mouse is also called a cub. Therefore, the connection between ""bear"" and ""mouse"" is through the word ""cub."" Similarly, the connection between ""bear"" and ""sand"" is through the word ""cub,"" as bears are known to dig in sand."#"  Answer: Sand  Explanation: The connecting word between ""mouse"" and ""bear"" is ""cub."" A cub is a young bear, and a young mouse is also called a cub. Therefore, the connection between ""bear"" and ""mouse"" is through the word ""cub."" Similarly, the connection between ""bear"" and ""sand"" is through the word ""cub,"" as bears are known to dig in sand."
+87#  Answer: Number#call#False#cat/number/phone#  Answer: Number#  Answer: Number
+88#  Answer: Lager#powder#False#keg/puff/room#  Answer: Lager#  Answer: Lager
+89#  Answer: Hole#field#False#trip/house/goal#  Answer: Hole#  Answer: Hole
+90#  The connecting word is: knight#pitch#False#fork/dark/man#  The connecting word is: knight#  The connecting word is: knight
+91#  clue: The three words are related to a common theme or topic#post#False#fence/card/master#  clue: The three words are related to a common theme or topic#  clue: The three words are related to a common theme or topic
+92#  Answer: Tester#road#False#test/runner/map#  Answer: Tester#  Answer: Tester
+93#  Answer: Blast#sky#False#dive/light/rocket#  Answer: Blast#  Answer: Blast
+94#  Answer: Stick#super#False#man/glue/star#  Answer: Stick#  Answer: Stick
+95#  Word: Tuber#sweet#False#tooth/potato/heart#  Word: Tuber#  Word: Tuber
+96#  Answer: Bus#terminal#False#illness/bus/computer#  Answer: Bus#  Answer: Bus
+97#  typewriter#writer#False#type/ghost/screen#  typewriter#  typewriter
+98#  I'll give you another chance in a bit.#black#False#mail/board/lung#  I'll give you another chance in a bit.#  I'll give you another chance in a bit.
+99# #false#False#teeth/arrest/start# # 
+100#  Here is a hint: It's a common activity.#steam#False#iron/shovel/engine#  Here is a hint: It's a common activity.#  Here is a hint: It's a common activity.
+101#  Word: WITNESS#suit#False#wet/law/business#  Word: WITNESS#  Word: WITNESS
+102#  Answer: Haul#tow#False#rope/truck/line#  Answer: Haul#  Answer: Haul
+103#  The word is: Base#base#True#off/military/first#  The word is: Base#  The word is: Base
+104#  If you need more context or information, please ask before answering.#table#False#spoon/cloth/card#  If you need more context or information, please ask before answering.#  If you need more context or information, please ask before answering.
+105#  Dough#cold#False#cut/cream/war#  Dough#  Dough
+106#  I will provide explanations for each of these words if you like.#key#False#note/chain/master#  I will provide explanations for each of these words if you like.#  I will provide explanations for each of these words if you like.
+107#  Answer: Hair#after#False#shock/shave/taste#  Answer: Hair#  Answer: Hair
+108#    Hint: The word is a 5-letter word that starts with the letter T.#clock#False#wise/work/tower#    Hint: The word is a 5-letter word that starts with the letter T.#    Hint: The word is a 5-letter word that starts with the letter T.
+109#  Answer: Greet#crab#False#grass/king/meat#  Answer: Greet#  Answer: Greet
+110#  Answer: Season#shower#False#baby/spring/cap#  Answer: Season#  Answer: Season
+111#  bread#coffee#False#break/bean/cake#  bread#  bread
+112#  Answer: Frontrunner#battle#False#cry/front/ship#  Answer: Frontrunner#  Answer: Frontrunner
+113#  answer: Hole#foot#False#hold/print/stool#  answer: Hole#  answer: Hole
+114#  Answer: Roll#jelly#False#roll/bean/fish#  Answer: Roll#  Answer: Roll
+115#  Answer: Ride#race#False#horse/human/drag#  Answer: Ride#  Answer: Ride
+116#  Answer: Fish#salad#False#oil/bar/tuna#  Answer: Fish#  Answer: Fish
+117#  Answer: Rhythm#bell#False#bottom/curve/hop#  Answer: Rhythm#  Answer: Rhythm
+118#  Answer: Tom#cherry#False#tomato/bomb/picker#  Answer: Tom#  Answer: Tom
+119#  You may ask for clarification if you need more information.#nut#False#pea/shell/chest#  You may ask for clarification if you need more information.#  You may ask for clarification if you need more information.
+120#  Answer: Juice#punch#False#line/fruit/drunk#  Answer: Juice#  Answer: Juice
+121#"  If you know more than one word that connects these three, please provide all of them.   Answer: The connecting word is ""stumble""."#goose#False#bump/egg/step#"  If you know more than one word that connects these three, please provide all of them.   Answer: The connecting word is ""stumble""."#"  If you know more than one word that connects these three, please provide all of them.   Answer: The connecting word is ""stumble""."
+122#  Answer: Fight#gun#False#fight/control/machine#  Answer: Fight#  Answer: Fight
+123#  This is a tricky question, but I think you will enjoy it!#rest#False#home/arm/room#  This is a tricky question, but I think you will enjoy it!#  This is a tricky question, but I think you will enjoy it!
+124#  I will give you another set of words to connect in the future if needed. Good luck!#brain#False#child/scan/wash#  I will give you another set of words to connect in the future if needed. Good luck!#  I will give you another set of words to connect in the future if needed. Good luck!
+125#  Answer: Rhyme#brown#False#nose/stone/bear#  Answer: Rhyme#  Answer: Rhyme
+126#  Answer: Link#dead#False#end/line/lock#  Answer: Link#  Answer: Link
+127#  Answer: Location#birth#False#control/place/rate#  Answer: Location#  Answer: Location
+128#  Answer: Hour#cocktail#False#lounge/hour/napkin#  Answer: Hour#  Answer: Hour
+129#  Answer: Hatch#escape#False#artist/hatch/route#  Answer: Hatch#  Answer: Hatch
+130#  Answer: Stray#rock#False#pet/bottom/garden#  Answer: Stray#  Answer: Stray
+131#"  Answer: ""ate"""#running#False#mate/shoes/total#"  Answer: ""ate"""#"  Answer: ""ate"""
+132#  If you need additional information, please let me know.#defense#False#self/attorney/spending#  If you need additional information, please let me know.#  If you need additional information, please let me know.
+133#  Answer: Slice#switch#False#board/blade/back#  Answer: Slice#  Answer: Slice
+134#  Answer: Hand#farm#False#land/hand/house#  Answer: Hand#  Answer: Hand
+135#  Answer: Belt#money#False#hungry/order/belt#  Answer: Belt#  Answer: Belt
+136#  Answer: Blades#straight#False#forward/flush/razor#  Answer: Blades#  Answer: Blades
+137#  Article#eye#False#shadow/chart/drop#  Article#  Article
+138#  Answer: Way#fair#False#way/ground/weather#  Answer: Way#  Answer: Way
+139#   Hint: The word I am thinking of is a common English language word.#broad#False#cast/side/jump#   Hint: The word I am thinking of is a common English language word.#   Hint: The word I am thinking of is a common English language word.
+140#  Answer: Back#door#False#back/step/screen#  Answer: Back#  Answer: Back
+141#  Answer: Help#lip#False#reading/service/stick#  Answer: Help#  Answer: Help
+142#  Here is a hint: it's a common English language word that can be used as either a noun or a verb.#power#False#over/plant/horse#  Here is a hint: it's a common English language word that can be used as either a noun or a verb.#  Here is a hint: it's a common English language word that can be used as either a noun or a verb.

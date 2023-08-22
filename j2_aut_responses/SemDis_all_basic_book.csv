@@ -1,0 +1,268 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_glove_c_m,SemDis_MEAN,SemDis_factor
+0,1,creative,Hide valuables inside a secret compartment in a book,hide valuables inside a secret compartment in a book,book,book,0.76015,0.98757,1.07558,0.96626,0.69528,0.89697,-0.08586
+1,2,creative,Use a book as a place to hide small items such as keys,use a book as a place to hide small items such as keys,book,book,0.90834,0.95226,1.09443,0.96613,0.77629,0.93949,-0.0262
+2,3,creative,Use a book as a coaster for drinks,use a book as a coaster for drinks,book,book,0.88596,1.0865,0.9245,0.96636,1.21872,1.01641,-0.01254
+3,4,creative,Use a book as a stand for a tablet or laptop,use a book as a stand for a tablet or laptop,book,book,1.00996,0.98291,0.99316,0.96613,0.77024,0.94448,0.00363
+4,5,creative,Use a book as a stand for a phone,use a book as a stand for a phone,book,book,0.82368,0.90488,0.97061,0.96613,0.76051,0.88516,-0.07645
+5,6,creative,Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+6,7,creative,Use a book as a picture frame,use a book as a picture frame,book,book,0.76761,0.87792,0.9648,0.96154,0.73037,0.86045,-0.10325
+7,8,creative,Use a book as a decorative item,use a book as a decorative item,book,book,0.9740800000000001,1.10292,1.03874,0.9605,0.76371,0.96799,0.00442
+8,9,creative,Use a book as a doorstop,use a book as a doorstop,book,book,0.93181,1.10638,0.88114,0.97437,0.78359,0.93546,-0.02433
+9,10,creative,Use a book as a paperweight,use a book as a paperweight,book,book,0.9618,1.13342,0.91089,0.97241,0.75896,0.9475,-0.00935
+10,11,creative,Use a book as a writing surface,use a book as a writing surface,book,book,0.91569,0.98972,0.98225,0.96561,0.6904,0.90873,-0.03751
+11,12,creative,Create a secret compartment in a book to store valuables,create a secret compartment in a book to store valuables,book,book,0.90436,0.97387,1.06272,0.96637,1.311,1.04366,0.00478
+12,13,creative,Use a book as a place to hide messages,use a book as a place to hide messages,book,book,0.87342,0.96518,0.96921,0.96614,0.74049,0.90289,-0.05373
+13,14,creative,Use a book as a coaster,use a book as a coaster,book,book,0.87471,0.93505,1.05369,0.96496,1.21836,1.00935,-0.01692
+14,15,creative,Use a book as a doorstop,use a book as a doorstop,book,book,0.93181,1.10638,0.88114,0.97437,0.78359,0.93546,-0.02433
+15,16,creative,Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+16,17,creative,Use a book as a laptop stand,use a book as a laptop stand,book,book,0.99089,0.93324,1.01119,0.96657,0.7366900000000001,0.92772,-0.00814
+17,18,creative,Use a book as a picture frame,use a book as a picture frame,book,book,0.76761,0.87792,0.9648,0.96154,0.73037,0.86045,-0.10325
+18,19,creative,Use a book as a phone stand,use a book as a phone stand,book,book,0.79262,0.89307,0.9525,0.96513,0.73531,0.86773,-0.09287
+19,20,creative,Use a book as a planter,use a book as a planter,book,book,1.06467,1.0343,0.94199,0.97117,0.69526,0.94148,0.01949
+20,21,creative,Use a book as a serving tray,use a book as a serving tray,book,book,0.9866,0.9335100000000001,1.09493,0.96477,1.02028,1.00002,0.01682
+21,22,creative,Make a notebook out of it,make a notebook out of it,book,book,0.95306,1.1104,0.91526,0.96621,1.3075,1.05049,0.01946
+22,23,creative,Use it as a coaster,use it as a coaster,book,book,0.85954,1.03705,0.9466600000000001,0.96636,0.7836,0.91864,-0.05212
+23,24,creative,Use it as a placemat,use it as a placemat,book,book,1.0104899999999999,1.06605,0.93853,0.96749,1.30768,1.05805,0.03977
+24,25,creative,Use it as a laptop stand,use it as a laptop stand,book,book,1.07805,1.02216,0.98812,0.96606,1.28109,1.0671,0.06457
+25,26,creative,Use it as a picture frame,use it as a picture frame,book,book,0.99051,0.9851,0.90439,0.96731,1.28856,1.02717,0.02011
+26,27,creative,Use it as a paperweight,use it as a paperweight,book,book,0.87051,0.95242,0.95411,0.96639,1.24801,0.99829,-0.0254
+27,28,creative,Use it as a phone stand,use it as a phone stand,book,book,0.89386,1.04788,1.04577,0.96639,1.28268,1.04732,0.00389
+28,29,creative,Use it as a shelf,use it as a shelf,book,book,0.8192200000000001,0.99458,0.98592,0.96618,0.6876,0.8907,-0.07304
+29,30,creative,Use it as a pillow,use it as a pillow,book,book,0.83569,1.0087,0.99035,0.96535,1.10272,0.98056,-0.03896
+30,31,creative,Use it as a door stop,use it as a door stop,book,book,1.02634,1.04711,1.03767,0.9661,1.25438,1.06632,0.05094
+31,32,creative,As a doorstop,as a doorstop,book,book,0.73455,0.91745,0.82025,0.93485,1.26975,0.93537,-0.09777
+32,33,creative,As a bookend,as a bookend,book,book,0.89863,1.09783,0.83199,0.962,1.3237999999999999,1.02285,-0.01065
+33,34,creative,As a makeshift table surface,as a makeshift table surface,book,book,0.91427,0.93507,0.92579,0.98838,0.7962400000000001,0.91195,-0.03846
+34,35,creative,As a cutting board,as a cutting board,book,book,0.99762,0.98438,1.04661,0.97456,1.32105,1.06484,0.04108
+35,36,creative,As a paperweight,as a paperweight,book,book,0.85363,0.99137,0.79811,0.98127,1.31515,0.98791,-0.03808
+36,37,creative,As a laptop stand,as a laptop stand,book,book,1.09589,1.03512,1.11975,0.96382,1.29492,1.1019,0.08692
+37,38,creative,As a picture frame,as a picture frame,book,book,1.01158,1.02924,0.95577,0.94212,1.28687,1.04512,0.03315
+38,39,creative,As a journal,as a journal,book,book,0.87639,0.9089700000000001,0.85473,0.99846,0.6013200000000001,0.84797,-0.07326
+39,40,creative,As a photo album,as a photo album,book,book,1.01148,1.0142,1.12526,0.95582,1.2175,1.06485,0.04765
+40,41,creative,As a bookshelf,as a bookshelf,book,book,0.7389,0.93279,0.7985599999999999,0.99407,1.33461,0.95979,-0.08308
+41,42,creative,As a paper airplane,as a paper airplane,book,book,0.94325,0.98707,0.88292,0.96689,1.29915,1.01586,8.3e-4
+42,43,creative,Make a book fort Stack books to form a cozy reading nook,make a book fort stack books to form a cozy reading nook,book,book,1.04043,1.14065,0.96766,0.96558,1.21756,1.06638,0.0548
+43,44,creative,Create a photo book Use a book as a photo album or scrapbook,create a photo book use a book as a photo album or scrapbook,book,book,1.1292200000000001,1.10311,0.91,0.96636,1.22137,1.06601,0.07906
+44,45,creative,Make a journal Use a book as a journal or diary,make a journal use a book as a journal or diary,book,book,0.91057,0.92405,1.02162,0.96523,0.70519,0.90533,-0.04028
+45,46,creative,Make a cookbook Use a book as a cookbook or recipe book,make a cookbook use a book as a cookbook or recipe book,book,book,0.84444,1.13081,0.8962600000000001,0.98269,1.25192,1.02122,-0.02234
+46,47,creative,Use it as a prop Use a book as a prop in a photoshoot or as part of a costume,use it as a prop use a book as a prop in a photoshoot or as part of a costume,book,book,1.07786,0.95601,1.08412,0.96613,0.6934400000000001,0.95551,0.03154
+47,48,creative,Use it as a canvas Use a book as a canvas for drawing or painting,use it as a canvas use a book as a canvas for drawing or painting,book,book,0.87226,0.93547,0.98262,0.96613,0.77584,0.90646,-0.05318
+48,49,creative,Make a sculpture Use a book as a sculpture or as part of a sculpture,make a sculpture use a book as a sculpture or as part of a sculpture,book,book,0.9524,0.93782,0.97328,0.96613,0.7799,0.92191,-0.02357
+49,50,creative,Use it as a puzzle Use a book as a puzzle or as part of a puzzle,use it as a puzzle use a book as a puzzle or as part of a puzzle,book,book,0.92831,1.04514,1.02924,0.96613,0.7760400000000001,0.94897,-0.01728
+50,51,creative,Use it as a musical instrument Use a book as a musical instrument such as a book drum or book harp,use it as a musical instrument use a book as a musical instrument such as a book drum or book harp,book,book,1.0345,0.96439,0.90112,0.96613,0.78176,0.92958,0.00215
+51,52,creative,Use it as a book holder Use a book as a book holder or book stand,use it as a book holder use a book as a book holder or book stand,book,book,0.84577,0.99945,1.05707,0.96613,1.26074,1.02583,-0.01878
+52,53,creative,Use it as a conversation starter Use a book as a conversation starter or as part of a conversation starter,use it as a conversation starter use a book as a conversation starter or as part of a conversation starter,book,book,1.03454,0.98912,0.93436,0.96613,1.21835,1.0285,0.03557
+53,54,creative,Make a book fort or shelter,make a book fort or shelter,book,book,1.06584,1.1028,0.92003,1.012,1.2206299999999999,1.06426,0.06382
+54,55,creative,Use a book as a canvas for drawing or painting,use a book as a canvas for drawing or painting,book,book,1.06413,1.06404,1.00413,0.96615,1.22974,1.06564,0.06156
+55,56,creative,Use a book as a place to keep a collection of small items such as buttons or coins,use a book as a place to keep a collection of small items such as buttons or coins,book,book,1.0967500000000001,0.98753,0.97476,0.96613,1.22076,1.04919,0.06326
+56,57,creative,Use a book as a stand for propping up your phone or tablet,use a book as a stand for propping up your phone or tablet,book,book,0.93877,0.97737,0.95746,0.96613,1.21664,1.01127,8.4e-4
+57,58,creative,Use a book as a coaster or placemat,use a book as a coaster or placemat,book,book,0.84668,1.1078999999999999,0.9781,0.96507,0.78315,0.93618,-0.04749
+58,59,creative,Use a book as a backdrop for creative photography or Instagram shots,use a book as a backdrop for creative photography or instagram shots,book,book,1.07303,0.9227,0.90068,0.96613,0.7524299999999999,0.92299,0.01099
+59,60,creative,Use a book as a gift box or packaging for small items,use a book as a gift box or packaging for small items,book,book,1.09772,1.04706,0.91641,0.96618,1.24957,1.05539,0.06461
+60,61,creative,Use a book as a writing or drawing surface,use a book as a writing or drawing surface,book,book,0.95506,1.01332,0.88426,0.96609,0.72217,0.90818,-0.02889
+61,62,creative,Use a book as a musical instrument or sound generator,use a book as a musical instrument or sound generator,book,book,0.8557,1.01412,1.01996,0.96493,1.2683,1.0246,-0.01739
+62,63,creative,Use a book as a stand for propping up your tablet or phone,use a book as a stand for propping up your tablet or phone,book,book,0.93877,0.97737,0.95746,0.96613,1.21664,1.01127,8.4e-4
+63,64,creative,A book can be repurposed as a,a book can be repurposed as a,book,book,1.05931,0.90835,0.96752,0.96636,1.3201,1.04433,0.04762
+64,65,creative,Birdhouse,birdhouse,book,book,0.81964,0.85944,0.86652,0.94597,1.00786,0.89989,-0.0808
+65,66,creative,Planter,planter,book,book,0.94272,0.97624,0.94336,1.08571,1.05579,1.00076,0.01046
+66,67,creative,Weight for an exercise,weight for an exercise,book,book,1.05495,0.8772,1.04702,0.88152,1.30494,1.03313,0.03653
+67,68,creative,Footrest,footrest,book,book,1.01852,0.83432,0.98385,NA,1.19444,1.00778,0.02021
+68,69,creative,Laptop stand,laptop stand,book,book,1.05586,0.9586,1.07965,0.96179,1.33254,1.07769,0.06277
+69,70,creative,Photo album,photo album,book,book,1.00083,0.9593700000000001,1.1266,0.97041,1.10304,1.03205,0.03404
+70,71,creative,Art display,art display,book,book,1.08962,0.97276,1.00689,1.01613,1.27428,1.07194,0.07438
+71,72,creative,Storage for odds and ends,storage for odds and ends,book,book,1.01716,0.97645,0.93191,0.97955,0.7388600000000001,0.92879,-5e-4
+72,73,creative,Decoration,decoration,book,book,0.96029,0.95433,0.91218,0.99515,0.92583,0.94956,-0.01153
+73,74,creative,A gift for someone with similar interests,a gift for someone with similar interests,book,book,0.99064,1.01787,1.04988,0.96638,0.74039,0.95303,0.00369
+74,75,creative,A creative use for a book can be anything that you come up with that strikes you as clever unusual interesting uncommon humorous innovative or different Some people might find the idea of using books as birdhouses or planters to be unusual and clever while others might prefer the idea of using them as laptop stands or art displays It's all about individual preference and creativity,a creative use for a book can be anything that you come up with that strikes you as clever unusual interesting uncommon humorous innovative or different some people might find the idea of using books as birdhouses or planters to be unusual and clever while others might prefer the idea of using them as laptop stands or art displays its all about individual preference and creativity,book,book,0.97,0.86775,1.04013,0.96613,0.80715,0.93023,-0.01443
+75,76,creative,Use a book as a coaster for hot drinks,use a book as a coaster for hot drinks,book,book,0.9188000000000001,1.04338,0.95565,0.96625,0.78085,0.93299,-0.0285
+76,77,creative,Use a book as a decorative element on a shelf or table,use a book as a decorative element on a shelf or table,book,book,0.90835,0.8928,1.09896,0.96606,1.23542,1.02032,-0.002
+77,78,creative,Use a book as a doorstop,use a book as a doorstop,book,book,0.93181,1.10638,0.88114,0.97437,0.78359,0.93546,-0.02433
+78,79,creative,Use a book as a laptop stand,use a book as a laptop stand,book,book,0.99089,0.93324,1.01119,0.96657,0.7366900000000001,0.92772,-0.00814
+79,80,creative,Use a book as a placemat for a messy meal,use a book as a placemat for a messy meal,book,book,0.87178,0.95995,1.05576,0.9660299999999999,0.7553300000000001,0.92177,-0.04471
+80,81,creative,Use a book as a support for propping up a phone or tablet,use a book as a support for propping up a phone or tablet,book,book,0.98413,0.98561,1.03541,0.96613,1.21654,1.03756,0.02691
+81,82,creative,Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+82,83,creative,Use a book as a plant stand,use a book as a plant stand,book,book,0.94232,0.9077500000000001,0.9833,0.96683,0.75067,0.91017,-0.03073
+83,84,creative,Use a book as a paperweight,use a book as a paperweight,book,book,0.9618,1.13342,0.91089,0.97241,0.75896,0.9475,-0.00935
+84,85,creative,Use a book as a musical instrument,use a book as a musical instrument,book,book,0.95866,0.94493,0.91412,0.97295,0.75316,0.90876,-0.02741
+85,86,creative,Use a book as a picture frame,use a book as a picture frame,book,book,0.76761,0.87792,0.9648,0.96154,0.73037,0.86045,-0.10325
+86,87,creative,Make a book into a laptop stand,make a book into a laptop stand,book,book,1.00817,1.05415,0.97088,0.96756,0.7338,0.94691,0.00493
+87,88,creative,Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+88,89,creative,Use a book as a doorstop,use a book as a doorstop,book,book,0.93181,1.10638,0.88114,0.97437,0.78359,0.93546,-0.02433
+89,90,creative,Use a book as a picture frame,use a book as a picture frame,book,book,0.76761,0.87792,0.9648,0.96154,0.73037,0.86045,-0.10325
+90,91,creative,Use a book as a phone stand,use a book as a phone stand,book,book,0.79262,0.89307,0.9525,0.96513,0.73531,0.86773,-0.09287
+91,92,creative,Use a book as a plant stand,use a book as a plant stand,book,book,0.94232,0.9077500000000001,0.9833,0.96683,0.75067,0.91017,-0.03073
+92,93,creative,Use a book as a serving tray,use a book as a serving tray,book,book,0.9866,0.9335100000000001,1.09493,0.96477,1.02028,1.00002,0.01682
+93,94,creative,Use a book as a message board,use a book as a message board,book,book,0.88771,0.87195,1.01629,0.96338,0.70689,0.88924,-0.05433
+94,95,creative,Use a book as a laptop stand,use a book as a laptop stand,book,book,0.99089,0.93324,1.01119,0.96657,0.7366900000000001,0.92772,-0.00814
+95,96,creative,Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+96,97,creative,Book sculpture or art,book sculpture or art,book,book,1.04894,1.09555,0.85402,0.8667,1.23366,1.01977,0.02643
+97,98,creative,Book clock,book clock,book,book,0.92636,0.99033,0.95107,1.09413,1.25077,1.04253,0.02014
+98,99,creative,Book planter,book planter,book,book,1.05419,0.98138,1.05615,1.0263,0.7476,0.97312,0.03541
+99,100,creative,Book lamp,book lamp,book,book,1.00671,1.11683,1.04581,1.0118,1.12612,1.06145,0.05019
+100,101,creative,Book organizer,book organizer,book,book,0.81023,1.05322,1.063,1.0379,1.23472,1.03981,-0.01637
+101,102,creative,Book seat/seat cushion,book seatseat cushion,book,book,1.0524,1.1412,0.91642,1.0373000000000001,1.11277,1.05202,0.05922
+102,103,creative,Book bookmark,book bookmark,book,book,0.95567,1.2005,0.8924300000000001,0.91988,0.92813,0.97932,-0.00562
+103,104,creative,Book shelf,book shelf,book,book,0.89903,1.18256,0.96936,0.95767,1.31104,1.06393,0.01018
+104,105,creative,Book headboard,book headboard,book,book,0.91275,1.11313,1.10706,1.0562,0.69504,0.97684,0.00112
+105,106,creative,Book table,book table,book,book,0.92036,1.08918,0.85936,0.93423,1.37175,1.03498,-0.00194
+106,107,creative,Book photo holder,book photo holder,book,book,0.7075199999999999,0.95846,1.01203,0.74009,0.5595399999999999,0.79553,-0.16129
+107,108,creative,Create a unique sculpture or art piece by stacking or arranging books in an interesting way,create a unique sculpture or art piece by stacking or arranging books in an interesting way,book,book,1.08183,1.04337,0.99693,0.96627,1.25406,1.06849,0.06716
+108,109,creative,Use books as building blocks to create a small structure like a bookshelf or table,use books as building blocks to create a small structure like a bookshelf or table,book,book,1.11055,1.03655,1.05029,0.96614,1.22835,1.07838,0.08136
+109,110,creative,Use books as decor by arranging them on a shelf or table in a visually appealing way,use books as decor by arranging them on a shelf or table in a visually appealing way,book,book,0.90295,1.01992,0.96177,0.96613,0.73546,0.91725,-0.03882
+110,111,creative,Use books as weights or anchors to hold down materials like paper or fabric for crafts or art projects,use books as weights or anchors to hold down materials like paper or fabric for crafts or art projects,book,book,0.90493,1.05941,1.03824,0.96614,1.2202600000000001,1.0378,0.0043
+111,112,creative,Use books as a platform for creating art like painting or drawing on each page or inside covers,use books as a platform for creating art like painting or drawing on each page or inside covers,book,book,0.90041,0.99677,1.00233,0.96613,1.22107,1.01734,-0.0068
+112,113,creative,Use books as conversation starters or conversation starters by displaying them on a shelf or table in your home office or public space,use books as conversation starters or conversation starters by displaying them on a shelf or table in your home office or public space,book,book,0.85266,0.95204,1.04025,0.96613,0.77296,0.91681,-0.05312
+113,114,creative,Use books as a platform for creating unique or unusual art like using pages as canvas for painting or drawing,use books as a platform for creating unique or unusual art like using pages as canvas for painting or drawing,book,book,0.86229,0.938,1.03834,0.96613,1.22375,1.0057,-0.02242
+114,115,creative,Use books as a way to make a unique gift by decorating the covers and pages with personal messages or drawings,use books as a way to make a unique gift by decorating the covers and pages with personal messages or drawings,book,book,1.02467,1.03577,1.04891,0.96613,0.7617,0.96744,0.0193
+115,116,creative,Use books as a platform for creating unique or unusual sculptures or art pieces like arranging books in interesting shapes or patterns,use books as a platform for creating unique or unusual sculptures or art pieces like arranging books in interesting shapes or patterns,book,book,1.09998,0.97296,1.03977,0.96613,1.22329,1.06043,0.07023
+116,117,creative,Use books as a way to make a unique piece of furniture or decor by stacking or arranging them in a unique way,use books as a way to make a unique piece of furniture or decor by stacking or arranging them in a unique way,book,book,0.90384,1.01116,0.96195,0.96613,0.70252,0.90912,-0.04134
+117,118,creative,Create a book sculpture or piece of art,create a book sculpture or piece of art,book,book,0.87413,0.94012,0.91482,0.93426,1.23682,0.98003,-0.03538
+118,119,creative,Make a book clock or book lamp,make a book clock or book lamp,book,book,0.77788,1.1215,0.9664,0.97505,0.76063,0.92029,-0.07314
+119,120,creative,Turn a book into a journal or sketchbook,turn a book into a journal or sketchbook,book,book,0.93034,1.02604,1.0601,0.96674,0.73682,0.94401,-0.01734
+120,121,creative,Use a book as a canvas for art projects,use a book as a canvas for art projects,book,book,0.88198,0.94109,1.09958,0.96625,0.7632,0.93042,-0.03738
+121,122,creative,Use a book as a stand for a tablet or laptop,use a book as a stand for a tablet or laptop,book,book,1.00996,0.98291,0.99316,0.96613,0.77024,0.94448,0.00363
+122,123,creative,Create a book nook or reading corner,create a book nook or reading corner,book,book,1.08504,0.98539,1.14566,0.99468,1.24775,1.0917,0.08328
+123,124,creative,Use a book as a coaster or a plate,use a book as a coaster or a plate,book,book,0.92391,1.01337,1.03526,0.96612,0.7815300000000001,0.94404,-0.0208
+124,125,creative,Make a book wreath or book bunting,make a book wreath or book bunting,book,book,1.03653,0.87666,0.86344,0.93633,1.21617,0.98583,0.01357
+125,126,creative,Use a book as a picture frame,use a book as a picture frame,book,book,0.76761,0.87792,0.9648,0.96154,0.73037,0.86045,-0.10325
+126,127,creative,Make a book planter or book herb garden,make a book planter or book herb garden,book,book,1.11585,0.83876,0.99357,1.04284,0.87033,0.97227,0.04965
+127,128,creative,1 Create a secret compartment in a book to hide valuables,create a secret compartment in a book to hide valuables,book,book,0.93482,0.99313,1.14752,0.96616,1.3002799999999999,1.06838,0.02626
+128,129,creative,2 Use a book as a coaster or placemat,use a book as a coaster or placemat,book,book,0.84668,1.1078999999999999,0.9781,0.96507,0.78315,0.93618,-0.04749
+129,130,creative,3 Make a book into a planter,make a book into a planter,book,book,1.07911,0.95656,1.00504,0.97203,0.69128,0.9408,0.02451
+130,131,creative,4 Use a book as a stand for a tablet or electronic device,use a book as a stand for a tablet or electronic device,book,book,0.97157,0.99596,1.02141,0.96612,1.2316,1.03733,0.02258
+131,132,creative,5 Use a book as a weight to hold down a tablecloth,use a book as a weight to hold down a tablecloth,book,book,0.96746,0.91991,0.9338,0.96617,1.29688,1.01684,0.00904
+132,133,creative,6 Use a book to prop up a door,use a book to prop up a door,book,book,1.08679,1.07278,1.16316,0.96638,1.02617,1.06306,0.07491
+133,134,creative,7 Use a book as a cutting board,use a book as a cutting board,book,book,0.86512,0.99188,1.09311,0.9646399999999999,0.7182999999999999,0.92661,-0.04295
+134,135,creative,8 Use a book as a stand for a cookbook,use a book as a stand for a cookbook,book,book,0.85575,0.9220200000000001,1.01183,0.96611,0.81294,0.91373,-0.05515
+135,136,creative,9 Use a book as a makeshift umbrella holder,use a book as a makeshift umbrella holder,book,book,1.08319,0.98534,1.05462,0.96237,1.21267,1.05964,0.065310000000000007
+136,137,creative,10 Use a book as a decorative piece on a shelf or table,use a book as a decorative piece on a shelf or table,book,book,1.09418,0.96036,1.10378,0.96611,1.22987,1.07086,0.07412
+137,138,creative,Create a journal or sketchbook by stapling blank sheets of paper to the spine of a book,create a journal or sketchbook by stapling blank sheets of paper to the spine of a book,book,book,0.9999,0.99922,0.97435,0.96613,0.69226,0.92637,-0.00562
+138,139,creative,Use a book as a bookend by stacking two on top of each other,use a book as a bookend by stacking two on top of each other,book,book,0.93902,0.97971,0.96587,0.96612,0.74683,0.91951,-0.02771
+139,140,creative,Make a sculptural piece by stacking and gluing books together in various configurations,make a sculptural piece by stacking and gluing books together in various configurations,book,book,1.07282,1.06456,0.95803,0.96214,1.19594,1.0507,0.05718
+140,141,creative,Use a book as a picture frame by cutting out a window in the cover and inserting a photograph or a print,use a book as a picture frame by cutting out a window in the cover and inserting a photograph or a print,book,book,1.07821,1.05937,0.96347,0.96613,1.22079,1.05759,0.06155
+141,142,creative,Use a book as a decorative piece by painting or decorating the cover,use a book as a decorative piece by painting or decorating the cover,book,book,0.91538,0.99759,0.95325,0.96619,0.7740400000000001,0.92129,-0.0346
+142,143,creative,Use a book as a laptop stand by placing a book under your laptop to raise it to a more comfortable viewing angle,use a book as a laptop stand by placing a book under your laptop to raise it to a more comfortable viewing angle,book,book,0.93093,1.05399,1.04062,0.96613,0.76544,0.95142,-0.01496
+143,144,creative,Use a book as a doorstop by placing a book under a door to keep it open,use a book as a doorstop by placing a book under a door to keep it open,book,book,0.88823,1.01019,1.06865,0.96613,1.21871,1.03038,-0.00328
+144,145,creative,Use a book as a desk organizer by placing pens pencils and other office supplies inside the book,use a book as a desk organizer by placing pens pencils and other office supplies inside the book,book,book,1.09388,0.91082,0.99984,0.96613,0.7763599999999999,0.94941,0.02981
+145,146,creative,Use a book as a cookbook by placing recipes or cooking notes inside the book,use a book as a cookbook by placing recipes or cooking notes inside the book,book,book,0.90734,0.91025,0.98738,0.96591,0.78411,0.911,-0.04126
+146,147,creative,Use a book as a photo album by placing photographs or mementos inside the book,use a book as a photo album by placing photographs or mementos inside the book,book,book,0.89769,1.06235,1.06205,0.96613,0.78261,0.95417,-0.02334
+147,148,creative,Make a book clock Cut out a circle from a book page and attach it to a clock mechanism,make a book clock cut out a circle from a book page and attach it to a clock mechanism,book,book,1.07369,1.11969,1.08743,0.96613,0.77938,1.00526,0.05049
+148,149,creative,Make a book lamp Cut out shapes from a book page and attach them to a lamp base,make a book lamp cut out shapes from a book page and attach them to a lamp base,book,book,1.09127,0.87367,0.94564,0.96613,1.22535,1.02041,0.04816
+149,150,creative,Make a book planter Cut out a book page in the shape of a pot and plant a small plant in it,make a book planter cut out a book page in the shape of a pot and plant a small plant in it,book,book,1.0949,0.97633,0.89862,0.96613,0.77799,0.94279,0.02543
+150,151,creative,Make a book sculpture Cut out shapes from a book page and attach them to a base to create a sculpture,make a book sculpture cut out shapes from a book page and attach them to a base to create a sculpture,book,book,1.09608,1.06248,0.9773,0.96613,0.77883,0.97616,0.04203
+151,152,creative,Make a book doorstop Cut out a book page in the shape of a wedge and attach it to a doorstop base,make a book doorstop cut out a book page in the shape of a wedge and attach it to a doorstop base,book,book,1.08137,1.08837,1.07852,0.96613,1.22005,1.08689,0.07752
+152,153,creative,Make a book picture frame Cut out a book page in the shape of a frame and attach it to a picture frame,make a book picture frame cut out a book page in the shape of a frame and attach it to a picture frame,book,book,0.96167,1.11246,0.9074,0.96613,0.77569,0.94467,-0.01164
+153,154,creative,Make a book musical instrument Cut out a book page in the shape of a musical instrument and attach it to a music box or speaker to create a sound,make a book musical instrument cut out a book page in the shape of a musical instrument and attach it to a music box or speaker to create a sound,book,book,1.09046,1.01335,0.96199,0.96613,1.21978,1.05034,0.0618
+154,155,creative,Make a book jewelry box Cut out a book page in the shape of a box and attach it to a jewelry box base,make a book jewelry box cut out a book page in the shape of a box and attach it to a jewelry box base,book,book,1.09465,0.96071,0.90752,0.96613,1.2212399999999999,1.03005,0.05295
+155,156,creative,Make a book serving tray Cut out a book page in the shape of a tray and attach it to a serving tray base,make a book serving tray cut out a book page in the shape of a tray and attach it to a serving tray base,book,book,1.09563,1.08639,0.91227,0.96613,1.07089,1.02626,0.0556
+156,157,creative,Make a book puzzle Cut out a book page in the shape of a puzzle and attach a puzzle base,make a book puzzle cut out a book page in the shape of a puzzle and attach a puzzle base,book,book,1.12199,0.95204,0.97207,0.96613,1.22558,1.04756,0.06958
+157,158,creative,Make a decorative flower arrangement by stacking books with different colored covers on top of each other,make a decorative flower arrangement by stacking books with different colored covers on top of each other,book,book,0.90888,1.02046,0.99556,0.9663,0.7840199999999999,0.93504,-0.02985
+158,159,creative,Use a book as a laptop stand,use a book as a laptop stand,book,book,0.99089,0.93324,1.01119,0.96657,0.7366900000000001,0.92772,-0.00814
+159,160,creative,Use a book to prop up a phone or tablet to create a makeshift stand,use a book to prop up a phone or tablet to create a makeshift stand,book,book,1.00065,0.98845,0.86675,0.96613,1.22464,1.00932,0.01598
+160,161,creative,Create a unique coffee table by stacking books of different sizes and shapes on top of each other,create a unique coffee table by stacking books of different sizes and shapes on top of each other,book,book,1.09701,1.04343,1.04118,0.96613,1.25068,1.07969,0.07733
+161,162,creative,Use a book as a cookbook stand in the kitchen,use a book as a cookbook stand in the kitchen,book,book,1.08195,1.00968,0.94885,0.96594,1.19839,1.04096,0.05549
+162,163,creative,Use a book as a sketchbook or journal,use a book as a sketchbook or journal,book,book,0.9319,0.92346,1.09848,0.96832,0.7432000000000001,0.93307,-0.02123
+163,164,creative,Use a book to prop up a picture frame,use a book to prop up a picture frame,book,book,0.98911,0.88083,0.95729,0.96549,0.94912,0.94837,-0.00598
+164,165,creative,Use a book as a decorative piece in your living room or bedroom,use a book as a decorative piece in your living room or bedroom,book,book,0.90589,0.88861,1.0377,0.96596,0.78008,0.91565,-0.03866
+165,166,creative,Use a book as a doorstop,use a book as a doorstop,book,book,0.93181,1.10638,0.88114,0.97437,0.78359,0.93546,-0.02433
+166,167,creative,Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+167,168,creative,Create a sculpture by stacking up old books,create a sculpture by stacking up old books,book,book,0.90881,0.97547,1.0139,0.98946,1.30842,1.03921,0.00509
+168,169,creative,Transform a book into a piece of art by decoupaging it with colorful paper or fabric,transform a book into a piece of art by decoupaging it with colorful paper or fabric,book,book,1.10357,0.96746,1.0575,0.96613,0.7319899999999999,0.96533,0.04186
+169,170,creative,Use a book as a planter for succulents or other small plants,use a book as a planter for succulents or other small plants,book,book,1.09665,0.95457,0.88721,0.96614,1.26645,1.0342,0.05386
+170,171,creative,Make a book nook or reading nook by stacking up several old books to make a backrest,make a book nook or reading nook by stacking up several old books to make a backrest,book,book,0.88053,1.06239,0.96972,0.96613,1.26908,1.02957,-0.00879
+171,172,creative,Use a book as a stand for a tablet or laptop,use a book as a stand for a tablet or laptop,book,book,1.00996,0.98291,0.99316,0.96613,0.77024,0.94448,0.00363
+172,173,creative,Make a book lamp by cutting a hole through a book and inserting a lightbulb inside,make a book lamp by cutting a hole through a book and inserting a lightbulb inside,book,book,1.0815,0.92783,0.94251,0.96527,0.7775,0.93892,0.02052
+173,174,creative,Use a book as a coaster or a trivet for hot dishes,use a book as a coaster or a trivet for hot dishes,book,book,0.9507099999999999,1.00488,0.9149700000000001,0.96612,0.78067,0.92347,-0.02432
+174,175,creative,Use a hardcover book as a cutting board for cheese or other food items,use a hardcover book as a cutting board for cheese or other food items,book,book,1.09595,0.95666,1.00502,0.96598,0.78081,0.96088,0.03551
+175,176,creative,Use a book as a picture frame and display your favorite photo or artwork,use a book as a picture frame and display your favorite photo or artwork,book,book,0.90795,1.04898,1.03195,0.96613,1.22019,1.03504,0.00382
+176,177,creative,Make a book wreath by wrapping a book in colorful paper or fabric,make a book wreath by wrapping a book in colorful paper or fabric,book,book,0.9077,0.91118999999999994,1.11061,0.96604,0.80054,0.93922,-0.0269
+177,178,creative,Here are some creative uses for a book,here are some creative uses for a book,book,book,0.96839,0.88302,1.04126,0.96615,1.25508,1.02278,0.01483
+178,179,creative,1 Turn it into a clock by cutting out a hole in the center of the pages and inserting a clock mechanism,turn it into a clock by cutting out a hole in the center of the pages and inserting a clock mechanism,book,book,0.94659,0.9768,1.03983,0.96613,0.77954,0.94178,-0.0152
+179,180,creative,2 Use it as a frame for a photo or piece of art by cutting out a rectangle in the center of the pages and inserting a photograph or piece of art,use it as a frame for a photo or piece of art by cutting out a rectangle in the center of the pages and inserting a photograph or piece of art,book,book,1.08964,1.07085,1.0282,0.96613,1.21954,1.07487,0.07368
+180,181,creative,3 Use it as a musical instrument by cutting out holes for holes for your fingers and attaching a guitar string to the spine of the book,use it as a musical instrument by cutting out holes for holes for your fingers and attaching a guitar string to the spine of the book,book,book,1.08271,1.06915,0.96072,0.96613,1.2192,1.05958,0.06373
+181,182,creative,4 Use it as a planter by cutting a hole in the pages and filling it with soil,use it as a planter by cutting a hole in the pages and filling it with soil,book,book,0.8587899999999999,1.00175,1.03721,0.96613,1.30321,1.03342,-0.01309
+182,183,creative,5 Use it as a laptop stand by cutting a hole in the pages and inserting a laptop,use it as a laptop stand by cutting a hole in the pages and inserting a laptop,book,book,1.04344,0.98848,0.95985,0.96613,0.76617,0.94481,0.01293
+183,184,creative,6 Use it as a storage container by cutting a hole in the pages and filling it with objects,use it as a storage container by cutting a hole in the pages and filling it with objects,book,book,1.09483,1.02795,0.96332,0.96613,1.2371,1.05787,0.06599
+184,185,creative,7 Use it as a lamp by cutting a hole in the pages and inserting a light bulb,use it as a lamp by cutting a hole in the pages and inserting a light bulb,book,book,1.01789,1.01305,1.02974,0.96618,1.18285,1.04194,0.03935
+185,186,creative,8 Use it as a bookshelf by cutting holes in the pages and inserting books,use it as a bookshelf by cutting holes in the pages and inserting books,book,book,1.06376,0.97287,0.95997,0.9661,0.7202299999999999,0.93659,0.01627
+186,187,creative,9 Use it as a birdhouse by cutting a hole in the pages and inserting a birdhouse,use it as a birdhouse by cutting a hole in the pages and inserting a birdhouse,book,book,1.07763,0.98311,0.96083,0.96614,1.26838,1.05122,0.05721
+187,188,creative,10 Use it as a phone stand by cutting a hole in the pages and inserting a phone,use it as a phone stand by cutting a hole in the pages and inserting a phone,book,book,0.96956,0.98728,0.96204,0.96613,0.76558,0.93012,-0.01477
+188,189,creative,Book art,book art,book,book,1.07574,0.9016,1.06521,1.13747,1.38415,1.11283,0.09612
+189,190,creative,Bookbinding,bookbinding,book,book,0.72081,NA,0.72124,0.49794000000000005,0.96929,0.72732,-0.20325
+190,191,creative,Bookends,bookends,book,book,0.80064,0.80598,0.80418,0.96016,1.06815,0.88782,-0.09319
+191,192,creative,Book sculpture,book sculpture,book,book,1.10343,1.0215,1.07449,1.1143,1.1691799999999999,1.09658,0.10083
+192,193,creative,Book jacket design,book jacket design,book,book,0.89518,0.831,0.87375,1.05607,0.58348,0.8479,-0.06272
+193,194,creative,Book cover design,book cover design,book,book,0.94107,1.00991,0.84063,1.08946,0.62419,0.90105,-0.02475
+194,195,creative,Book binding,book binding,book,book,1.00464,1.01085,1.09216,0.9119,1.24997,1.0539,0.036
+195,196,creative,Book page art,book page art,book,book,0.83196,0.9361,1.00057,0.94747,0.52633,0.84849,-0.08528
+196,197,creative,Book page sculpture,book page sculpture,book,book,0.90491,0.90344,1.00427,0.94496,0.76278,0.90407,-0.04584
+197,198,creative,Book jacket art,book jacket art,book,book,0.7723599999999999,0.99692,0.94326,0.89751,0.58752,0.83951,-0.11276
+198,199,creative,Book page collage,book page collage,book,book,0.7587200000000001,0.70998000000000006,0.97068,1.10651,0.9287799999999999,0.89493,-0.08436
+199,200,creative,Book page frame,book page frame,book,book,0.71495,0.90791,0.94567,1.0079,0.6228899999999999,0.83986,-0.12147
+200,201,creative,Book page jewelry,book page jewelry,book,book,0.97063,0.93289,0.94996,0.94744,0.69662,0.89951,-0.02802
+201,202,creative,Book page mobile,book page mobile,book,book,0.83061,0.88842,0.94289,0.90878,0.65498,0.84514,-0.0945
+202,203,creative,Book page origami,book page origami,book,book,0.72063,0.9845,0.91527,1.06636,1.28935,0.99522,-0.06373
+203,204,creative,Book page sculpture,book page sculpture,book,book,0.90491,0.90344,1.00427,0.94496,0.76278,0.90407,-0.04584
+204,205,creative,Book as art Use a book as a canvas for painting drawing or other forms of art,book as art use a book as a canvas for painting drawing or other forms of art,book,book,1.11418,0.99431,0.95822,0.96613,0.77838,0.96224,0.04066
+205,206,creative,Book as furniture Use a book as a table or shelf,book as furniture use a book as a table or shelf,book,book,0.90196,1.14607,1.13142,0.96602,0.72544,0.97418,-0.01048
+206,207,creative,Book as storage Use a book as a container for items such as photos letters or mementos,book as storage use a book as a container for items such as photos letters or mementos,book,book,0.90247,1.06617,1.03977,0.96609,0.8045599999999999,0.95581,-0.02219
+207,208,creative,Book as decoration Use a book as a centerpiece or accent piece,book as decoration use a book as a centerpiece or accent piece,book,book,1.18493,0.91877,1.05254,0.96554,0.76353,0.97706,0.06945
+208,209,creative,Book as gift Use a book as a personalized gift for someone such as by filling it with handwritten notes or memories,book as gift use a book as a personalized gift for someone such as by filling it with handwritten notes or memories,book,book,0.88246,1.03796,1.02977,0.96613,1.21976,1.02722,-0.00701
+209,210,creative,Book as toy Use a book as a prop in pretend play or as a puzzle for children,book as toy use a book as a prop in pretend play or as a puzzle for children,book,book,1.09456,1.02596,1.07885,0.96613,0.78519,0.99014,0.04936
+210,211,creative,Book as inspiration Use a book as a source of ideas for artwork writing or other creative projects,book as inspiration use a book as a source of ideas for artwork writing or other creative projects,book,book,1.12329,1.08214,1.05131,0.96612,1.2239,1.08935,0.09007
+211,212,creative,Book as activism Use a book to raise awareness about an issue or to send a message,book as activism use a book to raise awareness about an issue or to send a message,book,book,1.1143,1.0487,1.03772,0.96613,0.74653,0.98268,0.05202
+212,213,creative,Book as functional object Use a book as a cooking surface cutting board or trivet,book as functional object use a book as a cooking surface cutting board or trivet,book,book,1.11196,1.06086,1.03418,0.96583,1.30073,1.09471,0.0869
+213,214,creative,Book as conversation piece Use a book to spark discussion or debate,book as conversation piece use a book to spark discussion or debate,book,book,1.04753,0.89985,0.97466,0.96606,1.27553,1.03273,0.04031
+214,215,creative,Book as game Use a book as a component of a game such as by using it as a board or as a part of the rules,book as game use a book as a component of a game such as by using it as a board or as a part of the rules,book,book,0.9069,0.92705,0.95572,0.96613,0.78023,0.90721,-0.04349
+215,216,creative,1 Make a secret compartment by cutting out a compartment inside a book and covering it with pages,make a secret compartment by cutting out a compartment inside a book and covering it with pages,book,book,0.91456,1.03372,1.08789,0.96613,0.7393000000000001,0.94832,-0.01957
+216,217,creative,2 Use a book as a coaster,use a book as a coaster,book,book,0.87471,0.93505,1.05369,0.96496,1.21836,1.00935,-0.01692
+217,218,creative,3 Use a book as a decorative piece,use a book as a decorative piece,book,book,1.0379,1.04583,0.99309,0.96559,0.75804,0.96009,0.01893
+218,219,creative,4 Use a book as a door stop,use a book as a door stop,book,book,0.84474,0.96672,1.0708,0.96578,0.75725,0.92106,-0.05259
+219,220,creative,5 Use a book as a bookend,use a book as a bookend,book,book,0.95907,1.06241,0.92769,0.96821,0.70053,0.92358,-0.01937
+220,221,creative,6 Use a book as a coaster,use a book as a coaster,book,book,0.87471,0.93505,1.05369,0.96496,1.21836,1.00935,-0.01692
+221,222,creative,7 Use a book as a picture frame,use a book as a picture frame,book,book,0.76761,0.87792,0.9648,0.96154,0.73037,0.86045,-0.10325
+222,223,creative,8 Use a book as a laptop stand,use a book as a laptop stand,book,book,0.99089,0.93324,1.01119,0.96657,0.7366900000000001,0.92772,-0.00814
+223,224,creative,9 Use a book as a phone stand,use a book as a phone stand,book,book,0.79262,0.89307,0.9525,0.96513,0.73531,0.86773,-0.09287
+224,225,creative,10 Use a book as a nightstand,use a book as a nightstand,book,book,1.0331,1.07142,0.88123,0.98306,0.77079,0.94792,0.01126
+225,226,creative,Create a unique bookmark by stapling a leaf or flower to the corner of a page,create a unique bookmark by stapling a leaf or flower to the corner of a page,book,book,0.88798,1.01022,1.0737700000000001,0.96613,1.21694,1.03101,-0.00294
+226,227,creative,Turn pages into a collage by gluing items such as photos or ticket stubs to pages,turn pages into a collage by gluing items such as photos or ticket stubs to pages,book,book,1.0950199999999999,0.88824,0.97013,0.96617,0.78788,0.94149,0.02578
+227,228,creative,Use a book as a sculpture by stacking multiple volumes on top of each other,use a book as a sculpture by stacking multiple volumes on top of each other,book,book,0.8769,0.98216,1.03233,0.96613,0.74785,0.92107000000000006,-0.04373
+228,229,creative,Make a decorative bookend by covering a book in fabric or paper,make a decorative bookend by covering a book in fabric or paper,book,book,1.10145,0.8753299999999999,0.91566,0.96606,0.69404,0.91051,0.0153
+229,230,creative,Use a book as a laptop stand or desk organizer,use a book as a laptop stand or desk organizer,book,book,1.04486,0.99431,1.02087,0.96637,1.19996,1.04527,0.04798
+230,231,creative,Create a secret compartment by hollowing out a book and hiding items inside,create a secret compartment by hollowing out a book and hiding items inside,book,book,1.09335,0.95638,0.9192,0.96609,1.30907,1.04882,0.05887
+231,232,creative,Use a book as a picture frame by gluing an image to the center of a page,use a book as a picture frame by gluing an image to the center of a page,book,book,1.05457,0.87349,1.07866,0.96615,1.22153,1.03888,0.04823
+232,233,creative,Use pages as wrapping paper for small gifts,use pages as wrapping paper for small gifts,book,book,1.1025800000000001,0.9236,1.0472,0.99935,1.28288,1.07112,0.07686
+233,234,creative,Use a book as a placemat or coaster,use a book as a placemat or coaster,book,book,0.84668,1.1078999999999999,0.9781,0.96507,0.78315,0.93618,-0.04749
+234,235,creative,Turn pages into art by sponging or painting designs on them,turn pages into art by sponging or painting designs on them,book,book,0.90405,0.9109700000000001,1.05214,0.95462,1.23642,1.01164,-0.0088
+235,236,creative,Book as decoration Place books on a shelf or coffee table as decorative pieces,book as decoration place books on a shelf or coffee table as decorative pieces,book,book,1.09141,0.93823,0.90687,0.96612,1.23352,1.02723,0.05042
+236,237,creative,Book as bookend Use a book as a bookend to hold up other books on a shelf,book as bookend use a book as a bookend to hold up other books on a shelf,book,book,0.87246,1.13728,1.00891,0.96613,0.73984,0.94492,-0.03444
+237,238,creative,Book as paperweight Place a book on top of a document to hold it down,book as paperweight place a book on top of a document to hold it down,book,book,1.08765,1.11619,1.13578,0.96613,1.22364,1.10588,0.08869
+238,239,creative,Book as a doorstop Place a heavy book on the floor to prop open a door,book as a doorstop place a heavy book on the floor to prop open a door,book,book,1.09462,0.87236,1.06691,0.96613,1.22208,1.04442,0.06197
+239,240,creative,Book as a secret compartment Use a hollowed out book to hide valuables or secrets,book as a secret compartment use a hollowed out book to hide valuables or secrets,book,book,0.96143,1.06525,0.93915,0.96613,1.18446,1.02328,0.01328
+240,241,creative,Book as an art canvas Use book pages to create art or collages,book as an art canvas use book pages to create art or collages,book,book,1.13231,0.87843,0.97743,0.96497,1.20804,1.03224,0.06611
+241,242,creative,Book as a musical instrument Use a book as a percussion instrument by hitting it with drumsticks or tapping on it with fingers,book as a musical instrument use a book as a percussion instrument by hitting it with drumsticks or tapping on it with fingers,book,book,0.90112,0.98633,1.02097,0.96613,1.21833,1.01858,-0.00566
+242,243,creative,Book as a laptop stand Place a book underneath a laptop to raise it up for better ergonomics,book as a laptop stand place a book underneath a laptop to raise it up for better ergonomics,book,book,0.97638,0.98149,1.02665,0.96613,0.7622599999999999,0.94258,-0.00607
+243,244,creative,Book as a puzzle Cut a book into puzzle pieces and create a puzzle for friends to solve,book as a puzzle cut a book into puzzle pieces and create a puzzle for friends to solve,book,book,0.90925,0.94699,1.08704,0.96613,1.22168,1.02622,0.00109
+244,245,creative,Book as a source of fuel Use a book as fuel for a fire,book as a source of fuel use a book as fuel for a fire,book,book,1.08755,1.08668,1.13986,0.96609,1.23083,1.1022,0.08688
+245,246,creative,Book as a step stool Place a book on top of another to create a step stool to reach high places,book as a step stool place a book on top of another to create a step stool to reach high places,book,book,1.09622,0.88506,1.09022,0.96613,0.78045,0.96362,0.03823
+246,247,creative,1 Book cover  make a book cover for your laptop or tablet using an old book,book cover make a book cover for your laptop or tablet using an old book,book,book,0.91508,0.95373,1.08642,0.9714,0.77208,0.93974,-0.02377
+247,248,creative,2 Book sculpture  use old books to create a sculpture,book sculpture use old books to create a sculpture,book,book,1.06153,0.80811,0.93817,1.05551,0.77345,0.92735,0.01656
+248,249,creative,3 Book table  use an old book to make a table,book table use an old book to make a table,book,book,1.08856,1.11246,1.06756,0.97404,1.23454,1.09543,0.08346
+249,250,creative,4 Book lamp  use an old book to make a lamp,book lamp use an old book to make a lamp,book,book,0.91689,1.18726,1.10511,0.96672,1.22784,1.08076,0.02797
+250,251,creative,5 Book clock  use an old book to make a clock,book clock use an old book to make a clock,book,book,0.89841,1.19372,1.13024,0.96726,1.22455,1.08284,0.02415
+251,252,creative,6 Book planter  use an old book to make a planter,book planter use an old book to make a planter,book,book,0.97845,1.15397,1.07656,0.96843,1.2764,1.09076,0.04846
+252,253,creative,7 Book shelf  use an old book to make a shelf,book shelf use an old book to make a shelf,book,book,0.99098,1.13499,0.98651,0.96641,1.283,1.0723800000000001,0.04198
+253,254,creative,8 Book holder  use an old book to hold your phone or other devices,book holder use an old book to hold your phone or other devices,book,book,0.85689,0.99577,0.97795,0.96598,0.75888,0.91109,-0.05513
+254,255,creative,9 Book art  use an old book to make art,book art use an old book to make art,book,book,0.83603,0.82473,1.08719,0.95119,0.75703,0.89123,-0.06934
+255,256,creative,10 Book journal  use an old book as a journal or diary,book journal use an old book as a journal or diary,book,book,0.79123,1.0089,1.089,0.95942,0.7019,0.91009,-0.07155
+256,257,creative,These are just a few examples of creative uses for a book You can use your imagination to come up with other ideas,these are just a few examples of creative uses for a book you can use your imagination to come up with other ideas,book,book,0.89872,1.0088,1.05404,0.96613,0.77786,0.94111,-0.02892
+257,258,creative,Create a unique photo book or scrapbook,create a unique photo book or scrapbook,book,book,1.03192,0.85898,1.154,0.92168,1.26279,1.04587,0.04161
+258,259,creative,Use a book as a canvas for art or illustrations,use a book as a canvas for art or illustrations,book,book,1.0796000000000001,1.04384,1.08818,0.96621,1.30256,1.09608,0.07911
+259,260,creative,Create a popup book or 3D book,create a popup book or d book,book,book,1.04176,1.08842,1.15753,1.03197,1.16719,1.09737,0.07864
+260,261,creative,Use a book as a hidden compartment or secret storage spot,use a book as a hidden compartment or secret storage spot,book,book,0.87988,0.9231,0.9816,0.96599,0.7139599999999999,0.89291,-0.05548
+261,262,creative,Use a book as a coaster or placemat,use a book as a coaster or placemat,book,book,0.84668,1.1078999999999999,0.9781,0.96507,0.78315,0.93618,-0.04749
+262,263,creative,Use a book as a weight or paperweight,use a book as a weight or paperweight,book,book,1.07164,1.14906,1.03963,0.96436,0.76251,0.99744,0.04592
+263,264,creative,Create a bookthemed gift basket or care package,create a bookthemed gift basket or care package,book,book,1.08504,1.03155,0.88412,0.98912,0.75437,0.94884,0.02749
+264,265,creative,Use a book as a springboard for creative writing or journaling,use a book as a springboard for creative writing or journaling,book,book,1.04451,0.97368,1.03667,0.96638,1.27376,1.059,0.05234
+265,266,creative,Use a book as a conversation starter or icebreaker,use a book as a conversation starter or icebreaker,book,book,0.8864,1.07503,1.01158,0.9623,1.22192,1.03145,-0.00463
+266,267,creative,Use a book as a centerpiece or decoration,use a book as a centerpiece or decoration,book,book,1.07591,1.08399,0.96994,0.9656,1.21637,1.06236,0.06322

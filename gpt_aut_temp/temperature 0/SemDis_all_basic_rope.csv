@@ -1,0 +1,251 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_GloVe_c_m,SemDis_MEAN,SemDis_factor
+0,1,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+1,2,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+2,3,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+3,4,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+4,5,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+5,6,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+6,7,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+7,8,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+8,9,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+9,10,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+10,11,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+11,12,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+12,13,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+13,14,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+14,15,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+15,16,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+16,17,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+17,18,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+18,19,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+19,20,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+20,21,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+21,22,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+22,23,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+23,24,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+24,25,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+25,26,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+26,27,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+27,28,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+28,29,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+29,30,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+30,31,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+31,32,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+32,33,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+33,34,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+34,35,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+35,36,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+36,37,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+37,38,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+38,39,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+39,40,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+40,41,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+41,42,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+42,43,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+43,44,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+44,45,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+45,46,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+46,47,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+47,48,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+48,49,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+49,50,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+50,51,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+51,52,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+52,53,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+53,54,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+54,55,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+55,56,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+56,57,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+57,58,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+58,59,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+59,60,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+60,61,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+61,62,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+62,63,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+63,64,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+64,65,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+65,66,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+66,67,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+67,68,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+68,69,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+69,70,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+70,71,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+71,72,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+72,73,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+73,74,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+74,75,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+75,76,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+76,77,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+77,78,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+78,79,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+79,80,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+80,81,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+81,82,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+82,83,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+83,84,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+84,85,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+85,86,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+86,87,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+87,88,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+88,89,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+89,90,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+90,91,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+91,92,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+92,93,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+93,94,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+94,95,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+95,96,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+96,97,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+97,98,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+98,99,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+99,100,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+100,101,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+101,102,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+102,103,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+103,104,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+104,105,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+105,106,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+106,107,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+107,108,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+108,109,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+109,110,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+110,111,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+111,112,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+112,113,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+113,114,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+114,115,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+115,116,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+116,117,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+117,118,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+118,119,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+119,120,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+120,121,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+121,122,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+122,123,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+123,124,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+124,125,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+125,126,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+126,127,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+127,128,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+128,129,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+129,130,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+130,131,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+131,132,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+132,133,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+133,134,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+134,135,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+135,136,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+136,137,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+137,138,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+138,139,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+139,140,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+140,141,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+141,142,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+142,143,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+143,144,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+144,145,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+145,146,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+146,147,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+147,148,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+148,149,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+149,150,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+150,151,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+151,152,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+152,153,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+153,154,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+154,155,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+155,156,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+156,157,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+157,158,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+158,159,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+159,160,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+160,161,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+161,162,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+162,163,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+163,164,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+164,165,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+165,166,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+166,167,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+167,168,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+168,169,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+169,170,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+170,171,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+171,172,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+172,173,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+173,174,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+174,175,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+175,176,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+176,177,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+177,178,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+178,179,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+179,180,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+180,181,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+181,182,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+182,183,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+183,184,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+184,185,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+185,186,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+186,187,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+187,188,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+188,189,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+189,190,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+190,191,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+191,192,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+192,193,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+193,194,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+194,195,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+195,196,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+196,197,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+197,198,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+198,199,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+199,200,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+200,201,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+201,202,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+202,203,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+203,204,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+204,205,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+205,206,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+206,207,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+207,208,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+208,209,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+209,210,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+210,211,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+211,212,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+212,213,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+213,214,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+214,215,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+215,216,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+216,217,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+217,218,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+218,219,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+219,220,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+220,221,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+221,222,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+222,223,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+223,224,creative,4 Use a rope to create a DIY rope ladder for a treehouse or loft,use a rope to create a diy rope ladder for a treehouse or loft,rope,rope,0.84433,0.96561,0.9822,0.96062,1.10318,0.97119,0.15214
+224,225,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+225,226,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+226,227,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+227,228,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+228,229,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+229,230,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+230,231,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+231,232,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+232,233,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+233,234,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+234,235,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+235,236,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+236,237,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+237,238,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+238,239,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+239,240,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187
+240,241,creative,1 Create a rope swing in your backyard or at a nearby park,create a rope swing in your backyard or at a nearby park,rope,rope,0.88045,1.0176,0.94901,0.96095,1.1051,0.98262,-3.3e-4
+241,242,creative,2 Use a rope to create a DIY hammock,use a rope to create a diy hammock,rope,rope,1.01667,0.97812,1.08076,0.96249,1.07835,1.02328,0.07353
+242,243,creative,3 Tie a rope around a tree to create a makeshift clothesline,tie a rope around a tree to create a makeshift clothesline,rope,rope,1.13673,0.94017,1.2340200000000001,0.96124,1.1050200000000001,1.07544,0.26489
+243,244,creative,4 Use a rope to create a DIY rope ladder for a treehouse or fort,use a rope to create a diy rope ladder for a treehouse or fort,rope,rope,1.15223,1.01059,1.10757,0.96097,1.10521,1.06731,-0.02624
+244,245,creative,5 Create a rope obstacle course for kids or adults,create a rope obstacle course for kids or adults,rope,rope,0.86647,0.98692,0.84526,0.96204,0.89401,0.91094,0.06389
+245,246,creative,6 Use a rope to create a DIY dog leash or harness,use a rope to create a diy dog leash or harness,rope,rope,1.11613,1.07931,1.04188,0.95894,1.10082,1.05942,-0.04196
+246,247,creative,7 Use a rope to create a DIY plant hanger,use a rope to create a diy plant hanger,rope,rope,1.15851,0.99274,0.96379,0.96243,0.89511,0.99452,-0.09189
+247,248,creative,8 Create a rope bridge over a small stream or creek,create a rope bridge over a small stream or creek,rope,rope,1.01759,0.90735,0.90795,0.96156,1.10483,0.97986,-0.23779
+248,249,creative,9 Use a rope to create a DIY jump rope for exercise,use a rope to create a diy jump rope for exercise,rope,rope,1.11865,0.96313,1.11939,0.96297,1.10407,1.05364,-0.02993
+249,250,creative,10 Use a rope to create a DIY pulley system for lifting heavy objects,use a rope to create a diy pulley system for lifting heavy objects,rope,rope,1.16808,0.90988,0.97499,0.96099,0.89598,0.98198,0.0187

@@ -1,0 +1,228 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_glove_c_m,SemDis_MEAN,SemDis_factor
+0,1,creative,1 Use a fork to make a DIY salad dressing,use a fork to make a diy salad dressing,fork,fork,1.08113,0.88187,0.93396,0.96822,1.05863,0.98476,-0.00104
+1,2,creative,1 Use a fork as a tool to clean your teeth,use a fork as a tool to clean your teeth,fork,fork,0.9412,0.82672,1.04494,0.96788,1.0590600000000001,0.96796,0.01266
+2,3,creative,2 Use a fork to hold a picture of your favorite food,use a fork to hold a picture of your favorite food,fork,fork,0.89226,0.88567,1.04711,0.96811,0.94112,0.94685,-3.8e-4
+3,4,creative,3 Use a fork to make a delicious and unique cake,use a fork to make a delicious and unique cake,fork,fork,1.08939,1.00413,0.91432,0.96793,1.06046,1.00725,-0.00284
+4,5,creative,4 Use a fork to make a DIY salad dressing,use a fork to make a diy salad dressing,fork,fork,1.08113,0.88187,0.93396,0.96822,1.05863,0.98476,-0.00104
+5,6,creative,5 Use a fork to create a DIY presentation for your child,use a fork to create a diy presentation for your child,fork,fork,1.02943,1.09551,1.01979,0.96791,1.0588,1.03429,0.02206
+6,7,creative,6 Use a fork to help you eat your vegetables,use a fork to help you eat your vegetables,fork,fork,0.87424,1.05508,0.84171,0.95443,0.94102,0.9333,-0.12192
+7,8,creative,7 Use a fork to make a DIY sword fighting display,use a fork to make a diy sword fighting display,fork,fork,1.12819,1.09262,0.92914,0.96779,0.94113,1.01177,-0.00674
+8,9,creative,8 Use a fork to play a game of telephone with friends,use a fork to play a game of telephone with friends,fork,fork,0.76884,0.86951,1.03833,0.9678599999999999,0.94111,0.91713,-0.01441
+9,10,creative,9 Use a fork to make a DIY painting,use a fork to make a diy painting,fork,fork,1.17327,1.15845,1.00555,0.9678599999999999,0.94113,1.04925,0.01898
+10,11,creative,10 Use a fork to make a DIY dance floor,use a fork to make a diy dance floor,fork,fork,0.8630599999999999,1.11633,0.89125,0.96797,1.05876,0.97947,-0.02333
+"11,12,fork,""1.  To make a delicious food salad, you can use a fork to hold the salad greens and use the other end to夹住菜質 (as in """"夹菜質"""" (gòu cài shí), which is a traditional Chinese dish called """"green salad with fish balls"""")."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12,13,fork,""2.  To make a DIY face mask, you can use a fork to hold a sheet of paper and push the fork-shaped tips against your face to create a DIY面具 (móu zhǎn máo), which can help remove any accumulated dust or pollution."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13,14,fork,""3.  To make a DIY cleaning tool, you can use a fork to hold a cleaning rag and use the other end to push against the surface you want to clean to remove any debris."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14,15,fork,""4.  To make a DIY noisemaker, you can use a fork to create a sound by striking the fork against the ground with the handle. You can use the sound to create a noise like a growl, a whisper, or a clatter."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15,16,fork,""5.  To make a DIY tool for cutting through hard materials, you can use a fork to form a pair of sharp tips and use them to cut through hard materials like rock or metal."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16,17,fork,""6.  To make a DIY tool for painting, you can use a fork to hold a painting brush and use the other end to push the brush against the surface you want to paint."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17,18,fork,""7.  To make a DIY ice cream container, you can use a fork to form a shape of your choice and then use the fork to fit the container into the shape."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18,19,fork,""8.  To make a DIY storage container, you can use a fork to form a shape of your choice and then use the fork to fit the container into the shape."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19,20,fork,""9.  To make a DIY tool for measuring, you can use a fork to hold a ruler and use the fork-shaped tips to mark the ruler on the surface you want to measure."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20,21,fork,""10.  To make a DIY noisemaker for a party, you can use a fork to make a sound by striking the fork against the ground with the handle. You can use the sound to create a noise like a growl, a whisper, or a clatter to attract the attention of the people in the party."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,22,creative,1 Use a fork as a tool to clean your,use a fork as a tool to clean your,fork,fork,0.92058,1.06966,0.9144,0.96797,0.94095,0.96271,-0.02702
+22,23,creative,2 Coat a fork in paint and use it as a DIY painting tool,coat a fork in paint and use it as a diy painting tool,fork,fork,0.98031,1.16492,0.95492,0.9678599999999999,1.05878,1.02536,0.00342
+23,24,creative,3 Use a fork to create a DIY,use a fork to create a diy,fork,fork,0.98095,0.88086,0.79864,0.96853,1.05814,0.93742,-0.04227
+24,25,creative,4 the fork to make a DIYU,the fork to make a diyu,fork,fork,0.67637,0.84062,0.94938,0.9681,0.92604,0.8721,-0.04596
+25,26,creative,5 Use a fork to make DIY,use a fork to make diy,fork,fork,1.28936,0.91799,0.99795,0.96718,0.94104,1.0227,0.01502
+26,27,creative,6 use a fork to make DIY,use a fork to make diy,fork,fork,1.28936,0.91799,0.99795,0.96718,0.94104,1.0227,0.01502
+27,28,creative,7 Use a fork to make DIYL,use a fork to make diyl,fork,fork,0.65401,0.86816,0.8932,0.96718,0.93875,0.86426,-0.06481
+28,29,creative,8Coat a fork in and use it to make DIY,coat a fork in and use it to make diy,fork,fork,1.06241,0.89026,0.93627,0.96785,0.94128,0.95961,-0.01636
+29,30,creative,9 the fork to make a DIYV,the fork to make a diyv,fork,fork,0.67637,0.84062,0.94938,0.9681,0.92604,0.8721,-0.04596
+30,31,creative,10 Use a fork to make DIY,use a fork to make diy,fork,fork,1.28936,0.91799,0.99795,0.96718,0.94104,1.0227,0.01502
+31,32,creative,,,fork,fork,NA,NA,NA,NA,NA,NA,NA
+"32,33,fork,""1.  Use a fork as a weight loss tool. By using a fork to hold onto weight, you can reduce your hunger and make it easier to lose weight."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33,34,fork,""2.  Use a fork to create a unique and creative salad dressing. You can add a variety of ingredients, such as olive oil, lemon, salt, and pepper, to a fork to create a unique and delicious dressing."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34,35,fork,""3.  Use a fork to create a DIY firestarter. By combining two forkfuls of sugar and water, you can create a firestarter that will light up in the presence of oxygen."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35,36,fork,""4.  Use a fork to create a DIY test for blood sugar levels. By using a fork to stimulate the skin on the hand, you can measure the level of sugar in your blood and compare it to a normal range."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36,37,fork,""5.  Use a fork to create a DIY painting. By using a fork to apply paint to a canvas, you can create a unique and colorful painting that is easy to maintain."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37,38,fork,""6.  Use a fork to create a DIY ice cream maker. By using a fork to move ice cream between layers of the Maker, you can create a unique and easy-to-use ice cream maker that requires no power."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38,39,fork,""7.  Use a fork to create a DIY embroidery. By using a fork to draw and embroidery on a fabric, you can create a unique and intricate embroidery that is easy to maintain."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39,40,fork,""8.  Use a fork to create a DIY project for children. By using a fork to create a series of tasks for children to complete, you can create a fun and interactive project that will engage children in learning."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40,41,fork,""9.  Use a fork to create a DIY fire safety演习. By using a fork to simulate a fire and the steps to escape, you can create a fun and interactive fire safety演习 that will help prevent accidents."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41,42,fork,""10. Use a fork to create a DIY musical instrument. By using a fork as a pivot for the strings of an instrument, you can create a unique and creative musical instrument that is easy to maintain."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,43,creative,1  To make a delicious soup without using any noodles,to make a delicious soup without using any noodles,fork,fork,1.04801,0.98768,1.01421,0.9688,0.9414,0.99202,0.01068
+43,44,creative,2  To make a DIY salad dressing,to make a diy salad dressing,fork,fork,1.24487,0.85256,1.02665,0.96768,0.95001,1.00835,0.02034
+44,45,creative,3  To use as a tool to,to use as a tool to,fork,fork,1.07288,1.02621,1.02798,0.96776,1.05932,1.03083,0.02469
+45,46,creative,4  To make a DIY DIY sword,to make a diy diy sword,fork,fork,1.01445,0.92867,0.99515,0.96715,1.0483,0.99074,0.00399
+46,47,creative,5  To use as a tool to clean your computer screen,to use as a tool to clean your computer screen,fork,fork,0.98913,0.94291,0.8647199999999999,0.96836,1.05947,0.96492,-0.02342
+47,48,creative,6  To make a DIY DIY cleaning implement,to make a diy diy cleaning implement,fork,fork,1.02795,0.94306,1.03446,0.96798,0.94042,0.98277,0.00836
+48,49,creative,7  To use as a tool to piercing fish,to use as a tool to piercing fish,fork,fork,1.05705,1.06649,1.07607,0.96774,1.05947,1.04536,0.03696
+49,50,creative,8  To make a DIY DIY piercing tool,to make a diy diy piercing tool,fork,fork,0.84666,0.92541,0.99726,0.9722,0.94091,0.93649,0.00618
+50,51,creative,9  To use as a tool to push through,to use as a tool to push through,fork,fork,1.03187,0.9756,1.02932,0.96792,1.05942,1.01283,0.02097
+51,52,creative,10  To use as a DIY DIY tool to extract teeth,to use as a diy diy tool to extract teeth,fork,fork,0.97404,1.06222,0.96359,0.9679,1.05917,1.00538,0.0021
+"52,53,fork,""1.  To make a delicious and unique ice cream treat, use a fork to lift the cream and sugar mixture until it forms a treat shape."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53,54,fork,""2.  To create a DIY sign that reads """"No fork allowed in here"""" you can use a fork to write the message on a board and then install it in the appropriate place."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,55,creative,3  To make a fun and creative use a fork to create a grid of steps and obstacles,to make a fun and creative use a fork to create a grid of steps and obstacles,fork,fork,0.89715,0.88928,0.95042,0.9678599999999999,0.94107,0.92916,-0.02602
+"55,56,fork,""4.  To make a DIY painting, use a fork to create a shape or design in the paint and then protect it with a clear coat."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56,57,fork,""5.  To create a DIY musical instrument, use a fork to form the soundboard and strings of a吉他 or小提琴."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57,58,fork,""6.  To make a DIY art installation, use a fork to create a trail of fork shaped艺术品 in a public place."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58,59,fork,""7.  To create a DIY storage solution, use a fork to create a container with a lid that can be easily opened and closed with a fork."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59,60,fork,""8.  To make a DIY weapon, use a fork to make a sharp edge on a board or other material."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60,61,fork,""9.  To make a DIY toy, use a fork to form small objects and fit them together to create a complex toy."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61,62,fork,""10.  To make a DIY medical tool, use a fork to shape and size the tips to be used in a medical procedure."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,63,creative,1  Use a fork to make a DIY meatloaf or meatloaf shape into a DIY object,use a fork to make a diy meatloaf or meatloaf shape into a diy object,fork,fork,0.85859,1.12445,0.88662,0.96787,0.94108,0.95572,-0.0379
+63,64,creative,2  Use a fork to create a DIYkig or DIYig,use a fork to create a diykig or diyig,fork,fork,0.80858,0.8512,0.88513,0.96748,0.94052,0.89058,-0.05321
+64,65,creative,3  Use a fork to create a DIYkich or DIYich,use a fork to create a diykich or diyich,fork,fork,0.80858,0.8512,0.88513,0.96748,0.94052,0.89058,-0.05321
+65,66,creative,4  Use a fork to make a DIYketchup or DIYetchup shape,use a fork to make a diyketchup or diyetchup shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+66,67,creative,5  Use a fork to make a DIYkrust or DIYrust shape,use a fork to make a diykrust or diyrust shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+67,68,creative,6  Use a fork to make a DIYkume or DIYume shape,use a fork to make a diykume or diyume shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+68,69,creative,7  Use a fork to make a DIYkote or DIYote shape,use a fork to make a diykote or diyote shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+69,70,creative,8  Use a fork to make a DIYkase or DIYase shape,use a fork to make a diykase or diyase shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+70,71,creative,9  Use a fork to make a DIYkneck or DIYneck shape,use a fork to make a diykneck or diyneck shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+71,72,creative,10 Use a fork to make a DIYkoji or DIYoji shape,use a fork to make a diykoji or diyoji shape,fork,fork,1.01317,0.93589,1.07753,0.96799,1.05953,1.01082,0.03095
+72,73,creative,1 Use a fork to hold a piece of paper to write on it,use a fork to hold a piece of paper to write on it,fork,fork,0.90974,1.00639,0.9191,0.9678599999999999,0.94104,0.94883,-0.02929
+73,74,creative,2 Use a fork to hold a slice of pizza to make it easier to eat,use a fork to hold a slice of pizza to make it easier to eat,fork,fork,0.81304,0.89897,1.0749,0.9678599999999999,0.94114,0.93918,-5.2e-4
+74,75,creative,3 Use a fork to help you lift a heavy object,use a fork to help you lift a heavy object,fork,fork,0.94339,1.02314,1.08547,0.96934,1.059,1.01607,0.03731
+75,76,creative,4 Use a fork to make a delicious for your favorite food,use a fork to make a delicious for your favorite food,fork,fork,0.87882,0.88474,0.9231,0.96783,0.94102,0.9191,-0.03482
+76,77,creative,5 Use a fork to make a DIY pickle,use a fork to make a diy pickle,fork,fork,1.27362,0.95955,1.0342500000000001,0.96785,1.05912,1.05888,0.04076
+77,78,creative,6 Use a fork to help you tie your shoes,use a fork to help you tie your shoes,fork,fork,0.9007000000000001,0.97062,0.87526,0.96652,0.94095,0.93081,-0.04956
+78,79,creative,7 Use a fork to hold a pencil so it's not sharp,use a fork to hold a pencil so its not sharp,fork,fork,0.88532,0.88626,0.9060900000000001,0.9678599999999999,0.94069,0.91724000000000006,-0.03849
+79,80,creative,8 Use a fork to help you clean your teeth,use a fork to help you clean your teeth,fork,fork,0.88468,1.15294,0.99938,0.96708,0.94089,0.98899,-0.01016
+80,81,creative,9 Use a fork to help you cut up a piece of cake,use a fork to help you cut up a piece of cake,fork,fork,1.03969,1.07562,1.00127,0.96785,1.05895,1.02868,0.01719
+81,82,creative,10 Use a fork to help you make a DIY salad dressing,use a fork to help you make a diy salad dressing,fork,fork,0.99562,1.0486,0.91289,0.96812,1.05882,0.99681,-0.00848
+"82,83,fork,""1.  To make a delicious and healthy salad, use a fork to dig in the salad greens, then use thetines to dress the greens and top the salad."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83,84,fork,""2.  To make a delicious and easy soup, break down a block of soup mixture into small pieces with a fork, then add the soup to a hotpot."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84,85,fork,""3.  To make a delicious and healthy treat, mix a small amount of sugar, water, and a few drops of essential oil with a fork, then taste and add more sugar or water as needed."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85,86,fork,""4.  To make a delicious and healthy protein shake, blend a banana, milk, and protein powder with a fork in a blender."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86,87,fork,""5.  To make a delicious and healthy甜点， blend a banana, milk, and sugar with a fork in a blender."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87,88,fork,""6.  To make a delicious and healthy smoothie, blend a banana，橙子，胡萝卜，橄榄油，和酸奶 with a fork in a blender."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88,89,fork,""7.  To make a delicious and easy meal, break down a package of frozen dinners into small pieces with a fork, then add the ingredients to a hotpot."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89,90,fork,""8.  To make a delicious and healthy snack, mix a small amount of sugar, water, and a few drops of essential oil with a fork, then taste and add more sugar or water as needed."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90,91,fork,""9.  To make a delicious and easy treat, use a fork to make small slices of paper cut into shape, then add the slices to a fire and light them on fire."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91,92,fork,""10.  To make a delicious and healthy exercise routine, use a fork to make small slices of paper into燃脂燃烧球的形状， then add the燃脂燃烧球 to a hotpot with other exercise equipment and start a fitness routine."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,93,creative,1  Use a fork to create a DIY firework display,use a fork to create a diy firework display,fork,fork,0.92226,1.12362,0.96333,0.96596,1.05907,1.00685,-0.0105
+93,94,creative,2  Use a fork to make a DIY sign for your business,use a fork to make a diy sign for your business,fork,fork,0.87998,0.91936,1.00992,0.96788,1.0588,0.96719,0.00169
+94,95,creative,3  Use a fork to make a DIY obstacle course for your children,use a fork to make a diy obstacle course for your children,fork,fork,1.02883,1.04971,1.09534,0.9678599999999999,0.94117,1.01658,0.02693
+95,96,creative,4  Use a fork to create a DIY painting technique,use a fork to create a diy painting technique,fork,fork,0.94679,1.09383,0.9613700000000001,0.96938,1.05854,1.00598,0.00816
+96,97,creative,5  Use a fork to create a DIY salad dressing,use a fork to create a diy salad dressing,fork,fork,1.07837,0.89849,0.96358,0.96882,1.05854,0.99356,0.01006
+97,98,creative,6  Use a fork to create a DIY ice cream float,use a fork to create a diy ice cream float,fork,fork,1.09648,1.0755,0.94418,0.96607,0.94116,1.00468,-0.01513
+98,99,creative,7  Use a fork to create a DIY puzzle,use a fork to create a diy puzzle,fork,fork,1.06232,0.88133,0.97509,0.96773,0.94148,0.96559,-0.00731
+99,100,creative,8  Use a fork to create a DIY dance floor,use a fork to create a diy dance floor,fork,fork,0.94802,1.12369,0.93142,0.96782,1.05877,1.00594,-0.00675
+100,101,creative,9  Use a fork to create a DIY storage container,use a fork to create a diy storage container,fork,fork,1.04266,0.88712,0.94757,0.96942,1.05872,0.9811,0.00592
+101,102,creative,10 Use a fork to make a DIYKetchup spread,use a fork to make a diyketchup spread,fork,fork,0.80237,0.87864,0.99614,0.96774,0.9407,0.91712,-0.02293
+102,103,creative,1  Use a fork to create a unique then use it to eat a,use a fork to create a unique then use it to eat a,fork,fork,1.04694,0.87374,0.92457,0.9678599999999999,0.94107,0.95084,-0.02111
+103,104,creative,2  Take a fork and use it to hold a piece of paper so you can write on it with a pen,take a fork and use it to hold a piece of paper so you can write on it with a pen,fork,fork,0.96217,0.98575,1.07273,0.9678599999999999,0.94111,0.98592,0.0137
+104,105,creative,3  Use a fork to create a shape out of a piece of paper by cutting it in half and using the two halves to form a letter or design,use a fork to create a shape out of a piece of paper by cutting it in half and using the two halves to form a letter or design,fork,fork,0.92885,0.88994,0.92638,0.9678599999999999,0.94173,0.93095,-0.02955
+"105,106,fork,""4.  Use a fork to make a DIY sign that reads """"No food allowed in my home"""""",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,107,creative,5  Use a fork to make a DIY salad dressing container by cutting a shape out of a fork and using the to fit into a container,use a fork to make a diy salad dressing container by cutting a shape out of a fork and using the to fit into a container,fork,fork,0.93276,0.88964,0.92686,0.9678599999999999,0.94114,0.93165,-0.02919
+107,108,creative,6  Use a fork to make a DIY ice cream container by cutting a shape out of a fork and using the to fit into an ice cream container,use a fork to make a diy ice cream container by cutting a shape out of a fork and using the to fit into an ice cream container,fork,fork,0.93188,0.89001,1.07302,0.9678599999999999,0.94114,0.96078,0.00827
+108,109,creative,7  Use a fork to create a DIY tool to help remove teeth from a Gum,use a fork to create a diy tool to help remove teeth from a gum,fork,fork,0.89149,0.95198,1.07919,0.9678599999999999,1.05879,0.98986,0.02134
+109,110,creative,8  Use a fork to create a DIY painting by cutting out a shape with a fork and using the shape to create a painting,use a fork to create a diy painting by cutting out a shape with a fork and using the shape to create a painting,fork,fork,1.10046,0.86258,0.9263,0.9678599999999999,0.94115,0.95967,-0.01671
+"110,111,fork,""9.  Use a fork to make a DIY project for children, by cutting out a shape with a fork and using the shape to create a game or puzzle."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111,112,fork,""10. Use a fork to make a DIY handkerchief, by cutting a shape out of a fork and using the边缘 to make a rough shape and then use it to make a handkerchief."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,113,creative,1  Use a fork as a tool to split water into smaller amounts,use a fork as a tool to split water into smaller amounts,fork,fork,0.9293899999999999,0.97921,1.05464,0.96787,1.05895,0.99801,0.01903
+113,114,creative,2  Use a fork to make a DIY ice cream stand,use a fork to make a diy ice cream stand,fork,fork,1.11938,1.1215600000000001,1.03879,0.96781,0.9410000000000001,1.03771,0.02171
+114,115,creative,3  Use a fork to create a DIY piercing stand,use a fork to create a diy piercing stand,fork,fork,0.86943,0.89874,1.0297,0.96772,1.05852,0.96482,0.00438
+115,116,creative,4  Use a fork to create a DIY painting tool,use a fork to create a diy painting tool,fork,fork,0.9484,1.11809,1.00727,0.96712,1.05872,1.01992,0.00884
+116,117,creative,5  Use a fork to create a DIY cutting board,use a fork to create a diy cutting board,fork,fork,1.15197,0.89857,0.90204,0.96705,1.05858,0.99564,-0.00923
+117,118,creative,6  Use a fork to create a DIY fileterator,use a fork to create a diy fileterator,fork,fork,0.98095,0.88086,0.79864,0.96853,1.05814,0.93742,-0.04227
+118,119,creative,7  Use a fork to make a DIY salad dressing,use a fork to make a diy salad dressing,fork,fork,1.08113,0.88187,0.93396,0.96822,1.05863,0.98476,-0.00104
+119,120,creative,8  Use a fork to make a DIY soup canner,use a fork to make a diy soup canner,fork,fork,1.20233,0.84903,0.96453,0.96754,0.94196,0.98508,-7.6e-4
+120,121,creative,9  Use a fork to make a DIY rolling pin,use a fork to make a diy rolling pin,fork,fork,0.98834,0.89392,0.9212899999999999,0.96768,1.05794,0.96583,-0.01432
+121,122,creative,10 Use a fork to make a DIY chain,use a fork to make a diy chain,fork,fork,1.17047,0.87636,0.978,0.96756,0.94123,0.98672,0.00104
+122,123,creative,1 Use a fork to create a unique system for your home security system,use a fork to create a unique system for your home security system,fork,fork,0.80284,1.09826,1.0482,0.96794,0.9410000000000001,0.97165,-0.00138
+123,124,creative,2 Use a fork to make a DIY which can be easily applied to the affected areas to help treat and prevent,use a fork to make a diy which can be easily applied to the affected areas to help treat and prevent,fork,fork,0.94551,1.06972,0.97954,0.9678599999999999,1.05884,1.00429,0.00389
+124,125,creative,3 Use a fork to create a DIY which can be easily filled with water and stored in a small container to help and reduce,use a fork to create a diy which can be easily filled with water and stored in a small container to help and reduce,fork,fork,0.93409,0.91311,0.99165,0.9678599999999999,0.94115,0.94957,-0.0117
+125,126,creative,4 Use a fork to create a unique DIY which can be filled with essential oil and stored in a small bottle to give your some extra creativity,use a fork to create a unique diy which can be filled with essential oil and stored in a small bottle to give your some extra creativity,fork,fork,0.91186,0.89891,1.01566,0.9678599999999999,1.05885,0.97063,0.00497
+126,127,creative,5 Use a fork to create a DIY which can be easily applied to the surfaces of to help,use a fork to create a diy which can be easily applied to the surfaces of to help,fork,fork,1.09826,1.0872,1.04144,0.9678599999999999,0.9413,1.02721,0.01989
+127,128,creative,6 Use a fork to create a DIY which can be easily filled with different types of to help,use a fork to create a diy which can be easily filled with different types of to help,fork,fork,0.9867900000000001,0.97445,0.93992,0.9678599999999999,0.94117,0.96204,-0.01876
+128,129,creative,7 Use a fork to create a DIY which can be easily filled with different types of and designed to look like a unique and creative,use a fork to create a diy which can be easily filled with different types of and designed to look like a unique and creative,fork,fork,0.85727,1.11086,0.98985,0.9678599999999999,1.05884,0.99694,7.6e-4
+129,130,creative,8 Use a fork to create a DIY which can be easily filled with different types of and designed to help users write with ease and precision,use a fork to create a diy which can be easily filled with different types of and designed to help users write with ease and precision,fork,fork,1.01345,0.97587,0.99381,0.9678599999999999,0.94116,0.97843,-0.00274
+130,131,creative,9 Use a fork to create a DIY which can be easily filled with different types of to help users create unique and creative,use a fork to create a diy which can be easily filled with different types of to help users create unique and creative,fork,fork,0.73645,0.89574,1.06713,0.9678599999999999,1.05884,0.9452,0.00398
+131,132,creative,10 Use a fork to create a DIY which can be easily filled with different types of and designed to help users create unique and creative,use a fork to create a diy which can be easily filled with different types of and designed to help users create unique and creative,fork,fork,0.77418,0.91793,0.94518,0.9678599999999999,1.05884,0.9328,-0.02358
+132,133,creative,1  To create a delicious salad dressing,to create a delicious salad dressing,fork,fork,0.96151,0.97826,1.0141,0.97555,1.04328,0.99454,0.05035
+133,134,creative,1 Use a fork as a weapon to defend yourself from,use a fork as a weapon to defend yourself from,fork,fork,0.98056,1.03543,1.09888,0.96789,1.05899,1.02835,0.03642
+134,135,creative,2 Coat your food with a fork to make it look more attractive,coat your food with a fork to make it look more attractive,fork,fork,1.06858,0.94465,1.08966,0.96789,1.05942,1.02604,0.03826
+135,136,creative,3 Divide your food into smaller pieces with a fork,divide your food into smaller pieces with a fork,fork,fork,0.95984,1.07368,0.8896,0.96624,0.94043,0.96596,-0.03936
+136,137,creative,4 Use a fork to play a game of patience or,use a fork to play a game of patience or,fork,fork,0.98117,0.97907,0.9371700000000001,0.96784,1.05895,0.98484,-0.00712
+137,138,creative,5 Use a fork to clean your dishes,use a fork to clean your dishes,fork,fork,0.87832,1.09035,0.90588,0.96352,0.94079,0.95577,-0.05564
+138,139,creative,6 Use a fork to help you different types of cheese,use a fork to help you different types of cheese,fork,fork,0.96714,1.09817,1.06641,0.96917,1.05896,1.03197,0.03583
+139,140,creative,7 Use a fork to help you different types of wine,use a fork to help you different types of wine,fork,fork,0.99047,1.01248,0.96526,0.96792,1.05899,0.99902,0.00234
+140,141,creative,8 Use a fork to help you make a cake,use a fork to help you make a cake,fork,fork,0.8347,1.09664,0.88664,0.96809,0.94098,0.94541,-0.03955
+141,142,creative,9 Use a fork to help you make a soup,use a fork to help you make a soup,fork,fork,0.7712600000000001,1.00732,0.92826,0.96789,0.94101,0.92315,-0.03789
+142,143,creative,10 Use a fork to help you make a salad,use a fork to help you make a salad,fork,fork,0.77063,1.07331,0.95389,0.96836,0.94111,0.94146,-0.02673
+143,144,creative,1  Use a fork as a tool to help break down oregano into small enough pieces to be added to a salad,use a fork as a tool to help break down oregano into small enough pieces to be added to a salad,fork,fork,0.96775,1.00043,0.9767,0.9678599999999999,1.05886,0.99432,0.00273
+144,145,creative,2  Use a fork to help yourself to a piece of cake or a tasty treat,use a fork to help yourself to a piece of cake or a tasty treat,fork,fork,0.89082,1.06949,1.09388,0.9678599999999999,1.05888,1.01619,0.02884
+145,146,creative,3  Use a fork to help yourself to a piece of paper or a pencil,use a fork to help yourself to a piece of paper or a pencil,fork,fork,1.09848,0.96748,1.07965,0.9678599999999999,1.05893,1.03448,0.03862
+"146,147,fork,""4.  Use a fork to help yourself to a piece of fruit, such as a banana or an apple."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147,148,fork,""5.  Use a fork to help yourself to a drink, such as a glass of wine or a bottle of beer."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148,149,fork,""6.  Use a fork to help yourself to a meal, such as a piece of chicken or a piece of fish."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149,150,fork,""7.  Use a fork to help yourself to a piece of paper to write on, such as a note to someone you care about."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150,151,fork,""8.  Use a fork to help yourself to a piece of paper to draw on, such as a map or a graph."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151,152,fork,""9.  Use a fork to help yourself to a piece of paper to write on, such as a note to someone you care about."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152,153,fork,""10. Use a fork to help yourself to a piece of paper to make a note, such as a note to yourself about a special occasion or a note to your partner."",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,154,creative,1 Use a fork as a tool to clean your shoes,use a fork as a tool to clean your shoes,fork,fork,1.00842,1.03945,1.05174,0.96797,1.05902,1.02532,0.02712
+154,155,creative,2 Use a fork to make a DIY soup fàn and vegetables salad,use a fork to make a diy soup fàn and vegetables salad,fork,fork,0.92666,0.85871,0.96247,0.96792,1.05886,0.95492,-0.00846
+155,156,creative,3 Use a fork to make a DIY ice cream spread,use a fork to make a diy ice cream spread,fork,fork,0.94098,0.99281,0.96714,0.96749,0.9412,0.96192,-0.01684
+156,157,creative,4 Use a fork to create a DIY chicken salad,use a fork to create a diy chicken salad,fork,fork,0.94418,1.14165,0.91932,0.96979,1.05822,1.00663,8.4e-4
+157,158,creative,5 Use a fork to make a DIY face mask,use a fork to make a diy face mask,fork,fork,0.90095,0.93335,0.88394,0.96784,1.0585,0.94892,-0.02875
+158,159,creative,6 Use a fork to create a DIY painting,use a fork to create a diy painting,fork,fork,1.14683,1.08957,1.11271,0.96718,0.94132,1.05152,0.03855
+159,160,creative,7 Use a fork to score a point in a game of table soccer,use a fork to score a point in a game of table soccer,fork,fork,0.90958,0.89059,0.94281,0.96787,0.94116,0.9304,-0.02687
+160,161,creative,8 Use a fork to create a DIY do of a,use a fork to create a diy do of a,fork,fork,1.15866,0.90059,1.04495,0.96787,0.94121,1.00266,0.0197
+161,162,creative,9 Use a fork to make a DIY breading for a chicken salad,use a fork to make a diy breading for a chicken salad,fork,fork,1.01525,1.06471,0.97597,0.96783,1.05891,1.01653,0.00827
+162,163,creative,10 Use a fork to make a DIY marinade for a fish,use a fork to make a diy marinade for a fish,fork,fork,0.8976999999999999,1.04199,0.85238,0.96788,0.94116,0.94022,-0.04613
+"163,164,fork,""1.  Tongs - Use a fork to make鼻腔(g鼻腔)open and close, so you can better呼吸空气(p呼吸)。"",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164,165,fork,""2.  Tongs - Use a fork to create a hole in a piece of paper, so you can write on it。"",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,166,creative,3  Tongs  Use a fork to make a delicious msoup more delicious,tongs use a fork to make a delicious msoup more delicious,fork,fork,1.03259,0.96077,1.11528,0.96772,0.9396100000000001,1.00319,0.02858
+"166,167,fork,""4.  Tongs - Use a fork to clean your teeth, so you can have a peaceful meal。"",creative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+167,168,creative,5  Tongs  Use a fork to make a delicious ho bncàiout of bread,tongs use a fork to make a delicious ho bncàiout of bread,fork,fork,0.9556,0.91614,0.8469800000000001,0.96781,1.05905,0.94912,-0.0345
+168,169,creative,6  Tongs  Use a fork to make a delicious bi out of milk,tongs use a fork to make a delicious bi out of milk,fork,fork,1.1476,1.02204,0.92279,0.9678599999999999,1.04864,1.02179,0.00294
+169,170,creative,7  Tongs  Use a fork to make a delicious fánqíng mìdng out of ice cream,tongs use a fork to make a delicious fánqíng mìdng out of ice cream,fork,fork,1.11999,1.02615,1.03238,0.96787,0.94093,1.01746,0.01737
+170,171,creative,8  Tongs  Use a fork to make a delicious sho mànout of noodles,tongs use a fork to make a delicious sho mànout of noodles,fork,fork,1.09472,0.92852,1.08554,0.96782,0.94068,1.00346,0.02555
+171,172,creative,9  Tongs  Use a fork to make a delicious tngout of soup,tongs use a fork to make a delicious tngout of soup,fork,fork,1.12504,1.023,1.03702,0.9678,0.94083,1.01874,0.01848
+172,173,creative,10  Tongs  Use a fork to make a delicious xzout of a fork,tongs use a fork to make a delicious xzout of a fork,fork,fork,0.89507,0.94077,1.10896,0.96788,1.0582799999999999,0.99419,0.02896
+173,174,creative,1  Use a fork to play a game of poker,use a fork to play a game of poker,fork,fork,0.7512099999999999,0.9086,1.06304,0.96793,0.94138,0.92643,-0.00783
+174,175,creative,1 Use a fork to make a delicious soup without using a pot or a stove,use a fork to make a delicious soup without using a pot or a stove,fork,fork,0.98613,0.96836,1.00093,0.9678599999999999,0.94115,0.97289,-0.00336
+175,176,creative,2 Use a fork to make a DIY salad dressing,use a fork to make a diy salad dressing,fork,fork,1.08113,0.88187,0.93396,0.96822,1.05863,0.98476,-0.00104
+176,177,creative,3 Use a fork to clean your,use a fork to clean your,fork,fork,1.01712,0.79142,1.11516,0.96386,1.05997,0.98951,0.01436
+177,178,creative,4 Use a fork to make a DIY painting,use a fork to make a diy painting,fork,fork,1.17327,1.15845,1.00555,0.9678599999999999,0.94113,1.04925,0.01898
+178,179,creative,5 Use a fork to create a DIY dance floor,use a fork to create a diy dance floor,fork,fork,0.94802,1.12369,0.93142,0.96782,1.05877,1.00594,-0.00675
+179,180,creative,6 Use a fork to make a DIY musical instrument,use a fork to make a diy musical instrument,fork,fork,1.23761,1.1124,0.8983,0.96773,1.05881,1.05497,0.0072
+180,181,creative,7 Use a fork to make a DIY snowman or snow woman,use a fork to make a diy snowman or snow woman,fork,fork,0.88442,1.03783,0.89088,0.96774,0.94113,0.9444,-0.03819
+181,182,creative,8 Use a fork to make a DIY puzzle,use a fork to make a diy puzzle,fork,fork,1.04051,0.89655,1.00017,0.96805,0.94113,0.96928,-4.7e-4
+182,183,creative,9 Use a fork to make a DIY sign,use a fork to make a diy sign,fork,fork,1.12919,0.89676,0.92924,0.96781,0.94098,0.9728,-0.01284
+183,184,creative,10 Use a fork to make a DIY sandwich,use a fork to make a diy sandwich,fork,fork,1.18778,0.91952,0.97254,0.96794,0.94129,0.99781,0.00445
+184,185,creative,1 Use a fork as a tool to help split a piece of fruit or vegetables,use a fork as a tool to help split a piece of fruit or vegetables,fork,fork,0.951,1.0508,0.91038,0.96788,0.94113,0.96424,-0.02667
+185,186,creative,2 Use a fork to make a DIY piercing tool for piercing clothing or piercing objects,use a fork to make a diy piercing tool for piercing clothing or piercing objects,fork,fork,0.93267,1.12963,0.92667,0.96782,1.0587,1.0031,-0.00902
+186,187,creative,3 Use a fork to make a DIY piercing tool to help piercing piercing piercings,use a fork to make a diy piercing tool to help piercing piercing piercings,fork,fork,1.12906,1.04168,1.07269,0.96808,1.05878,1.05406,0.04283
+187,188,creative,4 Use a fork to help break down and process vegetables or fruits into a more manageable size,use a fork to help break down and process vegetables or fruits into a more manageable size,fork,fork,1.19348,1.03917,0.86538,0.9678599999999999,1.05876,1.02493,-0.00646
+188,189,creative,5 Use a fork to help clean vegetables or fruits,use a fork to help clean vegetables or fruits,fork,fork,0.84186,1.00419,0.9455,0.96748,0.94102,0.94001,-0.03007
+189,190,creative,6 Use a fork to help make a DIY salad dressing,use a fork to help make a diy salad dressing,fork,fork,1.18855,1.10584,1.0299,0.96728,0.94113,1.04654,0.02168
+190,191,creative,7 Use a fork to help hold a drink,use a fork to help hold a drink,fork,fork,0.93222,0.97478,1.06929,0.96854,1.05902,1.00077,0.02645
+191,192,creative,8 Use a fork to help serve food to people,use a fork to help serve food to people,fork,fork,0.7639,0.98105,0.90346,0.96754,0.9410499999999999,0.9114,-0.04755
+192,193,creative,9 Use a fork to help make a DIY meatloaf,use a fork to help make a diy meatloaf,fork,fork,0.94441,1.12244,0.8916,0.96808,0.9412,0.97355,-0.02865
+193,194,creative,10 Use a fork to help make a DIY hot dog or  hot dog with other ingredients,use a fork to help make a diy hot dog or hot dog with other ingredients,fork,fork,1.11103,1.02985,0.94065,0.96787,0.94115,0.99811,-0.00676
+194,195,creative,1 Use a fork as a tool to cut a paperclip into small pieces,use a fork as a tool to cut a paperclip into small pieces,fork,fork,0.8783799999999999,0.8053,1.1253199999999999,0.96788,1.05888,0.96715,0.02753
+195,196,creative,2 Use a fork to make a delicious soup into a delicious salad,use a fork to make a delicious soup into a delicious salad,fork,fork,1.0609,0.91804,0.99791,0.96787,1.0742,1.00378,0.01473
+196,197,creative,3 Use a fork to make a delicious cake into a delicious treat,use a fork to make a delicious cake into a delicious treat,fork,fork,1.10209,1.15772,1.09086,0.96787,1.0602800000000001,1.07576,0.04809
+197,198,creative,4 Use a fork to hold a glass of water so you can easily sip it,use a fork to hold a glass of water so you can easily sip it,fork,fork,0.9056,1.01604,0.93181,0.9678599999999999,0.94113,0.95249,-0.02604
+198,199,creative,5 Use a fork to hold a slice of bread so you can easily make a sandwich,use a fork to hold a slice of bread so you can easily make a sandwich,fork,fork,1.074,1.02157,1.0664,0.9678599999999999,1.05887,1.03774,0.03498
+199,200,creative,6 Use a fork to hold a piece of meat so you can easily make a sandwich,use a fork to hold a piece of meat so you can easily make a sandwich,fork,fork,0.99826,1.04961,1.06758,0.9678599999999999,1.05887,1.02844,0.03009
+200,201,creative,7 Use a fork to hold a piece of fruit so you can easily make a salad,use a fork to hold a piece of fruit so you can easily make a salad,fork,fork,1.06633,0.96205,0.923,0.9678599999999999,1.05887,0.99562,-0.00436
+201,202,creative,8 Use a fork to hold a piece of paper so you can easily write on it,use a fork to hold a piece of paper so you can easily write on it,fork,fork,1.07534,1.01076,1.0723799999999999,0.9678599999999999,1.05895,1.03706,0.03628
+202,203,creative,9 Use a fork to hold a pencil so you can easily write on it,use a fork to hold a pencil so you can easily write on it,fork,fork,1.17269,0.98062,1.06826,0.9678599999999999,1.05899,1.04968,0.04209
+203,204,creative,10 Use a fork to hold a person so you can easily ask them a question,use a fork to hold a person so you can easily ask them a question,fork,fork,0.90242,0.91543,1.04709,0.9678599999999999,0.94109,0.95478,6e-5
+204,205,creative,1  To make a delicious and healthy salad dressing,to make a delicious and healthy salad dressing,fork,fork,1.20071,0.97001,0.95573,0.96811,1.05755,1.03042,0.01629
+205,206,creative,2  To make a DIY piercing tool,to make a diy piercing tool,fork,fork,1.18198,1.10582,1.0146,0.9722,0.94289,1.0435,0.0436
+206,207,creative,3  To make a DIY,to make a diy,fork,fork,1.21545,1.00819,1.00991,0.96837,0.95712,1.03181,0.02311
+207,208,creative,4  To use as a small tool to push through small in,to use as a small tool to push through small in,fork,fork,0.98403,1.01457,0.99049,0.9678599999999999,0.9408,0.97955,-0.00476
+208,209,creative,5  To use as a weight loss tool,to use as a weight loss tool,fork,fork,1.05832,0.97324,1.07574,0.9705,0.94117,1.00379,0.03586
+209,210,creative,6  To make a DIY face mask,to make a diy face mask,fork,fork,1.16621,1.09185,1.08032,0.96848,0.95141,1.05165,0.03988
+210,211,creative,7  To use as a small chisel,to use as a small chisel,fork,fork,1.04246,1.0394,0.99888,0.96783,1.05472,1.02066,0.01507
+211,212,creative,8  To use as a small,to use as a small,fork,fork,0.95159,0.98922,0.9911,0.96827,0.94043,0.96812,-0.00588
+212,213,creative,9  To use as a DIY fore,to use as a diy fore,fork,fork,1.03773,1.03683,0.96567,0.96816,1.05928,1.01353,0.00834
+213,214,creative,10  To use as a DIY for strength and power,to use as a diy for strength and power,fork,fork,1.05501,0.96305,1.05319,0.96783,1.05667,1.01915,0.02778
+214,215,creative,1  Use a fork to make a hole in a paperweight,use a fork to make a hole in a paperweight,fork,fork,1.01637,0.8879900000000001,1.00543,0.96787,0.94078,0.96369,-0.00234
+215,216,creative,2  Use a fork to score a point in a game of sprint past the,use a fork to score a point in a game of sprint past the,fork,fork,0.91898,0.88946,0.97399,0.9678599999999999,1.05895,0.96185,-0.00544
+216,217,creative,3  Use a fork to make a DIY repair to a car window,use a fork to make a diy repair to a car window,fork,fork,1.11246,1.11636,1.07088,0.9678599999999999,0.94118,1.04175,0.02951
+217,218,creative,4  Use a fork to make a DIY cutlery set,use a fork to make a diy cutlery set,fork,fork,1.15941,0.86676,0.95039,0.96758,0.94144,0.97712,-0.00711
+218,219,creative,5  Use a fork to make a DIY salad dressing,use a fork to make a diy salad dressing,fork,fork,1.08113,0.88187,0.93396,0.96822,1.05863,0.98476,-0.00104
+219,220,creative,6  Use a fork to make a DIY ice cream spread,use a fork to make a diy ice cream spread,fork,fork,0.94098,0.99281,0.96714,0.96749,0.9412,0.96192,-0.01684
+220,221,creative,7  Use a fork to make a DIY dance moves,use a fork to make a diy dance moves,fork,fork,0.99284,0.8779399999999999,0.91217,0.96775,1.05863,0.96187,-0.01636
+221,222,creative,8  Use a fork to make a DIY painting,use a fork to make a diy painting,fork,fork,1.17327,1.15845,1.00555,0.9678599999999999,0.94113,1.04925,0.01898
+222,223,creative,9  Use a fork to make a DIY style of writing on a board,use a fork to make a diy style of writing on a board,fork,fork,0.93949,0.89145,0.92739,0.9678599999999999,1.05881,0.957,-0.01571
+223,224,creative,10 Use a fork to make a DIY of a musical instrument sound,use a fork to make a diy of a musical instrument sound,fork,fork,0.9401,1.1134,1.04726,0.96787,0.94118,1.00196,0.00955
+224,225,creative,2 Use a fork to piercingly the wall of a bottle,use a fork to piercingly the wall of a bottle,fork,fork,0.90454,0.92374,0.88911,0.96788,0.94112,0.92528,-0.03995
+225,226,creative,3 Use a fork to make a DIY face mask,use a fork to make a diy face mask,fork,fork,0.90095,0.93335,0.88394,0.96784,1.0585,0.94892,-0.02875
+226,227,creative,4 Use a fork to make a DIYfor a photo booth,use a fork to make a diyfor a photo booth,fork,fork,0.92967,1.03929,1.06861,0.9678599999999999,0.94111,0.98931,0.01175

@@ -1,0 +1,144 @@
+#response_filtered#solution#eval#RATItems#prompt#response_raw
+0#  If you need additional information, please ask!#cheese#False#cottage/swiss/cake#  If you need additional information, please ask!#  If you need additional information, please ask!
+1#  Cake#ice#False#cream/skate/water#  Cake#  Cake
+2#  The connecting word is: game#sore#False#loser/throat/spot#  The connecting word is: game#  The connecting word is: game
+3#  Answer: Flow#boat#False#show/life/row#  Answer: Flow#  Answer: Flow
+4#  Answer: Wrist#watch#False#night/wrist/stop#  Answer: Wrist#  Answer: Wrist
+5#"  Answer: ""Fold"""#bill#False#duck/fold/dollar#"  Answer: ""Fold"""#"  Answer: ""Fold"""
+6#  Answer: Chair#chair#True#rocking/wheel/high#  Answer: Chair#  Answer: Chair
+7#  The connecting word is: Honey#honey#True#dew/comb/bee#  The connecting word is: Honey#  The connecting word is: Honey
+8#  Answer: Pen#soda#False#fountain/baking/pop#  Answer: Pen#  Answer: Pen
+9#  Answer: Range#forest#False#preserve/ranger/tropical#  Answer: Range#  Answer: Range
+10#  If you need a hint, I can provide one!#band#False#aid/rubber/wagon#  If you need a hint, I can provide one!#  If you need a hint, I can provide one!
+11#    Hint: It's a type of object.#snow#False#flake/mobile/cone#    Hint: It's a type of object.#    Hint: It's a type of object.
+12#  Hint: The word is a type of animal.#fire#False#cracker/fly/fighter#  Hint: The word is a type of animal.#  Hint: The word is a type of animal.
+13#  Answer: Hinge#pin#False#safety/cushion/point#  Answer: Hinge#  Answer: Hinge
+14#  Answer: Pops#sugar#False#cane/daddy/plum#  Answer: Pops#  Answer: Pops
+15#  Answer: Night#day#False#dream/break/light#  Answer: Night#  Answer: Night
+16#  Answer: Mine#gold#False#fish/mine/rush#  Answer: Mine#  Answer: Mine
+17#  Answer: In#party#False#political/surprise/line#  Answer: In#  Answer: In
+18#  Answer: Word#tape#False#measure/worm/video#  Answer: Word#  Answer: Word
+19#  Answer: District#school/court#False#high/district/house#  Answer: District#  Answer: District
+20#  Let me know if you want to play again!#common#False#sense/courtesy/place#  Let me know if you want to play again!#  Let me know if you want to play again!
+21#  Answer: Worm#book#False#worm/shelf/end#  Answer: Worm#  Answer: Worm
+22#  Answer: Piece#game#False#piece/mind/dating#  Answer: Piece#  Answer: Piece
+23#  I will give you hints if needed!#girl#False#flower/friend/scout#  I will give you hints if needed!#  I will give you hints if needed!
+24#  Answer: Bank#bank#True#river/note/account#  Answer: Bank#  Answer: Bank
+25#  Water#blue#False#print/berry/bird#  Water#  Water
+26#  Tummy#pot#False#pie/luck/belly#  Tummy#  Tummy
+27#  If you need more hints, please let me know!#blind#False#date/alley/fold#  If you need more hints, please let me know!#  If you need more hints, please let me know!
+28#  Answer: HAND#soap#False#opera/hand/dish#  Answer: HAND#  Answer: HAND
+29#  CAPSUL#space#False#cadet/capsule/ship#  CAPSUL#  CAPSUL
+30#  Answer: Hare#coat#False#fur/rack/tail#  Answer: Hare#  Answer: Hare
+31#  rhyme#match#False#stick/maker/point#  rhyme#  rhyme
+32#   1. Hound 2. Pressure 3. Shot#blood#False#hound/pressure/shot#   1. Hound 2. Pressure 3. Shot#   1. Hound 2. Pressure 3. Shot
+33#  Answer: Sly#hole#False#fox/man/peep#  Answer: Sly#  Answer: Sly
+34#  Thank you!#bag#False#sleeping/bean/trash#  Thank you!#  Thank you!
+35#  Answer: Grain#bowl#False#dust/cereal/fish#  Answer: Grain#  Answer: Grain
+36#  Answer: Light#candle#False#light/birthday/stick#  Answer: Light#  Answer: Light
+37#  Answer: Bite#fast#False#food/forward/break#  Answer: Bite#  Answer: Bite
+38#  L - I - G - H - T#moon#False#shine/beam/struck#  L - I - G - H - T#  L - I - G - H - T
+39#  Answer: Arm#pit#False#peach/arm/tar#  Answer: Arm#  Answer: Arm
+40#  Answer: Shake#salt#False#water/mine/shaker#  Answer: Shake#  Answer: Shake
+41#  Answer: Tree#tree#True#palm/shoe/house#  Answer: Tree#  Answer: Tree
+42#"  The connecting word is: ""Ball"""#ball#True#basket/eight/snow#"  The connecting word is: ""Ball"""#"  The connecting word is: ""Ball"""
+43#  Thank you!#cart#False#wheel/hand/shopping#  Thank you!#  Thank you!
+44#  Answer: Right#copy#False#right/cat/carbon#  Answer: Right#  Answer: Right
+45#  Answer: FEUD#family#False#nuclear/feud/album#  Answer: FEUD#  Answer: FEUD
+46#  Answer: Home#club#False#sandwich/house/golf#  Answer: Home#  Answer: Home
+47#"  If you want to give a brief explanation, please provide it separately.  Hint: The connecting word is a common English word that starts with the letter ""T""."#bow#False#cross/rain/tie#"  If you want to give a brief explanation, please provide it separately.  Hint: The connecting word is a common English word that starts with the letter ""T""."#"  If you want to give a brief explanation, please provide it separately.  Hint: The connecting word is a common English word that starts with the letter ""T""."
+48#  Answer: Dye#brush#False#sage/paint/hair#  Answer: Dye#  Answer: Dye
+49#  Answer: Shoe#horn#False#french/car/shoe#  Answer: Shoe#  Answer: Shoe
+50#  Answer: Boot#camp#False#boot/summer/ground#  Answer: Boot#  Answer: Boot
+51#  Answer: Mask#gas#False#chamber/mask/natural#  Answer: Mask#  Answer: Mask
+52#  The connecting word is: grind#saw#False#mill/tooth/dust#  The connecting word is: grind#  The connecting word is: grind
+53#  Answer: Sweep#street#False#main/sweeper/light#  Answer: Sweep#  Answer: Sweep
+54#  Answer: Pike#turn#False#pike/coat/signal#  Answer: Pike#  Answer: Pike
+55#  Answer: Letter#box#False#office/mail/hat#  Answer: Letter#  Answer: Letter
+56#  Answer: Hang#paper#False#fly/clip/wall#  Answer: Hang#  Answer: Hang
+57#  Answer: Time#stone#False#age/mile/sand#  Answer: Time#  Answer: Time
+58#  Let me know when you are ready with the next question.#dog#False#catcher/food/hot#  Let me know when you are ready with the next question.#  Let me know when you are ready with the next question.
+59#  I apologize if this is a repeat question.#station#False#wagon/break/radio#  I apologize if this is a repeat question.#  I apologize if this is a repeat question.
+60#  If you want to use a definition, please make sure it is concise and not lengthy.  Hint: Think of a word that can link three seemingly unrelated words together.#top#False#tank/hill/secret#  If you want to use a definition, please make sure it is concise and not lengthy.  Hint: Think of a word that can link three seemingly unrelated words together.#  If you want to use a definition, please make sure it is concise and not lengthy.  Hint: Think of a word that can link three seemingly unrelated words together.
+61#  Answer: Trust#care#False#health/taker/less#  Answer: Trust#  Answer: Trust
+62#  Answer: Lift#face#False#lift/card/mask#  Answer: Lift#  Answer: Lift
+63#  Answer: Dial#sun#False#dress/dial/flower#  Answer: Dial#  Answer: Dial
+64#  Answer: Flight#air#False#force/line/mail#  Answer: Flight#  Answer: Flight
+65#  (1 point)  Hint: This is a common 4-letter word that you might use when describing the weather.#fall#False#guy/rain/down#  (1 point)  Hint: This is a common 4-letter word that you might use when describing the weather.#  (1 point)  Hint: This is a common 4-letter word that you might use when describing the weather.
+66#"  Hint: It's a five-letter word that starts with ""S""."#figure#False#eight/skate/stick#"  Hint: It's a five-letter word that starts with ""S""."#"  Hint: It's a five-letter word that starts with ""S""."
+67#  Here is a hint: it is an adverb.#mark#False#down/question/check#  Here is a hint: it is an adverb.#  Here is a hint: it is an adverb.
+68#  Answer: Back#pack#False#animal/back/rat#  Answer: Back#  Answer: Back
+69#  police#petty#False#officer/cash/larceny#  police#  police
+70#  If you need additional information, please ask!#apple#False#pine/crab/sauce#  If you need additional information, please ask!#  If you need additional information, please ask!
+71#  Answer: Same#green#False#house/thumb/pepper#  Answer: Same#  Answer: Same
+72#  Answer: Alert#red#False#carpet/alert/ink#  Answer: Alert#  Answer: Alert
+73#  (1 point)#ring#False#master/toss/finger#  (1 point)#  (1 point)
+74#  Answer: Hunter#head#False#hammer/gear/hunter#  Answer: Hunter#  Answer: Hunter
+75#  Answer: blade#pen#False#knife/light/pal#  Answer: blade#  Answer: blade
+76#  Please include a period at the end of each word. foul . ground . mate#play#False#foul/ground/mate#  Please include a period at the end of each word. foul . ground . mate#  Please include a period at the end of each word. foul . ground . mate
+77#  Answer: Switch#short#False#change/circuit/cake#  Answer: Switch#  Answer: Switch
+78#  Answer: Ways#walk#False#way/board/sleep#  Answer: Ways#  Answer: Ways
+79#  Answer: List#check#False#blank/list/mate#  Answer: List#  Answer: List
+80#  Answer: Wet#gate#False#tail/water/flood#  Answer: Wet#  Answer: Wet
+81#  I will give you another set of words to connect in a future question.#grand#False#marshal/child/piano#  I will give you another set of words to connect in a future question.#  I will give you another set of words to connect in a future question.
+82#  Answer: Arm#under#False#cover/arm/wear#  Answer: Arm#  Answer: Arm
+83#  T – Tummy#acid#False#rain/test/stomach#  T – Tummy#  T – Tummy
+84#  Answer: Blow#full#False#time/blown/nelson#  Answer: Blow#  Answer: Blow
+85#  Answer: Stall#stock#False#pile/market/room#  Answer: Stall#  Answer: Stall
+86#  Answer: Brown#trap#False#mouse/bear/sand#  Answer: Brown#  Answer: Brown
+87#  Answer: Number#call#False#cat/number/phone#  Answer: Number#  Answer: Number
+88#  Answer: Brew#powder#False#keg/puff/room#  Answer: Brew#  Answer: Brew
+89#  Answer: Hunt#field#False#trip/house/goal#  Answer: Hunt#  Answer: Hunt
+90#  Answer: Fork#pitch#False#fork/dark/man#  Answer: Fork#  Answer: Fork
+91#  Answer: Fence#post#False#fence/card/master#  Answer: Fence#  Answer: Fence
+92#  I will give you a hint: it is a type of exercise.#road#False#test/runner/map#  I will give you a hint: it is a type of exercise.#  I will give you a hint: it is a type of exercise.
+93#  Answer: Blast#sky#False#dive/light/rocket#  Answer: Blast#  Answer: Blast
+94#  Here is a hint: it's a common English preposition.#super#False#man/glue/star#  Here is a hint: it's a common English preposition.#  Here is a hint: it's a common English preposition.
+95#  Answer: Root#sweet#False#tooth/potato/heart#  Answer: Root#  Answer: Root
+96#  Answer: Bus#terminal#False#illness/bus/computer#  Answer: Bus#  Answer: Bus
+97#  Answer: Shape#writer#False#type/ghost/screen#  Answer: Shape#  Answer: Shape
+98#  Answer: Vote#black#False#mail/board/lung#  Answer: Vote#  Answer: Vote
+99#"  Here is a hint: It's an 8-letter word that starts with the letter ""T""."#false#False#teeth/arrest/start#"  Here is a hint: It's an 8-letter word that starts with the letter ""T""."#"  Here is a hint: It's an 8-letter word that starts with the letter ""T""."
+100#"  Here is a hint: it's a 5-letter word that starts with ""S""."#steam#False#iron/shovel/engine#"  Here is a hint: it's a 5-letter word that starts with ""S""."#"  Here is a hint: it's a 5-letter word that starts with ""S""."
+101#  License#suit#False#wet/law/business#  License#  License
+102#  Answer: Ropes#tow#False#rope/truck/line#  Answer: Ropes#  Answer: Ropes
+103#  answer military#base#False#off/military/first#  answer military#  answer military
+104#  Answer: Spoon#table#False#spoon/cloth/card#  Answer: Spoon#  Answer: Spoon
+105#  Answer: Dream#cold#False#cut/cream/war#  Answer: Dream#  Answer: Dream
+106#  Answer: Link#key#False#note/chain/master#  Answer: Link#  Answer: Link
+107#  Answer: Hair#after#False#shock/shave/taste#  Answer: Hair#  Answer: Hair
+108#  Answer: Wise#clock#False#wise/work/tower#  Answer: Wise#  Answer: Wise
+109#   The connecting word is:  (answer)#crab#False#grass/king/meat#   The connecting word is:  (answer)#   The connecting word is:  (answer)
+110#  Answer: Train#shower#False#baby/spring/cap#  Answer: Train#  Answer: Train
+111#  Sounds#coffee#False#break/bean/cake#  Sounds#  Sounds
+112#  Answer: Wave#battle#False#cry/front/ship#  Answer: Wave#  Answer: Wave
+113#  Answer: Hole#foot#False#hold/print/stool#  Answer: Hole#  Answer: Hole
+114#  Answer: Eel#jelly#False#roll/bean/fish#  Answer: Eel#  Answer: Eel
+115#  Answer: Rider#race#False#horse/human/drag#  Answer: Rider#  Answer: Rider
+116#  Wine#salad#False#oil/bar/tuna#  Wine#  Wine
+117#  Answer: Pole#bell#False#bottom/curve/hop#  Answer: Pole#  Answer: Pole
+118#  Answer: Tomatoes#cherry#False#tomato/bomb/picker#  Answer: Tomatoes#  Answer: Tomatoes
+119#  Answer: Pea#nut#False#pea/shell/chest#  Answer: Pea#  Answer: Pea
+120#  Answer: Link#punch#False#line/fruit/drunk#  Answer: Link#  Answer: Link
+121#  Answer: Stomp#goose#False#bump/egg/step#  Answer: Stomp#  Answer: Stomp
+122#  Answer: Fight#gun#False#fight/control/machine#  Answer: Fight#  Answer: Fight
+123#  Answer: Arm#rest#False#home/arm/room#  Answer: Arm#  Answer: Arm
+124#  I want to see how quickly you can think! #brain#False#child/scan/wash#  I want to see how quickly you can think! #  I want to see how quickly you can think! 
+125#  Answer: Known#brown#False#nose/stone/bear#  Answer: Known#  Answer: Known
+126#  Answer: Link#dead#False#end/line/lock#  Answer: Link#  Answer: Link
+127#  Answer: Location#birth#False#control/place/rate#  Answer: Location#  Answer: Location
+128#  Answer: Hour#cocktail#False#lounge/hour/napkin#  Answer: Hour#  Answer: Hour
+129#"  Here is a hint: It starts with an ""M""."#escape#False#artist/hatch/route#"  Here is a hint: It starts with an ""M""."#"  Here is a hint: It starts with an ""M""."
+130#  Answer: PETS#rock#False#pet/bottom/garden#  Answer: PETS#  Answer: PETS
+131#  Answer: Eight#running#False#mate/shoes/total#  Answer: Eight#  Answer: Eight
+132#"  For example: ""lawyer"""#defense#False#self/attorney/spending#"  For example: ""lawyer"""#"  For example: ""lawyer"""
+133#  Answer: Edge#switch#False#board/blade/back#  Answer: Edge#  Answer: Edge
+134# #farm#False#land/hand/house# # 
+135#  Let me know if you need any more information!#money#False#hungry/order/belt#  Let me know if you need any more information!#  Let me know if you need any more information!
+136#  Hint: It is a common English language preposition.#straight#False#forward/flush/razor#  Hint: It is a common English language preposition.#  Hint: It is a common English language preposition.
+137#  Article#eye#False#shadow/chart/drop#  Article#  Article
+138#  Answer: WAY#fair#False#way/ground/weather#  Answer: WAY#  Answer: WAY
+139#  Answer: Leap#broad#False#cast/side/jump#  Answer: Leap#  Answer: Leap
+140#  Answer: stp#door#False#back/step/screen#  Answer: stp#  Answer: stp
+141#  (1 point)#lip#False#reading/service/stick#  (1 point)#  (1 point)
+142#  Answer: Plant#power#False#over/plant/horse#  Answer: Plant#  Answer: Plant

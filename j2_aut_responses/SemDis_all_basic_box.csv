@@ -1,0 +1,266 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_glove_c_m,SemDis_MEAN,SemDis_factor
+0,1,creative,Create a diorama or miniature scene in a box,create a diorama or miniature scene in a box,box,box,0.9486,0.88775,0.95574,0.96769,1.23452,0.99886,-0.00629
+1,2,creative,Decorate the box and use it as a gift box or storage container,decorate the box and use it as a gift box or storage container,box,box,0.90791,0.98611,0.99633,0.96897,0.7769,0.92724,-0.03492
+2,3,creative,Use the box as a prop in a theater or puppet show,use the box as a prop in a theater or puppet show,box,box,0.94811,0.93276,0.9051899999999999,0.9688,0.78262,0.9075,-0.03559
+3,4,creative,Use the box as a musical instrument such as a drum or a xylophone,use the box as a musical instrument such as a drum or a xylophone,box,box,0.93887,0.93269,1.06264,0.96882,1.21889,1.02438,0.005
+4,5,creative,Use the box as a planter for growing plants or herbs,use the box as a planter for growing plants or herbs,box,box,0.91056,0.93959,1.038,0.96878,1.22537,1.01646,-0.00587
+5,6,creative,Use the box as a stage or platform for a small object or figurine,use the box as a stage or platform for a small object or figurine,box,box,0.88087,1.06686,0.94726,0.96881,0.77502,0.92776,-0.04379
+6,7,creative,Use the box as a puzzle or game such as a box maze or box escape challenge,use the box as a puzzle or game such as a box maze or box escape challenge,box,box,0.87709,0.91455,0.98013,0.9688,0.77681,0.90348,-0.05127
+7,8,creative,Use the box as a hiding place for small items or a secret compartment,use the box as a hiding place for small items or a secret compartment,box,box,1.10772,0.93392,0.96952,0.9688,1.2305,1.04209,0.04882
+8,9,creative,Use the box as a puppet or toy such as a box puppet or a cardboard box robot,use the box as a puppet or toy such as a box puppet or a cardboard box robot,box,box,1.10479,1.1471,0.93767,0.9688,1.22313,1.0763,0.05797
+9,10,creative,Use the box as a photo booth prop or backdrop,use the box as a photo booth prop or backdrop,box,box,0.89499,1.10943,1.02406,0.9674,0.7879700000000001,0.95677,-0.02774
+10,11,creative,Use the box as a sculpture or art installation,use the box as a sculpture or art installation,box,box,1.09377,0.97954,1.02164,0.9766,0.77493,0.9693,0.02912
+11,12,creative,Create a diorama or miniature scene inside the box,create a diorama or miniature scene inside the box,box,box,0.94091,0.88153,0.9343,0.96597,1.23492,0.99153,-0.01216
+12,13,creative,Make a fort or playhouse for kids,make a fort or playhouse for kids,box,box,0.9151,0.8469599999999999,1.06044,0.96796,1.18388,0.99487,-0.01084
+13,14,creative,Transform it into a puppet theater,transform it into a puppet theater,box,box,1.03281,0.95929,0.96426,0.96635,1.20962,1.02647,0.02401
+14,15,creative,Use it as a gift box or packaging for a gift,use it as a gift box or packaging for a gift,box,box,0.83785,0.85087,0.95607,0.96881,0.76101,0.87492,-0.07149
+15,16,creative,Use it as storage for craft supplies,use it as storage for craft supplies,box,box,0.89741,1.03551,0.97693,0.96929,0.75587,0.927,-0.03827
+16,17,creative,Use it as a planter for a mini garden,use it as a planter for a mini garden,box,box,1.09413,1.05369,0.96099,0.9688,1.22645,1.06081,0.05123
+17,18,creative,Use it as a pet bed or carrier,use it as a pet bed or carrier,box,box,0.97002,0.93143,1.09602,0.96876,1.24319,1.04188,0.01991
+18,19,creative,Use it as a storage container for household items,use it as a storage container for household items,box,box,0.87537,0.99551,1.05573,0.9683,0.7610399999999999,0.93119,-0.03919
+19,20,creative,Use it as a musical instrument like a drum or xylophone,use it as a musical instrument like a drum or xylophone,box,box,1.0198,0.93179,0.94704,0.96882,0.79791,0.93307,-0.0074
+20,21,creative,Use it as a donation box for a fundraiser or charity,use it as a donation box for a fundraiser or charity,box,box,0.8883,0.90305,1.05232,0.96882,0.78103,0.9187,-0.04018
+21,22,creative,Use it as a photo booth prop or backdrop,use it as a photo booth prop or backdrop,box,box,1.00273,1.08997,0.96346,0.97116,1.18535,1.04253,0.02345
+22,23,creative,Create a diorama or miniature scene inside the box,create a diorama or miniature scene inside the box,box,box,0.94091,0.88153,0.9343,0.96597,1.23492,0.99153,-0.01216
+23,24,creative,Make a fort or playhouse for kids to play in,make a fort or playhouse for kids to play in,box,box,1.13798,0.99018,1.07616,0.96879,0.7683,0.98828,0.04643
+24,25,creative,Use as a gift box for a unique present,use as a gift box for a unique present,box,box,0.93126,0.89657,0.89128,0.96904,0.77108,0.89185,-0.04545
+25,26,creative,Turn it into a musical instrument such as a guitar or drum,turn it into a musical instrument such as a guitar or drum,box,box,1.01568,0.9404399999999999,1.03073,0.96881,1.2231,1.03575,0.02651
+26,27,creative,Use it as storage for craft supplies or office supplies,use it as storage for craft supplies or office supplies,box,box,1.08542,0.99135,1.00148,0.97266,1.23983,1.05815,0.05117
+27,28,creative,Create a shadow puppet theater,create a shadow puppet theater,box,box,0.944,0.9085300000000001,0.91136,1.03569,0.71698,0.90331,-0.01564
+28,29,creative,Decorate it as a place to display holiday decorations,decorate it as a place to display holiday decorations,box,box,0.92934,0.95694,0.98211,0.96875,0.77695,0.92282,-0.03173
+29,30,creative,Use it as a pet bed or carrier,use it as a pet bed or carrier,box,box,0.97002,0.93143,1.09602,0.96876,1.24319,1.04188,0.01991
+30,31,creative,Make a time capsule and store it inside the box,make a time capsule and store it inside the box,box,box,1.11994,1.0777,1.01062,0.96877,1.22791,1.08099,0.06658
+31,32,creative,Use it as a planter for an indoor herb garden,use it as a planter for an indoor herb garden,box,box,0.96405,1.11468,1.11706,0.96882,0.77996,0.98891,0.00487
+32,33,creative,Make a diorama or miniature scene,make a diorama or miniature scene,box,box,1.00574,0.91132,0.96596,0.95962,0.76967,0.92246,-0.01636
+33,34,creative,Create a shadow box to display photos or mementos,create a shadow box to display photos or mementos,box,box,0.85271,0.94041,0.95104,0.98564,0.79864,0.90569,-0.05265
+34,35,creative,Make a fort or playhouse for the kids,make a fort or playhouse for the kids,box,box,1.11661,0.87991,1.04874,0.96912,0.75308,0.95349,0.02857
+35,36,creative,Use a cardboard box as a planter for a garden,use a cardboard box as a planter for a garden,box,box,1.12184,0.94555,0.94319,0.96879,0.77765,0.9514,0.024140000000000002
+36,37,creative,Make a gift box for a special occasion,make a gift box for a special occasion,box,box,1.16421,1.06686,0.94173,0.96914,1.22675,1.07374,0.07228
+37,38,creative,Create a pet bed or litter box,create a pet bed or litter box,box,box,1.08378,0.93115,0.96743,1.05101,0.77422,0.96152,0.04569
+38,39,creative,Use a cardboard box as a storage container for toys or other items,use a cardboard box as a storage container for toys or other items,box,box,0.88898,1.11239,0.94669,0.96859,0.77748,0.93883,-0.03822
+39,40,creative,Make a costume or prop for Halloween or another occasion,make a costume or prop for halloween or another occasion,box,box,1.03131,0.93876,0.95201,0.9689,0.77394,0.93298,-0.00414
+40,41,creative,Use a cardboard box as a canvas for an art project,use a cardboard box as a canvas for an art project,box,box,0.88954,1.0796999999999999,1.06125,0.96878,0.77816,0.95549,-0.02734
+41,42,creative,Use a cardboard box as a speaker box for an audio system,use a cardboard box as a speaker box for an audio system,box,box,0.87842,0.98283,1.07398,0.96835,1.21922,1.02456,-0.00972
+42,43,creative,Make a storage box for shoes clothes or other items,make a storage box for shoes clothes or other items,box,box,1.10765,1.10992,1.07125,0.97101,1.22675,1.09732,0.07236
+43,44,creative,Make a birdhouse,make a birdhouse,box,box,0.795,1.01119,0.96066,0.96747,1.26855,1.00057,-0.04425
+44,45,creative,Make a puppet theater,make a puppet theater,box,box,1.00292,0.91145,0.95786,0.99907,1.13772,1.0018,0.01916
+45,46,creative,Create a diorama,create a diorama,box,box,1.03711,0.91201,0.96715,0.98159,1.13554,1.00668,0.0241
+46,47,creative,Make a time capsule,make a time capsule,box,box,1.03664,0.95001,0.98635,1.01053,1.22587,1.04188,0.04526
+47,48,creative,Use it as a gift box,use it as a gift box,box,box,1.08466,1.01042,1.05215,0.96893,1.23593,1.07042,0.05614
+48,49,creative,Use it as a planter,use it as a planter,box,box,0.8823300000000001,1.00218,0.95633,0.96891,1.17584,0.99712,-0.02266
+49,50,creative,Make a fort or a castle,make a fort or a castle,box,box,1.02682,0.87032,0.99725,0.96871,1.22019,1.01666,0.02147
+50,51,creative,Use it as a storage bin,use it as a storage bin,box,box,1.0249,1.0608900000000001,1.07356,0.96793,1.24302,1.07406,0.04298
+51,52,creative,Use it as a bookshelf,use it as a bookshelf,box,box,0.972,1.05171,0.95966,0.97136,1.2374,1.03843,0.01396
+52,53,creative,Use it as a musical instrument,use it as a musical instrument,box,box,0.92842,0.95182,1.03287,0.96903,1.23894,1.02422,9.2e-4
+53,54,creative,Create a robot costume for a young child,create a robot costume for a young child,box,box,0.88914,0.9463,1.02319,0.96886,1.22287,1.01007,-0.01397
+54,55,creative,Turn it into a puppet theater,turn it into a puppet theater,box,box,0.90669,0.92864,0.98279,0.96641,1.19727,0.99636,-0.01656
+55,56,creative,Create a diorama or miniature scene,create a diorama or miniature scene,box,box,1.02189,0.91836,0.96124,0.93805,0.76201,0.92031,-0.02017
+56,57,creative,Use it as a storage container for small items,use it as a storage container for small items,box,box,0.88029,0.95191,1.04735,0.96837,0.76665,0.92291,-0.04108
+57,58,creative,Create a fort or playhouse for a young child,create a fort or playhouse for a young child,box,box,1.05762,1.00569,1.07045,0.9688,1.21895,1.0643,0.04825
+58,59,creative,Use it as a gift box,use it as a gift box,box,box,1.08466,1.01042,1.05215,0.96893,1.23593,1.07042,0.05614
+59,60,creative,Use it as a pet bed,use it as a pet bed,box,box,1.0632,0.98523,1.09908,0.96926,1.23903,1.07116,0.05323
+60,61,creative,Use it as a gift basket,use it as a gift basket,box,box,1.0265,0.8731800000000001,0.89465,0.96911,1.23959,1.00061,0.01145
+61,62,creative,Use it as a time capsule,use it as a time capsule,box,box,0.99228,0.93408,0.95728,0.96859,1.2438,1.01921,0.01166
+62,63,creative,Turn it into a puzzle box,turn it into a puzzle box,box,box,1.10836,0.88462,0.9739,0.96396,1.23254,1.03268,0.0445
+63,64,creative,Make a fort or playhouse for kids,make a fort or playhouse for kids,box,box,0.9151,0.8469599999999999,1.06044,0.96796,1.18388,0.99487,-0.01084
+64,65,creative,Create a diorama,create a diorama,box,box,1.03711,0.91201,0.96715,0.98159,1.13554,1.00668,0.0241
+65,66,creative,Store and organize small items,store and organize small items,box,box,0.85256,1.00621,1.09569,0.9439,0.76695,0.93306,-0.05041
+66,67,creative,Use it as a gift box,use it as a gift box,box,box,1.08466,1.01042,1.05215,0.96893,1.23593,1.07042,0.05614
+67,68,creative,Use it as a birdhouse,use it as a birdhouse,box,box,0.87225,1.0855,0.97026,0.97015,1.2358500000000001,1.0268,-0.01475
+68,69,creative,Use it as a planter,use it as a planter,box,box,0.8823300000000001,1.00218,0.95633,0.96891,1.17584,0.99712,-0.02266
+69,70,creative,Use it as storage for craft supplies,use it as storage for craft supplies,box,box,0.89741,1.03551,0.97693,0.96929,0.75587,0.927,-0.03827
+70,71,creative,Use it as a bookshelf,use it as a bookshelf,box,box,0.972,1.05171,0.95966,0.97136,1.2374,1.03843,0.01396
+71,72,creative,Use it as a stool or chair,use it as a stool or chair,box,box,0.88143,1.00946,0.96186,0.96777,0.78269,0.92064,-0.04572
+72,73,creative,Use it as storage for tools and hardware,use it as storage for tools and hardware,box,box,1.0879,0.96229,1.0607,0.96909,1.2432,1.06464,0.05544
+73,74,creative,Turning it into a playhouse or fort for children,turning it into a playhouse or fort for children,box,box,0.85409,0.83262,1.01806,0.96889,1.21977,0.97869,-0.0333
+74,75,creative,Creating a diorama or miniature scene inside,creating a diorama or miniature scene inside,box,box,0.97452,0.88462,1.00492,0.96306,1.2445599999999999,1.01434,0.00597
+75,76,creative,Turning it into a storage container for items like photos or important documents,turning it into a storage container for items like photos or important documents,box,box,0.86259,1.03274,0.9793499999999999,0.96916,0.76881,0.92253,-0.04848
+76,77,creative,Making a cat house for indoor cats,making a cat house for indoor cats,box,box,1.0122,1.01589,0.9143,0.94773,0.77477,0.93298,-0.0175
+77,78,creative,Creating a small garden or indoor plant container,creating a small garden or indoor plant container,box,box,1.07779,0.96984,0.99483,1.01355,1.22333,1.05587,0.06155
+78,79,creative,Converting it into a raised garden bed,converting it into a raised garden bed,box,box,0.85756,0.99417,1.08979,0.9705,0.77484,0.93737,-0.03945
+79,80,creative,Making it into a musical instrument like a drum or guitar,making it into a musical instrument like a drum or guitar,box,box,0.96265,0.93582,0.9916,0.96864,0.77693,0.92713,-0.02157
+80,81,creative,Turning it into a storage unit for craft supplies,turning it into a storage unit for craft supplies,box,box,0.95301,1.1216,1.00735,0.96762,0.75587,0.96109,-0.01227
+81,82,creative,Turning it into a robot costume or prop,turning it into a robot costume or prop,box,box,1.03566,1.08276,0.95029,0.97346,0.90139,0.98871,0.01591
+82,83,creative,Using it as the base of the ultimate couch with extra cushions on top,using it as the base of the ultimate couch with extra cushions on top,box,box,1.11913,1.01077,1.03814,0.9688,0.7744800000000001,0.98226,0.03797
+83,84,creative,A mailbox for your mail,a mailbox for your mail,box,box,0.86576,0.9627,0.96592,0.98136,0.78581,0.91231,-0.04782
+84,85,creative,A fort or playhouse for your kids,a fort or playhouse for your kids,box,box,0.84833,1.00797,1.10246,0.97194,1.1572,1.01758,-0.01671
+85,86,creative,A soundproof enclosure for your music equipment,a soundproof enclosure for your music equipment,box,box,0.88834,0.96338,0.94751,0.95994,1.24095,1.00002,-0.02392
+86,87,creative,A portable stage for your band,a portable stage for your band,box,box,1.04793,0.98996,1.04398,0.96479,1.22953,1.05524,0.04027
+87,88,creative,A diorama for a miniature scene,a diorama for a miniature scene,box,box,1.0165,0.8889,1.09017,0.96828,0.76989,0.94675,0.00278
+88,89,creative,A birdhouse for your backyard birds,a birdhouse for your backyard birds,box,box,1.11805,0.8774,1.04043,0.90777,0.78171,0.94507,0.00573
+89,90,creative,A storage bin for your closet,a storage bin for your closet,box,box,1.10844,0.92557,0.91403,0.95657,1.23104,1.02713,0.03759
+90,91,creative,A cat house for your furry friend,a cat house for your furry friend,box,box,1.00658,0.97984,1.05357,0.98471,0.8043899999999999,0.96582,0.01002
+91,92,creative,A portable TV stand for your dorm room,a portable tv stand for your dorm room,box,box,1.10876,0.90758,1.01734,0.97098,1.22159,1.04525,0.05305
+92,93,creative,A bedside table for your books lamp and alarm clock,a bedside table for your books lamp and alarm clock,box,box,0.89332,1.08624,1.06952,0.9670300000000001,1.22535,1.04829,0.00117
+93,94,creative,Make a fort or playhouse for children,make a fort or playhouse for children,box,box,0.97084,0.91771,1.02819,0.96674,1.20872,1.01844,0.00888
+94,95,creative,Use as a storage container for toys or other items,use as a storage container for toys or other items,box,box,1.10088,0.9693,1.05195,0.969,1.2281,1.06385,0.0581
+95,96,creative,Use as a gift box for a special occasion or holiday,use as a gift box for a special occasion or holiday,box,box,0.99918,0.93304,0.97357,0.96879,0.77628,0.93017,-0.01219
+96,97,creative,Use as a planter for plants or flowers,use as a planter for plants or flowers,box,box,1.10421,0.9067000000000001,1.02094,0.96907,0.77064,0.95431,0.02435
+97,98,creative,Use as a pet bed or cat house,use as a pet bed or cat house,box,box,1.10505,1.01978,1.00159,0.93974,1.2284,1.05891,0.04576
+98,99,creative,Use as a costume or prop for a play or performance,use as a costume or prop for a play or performance,box,box,0.92432,0.92775,1.04526,0.96874,1.1841,1.01003,-0.00396
+99,100,creative,Use as a musical instrument eg as a drum,use as a musical instrument eg as a drum,box,box,0.94912,0.92862,0.96457,0.96274,1.22411,1.00583,-0.005
+100,101,creative,Use as a puzzle or brain teaser,use as a puzzle or brain teaser,box,box,0.81951,0.8893800000000001,0.95649,0.96037,0.94352,0.91385,-0.06713
+101,102,creative,Use as a diorama or model for a science project or school project,use as a diorama or model for a science project or school project,box,box,1.0977999999999999,0.90284,1.01725,0.96922,1.24296,1.04601,0.04985
+102,103,creative,Use as a treasure chest for a treasure hunt or scavenger hunt,use as a treasure chest for a treasure hunt or scavenger hunt,box,box,0.99468,0.94954,1.0318,0.96883,1.22308,1.03359,0.02059
+103,104,creative,The possibilities are endless so let your imagination run wild,the possibilities are endless so let your imagination run wild,box,box,1.09062,1.1468,0.91966,0.96863,1.22376,1.06989,0.05143
+104,105,creative,Use as a makeshift drum set,use as a makeshift drum set,box,box,1.08521,1.01856,0.99271,0.96531,1.22256,1.05687,0.04803
+105,106,creative,Build a fort or playhouse,build a fort or playhouse,box,box,1.00892,0.95086,1.00474,0.96736,1.07052,1.00048,0.01251
+106,107,creative,Make a diorama or other small scene,make a diorama or other small scene,box,box,0.94784,0.98292,1.03983,0.96831,1.24581,1.03694,0.01002
+107,108,creative,Create a puzzle or maze,create a puzzle or maze,box,box,1.0329,0.92906,0.99172,0.97582,0.75436,0.93677,0.00167
+108,109,creative,Store and organize small items,store and organize small items,box,box,0.85256,1.00621,1.09569,0.9439,0.76695,0.93306,-0.05041
+109,110,creative,Use it as a pet bed or hiding spot,use it as a pet bed or hiding spot,box,box,0.8954,1.03275,1.0296,0.968,0.77303,0.93976,-0.03271
+110,111,creative,Create a shadow puppet theater,create a shadow puppet theater,box,box,0.944,0.9085300000000001,0.91136,1.03569,0.71698,0.90331,-0.01564
+111,112,creative,Use it as a gift box or container,use it as a gift box or container,box,box,0.96841,1.0848200000000001,1.02588,0.96917,1.23374,1.0564,0.02131
+112,113,creative,Use as a musical instrument eg maraca,use as a musical instrument eg maraca,box,box,0.97345,0.93454,0.95935,0.9253,0.90457,0.93944,-0.03112
+113,114,creative,Use as a planter,use as a planter,box,box,0.98745,0.88941,1.02668,0.97776,0.81728,0.93972,-0.00693
+114,115,creative,Use as a place to hide or seek,use as a place to hide or seek,box,box,1.07345,1.08947,0.96201,0.96901,1.23485,1.06576,0.04774
+115,116,creative,Turn it into a car for a toy,turn it into a car for a toy,box,box,0.98357000000000006,1.15613,1.04994,0.9688,1.22851,1.07739,0.03303
+116,117,creative,Create a musical instrument out of it,create a musical instrument out of it,box,box,0.95122,0.99151,0.96017,0.9692,0.76374,0.92717,-0.02558
+117,118,creative,Make it into a puppet theater,make it into a puppet theater,box,box,1.01955,0.98022,0.94707,0.96728,1.20796,1.02442,0.01955
+118,119,creative,Make a fort or playhouse for kids,make a fort or playhouse for kids,box,box,0.9151,0.8469599999999999,1.06044,0.96796,1.18388,0.99487,-0.01084
+119,120,creative,Use it as a gift box,use it as a gift box,box,box,1.08466,1.01042,1.05215,0.96893,1.23593,1.07042,0.05614
+120,121,creative,Make a bird feeder,make a bird feeder,box,box,0.89767,0.9719,0.90596,0.98826,0.79314,0.91139,-0.04067
+121,122,creative,Cut holes into it to create a cat toy,cut holes into it to create a cat toy,box,box,1.05132,0.89784,1.01336,0.96892,0.76832,0.93995,0.00599
+122,123,creative,Create a diorama or miniature scene,create a diorama or miniature scene,box,box,1.02189,0.91836,0.96124,0.93805,0.76201,0.92031,-0.02017
+123,124,creative,Use it as a storage container for small items,use it as a storage container for small items,box,box,0.88029,0.95191,1.04735,0.96837,0.76665,0.92291,-0.04108
+124,125,creative,Make it into a compost bin or a planter,make it into a compost bin or a planter,box,box,0.97109,0.90382,0.93786,0.9688,0.91688,0.93969,-0.01859
+125,126,creative,Use it as a stool or a side table,use it as a stool or a side table,box,box,0.92437,1.10121,0.94012,0.96881,0.77957,0.94282,-0.02828
+126,127,creative,Use as a centerpiece or display case on a coffee table,use as a centerpiece or display case on a coffee table,box,box,1.09207,0.87006000000000006,0.9347799999999999,0.96884,0.77704,0.92856,0.00879
+127,128,creative,Use as a bedside table with a lamp or plant on top,use as a bedside table with a lamp or plant on top,box,box,1.11225,0.92786,0.92154,0.96892,1.22478,1.03107,0.04422
+128,129,creative,Use as a seat for pets or children,use as a seat for pets or children,box,box,1.12173,1.06041,0.92641,0.96849,1.224,1.06021,0.05629
+129,130,creative,Use as a storage bin for small items such as craft supplies or office supplies,use as a storage bin for small items such as craft supplies or office supplies,box,box,0.89119,1.04162,0.9472700000000001,0.96732,0.77037,0.92355,-0.04304
+130,131,creative,Use as a planter for small plants or herbs,use as a planter for small plants or herbs,box,box,0.90341,0.97987,1.04846,0.96874,1.2273399999999999,1.02556,-0.00421
+131,132,creative,Use as a safety barrier for pets or children,use as a safety barrier for pets or children,box,box,1.08253,1.06347,0.98918,0.96832,0.77594,0.97589,0.02432
+132,133,creative,Use as a drum for music or noisemaking,use as a drum for music or noisemaking,box,box,0.89026,0.86969,1.01383,0.96926,0.77554,0.90372,-0.0462
+133,134,creative,Use as a toy box for children,use as a toy box for children,box,box,0.82762,1.0142,1.05372,0.96871,0.7749699999999999,0.92784,-0.0523
+134,135,creative,Use as a shadow puppet theater,use as a shadow puppet theater,box,box,0.96384,0.902,0.97451,0.96748,1.23434,1.00843,0.00147
+135,136,creative,Use as a gift box for presents,use as a gift box for presents,box,box,0.8681099999999999,0.98607,0.942,0.9699,0.76556,0.90633,-0.05387
+136,137,creative,Making a fort or playhouse for kids,making a fort or playhouse for kids,box,box,0.8604,0.89846,1.0853,0.96467,1.17958,0.99768,-0.02352
+137,138,creative,Making a mini garden or terrarium,making a mini garden or terrarium,box,box,1.14566,1.08924,1.08644,0.98566,0.78159,1.01772,0.0639
+138,139,creative,Making a portable desk or workspace,making a portable desk or workspace,box,box,1.093,0.94197,0.9543200000000001,0.93735,0.76517,0.93836,0.00302
+139,140,creative,Using a box as a gift box,using a box as a gift box,box,box,0.9893,0.99048,1.00498,0.97272,0.77239,0.94597,-0.00673
+140,141,creative,Using a box as a storage container for small items,using a box as a storage container for small items,box,box,0.88712,0.92641,0.97475,0.96962,1.22682,0.99694,-0.02078
+141,142,creative,Using a box as a bookshelf or bookcase,using a box as a bookshelf or bookcase,box,box,0.92559,0.92268,1.06683,0.97172,1.22493,1.02235,0.0021
+142,143,creative,Using a box as a stool or chair,using a box as a stool or chair,box,box,0.98744,1.10162,0.97603,0.9708600000000001,1.22135,1.05146,0.02281
+143,144,creative,Using a box as a stage or puppet theater for kids,using a box as a stage or puppet theater for kids,box,box,0.92604,0.91656,1.17797,0.96879,0.77672,0.95322,-0.01364
+144,145,creative,Using a box as a musical instrument like a drum or xylophone,using a box as a musical instrument like a drum or xylophone,box,box,0.93237,0.93467,1.02927,0.96879,1.2169699999999999,1.01641,-7.6e-4
+145,146,creative,Using a box as a shadow puppet theater,using a box as a shadow puppet theater,box,box,0.91468,0.93874,0.91999,0.9639,1.22546,0.99255,-0.01965
+146,147,creative,Using a box as an art project or canvas,using a box as an art project or canvas,box,box,1.10367,0.93923,0.99773,0.97176,0.77002,0.95648,0.02475
+147,148,creative,1 Create a diorama a threedimensional model inside of it,create a diorama a threedimensional model inside of it,box,box,0.9833,0.91166,0.98967,0.96907,0.86193,0.94313,-0.01162
+148,149,creative,2 Use it as a planter for growing herbs or flowers,use it as a planter for growing herbs or flowers,box,box,1.08762,0.91172,0.96693,0.96881,0.77529,0.94207,0.0136
+149,150,creative,3 Use it as a storage space for craft supplies or office supplies,use it as a storage space for craft supplies or office supplies,box,box,1.1085,0.9511000000000001,1.04055,0.96849,1.23359,1.06045,0.05817
+150,151,creative,4 Create a miniature theater or puppet show inside of it,create a miniature theater or puppet show inside of it,box,box,0.92345,0.93238,1.09733,0.96876,1.22332,1.02905,0.0042
+151,152,creative,5 Use it as a gift box for a unique present,use it as a gift box for a unique present,box,box,1.0236,0.9476,1.05998,0.96883,1.22935,1.04587,0.03312
+152,153,creative,6 Use it as a fort or playhouse for kids,use it as a fort or playhouse for kids,box,box,0.87095,0.88166,0.98913,0.9688,1.22684,0.98748,-0.02756
+153,154,creative,7 Use it as a portable cat or dog bed,use it as a portable cat or dog bed,box,box,1.00223,1.00851,0.91059,0.97214,0.7726999999999999,0.93323,-0.01216
+154,155,creative,8 Use it as a storage unit for small items,use it as a storage unit for small items,box,box,0.90671,0.91653,0.92978,0.96813,0.76467,0.89716,-0.04835
+155,156,creative,9 Use it as a time capsule to store memories or memorabilia,use it as a time capsule to store memories or memorabilia,box,box,1.07234,1.05448,1.11835,0.9688,0.77912,0.99862,0.03525
+156,157,creative,10 Use it as a storage box for receipts bills or other important documents,use it as a storage box for receipts bills or other important documents,box,box,0.88845,0.943,1.06246,0.97015,0.77631000000000006,0.92807,-0.03614
+157,158,creative,Create a puppet theater,create a puppet theater,box,box,0.95649,0.98319,0.97906,1.08486,1.18519,1.03776,0.04783
+158,159,creative,Make a diorama for a miniature scene,make a diorama for a miniature scene,box,box,1.00267,0.86665,1.02951,0.96905,1.23428,1.02043,0.01815
+159,160,creative,Create a fort or playhouse for your kids,create a fort or playhouse for your kids,box,box,0.99544,1.05448,1.0656,0.96407,0.75941,0.9678,0.00203
+160,161,creative,Use it as a gift box,use it as a gift box,box,box,1.08466,1.01042,1.05215,0.96893,1.23593,1.07042,0.05614
+161,162,creative,Use it as storage for craft supplies or tools,use it as storage for craft supplies or tools,box,box,0.84471,1.0194,0.94249,0.96565,0.76051,0.90655,-0.06098
+162,163,creative,Use it as a planter for growing herbs and small plants,use it as a planter for growing herbs and small plants,box,box,0.94216,1.03183,0.93191,0.96879,1.22773,1.02048,-0.00145
+163,164,creative,Use it as a nightstand or bedside table,use it as a nightstand or bedside table,box,box,1.08235,1.02562,0.97467,0.9692,0.77546,0.96546,0.02046
+164,165,creative,Use it as a pet bed or hideout,use it as a pet bed or hideout,box,box,1.09333,0.94567,1.07936,0.9675,1.22547,1.06227,0.05646
+165,166,creative,Use it as a storage solution for toys clothes or other items,use it as a storage solution for toys clothes or other items,box,box,0.96621,0.95076,1.05462,0.96883,1.23202,1.03449,0.01474
+166,167,creative,Use it as a bookshelf or a display case for collectibles,use it as a bookshelf or a display case for collectibles,box,box,1.0542,1.14964,0.9256800000000001,0.96873,1.17573,1.0548,0.03795
+167,168,creative,Use it as a toy box for your kids,use it as a toy box for your kids,box,box,0.84832,1.03897,1.06583,0.96881,0.77554,0.93949,-0.0427
+168,169,creative,A toy box,a toy box,box,box,0.54548,0.90735,0.85455,0.87167,0.74137,0.78408,-0.21059
+169,170,creative,A gift box,a gift box,box,box,0.6192,0.86182,0.8038,0.72105,0.70375,0.74192,-0.25687
+170,171,creative,A storage box,a storage box,box,box,0.69779,0.86558,0.96723,1.01724,0.79569,0.86871,-0.09265
+171,172,creative,A cat bed,a cat bed,box,box,0.81404,0.94195,1.01098,0.9658100000000001,0.7219599999999999,0.89095,-0.0704
+172,173,creative,A puppet theater,a puppet theater,box,box,0.91878,0.8738900000000001,0.88796,0.97867,0.71799,0.87546,-0.05067
+173,174,creative,A fort or playhouse,a fort or playhouse,box,box,1.01221,1.09245,1.01442,0.92091,0.76034,0.96007,-0.01262
+174,175,creative,A bookshelf,a bookshelf,box,box,1.09086,0.90737,1.01025,1.03767,0.88983,0.9872,0.05282
+175,176,creative,A robot costume,a robot costume,box,box,0.8728400000000001,1.01564,0.95797,0.84462,0.75962,0.89014,-0.09784
+176,177,creative,A shadow theater,a shadow theater,box,box,0.90417,0.9935,0.97077,1.00912,0.70031,0.91557,-0.02738
+177,178,creative,A first aid kit,a first aid kit,box,box,1.07373,0.86149,0.98269,0.93542,1.2452,1.01971,0.02262
+178,179,creative,A speaker enclosure,a speaker enclosure,box,box,0.92231,0.95573,0.95851,0.98942,0.81555,0.9283,-0.0263
+179,180,creative,Build a fort,build a fort,box,box,0.97562,0.85513,0.9456,0.92309,0.75179,0.89025,-0.04716
+180,181,creative,Make a puppet theater,make a puppet theater,box,box,1.00292,0.91145,0.95786,0.99907,1.13772,1.0018,0.01916
+181,182,creative,Use it as a gift box,use it as a gift box,box,box,1.08466,1.01042,1.05215,0.96893,1.23593,1.07042,0.05614
+182,183,creative,Use it as a storage or filing box,use it as a storage or filing box,box,box,0.96704,0.91451,1.04707,0.96766,1.23178,1.02561,0.0113
+183,184,creative,Turn it into a cat playhouse,turn it into a cat playhouse,box,box,1.09986,0.92022,0.97601,0.96972,0.84805,0.96277,0.02373
+184,185,creative,Use it as a sensory box for infants,use it as a sensory box for infants,box,box,0.88028,1.10269,1.08936,0.96857,1.22682,1.05354,0.00102
+185,186,creative,Use it as a diorama,use it as a diorama,box,box,0.99774,0.92623,0.95514,0.97024,1.13913,0.9977,0.00704
+186,187,creative,Use it as a shadow box,use it as a shadow box,box,box,0.89165,0.85373,0.97617,0.96959,1.24217,0.98666,-0.02308
+187,188,creative,Use it as a photo booth,use it as a photo booth,box,box,0.91399,1.03498,0.9955,0.96897,1.22815,1.02832,-0.00299
+188,189,creative,Use it as a toolbox,use it as a toolbox,box,box,0.97653,0.88573,0.87583,0.9697,0.99507,0.94057,-0.01996
+189,190,creative,Create a puppet theater for kids,create a puppet theater for kids,box,box,0.91783,0.95938,0.8389,0.98757,1.21684,0.9841,-0.01761
+190,191,creative,Create a diorama or model scene,create a diorama or model scene,box,box,1.06323,0.94855,0.96423,0.96014,0.8472500000000001,0.95668,0.00892
+191,192,creative,Use it as a stool or chair,use it as a stool or chair,box,box,0.88143,1.00946,0.96186,0.96777,0.78269,0.92064,-0.04572
+192,193,creative,Create a fort or playhouse,create a fort or playhouse,box,box,1.0093,0.93015,0.95543,1.03483,1.08352,1.00265,0.03285
+193,194,creative,Use it as a planter or garden bed,use it as a planter or garden bed,box,box,1.06955,0.86729,1.032,0.96906,0.76968,0.94152,0.01195
+194,195,creative,Use it as a storage container for small items,use it as a storage container for small items,box,box,0.88029,0.95191,1.04735,0.96837,0.76665,0.92291,-0.04108
+195,196,creative,Use it as a musical instrument like a drum or maraca,use it as a musical instrument like a drum or maraca,box,box,0.99528,0.9319,0.93469,0.96879,1.09715,0.98556,0.00129
+196,197,creative,Use it as a gift box or a gift box,use it as a gift box or a gift box,box,box,0.92805,0.90437,0.89308,0.9688,1.2251,0.98388,-0.01879
+197,198,creative,Use it as a puzzle or game board,use it as a puzzle or game board,box,box,0.92866,1.0411,0.94705,0.96894,1.22998,1.02315,-0.00323
+198,199,creative,Use it as a portable desk or workspace,use it as a portable desk or workspace,box,box,1.05343,0.95955,1.06292,0.969,0.76519,0.96202,0.01609
+199,200,creative,Use it as a Halloween costume or prop,use it as a halloween costume or prop,box,box,1.0178,1.07599,0.94361,0.96802,0.77494,0.95607,-5.8e-4
+200,201,creative,Use it as a donation box or collection box,use it as a donation box or collection box,box,box,1.04691,0.81167,1.09894,0.96776,0.7734,0.93974,0.00829
+201,202,creative,A portable puppet theater,a portable puppet theater,box,box,0.93406,1.02609,1.05235,0.91869,1.2699500000000001,1.04023,-0.008
+202,203,creative,A miniature sandbox for dolls or action figures,a miniature sandbox for dolls or action figures,box,box,1.13513,0.8855999999999999,0.91823,0.96742,1.23974,1.02922,0.04861
+203,204,creative,A fort or playhouse for children,a fort or playhouse for children,box,box,1.01625,0.96445,0.96315,0.96949,0.7382,0.93031,-0.00787
+204,205,creative,A storage container for small items,a storage container for small items,box,box,1.10831,0.96423,0.93025,0.96672,1.23588,1.04108,0.04615
+205,206,creative,A cat or dog bed,a cat or dog bed,box,box,0.86564,0.94816,0.90576,0.99155,0.75537,0.8933,-0.05336
+206,207,creative,A flower planter,a flower planter,box,box,0.8280000000000001,0.94661,0.9979,0.94167,1.03867,0.95057,-0.05768
+207,208,creative,A desk organizer,a desk organizer,box,box,0.8469599999999999,1.10495,0.94738,1.06024,0.73682,0.93927,-0.01863
+208,209,creative,A gift box for homemade cookies or other treats,a gift box for homemade cookies or other treats,box,box,0.92377,1.17175,0.98889,0.9752,0.77667,0.96726,-0.01608
+209,210,creative,A gift wrapping station,a gift wrapping station,box,box,1.07002,0.96312,0.96625,1.0245,1.23071,1.05092,0.06018
+210,211,creative,A time capsule or memory box,a time capsule or memory box,box,box,1.02408,1.05253,1.01389,1.02631,1.22846,1.06905,0.05741
+211,212,creative,A portable photo studio for selfies or group photos,a portable photo studio for selfies or group photos,box,box,1.19422,1.16844,1.03122,0.9796,1.22496,1.11969,0.1024
+212,213,creative,Make a puppet theater,make a puppet theater,box,box,1.00292,0.91145,0.95786,0.99907,1.13772,1.0018,0.01916
+213,214,creative,Make a fort or playhouse for small children,make a fort or playhouse for small children,box,box,1.05804,0.90987,0.91945,0.96767,0.76965,0.92494,-0.00195
+214,215,creative,Store and organize small items such as craft supplies or office supplies,store and organize small items such as craft supplies or office supplies,box,box,1.10894,1.035,1.03747,0.96305,1.22817,1.07453,0.06105
+215,216,creative,Create a diorama or small threedimensional model for a school project or just for fun,create a diorama or small threedimensional model for a school project or just for fun,box,box,0.93822,1.06203,1.06466,0.96866,0.76366,0.95945,-0.01363
+216,217,creative,Make a time capsule a collection of items that will be preserved and buried or stored for a period of time to be opened at a later date,make a time capsule a collection of items that will be preserved and buried or stored for a period of time to be opened at a later date,box,box,0.89153,0.99777,1.06592,0.9688,1.22316,1.02944,-0.00507
+217,218,creative,Plant a small garden inside the box,plant a small garden inside the box,box,box,0.81562,0.99606,1.09874,0.96952,0.77631000000000006,0.93125,-0.05189
+218,219,creative,Use as a gift box for someone special,use as a gift box for someone special,box,box,1.08497,0.93936,0.89954,0.96936,1.22729,1.0241,0.03422
+219,220,creative,Use the box as a prop in a play or skit,use the box as a prop in a play or skit,box,box,0.8733,0.93417,1.07618,0.96882,1.24376,1.01925,-0.01266
+220,221,creative,Use the box as a prop in a magic show,use the box as a prop in a magic show,box,box,1.117,0.92775,0.91898,0.96882,0.77369,0.94125,0.01852
+221,222,creative,Use the box as a prop in a science experiment,use the box as a prop in a science experiment,box,box,1.05489,1.04539,1.1026,0.96856,0.8499,1.00427,0.0315
+222,223,creative,Use it as a storage container for photos important documents or other keepsakes,use it as a storage container for photos important documents or other keepsakes,box,box,0.89879,0.89221,0.94835,0.96896,1.24015,0.98969,-0.02174
+223,224,creative,Turn it into a puppet theater for your kids,turn it into a puppet theater for your kids,box,box,1.00766,0.97296,0.92764,0.96882,0.77217,0.92985,-0.01222
+224,225,creative,Make it into a musical instrument such as a drum or a xylophone,make it into a musical instrument such as a drum or a xylophone,box,box,1.01888,0.93246,0.95016,0.9688,0.79343,0.93275,-0.00757
+225,226,creative,Use it as a planter for a herb garden or other small plants,use it as a planter for a herb garden or other small plants,box,box,0.88308,0.91021,1.03467,0.9688,1.21887,1.00313,-0.01725
+226,227,creative,Use it as a gift box for a special occasion,use it as a gift box for a special occasion,box,box,0.98687,1.08395,1.05032,0.96879,1.22592,1.06317,0.0292
+227,228,creative,Make it into a fort for your kids to play in,make it into a fort for your kids to play in,box,box,0.98204,0.91134,1.00152,0.9688,0.77664,0.92807,-0.0159
+228,229,creative,Use it as a pet bed for your furry friend,use it as a pet bed for your furry friend,box,box,1.12378,0.93364,0.962,0.96891,1.1912,1.03591,0.05075
+229,230,creative,Make it into a birdhouse to attract birds to your yard,make it into a birdhouse to attract birds to your yard,box,box,0.87408,0.93949,0.93643,0.9687,1.2255,0.98884,-0.02874
+230,231,creative,Use it as a treasure chest for a piratethemed party,use it as a treasure chest for a piratethemed party,box,box,0.87781,0.89824,0.95334,0.96876,0.77428,0.89449,-0.05526
+231,232,creative,Use it as a toy box for your kids to keep their toys organized,use it as a toy box for your kids to keep their toys organized,box,box,1.07761,0.92828,0.9551,0.9688,1.22333,1.03062,0.03689
+232,233,creative,Build a fort or playhouse,build a fort or playhouse,box,box,1.00892,0.95086,1.00474,0.96736,1.07052,1.00048,0.01251
+233,234,creative,Create a diorama or model,create a diorama or model,box,box,1.02763,0.91609,1.06373,0.93954,1.11538,1.01247,0.01453
+234,235,creative,Use it as a prop in a theatrical or film production,use it as a prop in a theatrical or film production,box,box,0.99306,0.93242,0.9281699999999999,0.96881,1.22828,1.01015,0.00772
+235,236,creative,Use it as a storage container for small items,use it as a storage container for small items,box,box,0.88029,0.95191,1.04735,0.96837,0.76665,0.92291,-0.04108
+236,237,creative,Use it as a musical instrument eg a drum,use it as a musical instrument eg a drum,box,box,0.96567,0.92969,0.94559,0.96774,1.2242899999999999,1.0066,1.6e-4
+237,238,creative,Use it as a pet bed or small animal habitat,use it as a pet bed or small animal habitat,box,box,1.14336,0.93805,1.06604,0.96957,1.22761,1.06893,0.07124
+238,239,creative,Use it as a planter for growing plants,use it as a planter for growing plants,box,box,1.06012,0.9992,0.95927,0.9691,0.76158,0.94985,0.00911
+239,240,creative,Use it as a stool or chair,use it as a stool or chair,box,box,0.88143,1.00946,0.96186,0.96777,0.78269,0.92064,-0.04572
+240,241,creative,Use it as a Halloween costume,use it as a halloween costume,box,box,1.03134,0.93214,1.00365,0.9687,1.21026,1.02922,0.02709
+241,242,creative,Use it as an art project or canvas,use it as an art project or canvas,box,box,1.1013,0.9964,1.04754,0.96745,1.24001,1.07054,0.05963
+242,243,creative,Use it as a prop in a game of charades,use it as a prop in a game of charades,box,box,1.1286100000000001,0.93702,1.04557,0.96881,1.20366,1.05673,0.0625
+243,244,creative,Create a diorama or miniature scene inside the box,create a diorama or miniature scene inside the box,box,box,0.94091,0.88153,0.9343,0.96597,1.23492,0.99153,-0.01216
+244,245,creative,Use as a gift box for a special occasion,use as a gift box for a special occasion,box,box,0.8092699999999999,1.04924,0.91573,0.9689,0.77423,0.90347,-0.07112
+245,246,creative,Use as a planter for herbs or succulents,use as a planter for herbs or succulents,box,box,1.04782,0.8734999999999999,1.02148,0.9676400000000001,1.24132,1.03035,0.03186
+246,247,creative,Use as a storage container for small items,use as a storage container for small items,box,box,1.10404,0.9923,0.95036,0.96545,1.23272,1.04897,0.0482
+247,248,creative,Use as a puppet theater or stage,use as a puppet theater or stage,box,box,0.92366,0.91451,1.09139,0.9786,0.7760400000000001,0.93684,-0.02038
+248,249,creative,Use as a shadow puppet theater,use as a shadow puppet theater,box,box,0.96384,0.902,0.97451,0.96748,1.23434,1.00843,0.00147
+249,250,creative,Use as a fort or playhouse,use as a fort or playhouse,box,box,0.92921,1.07116,0.974,0.96666,0.77323,0.94285,-0.02618
+250,251,creative,Use as a musical instrument such as a drum or xylophone,use as a musical instrument such as a drum or xylophone,box,box,1.02483,0.93197,0.94658,0.96913,0.79835,0.93417,-0.0057
+251,252,creative,Use as a puzzle or brain teaser,use as a puzzle or brain teaser,box,box,0.81951,0.8893800000000001,0.95649,0.96037,0.94352,0.91385,-0.06713
+252,253,creative,Use as a time capsule or memory box,use as a time capsule or memory box,box,box,1.00111,1.07429,1.09957,0.9685,1.23075,1.07484,0.03872
+253,254,creative,Use as a photo booth or selfie station,use as a photo booth or selfie station,box,box,0.86919,0.91395,1.00413,0.9701,0.77512,0.9065,-0.05073
+254,255,creative,Make a fort or playhouse for kids,make a fort or playhouse for kids,box,box,0.9151,0.8469599999999999,1.06044,0.96796,1.18388,0.99487,-0.01084
+255,256,creative,Create a diorama or miniature scene,create a diorama or miniature scene,box,box,1.02189,0.91836,0.96124,0.93805,0.76201,0.92031,-0.02017
+256,257,creative,Use it as a planter or garden container,use it as a planter or garden container,box,box,1.04918,1.07294,1.06272,0.96873,0.76371,0.98346,0.022
+257,258,creative,Store and organize small items like craft supplies or office supplies,store and organize small items like craft supplies or office supplies,box,box,0.88851,1.0016,1.06172,1.00621,0.77226,0.94606,-0.01852
+258,259,creative,Use it as a storage container for seasonal items like holiday decorations,use it as a storage container for seasonal items like holiday decorations,box,box,0.89622,0.90926,1.06955,0.96891,1.22406,1.0136,-0.00892
+259,260,creative,Make a unique gift wrapping or gift box,make a unique gift wrapping or gift box,box,box,1.03365,0.99982,0.95485,0.97242,1.23532,1.03921,0.0298
+260,261,creative,Use it as a pet bed or hideout,use it as a pet bed or hideout,box,box,1.09333,0.94567,1.07936,0.9675,1.22547,1.06227,0.05646
+261,262,creative,Create a sensory box for children with sensory processing issues,create a sensory box for children with sensory processing issues,box,box,0.95614,0.95958,1.04125,0.99206,1.23399,1.0366,0.01982
+262,263,creative,Use it as a puppet theater or stage,use it as a puppet theater or stage,box,box,0.89513,0.94461,0.96159,0.96875,1.226,0.99922,-0.0189
+263,264,creative,Turn it into a musical instrument like a drum or xylophone,turn it into a musical instrument like a drum or xylophone,box,box,0.85391,0.93494,0.93825,0.96898,0.80157,0.89953,-0.06037
+264,265,creative,Make a time capsule or memory box to store mementos and keepsakes,make a time capsule or memory box to store mementos and keepsakes,box,box,1.10799,1.06154,0.9545,0.96881,0.79935,0.97844,0.02997

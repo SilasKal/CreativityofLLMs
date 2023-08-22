@@ -1,0 +1,1604 @@
+id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_glove_c_m,SemDis_MEAN,SemDis_factor
+2001,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2001,creative,sound amplifier,sound amplifier,box,box,1.08142,1.01812,0.98433,0.96435,0.96125,1.00189,0.13649
+2001,creative,flowerbed liner,flowerbed liner,box,box,0.86839,1.04179,0.99408,1.03116,0.99727,0.98654,0.0419
+2001,creative,peg board for painting hardware,peg board for painting hardware,box,box,0.93093,1.14435,1.03045,1.12282,1.03708,1.05313,0.10998
+2001,creative,pain canvas,pain canvas,box,box,1.0181,0.98626,0.9445,1.03284,1.08646,1.01363,0.10094
+2001,creative,cat carrier,cat carrier,box,box,0.84017,1.00079,0.9614,0.96477,1.17509,0.98844,0.02259
+2002,creative,gift,gift,box,box,0.66974,0.80648,0.75024,0.9756,0.65056,0.77052,-0.20334
+2002,creative,desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2002,creative,mailbox,mailbox,box,box,0.73973,0.6493,0.7435499999999999,0.78776,0.70646,0.72536,-0.20178
+2002,creative,cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2002,creative,container,container,box,box,0.6589700000000001,0.7753,0.71334,0.92802,0.72097,0.75932,-0.22145
+2002,creative,pet,pet,box,box,0.85733,0.91045,0.97247,0.71131,0.74064,0.83844,-0.02995
+2002,creative,house if large enough,house if large enough,box,box,0.95886,1.07647,1.00141,0.93957,1.24235,1.04373,0.11216
+2002,creative,tear into strip and intertwine to make,tear into strip and intertwine to make,box,box,0.99695,0.93641,1.04039,0.96945,1.22957,1.03455,0.11859
+2002,creative,fill with dirt to make a brick or weigh,fill with dirt to make a brick or weigh,box,box,0.94819,1.03132,1.0483,0.96882,0.7766,0.95465,0.07484
+2002,creative,doll,doll,box,box,0.7237899999999999,0.79958,0.83623,0.73489,0.78567,0.77603,-0.1521
+2002,creative,sign,sign,box,box,0.82601,0.91715,0.91182,0.86093,0.78702,0.86059,-0.05138
+2002,creative,breakdancing platform,breakdancing platform,box,box,1.04774,0.94312,0.90055,0.94925,0.92094,0.95232000000000006,0.07757
+2002,creative,plant holder,plant holder,box,box,1.07742,0.99257,1.09065,1.03701,0.97923,1.03538,0.16614
+2002,creative,firewood,firewood,box,box,0.8712,0.82138,1.03941,0.94325,0.99768,0.93458,0.01369
+2002,creative,puppy holder,puppy holder,box,box,1.01688,1.08972,1.0414,0.97034,1.05275,1.03422,0.14113
+2002,creative,soapbox derby car,soapbox derby car,box,box,0.9712,1.07832,0.95001,0.91967,1.06061,0.99596,0.08744
+2002,creative,fruit bowl,fruit bowl,box,box,1.07616,0.98459,1.00179,0.98616,1.07308,1.02436,0.14349
+2002,creative,props in a play,props in a play,box,box,1.05083,0.93463,1.02481,0.9551,1.21022,1.03512,0.13867
+2002,creative,picture frame,picture frame,box,box,1.02114,1.01591,0.9646,0.96763,1.17555,1.02897,0.11796
+2003,creative,paper,paper,box,box,0.70502,0.82004,0.85809,0.93317,0.68028,0.79932,-0.15099
+2003,creative,Storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2003,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2003,creative,Trap,trap,box,box,0.77147,0.85527,0.89791,0.83705,0.7491099999999999,0.82216,-0.09828
+2003,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2003,creative,Car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2003,creative,Art,art,box,box,0.87689,0.99145,0.94912,1.06425,0.79626,0.93559,0.00885
+2003,creative,Helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2003,creative,Lift,lift,box,box,0.85449,0.98781,0.96812,0.82065,0.8486400000000001,0.89594,-0.00477
+2003,creative,Zoo,zoo,box,box,0.80767,0.86698,0.92259,0.95852,0.85755,0.88266,-0.05575
+2003,creative,Weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2003,creative,Aquarium,aquarium,box,box,0.81698,0.86078,0.8975299999999999,0.95954,0.85926,0.87882,-0.05929
+2003,creative,Armor,armor,box,box,0.869,0.97938,0.97488,1.03841,0.85928,0.94419,0.01435
+2003,creative,Sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2003,creative,Pail,pail,box,box,0.73973,0.81227,0.80347,0.90515,0.86781,0.82569,-0.13639
+2003,creative,Pads,pads,box,box,0.86364,0.8521799999999999,0.86755,1.04703,0.88629,0.90334,-0.03954
+2003,creative,Boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2003,creative,Shovel,shovel,box,box,0.77849,0.78213,0.86012,0.83154,0.91402,0.83326,-0.10508
+2003,creative,Stacking,stacking,box,box,0.82649,0.74962,0.90692,1.04849,0.93131,0.89257,-0.06098
+2003,creative,Shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2003,creative,Water Bottle,water bottle,box,box,0.97368,0.99295,0.98702,1.05402,1.14813,1.03116,0.09829
+2003,creative,Shipping tool,shipping tool,box,box,0.9160699999999999,0.91582,1.00464,1.042,1.1941,1.01453,0.06403
+2004,creative,use several of them and make a robot costume,use several of them and make a robot costume,box,box,0.88286,1.05213,0.93623,0.96883,0.77178,0.92237,0.01216
+2004,creative,get several of them and make a play house,get several of them and make a play house,box,box,0.8632,1.03671,0.91701,0.96877,0.77478,0.91209,-0.00589
+2004,creative,turn it into an astronauts helmet,turn it into an astronauts helmet,box,box,0.92249,0.90459,1.0374,0.9668,1.22484,1.01122,0.07391
+2004,creative,have tiny and turn them into flower pots,have tiny and turn them into flower pots,box,box,1.11803,0.8781,0.93071,0.97061,1.22327,1.02414,0.13697
+2004,creative,poke holes and stick a light in it and use it as a disco,poke holes and stick a light in it and use it as a disco,box,box,1.10115,1.09945,0.98892,0.9688,1.22761,1.07719,0.18472
+2004,creative,use it as a chair,use it as a chair,box,box,0.81743999999999994,1.01983,0.91948,0.96968,0.75557,0.8964,-0.03287
+2005,creative,toy,toy,box,box,0.70409,0.73648,0.85502,0.75149,0.6654100000000001,0.7425,-0.17697
+2005,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2005,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2005,creative,shade,shade,box,box,0.87324,0.99928,0.89575,0.96505,0.91245,0.92915,-0.00224
+2005,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2005,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2005,creative,playpen,playpen,box,box,0.8889,0.6990000000000001,0.76408,1.02364,0.99114,0.87335,-0.07635
+2006,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2006,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2006,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2006,creative,props,props,box,box,0.7447900000000001,0.8167,0.83813,0.89939,0.78666,0.81713,-0.12997
+2006,creative,stairs,stairs,box,box,0.7700899999999999,0.90829,0.79735,0.97693,0.82145,0.85482,-0.1064
+2006,creative,armor,armor,box,box,0.869,0.97938,0.97488,1.03841,0.85928,0.94419,0.01435
+2006,creative,Raft,raft,box,box,0.82228,0.91905,0.96019,0.9679,0.8721099999999999,0.90831,-0.0265
+2006,creative,dumb waiter,dumb waiter,box,box,1.00299,1.02275,0.96319,1.04507,0.93763,0.99433,0.09327
+2006,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2006,creative,giant dice,giant dice,box,box,0.97065,1.01725,0.9309000000000001,0.81245,1.09936,0.96612,0.06896
+2007,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2007,creative,home if it is big enough,home if it is big enough,box,box,0.94535,1.05774,0.94765,0.96756,1.23495,1.03065,0.08697
+2007,creative,drawer,drawer,box,box,0.54993,0.56819,0.6317699999999999,0.88173,0.73649,0.67362,-0.3379
+2007,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2007,creative,shelf,shelf,box,box,0.67503,0.6997800000000001,0.80559,0.79901,0.7623,0.74834,-0.20223
+2007,creative,to block,to block,box,box,0.99801,0.95769,0.96266,1.00218,1.23405,1.03092,0.10201
+2007,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2007,creative,tunnel,tunnel,box,box,0.81853,0.86307,0.8553999999999999,0.95539,0.87155,0.87279,-0.06963
+2007,creative,foot stool,foot stool,box,box,1.07719,1.0412,0.96053,0.93835,1.08075,1.0196,0.14023
+2007,creative,go cart,go cart,box,box,0.97673,0.99288,1.04151,0.97926,1.11746,1.02157,0.10967
+2007,creative,side table,side table,box,box,1.0682,1.06446,0.96812,0.89236,1.1430500000000001,1.02724,0.14503
+2007,creative,play toy,play toy,box,box,0.94887,0.93625,0.9589799999999999,0.88766,1.17269,0.98089,0.06167
+2007,creative,bird house,bird house,box,box,0.9074,0.9937,1.03638,1.00838,1.18736,1.02664,0.08048
+2007,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2007,creative,burning material,burning material,box,box,0.99929,1.07351,1.00183,0.98964,1.2194,1.05673,0.13269
+2007,creative,garbage can,garbage can,box,box,0.958,0.96416,0.8604700000000001,0.88775,1.22835,0.97975,0.04698
+2008,creative,toss like a ball,toss like a ball,box,box,1.07445,1.05447,1.09759,0.8745499999999999,1.2058,1.06137,0.18884
+2008,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2008,creative,drum,drum,box,box,0.82837,0.89804,0.91015,0.96106,0.7309300000000001,0.86571,-0.05398
+2008,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2008,creative,diorama,diorama,box,box,0.87216,0.81226,0.84216,0.88225,0.87815,0.8574,-0.05824
+2008,creative,music amplifier,music amplifier,box,box,1.05602,1.11067,1.01808,1.04233,1.02383,1.05019,0.15879
+2008,creative,balance beam,balance beam,box,box,1.02163,1.02939,0.9579,0.9808,1.05914,1.00977,0.10946
+2008,creative,stepping stool,stepping stool,box,box,1.00611,1.1289,0.9554,0.93621,1.07505,1.02033,0.11759
+2008,creative,TV stand,tv stand,box,box,0.98072,1.0126,0.96586,0.94258,1.15051,1.01045,0.09399
+2008,creative,cut up and use as a dancefloor,cut up and use as a dancefloor,box,box,0.86107,0.97747,0.99445,0.96899,1.23586,1.00757,0.04407
+2010,creative,Table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2010,creative,Bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2010,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2010,creative,Vehicle,vehicle,box,box,0.82327,0.9387,0.8998,0.92897,0.80819,0.87979,-0.04748
+2010,creative,Pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2010,creative,Chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2010,creative,Stage,stage,box,box,0.85043,0.9575,0.89559,0.98887,0.83365,0.90521,-0.02667
+2010,creative,Step,step,box,box,0.79219,0.98971,0.91945,1.0429,0.8556,0.91997,-0.03906
+2010,creative,Arm Rest,arm rest,box,box,1.09607,1.03561,0.89249,0.94892,1.05287,1.00519,0.127
+2011,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2011,creative,instrument,instrument,box,box,0.85449,0.92995,0.94795,0.99664,0.82915,0.91164,-0.01411
+2011,creative,weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2011,creative,Building Material,building material,box,box,0.93906,1.05831,0.94122,1.08285,1.22569,1.04943,0.08672
+2012,creative,as a weight,as a weight,box,box,0.93846,1.03454,0.9079699999999999,0.9738,0.73203,0.91736,0.02581
+2012,creative,shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2012,creative,to climb on,to climb on,box,box,0.82818,0.93003,0.9898,0.96886,0.71187,0.88575,-0.02631
+2012,creative,as a floor rug,as a floor rug,box,box,1.03836,0.99228,1.05968,0.97042,1.26363,1.06487,0.15794
+2012,creative,bulletproof material,bulletproof material,box,box,0.8811100000000001,1.1055,0.95059,0.95628,1.1438,1.00746,0.05553
+2012,creative,make a plane out of,make a plane out of,box,box,0.91354,1.16887,1.03787,0.97069,0.75429,0.96905,0.07666
+2012,creative,a ramp to use for tricks/stunts,a ramp to use for tricksstunts,box,box,0.97939,0.88162,0.9293899999999999,0.96783,0.76525,0.9047,0.02842
+2012,creative,As a mini fridge stand  a ladder  shelter,as a mini fridge stand a ladder shelter,box,box,1.15275,0.90295,1.0502,0.96787,1.22319,1.05939,0.19383
+2012,creative,make a car out of,make a car out of,box,box,0.87068,1.06064,0.98475,0.97013,0.7565999999999999,0.92856,0.02051
+2012,creative,to cut and from other objects from,to cut and from other objects from,box,box,0.97352,0.9875,0.98629,0.96879,0.76567,0.93635,0.06085
+2013,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2013,creative,build a mansion,build a mansion,box,box,0.97958,0.82102,0.88444,0.9136299999999999,0.77316,0.87437,0.00275
+2013,creative,build a raft,build a raft,box,box,0.94006,0.90311,0.94165,1.07385,0.75976,0.92369,0.02049
+2014,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2014,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2014,creative,temporary/disposable plates,temporarydisposable plates,box,box,0.84825,0.92208,0.93748,0.98606,0.8301000000000001,0.90479,-0.02215
+2014,creative,organizer for computer wires,organizer for computer wires,box,box,1.01417,1.06807,1.08277,1.01324,1.18548,1.07275,0.16128
+2014,creative,biodegradable portable garden,biodegradable portable garden,box,box,0.97549,0.82499,1.02209,0.98789,1.06458,0.97501,0.06978
+2014,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2014,creative,reconstructed as a wagon,reconstructed as a wagon,box,box,0.97134,0.94084,0.96811,0.97771,1.28034,1.02767,0.08986
+2014,creative,fairy village,fairy village,box,box,0.94124,0.86098,1.05839,0.95679,1.10978,0.98544,0.07174
+2014,creative,giant Lego,giant lego,box,box,1.05189,0.9888,0.92222,0.94674,1.1258,1.00709,0.11115
+2014,creative,pet house,pet house,box,box,0.89554,1.04163,1.04266,1.0026,1.18932,1.03435,0.08464
+2014,creative,makeshift armor,makeshift armor,box,box,1.0518399999999999,1.02965,1.0232,1.00431,1.23481,1.06876,0.15983
+2015,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2015,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2015,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2015,creative,chairs,chairs,box,box,0.8184,0.82457,0.88705,0.98506,0.7882,0.86066,-0.07277
+2015,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2015,creative,football,football,box,box,0.90222,0.8848199999999999,0.95337,1.00347,0.8399300000000001,0.91676,0.00493
+2015,creative,skirt,skirt,box,box,0.90314,0.99478,0.89784,0.90105,0.92347,0.92406,0.01059
+2015,creative,scarf,scarf,box,box,0.7966,0.86244,0.94765,1.06224,0.94844,0.92347,-0.04222
+2015,creative,robot suit,robot suit,box,box,0.97959,1.11709,1.01546,0.97382,0.99776,1.01674,0.11501
+2015,creative,ceiling storage,ceiling storage,box,box,1.02363,0.98304,0.99431,0.95794,1.13638,1.01906,0.1184
+2016,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2016,creative,belt,belt,box,box,0.79916,0.85695,0.90271,0.94157,0.80341,0.86076,-0.07301
+2016,creative,robot,robot,box,box,0.80463,0.83107,0.87798,0.88272,0.82214,0.84371,-0.08328
+2017,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2017,creative,drawer,drawer,box,box,0.54993,0.56819,0.6317699999999999,0.88173,0.73649,0.67362,-0.3379
+2017,creative,jewelry,jewelry,box,box,0.72774,0.75607,0.8708400000000001,1.00215,0.74912,0.82118,-0.13793
+2017,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2017,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2017,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2017,creative,robot,robot,box,box,0.80463,0.83107,0.87798,0.88272,0.82214,0.84371,-0.08328
+2017,creative,wardrobe,wardrobe,box,box,0.7895300000000001,0.8235399999999999,0.77659,0.90143,0.8614999999999999,0.83052,-0.11779
+2017,creative,shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2017,creative,spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2017,creative,cabinet,cabinet,box,box,0.74089,0.77447,0.83872,0.97561,0.90637,0.84721,-0.12551
+2017,creative,habitat,habitat,box,box,0.96763,0.97641,0.94634,1.04874,0.9605,0.97992,0.06438
+2018,creative,a house,a house,box,box,0.95209,0.99849,1.02521,1.01134,1.24112,1.04565,0.10532
+2018,creative,dress,dress,box,box,0.80924,0.99784,0.90762,0.99733,0.7898000000000001,0.90037,-0.04017
+2018,creative,robot costume,robot costume,box,box,1.03145,0.98187,0.989,0.96118,0.9224,0.97718,0.10278
+2018,creative,packing peanuts,packing peanuts,box,box,1.02387,1.06736,1.02324,1.0829,0.9782,1.03511,0.13451
+2018,creative,as bread slices,as bread slices,box,box,0.9647,1.08755,0.98562,1.03716,0.91243,0.99749,0.08937
+2018,creative,a very large die,a very large die,box,box,0.99753,1.03524,1.03183,0.97496,1.23748,1.05541,0.13468
+2019,creative,Hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2019,creative,Fan,fan,box,box,0.84612,0.91601,0.88222,0.84694,0.69827,0.83791,-0.05821
+2019,creative,Pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2019,creative,Chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2019,creative,Ladder,ladder,box,box,0.83125,0.84143,0.90055,0.8959,0.8549599999999999,0.86482,-0.05798
+2019,creative,Umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2019,creative,Dogs house,dogs house,box,box,1.06971,1.01852,1.07593,0.91996,1.22879,1.06258,0.17786
+2020,creative,tent,tent,box,box,0.84003,0.93874,0.87602,0.9146,0.8474200000000001,0.88336,-0.04336
+2020,creative,cave,cave,box,box,0.80854,0.8823300000000001,0.88901,1.00085,0.86985,0.89012,-0.05941
+2020,creative,playground,playground,box,box,0.81719,0.86214,0.91205,0.9905,0.8974,0.89586,-0.05
+2020,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2020,creative,puppet stage,puppet stage,box,box,1.08452,0.90779,1.04769,0.99357,0.91882,0.99048,0.13507
+2020,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2020,creative,cat holder,cat holder,box,box,0.9672499999999999,1.03213,0.9788,0.90691,1.08338,0.99369,0.08707
+2021,creative,mask,mask,box,box,0.78281,0.90846,0.83067,0.89751,0.72184,0.82826,-0.10231
+2021,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2021,creative,create a dam,create a dam,box,box,1.00565,0.9842,0.89149,0.99059,0.74916,0.92422,0.04837
+2021,creative,Play toy ie Fort  Rocketship,play toy ie fort rocketship,box,box,1.01611,1.00527,0.95816,0.9097999999999999,1.13163,1.00419,0.10521
+2021,creative,Cat house,cat house,box,box,0.9751,1.03125,1.09637,1.02201,1.14685,1.05432,0.13619
+2021,creative,Kindling material for fire,kindling material for fire,box,box,0.9298,0.98732,0.9899,0.97963,0.78356,0.93404,0.04177
+2022,creative,a hat,a hat,box,box,1.01084,0.82601,0.92862,0.98427,1.16427,0.9828,0.06864
+2022,creative,Have it house a computer,have it house a computer,box,box,0.86861,1.01684,0.98933,0.96397,0.75406,0.91856,0.0126
+2022,creative,Line with a plastic bag so you can carry fish more easily,line with a plastic bag so you can carry fish more easily,box,box,1.10822,1.10773,0.9337,0.96883,1.22931,1.06956,0.1737
+2022,creative,have the top and sides fold out so its flat and has a diorama inside,have the top and sides fold out so its flat and has a diorama inside,box,box,1.03949,0.89465,0.87826,0.9688,1.18702,0.99364,0.08161
+2023,creative,Fan,fan,box,box,0.84612,0.91601,0.88222,0.84694,0.69827,0.83791,-0.05821
+2023,creative,Airplane,airplane,box,box,0.76169,0.9302900000000001,0.89175,1.04531,0.75465,0.87674,-0.08144
+2023,creative,Bench,bench,box,box,0.81467,0.82479,0.8247599999999999,0.9526,0.7718700000000001,0.83774,-0.09581
+2023,creative,Canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2023,creative,Clothing,clothing,box,box,0.88526,0.90659,0.94609,1.05406,0.82699,0.9238,-6.3e-4
+2023,creative,Instrument,instrument,box,box,0.85449,0.92995,0.94795,0.99664,0.82915,0.91164,-0.01411
+2023,creative,Sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2023,creative,Shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2023,creative,Planter for plants,planter for plants,box,box,0.79297,0.91753,0.95545,0.98233,1.14813,0.95928,-0.01912
+2023,creative,Blanket,blanket,box,box,0.79912,0.88256,0.9336,0.85563,0.9232,0.87882,-0.0535
+2024,creative,desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2024,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2024,creative,frame,frame,box,box,0.71738,0.8971,0.75126,0.92016,0.7237100000000001,0.80192,-0.15949
+2024,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2024,creative,Wall,wall,box,box,0.81416,0.95218,0.86085,0.85098,0.74119,0.84387,-0.0705
+2024,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2024,creative,bumper,bumper,box,box,0.87564,0.84365,0.8406899999999999,0.84773,0.88363,0.85827,-0.05257
+2024,creative,cabinet,cabinet,box,box,0.74089,0.77447,0.83872,0.97561,0.90637,0.84721,-0.12551
+2024,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2024,creative,ball pin,ball pin,box,box,1.05415,1.01616,1.00669,1.02056,1.0731600000000001,1.03414,0.14098
+2025,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2025,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2025,creative,pet,pet,box,box,0.85733,0.91045,0.97247,0.71131,0.74064,0.83844,-0.02995
+2025,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2025,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2025,creative,shelf,shelf,box,box,0.67503,0.6997800000000001,0.80559,0.79901,0.7623,0.74834,-0.20223
+2025,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2025,creative,wagon,wagon,box,box,0.80142,0.92657,0.85918,0.90366,0.79264,0.85669,-0.0751
+2025,creative,train,train,box,box,0.84311,0.92294,0.92295,0.924,0.81081,0.88476,-0.03344
+2025,creative,doghouse,doghouse,box,box,0.7466200000000001,0.8575,0.81042,0.93282,0.85727,0.84093,-0.12247
+2025,creative,playhouse,playhouse,box,box,0.77893,0.85522,0.8581799999999999,0.865,0.86798,0.84506,-0.09485
+2025,creative,spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2025,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2025,creative,surfboard,surfboard,box,box,0.90468,0.90724,0.98408,0.99739,0.97378,0.95343,0.03009
+2025,creative,dog bed,dog bed,box,box,0.9065300000000001,0.88365,0.99813,1.00085,1.13906,0.98564,0.04504
+2026,creative,To use to make yourself into a rowboat,to use to make yourself into a rowboat,box,box,1.06841,1.07732,1.07523,0.96898,0.76641,0.99127,0.15084
+2026,creative,Use it to play games,use it to play games,box,box,0.83009,0.89165,0.95357,0.97194,0.76889,0.88323,-0.03779
+2026,creative,To use as a peg leg,to use as a peg leg,box,box,1.00675,0.92676,0.91122,0.96814,0.89618,0.94181,0.0559
+2026,creative,Put a cat in it,put a cat in it,box,box,0.7819,0.92033,1.0724,0.96813,0.74456,0.89746,-0.0245
+2026,creative,To make into a Halloween outfit,to make into a halloween outfit,box,box,1.04284,0.87567,1.07452,0.96852,1.19422,1.03115,0.13813
+2026,creative,Hide small presents inside,hide small presents inside,box,box,1.05714,0.97424,1.00215,1.03247,1.22582,1.05836,0.14718
+2026,creative,To Paint for a center piece,to paint for a center piece,box,box,1.08764,0.89727,0.96234,0.96921,1.22826,1.02894,0.13459
+2026,creative,To put it on top of your pets,to put it on top of your pets,box,box,1.03709,1.04815,1.00292,0.9688,1.22764,1.05692,0.14738
+2026,creative,To fit a person inside,to fit a person inside,box,box,0.84625,0.95794,0.97366,0.96647,0.75261,0.89939,-0.01368
+2026,creative,To put on top of a person,to put on top of a person,box,box,0.82526,0.98025,1.08653,0.9688,0.7629900000000001,0.92477,0.01371
+2027,creative,Use it as a floor mate,use it as a floor mate,box,box,0.9891,0.99195,1.02321,0.96935,1.23136,1.04099,0.11949
+2027,creative,Can be used when cleaning to et in between small cracks and corners,can be used when cleaning to et in between small cracks and corners,box,box,0.96338,0.98423,0.96141,0.9688,0.8011,0.93578,0.05082
+2027,creative,Can be used to prevent scratches on floor,can be used to prevent scratches on floor,box,box,0.98123,1.04969,0.9998,0.96911,0.79791,0.95955,0.08238
+2027,creative,use it as a homemade picture frame,use it as a homemade picture frame,box,box,0.88269,0.8966,0.97646,0.96985,0.77005,0.89913,-0.00358
+2027,creative,Use it as a way to relax Put it over your head and think,use it as a way to relax put it over your head and think,box,box,0.8926499999999999,0.96313,1.05959,0.9688,1.2405599999999999,1.02495,0.07702
+2028,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2028,creative,audio,audio,box,box,0.89673,0.8967,0.8815999999999999,1.03361,0.72313,0.88635,-0.02518
+2028,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2028,creative,canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2028,creative,platform,platform,box,box,0.86529,0.87824,0.857,0.94925,0.79835,0.86963,-0.04926
+2028,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2028,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2028,creative,Shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2028,creative,time machine,time machine,box,box,0.95881,1.01699,0.97267,0.98799,1.2028699999999999,1.02787,0.09224
+2029,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2029,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2029,creative,weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2029,creative,pedestal,pedestal,box,box,0.81245,0.90257,0.86788,1.13716,0.88391,0.92079,-0.05239
+2029,creative,terrarium,terrarium,box,box,0.75574,0.8356,0.86148,0.83419,0.9678,0.85096,-0.10215
+2029,creative,Jenga piece,jenga piece,box,box,1.03667,0.92206,1.01005,0.92736,0.98565,0.97636,0.10477
+2029,creative,puppet theater,puppet theater,box,box,1.06456,1.01319,1.02207,1.05374,0.98565,1.02784,0.14447
+2029,creative,turtle shell,turtle shell,box,box,0.96411,0.95732,0.98807,1.1306,1.03119,1.01426,0.08132
+2029,creative,crap collector,crap collector,box,box,1.05121,1.17121,1.11191,1.08145,1.04922,1.093,0.19853
+2029,creative,shoe holder,shoe holder,box,box,1.04331,1.08074,0.9583699999999999,1.05466,1.07455,1.04233,0.13442
+2029,creative,tiny house,tiny house,box,box,1.08477,0.96651,1.01971,0.93079,1.14112,1.02858,0.153
+2029,creative,brick in fort,brick in fort,box,box,0.86443,1.04863,0.96864,0.96968,0.74688,0.91965,0.00967
+2029,creative,pet bed,pet bed,box,box,0.87755,0.92942,1.00959,1.02823,1.15591,1.00014,0.04451
+2030,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2030,creative,Seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2030,creative,Play area for an animal,play area for an animal,box,box,1.07981,0.98401,1.00046,0.98152,0.76803,0.96277,0.11899
+2030,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2030,creative,Cut up and design things with,cut up and design things with,box,box,1.11138,0.93407,1.00783,0.97114,1.23347,1.05158,0.16696
+2030,creative,Eat out of,eat out of,box,box,0.78483,0.93292,1.04334,0.98307,0.73532,0.8959,-0.02939
+2030,creative,Color on,color on,box,box,1.00516,0.98875,1.04157,0.96628,1.22263,1.04488,0.13157
+2030,creative,Boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2030,creative,Treasure Chest,treasure chest,box,box,1.10063,0.95257,0.97496,0.99103,0.97165,0.99817,0.13408
+2030,creative,Hideout,hideout,box,box,0.83735,0.91443,0.8753299999999999,0.95061,1.00553,0.91665,-0.03419
+2030,creative,Time Capsule,time capsule,box,box,0.95974,0.97767,1.00689,1.08365,1.06024,1.01764,0.08841
+2030,creative,Foot Stool,foot stool,box,box,1.07719,1.0412,0.96053,0.93835,1.08075,1.0196,0.14023
+2030,creative,Part of a costume,part of a costume,box,box,1.05928,0.92447,1.00582,0.97473,1.20396,1.03365,0.136
+2030,creative,Reuse for presents,reuse for presents,box,box,0.96423,0.94984,0.97157,0.97859,0.93988,0.96082,0.06031
+2031,creative,using multiple to build a transpiration object  such as a plane,using multiple to build a transpiration object such as a plane,box,box,1.06125,1.06441,0.94571,0.96924,1.22836,1.05379,0.14577
+2031,creative,Poking holes in it to use as a Filter if metal,poking holes in it to use as a filter if metal,box,box,0.99634,0.90102,0.99708,0.9688,0.75832,0.92431,0.05974
+2031,creative,Fighting with a,fighting with a,box,box,0.9457,0.86586,1.02126,0.97717,0.73714,0.90943,0.03363
+2031,creative,House/Living,houseliving,box,box,NA,NA,NA,NA,NA,NA,NA
+2031,creative,Using as a wheel,using as a wheel,box,box,1.04857,1.09424,1.03422,0.95774,1.2454399999999999,1.07604,0.17144
+2032,creative,Table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2032,creative,Cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2032,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2032,creative,goal,goal,box,box,0.88613,1.00094,0.89238,1.04168,0.78952,0.92213,-0.00309
+2032,creative,Bookcase,bookcase,box,box,0.7155,0.64428,0.67641,1.04341,0.79994,0.77591,-0.21458
+2032,creative,cover,cover,box,box,0.85422,0.98848,0.91334,0.82649,0.80791,0.87809,-0.024
+2032,creative,Chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2032,creative,Matt,matt,box,box,0.81882,0.94628,0.98629,0.9817,0.92438,0.93149,-0.01076
+2033,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2033,creative,break down and tear into pieces for a collage,break down and tear into pieces for a collage,box,box,0.94232,1.00638,1.00914,0.96826,1.22221,1.02966,0.093410000000000007
+2033,creative,jump on it,jump on it,box,box,0.86987,0.91836,0.96774,0.95535,0.69431,0.88113,-0.01585
+2033,creative,build an accordion,build an accordion,box,box,0.92243,1.03537,0.98655,1.01894,1.00153,0.99296,0.06569
+2033,creative,chair or stool,chair or stool,box,box,0.81462,0.93678,0.89217,1.07044,0.79188,0.90118,-0.04906
+2033,creative,use it to go over Niagara falls,use it to go over niagara falls,box,box,0.92839,0.99518,0.98591,0.9691,0.91535,0.95879,0.05183
+2033,creative,wear it as a hat,wear it as a hat,box,box,0.84255,0.94125,0.96658,0.96925,0.75475,0.89488,-0.02025
+2033,creative,delaminate the cardboard and write a magnum opus,delaminate the cardboard and write a magnum opus,box,box,0.8690100000000001,1.10694,1.04217,0.97418,0.77162,0.95278,0.04611
+2033,creative,wear it as a dress,wear it as a dress,box,box,0.86899,1.06222,0.92859,0.96955,0.7445999999999999,0.91479,0.00242
+2033,creative,put it out to catch a troll,put it out to catch a troll,box,box,0.87346,1.02547,1.01998,0.96885,1.24768,1.02709,0.06726
+2033,creative,use it as a cape,use it as a cape,box,box,0.86614,1.05613,1.00209,0.96868,0.76088,0.93078,0.0228
+2033,creative,break it down and sleep o it,break it down and sleep o it,box,box,0.83648,0.91049,1.06267,0.968,0.76517,0.90856,2.7e-4
+2034,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2034,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2034,creative,container,container,box,box,0.6589700000000001,0.7753,0.71334,0.92802,0.72097,0.75932,-0.22145
+2034,creative,shelf,shelf,box,box,0.67503,0.6997800000000001,0.80559,0.79901,0.7623,0.74834,-0.20223
+2034,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2034,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2034,creative,floatation device,floatation device,box,box,0.9716,1.0327,0.96291,0.90602,0.83907,0.94246,0.06414
+2034,creative,barrier,barrier,box,box,0.89401,1.00563,0.87201,0.8126,0.87869,0.89259,-0.00768
+2034,creative,playpen,playpen,box,box,0.8889,0.6990000000000001,0.76408,1.02364,0.99114,0.87335,-0.07635
+2034,creative,organizer,organizer,box,box,0.89506,0.92005,0.98118,0.99647,1.02106,0.96276,0.03055
+2034,creative,recycling bin,recycling bin,box,box,1.03379,1.09042,1.05111,1.03833,1.03351,1.04943,0.15429
+2034,creative,side table,side table,box,box,1.0682,1.06446,0.96812,0.89236,1.1430500000000001,1.02724,0.14503
+2034,creative,club house,club house,box,box,0.93572,0.96014,1.01736,1.03626,1.18307,1.02651,0.0843
+2035,creative,floor covering painting,floor covering painting,box,box,0.97676,1.00407,1.00153,0.97188,0.74615,0.94008,0.06838
+2035,creative,moving,moving,box,box,0.8287100000000001,0.91864,0.99317,0.90147,0.7715,0.8827,-0.02526
+2035,creative,shack,shack,box,box,0.7020299999999999,0.81818,0.78989,0.98912,0.83416,0.82668,-0.15724
+2035,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2035,creative,mat,mat,box,box,0.8286,0.81506,0.92012,0.84116,0.90605,0.8622,-0.05654
+2035,creative,forts,forts,box,box,0.95397,0.86719,0.98514,0.99706,1.03749,0.96817,0.05364
+2035,creative,store things,store things,box,box,1.01635,1.07313,0.90745,0.94789,1.25812,1.04059,0.11483
+2035,creative,make signs,make signs,box,box,0.91671,0.88775,0.9346,0.99532,1.26254,0.99938,0.04239
+2036,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2036,creative,plate,plate,box,box,0.7761899999999999,0.93488,0.81447,0.96589,0.72255,0.8428,-0.10245
+2036,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2036,creative,jewelry,jewelry,box,box,0.72774,0.75607,0.8708400000000001,1.00215,0.74912,0.82118,-0.13793
+2036,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2036,creative,food,food,box,box,0.85084,0.84975,0.96852,1.02558,0.76715,0.89237,-0.02786
+2036,creative,tray,tray,box,box,0.6474599999999999,0.7549,0.63939,0.89941,0.77654,0.74354,-0.24926
+2036,creative,art,art,box,box,0.87689,0.99145,0.94912,1.06425,0.79626,0.93559,0.00885
+2036,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2036,creative,cup,cup,box,box,0.80495,0.91867,0.87869,1.02407,0.8239799999999999,0.89007,-0.06061
+2036,creative,cooking utensil,cooking utensil,box,box,1.01677,1.04566,1.0327,0.93302,0.90356,0.98634,0.11646
+2036,creative,flooring,flooring,box,box,0.97378,0.77713,0.9119,0.94388,0.90786,0.90291,0.01291
+2036,creative,bedding,bedding,box,box,0.86403,0.80107,0.92135,1.01612,0.92114,0.90474,-0.03109
+2036,creative,transportation,transportation,box,box,0.96224,0.99167,1.01007,0.94039,0.93011,0.9669,0.07531
+2036,creative,flotation device,flotation device,box,box,0.94603,1.07084,0.96705,1.0153,0.97792,0.99543,0.076
+2036,creative,form of communication,form of communication,box,box,0.96363,0.91609,0.97695,0.98916,0.80923,0.93101,0.04517
+2037,creative,use for sledding when there is snow,use for sledding when there is snow,box,box,0.88083,1.15172,1.09942,0.96899,0.90675,1.00154,0.08786
+2037,creative,hold your Christmas tree  so that the plastic parts fall in to the,hold your christmas tree so that the plastic parts fall in to the,box,box,0.9270700000000001,1.07029,1.01225,0.9688,0.77524,0.95073,0.06032
+2039,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2039,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2039,creative,plate,plate,box,box,0.7761899999999999,0.93488,0.81447,0.96589,0.72255,0.8428,-0.10245
+2039,creative,padding,padding,box,box,0.85351,0.86846,0.88021,1.05888,0.87508,0.90723,-0.03846
+2039,creative,insulation,insulation,box,box,0.94208,0.72526,0.9020900000000001,0.91987,0.87623,0.87311,-0.01894
+2039,creative,patching material,patching material,box,box,0.93374,1.03036,1.02387,1.08131,0.8984,0.99354,0.07579
+2039,creative,alternative to painters paper,alternative to painters paper,box,box,1.06518,1.03342,1.00757,1.05316,1.09723,1.05131,0.15344
+2039,creative,kindling for fire,kindling for fire,box,box,0.90566,0.99042,1.01327,0.99647,1.24917,1.031,0.07686
+2039,creative,Halloween costume,halloween costume,box,box,1.01033,0.94406,0.95296,1.01779,1.03585,0.9922,0.08709
+2039,creative,cat toy,cat toy,box,box,1.00423,1.03954,1.02168,1.0119,1.09497,1.03446,0.12565
+2039,creative,trash can,trash can,box,box,0.96359,0.93662,0.90578,0.8688,1.23057,0.98107,0.05754
+2040,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2040,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2040,creative,cart,cart,box,box,0.79156,0.86368,0.83084,0.88202,0.7812600000000001,0.82987,-0.10146
+2040,creative,cart,cart,box,box,0.79156,0.86368,0.83084,0.88202,0.7812600000000001,0.82987,-0.10146
+2040,creative,lamp,lamp,box,box,0.69936,0.81041,0.85763,0.90883,0.78493,0.81223,-0.14805
+2040,creative,shirt,shirt,box,box,0.76911,0.90647,0.84982,1.00433,0.81938,0.86982,-0.09069
+2040,creative,armor,armor,box,box,0.869,0.97938,0.97488,1.03841,0.85928,0.94419,0.01435
+2040,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2040,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2040,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2040,creative,window shutter,window shutter,box,box,1.03577,0.97412,1.04159,1.15954,1.12099,1.0664,0.14517
+2040,creative,door stop,door stop,box,box,0.98959,1.01948,1.01228,1.01865,1.21015,1.05003,0.12195
+2040,creative,building block,building block,box,box,1.03416,1.12493,0.97634,1.0202,1.22029,1.07518,0.15344
+2041,creative,Put a cat in,put a cat in,box,box,1.05167,1.00291,0.96158,0.969,1.2221,1.04145,0.13422
+2041,creative,take apart and use as a sled,take apart and use as a sled,box,box,0.94353,1.04945,0.94745,0.9685,0.78423,0.93863,0.04672
+2041,creative,put between you and someone you don't want to talk to,put between you and someone you dont want to talk to,box,box,0.95153,1.01604,1.04201,0.96877,0.76512,0.94869,0.07104
+2042,creative,cut it and fold it into an umbrella to keep you dry,cut it and fold it into an umbrella to keep you dry,box,box,1.05528,1.00316,0.99726,0.9688,1.2445599999999999,1.05381,0.14843
+2042,creative,burn it and use the ashes mixed with water as a writing substance,burn it and use the ashes mixed with water as a writing substance,box,box,0.83859,1.06977,0.93714,0.9688,0.7734099999999999,0.91754,-0.00674
+2042,creative,teleportation device to transfer goods to the homeless,teleportation device to transfer goods to the homeless,box,box,0.97573,1.07297,0.93916,0.9678,1.22302,1.03574,0.10155
+2042,creative,chop it up and use it as insulation,chop it up and use it as insulation,box,box,1.09216,0.93645,1.0625,0.96871,1.10113,1.03219,0.16245
+2043,creative,drum,drum,box,box,0.82837,0.89804,0.91015,0.96106,0.7309300000000001,0.86571,-0.05398
+2043,creative,guitar add strings,guitar add strings,box,box,0.93864,1.03427,0.98269,1.03518,0.74888,0.94793,0.05212
+2043,creative,shoes Shoebox,shoes shoebox,box,box,1.0338,1.00966,0.9287799999999999,0.98349,0.81503,0.95415,0.08323
+2043,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2043,creative,makeshift litterbox,makeshift litterbox,box,box,0.83895,0.82806,0.86597,0.9569300000000001,0.86669,0.87132,-0.06268
+2043,creative,lampshade,lampshade,box,box,0.75093,0.88211,0.75274,0.89871,1.01297,0.85949,-0.12143
+2043,creative,play mat unfolded,play mat unfolded,box,box,1.02686,1.03276,1.02492,1.07241,1.021,1.03559,0.13353
+2043,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2043,creative,Cut into wings,cut into wings,box,box,0.97102,0.97237,0.92644,0.97079,0.67953,0.90403,0.03222
+2043,creative,racecar,racecar,box,box,0.9185,0.8847700000000001,0.97744,NA,1.06909,0.96245,0.03827
+2043,creative,dog bed,dog bed,box,box,0.9065300000000001,0.88365,0.99813,1.00085,1.13906,0.98564,0.04504
+2043,creative,art canvas,art canvas,box,box,1.01746,1.03046,1.00848,1.12604,1.14668,1.06582,0.13666
+2043,creative,shelter/cover,sheltercover,box,box,NA,NA,NA,NA,NA,NA,NA
+2043,creative,play house,play house,box,box,0.91902,1.01195,1.05076,0.8534200000000001,1.24823,1.01668,0.09151
+2044,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2044,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2044,creative,super Mario costume,super mario costume,box,box,0.8874299999999999,1.08627,0.90431,0.89325,0.76144,0.90654,0.00664
+2044,creative,used to lock up ghosts,used to lock up ghosts,box,box,0.86065,0.92394,0.97201,0.97284,0.8154,0.90897,-0.00728
+2044,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2044,creative,haute couture,haute couture,box,box,0.94338,1.02866,0.93654,1.00432,0.95972,0.97452,0.05623
+2044,creative,interdimensional portal,interdimensional portal,box,box,1.03334,1.01388,0.96853,0.92073,1.05026,0.99735,0.11217
+2044,creative,Time machine,time machine,box,box,0.95881,1.01699,0.97267,0.98799,1.2028699999999999,1.02787,0.09224
+2044,creative,tubes connecting a tree house,tubes connecting a tree house,box,box,1.06634,0.88317,1.005,1.12068,0.7593300000000001,0.9669,0.10168
+2045,creative,painting drop cloth,painting drop cloth,box,box,0.87073,0.97732,0.89164,0.96051,0.8393200000000001,0.9079,-0.01494
+2045,creative,square edge for measurement,square edge for measurement,box,box,0.96329,0.99632,1.05686,0.9758,1.24689,1.04783,0.11868
+2045,creative,snow sled,snow sled,box,box,1.01528,1.03697,1.07207,1.05624,0.97515,1.03114,0.13762
+2045,creative,Halloween costume,halloween costume,box,box,1.01033,0.94406,0.95296,1.01779,1.03585,0.9922,0.08709
+2045,creative,Dog Bed,dog bed,box,box,0.9065300000000001,0.88365,0.99813,1.00085,1.13906,0.98564,0.04504
+2045,creative,degradable planting container,degradable planting container,box,box,0.93333,0.92459,1.01443,1.1138,1.19773,1.03678,0.08091
+2045,creative,exercise tool,exercise tool,box,box,1.01935,1.01527,0.96584,0.98522,1.2109,1.03932,0.12112
+2045,creative,child's toy racecar,childs toy racecar,box,box,1.05413,0.95517,1.0667,0.75149,0.86024,0.93755,0.11713
+2046,creative,Cutting it into smaller squares and adding more sides to those until you have multiple tiny,cutting it into smaller squares and adding more sides to those until you have multiple tiny,box,box,1.15698,1.00466,0.92697,0.9688,1.22394,1.05627,0.17782
+2046,creative,Grating it with a cheese grater,grating it with a cheese grater,box,box,1.07819,0.95415,1.0518399999999999,0.97767,1.2193100000000001,1.05623,0.16572
+2046,creative,cutting of the flaps and strapping them on the back of a squirrel and pretending its a bird,cutting of the flaps and strapping them on the back of a squirrel and pretending its a bird,box,box,1.10507,0.87599,0.94916,0.9688,1.22314,1.02443,0.13536
+2046,creative,dinner plate,dinner plate,box,box,0.99355,0.92135,0.92445,1.05003,1.06674,0.99122,0.07038
+2046,creative,Soggy hat in the rain,soggy hat in the rain,box,box,0.86409,0.97345,0.9289000000000001,0.95331,1.22335,0.98862,0.02386
+2046,creative,Get a lot of them in different sizes and make Russian Nesting Dolls,get a lot of them in different sizes and make russian nesting dolls,box,box,0.89363,0.90302,1.05537,0.96882,0.77491,0.91915,0.02659
+2047,creative,window,window,box,box,0.69579,0.82545,0.7102299999999999,0.9333400000000001,0.63637,0.76024,-0.20176
+2047,creative,tv,tv,box,box,0.7513,0.91213,0.81343,0.95233,0.6951499999999999,0.82487,-0.1223
+2047,creative,drum,drum,box,box,0.82837,0.89804,0.91015,0.96106,0.7309300000000001,0.86571,-0.05398
+2047,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2047,creative,mind,mind,box,box,0.71587,0.95008,0.90199,0.94793,0.79209,0.86159,-0.09965
+2047,creative,instrument,instrument,box,box,0.85449,0.92995,0.94795,0.99664,0.82915,0.91164,-0.01411
+2047,creative,spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2047,creative,learning,learning,box,box,0.99816,0.95051,0.99398,0.99664,0.8872599999999999,0.96531,0.08061
+2047,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2047,creative,UFO,ufo,box,box,0.9133,1.01141,0.8682,0.9477,0.91664,0.93145,0.01161
+2047,creative,treasure chest,treasure chest,box,box,1.10063,0.95257,0.97496,0.99103,0.97165,0.99817,0.13408
+2047,creative,black hole,black hole,box,box,1.06,0.89314,1.08621,1.0766499999999999,1.00168,1.02354,0.1423
+2047,creative,balance beam,balance beam,box,box,1.02163,1.02939,0.9579,0.9808,1.05914,1.00977,0.10946
+2047,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2047,creative,cat house,cat house,box,box,0.9751,1.03125,1.09637,1.02201,1.14685,1.05432,0.13619
+2047,creative,computer screen,computer screen,box,box,1.04307,0.86774,0.94793,1.01525,1.18176,1.01115,0.1009
+2047,creative,Christmas present,christmas present,box,box,1.04746,1.09723,0.99613,0.9387,1.2034,1.05658,0.1558
+2048,creative,as a demonstration of the concept of volume,as a demonstration of the concept of volume,box,box,1.06657,0.98228,0.97687,0.96749,1.24319,1.04728,0.14432
+2048,creative,as a vehicle,as a vehicle,box,box,0.8137300000000001,0.99887,0.86371,0.96384,0.75128,0.87829,-0.05543
+2048,creative,as compost material,as compost material,box,box,0.96163,1.00511,0.96431,0.92735,1.10091,0.99186,0.07767
+2048,creative,as a time machine,as a time machine,box,box,0.93118,0.86551,0.97599,0.97338,1.24017,0.99725,0.05502
+2048,creative,as material for a sculpture,as material for a sculpture,box,box,0.97285,1.05077,0.88226,0.96855,0.76395,0.92768,0.04097
+2048,creative,as a form of shelter,as a form of shelter,box,box,1.0725,1.04878,1.02794,0.97357,0.76292,0.97714,0.13394
+2048,creative,as a last name,as a last name,box,box,1.02155,1.08948,1.01135,0.97135,1.23531,1.06581,0.15002
+2048,creative,as tinder to start a fire,as tinder to start a fire,box,box,1.02378,0.98397,1.01409,0.96901,0.78035,0.95424,0.09506
+2048,creative,as a piece of clothing,as a piece of clothing,box,box,0.88812,1.10097,0.95135,0.97033,0.7530600000000001,0.93277,0.02635
+2049,creative,Seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2049,creative,Theme for a theme park,theme for a theme park,box,box,0.83222,1.03069,0.97618,1.02063,0.77232,0.92641,-0.00301
+2049,creative,Sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2049,creative,Cave,cave,box,box,0.80854,0.8823300000000001,0.88901,1.00085,0.86985,0.89012,-0.05941
+2049,creative,Shovel,shovel,box,box,0.77849,0.78213,0.86012,0.83154,0.91402,0.83326,-0.10508
+2049,creative,Treasure Chest,treasure chest,box,box,1.10063,0.95257,0.97496,0.99103,0.97165,0.99817,0.13408
+2049,creative,Habitat for a mouse,habitat for a mouse,box,box,0.9321699999999999,0.98725,0.90496,1.00667,1.24804,1.01582,0.05834
+2049,creative,Rocket Fuel,rocket fuel,box,box,0.92902,0.99889,1.02984,1.0054,1.2012100000000001,1.03287,0.09144
+2049,creative,Board as in a blackboard for a classroom,board as in a blackboard for a classroom,box,box,0.95149,1.09045,0.94134,0.96887,0.76744,0.94392,0.05477
+2050,creative,imaginary cave,imaginary cave,box,box,1.01211,1.02175,1.00338,1.0175399999999999,0.9417,0.9993,0.10853
+2050,creative,cat playhouse,cat playhouse,box,box,1.03157,1.09556,1.02287,0.98661,0.99533,1.02639,0.14011
+2050,creative,play tunnel,play tunnel,box,box,0.99697,0.92825,1.05416,1.03871,1.05493,1.0146,0.10984
+2050,creative,alien helmet,alien helmet,box,box,1.01462,0.93485,1.02697,1.0542,1.05728,1.01758,0.11289
+2050,creative,drawing canvas,drawing canvas,box,box,1.0688900000000001,0.94008,1.0408,0.98353,1.06119,1.0189,0.1423
+2050,creative,garden compost,garden compost,box,box,1.01612,0.93337,0.9866,1.07973,1.06856,1.01688,0.10371
+2050,creative,giant dice,giant dice,box,box,0.97065,1.01725,0.9309000000000001,0.81245,1.09936,0.96612,0.06896
+2051,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2051,creative,locker,locker,box,box,0.63124,0.7131700000000001,0.78655,1.06315,0.7372000000000001,0.78626,-0.21713
+2051,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2051,creative,canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2051,creative,home for a vagabond,home for a vagabond,box,box,1.01919,1.02387,1.00369,0.97858,0.75419,0.9559,0.09497
+2051,creative,cat scratching post,cat scratching post,box,box,0.91822,0.8968700000000001,1.03629,0.95732,0.85192,0.93212,0.03828
+2051,creative,wardrobe,wardrobe,box,box,0.7895300000000001,0.8235399999999999,0.77659,0.90143,0.8614999999999999,0.83052,-0.11779
+2051,creative,trampoline,trampoline,box,box,0.83599,0.79232,0.92043,1.06309,0.9966,0.92169,-0.03852
+2051,creative,ant kingdom,ant kingdom,box,box,1.02121,0.91823,0.98081,1.04061,0.99765,0.9917,0.09411
+2051,creative,snake house,snake house,box,box,0.9643,1.01902,0.97649,1.16666,0.99771,1.02484,0.08778
+2051,creative,keeping towels,keeping towels,box,box,1.01236,0.9508,0.94374,1.05227,1.02109,0.99605,0.08701
+2051,creative,imaginarium,imaginarium,box,box,NA,NA,0.8588,NA,1.03206,0.94543,-0.02735
+2051,creative,dinner plate,dinner plate,box,box,0.99355,0.92135,0.92445,1.05003,1.06674,0.99122,0.07038
+2051,creative,pretend car,pretend car,box,box,0.96195,1.04895,0.94526,1.03923,1.12533,1.02414,0.08734
+2051,creative,graffiti target,graffiti target,box,box,0.97396,0.96371,1.02926,1.05742,1.18349,1.04157,0.10882
+2051,creative,keeping clothes,keeping clothes,box,box,1.02721,1.05752,0.99686,0.94121,1.18692,1.04194,0.13751
+2051,creative,pet house,pet house,box,box,0.89554,1.04163,1.04266,1.0026,1.18932,1.03435,0.08464
+2051,creative,storing letters,storing letters,box,box,0.93022,1.05679,0.99303,0.97191,1.1917200000000001,1.02873,0.08904
+2051,creative,trash can,trash can,box,box,0.96359,0.93662,0.90578,0.8688,1.23057,0.98107,0.05754
+2051,creative,shooting practice,shooting practice,box,box,1.03145,1.00864,0.99476,1.08116,1.23298,1.0698,0.14099
+2051,creative,use it for exercise,use it for exercise,box,box,0.84671,1.03638,1.10468,0.9537,1.2459500000000001,1.03748,0.07962
+2051,creative,play house,play house,box,box,0.91902,1.01195,1.05076,0.8534200000000001,1.24823,1.01668,0.09151
+2051,creative,book bag,book bag,box,box,0.94767,0.9639,1.06119,0.9949,1.33357,1.06025,0.11454
+2052,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2052,creative,Mouse Catcher,mouse catcher,box,box,0.97363,0.93132,0.97835,1.07615,0.94732,0.98135,0.06907
+2052,creative,Step Stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2053,creative,Door,door,box,box,0.64211,0.75976,0.73673,0.9056,0.6039,0.72962,-0.23676
+2053,creative,Computer,computer,box,box,0.82369,0.83357,0.82291,1.04135,0.70492,0.84529,-0.09163
+2053,creative,Wall,wall,box,box,0.81416,0.95218,0.86085,0.85098,0.74119,0.84387,-0.0705
+2053,creative,Toilet,toilet,box,box,0.7213700000000001,0.88446,0.91406,1.05639,0.74569,0.86439,-0.10359
+2053,creative,Airplane,airplane,box,box,0.76169,0.9302900000000001,0.89175,1.04531,0.75465,0.87674,-0.08144
+2053,creative,Bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2053,creative,Car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2053,creative,Bench,bench,box,box,0.81467,0.82479,0.8247599999999999,0.9526,0.7718700000000001,0.83774,-0.09581
+2053,creative,Furniture,furniture,box,box,0.75736,0.8229,0.8056300000000001,1.00131,0.774,0.83224,-0.12826
+2053,creative,Oven,oven,box,box,0.84965,0.8786,0.90772,0.96357,0.78382,0.87667,-0.04278
+2053,creative,Refrigerator,refrigerator,box,box,0.65627,0.67123,0.80829,0.9696,0.78742,0.77856,-0.20571
+2053,creative,Sink,sink,box,box,0.87235,0.92189,0.98193,1.01214,0.81438,0.92054,0.00298
+2053,creative,Stove,stove,box,box,0.82813,0.8350299999999999,0.86464,0.89668,0.83085,0.85107,-0.07321
+2053,creative,Clock,clock,box,box,0.73612,0.94653,0.78748,1.0339,0.83998,0.8688,-0.11549
+2053,creative,Fork,fork,box,box,0.81467,0.87698,0.83151,1.06623,0.84596,0.88707,-0.07301
+2053,creative,Weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2053,creative,Rank,rank,box,box,1.02707,1.0651,0.97527,1.11567,0.85821,1.00826,0.11315
+2053,creative,Bus,bus,box,box,0.83534,0.91689,0.91579,0.74926,0.85837,0.85513,-0.04487
+2053,creative,Classroom,classroom,box,box,0.84666,0.84178,0.8570800000000001,0.98089,0.86652,0.87859,-0.05785
+2053,creative,Shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2053,creative,Pail,pail,box,box,0.73973,0.81227,0.80347,0.90515,0.86781,0.82569,-0.13639
+2053,creative,Raft,raft,box,box,0.82228,0.91905,0.96019,0.9679,0.8721099999999999,0.90831,-0.0265
+2053,creative,Boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2053,creative,Flooring,flooring,box,box,0.97378,0.77713,0.9119,0.94388,0.90786,0.90291,0.01291
+2053,creative,Shovel,shovel,box,box,0.77849,0.78213,0.86012,0.83154,0.91402,0.83326,-0.10508
+2053,creative,Blanket,blanket,box,box,0.79912,0.88256,0.9336,0.85563,0.9232,0.87882,-0.0535
+2053,creative,Roofing,roofing,box,box,1.0047,0.86572,1.01395,0.94745,0.99318,0.965,0.08142
+2053,creative,Writing Utensil,writing utensil,box,box,0.96826,1.0185,1.06559,1.10029,1.00173,1.03087,0.113
+2053,creative,Dog Cage,dog cage,box,box,0.92727,0.99713,1.01855,0.92183,1.08279,0.98951,0.073
+2053,creative,Gas Pump,gas pump,box,box,0.95534,1.04337,0.99367,0.9944,1.10215,1.01779,0.09313
+2053,creative,Power Outlet,power outlet,box,box,0.99452,0.89982,0.96141,0.95587,1.10706,0.98374,0.07682
+2053,creative,Vending Machine,vending machine,box,box,1.00858,1.06978,0.96707,0.9614,1.1186,1.02509,0.11672
+2053,creative,Food Storage,food storage,box,box,1.01963,1.06974,0.98582,0.99532,1.17264,1.04863,0.13397
+2053,creative,Presentation Platform,presentation platform,box,box,0.94188,1.03214,0.99152,1.11695,1.17415,1.05133,0.0956
+2053,creative,Cell Phone,cell phone,box,box,1.00093,1.0211,1.01545,0.90942,1.2335099999999999,1.03608,0.12565
+2054,creative,room,room,box,box,0.68786,0.8303,0.72881,0.9862,0.60259,0.76715,-0.19979
+2054,creative,as a ball,as a ball,box,box,0.8264400000000001,0.88874,0.91772,0.95972,0.67490000000000006,0.8535,-0.05914
+2054,creative,a table,a table,box,box,1.10161,0.96227,0.89251,0.96942,1.22568,1.0303,0.13241
+2054,creative,food,food,box,box,0.85084,0.84975,0.96852,1.02558,0.76715,0.89237,-0.02786
+2054,creative,roll in,roll in,box,box,0.96741,0.97539,0.9381,0.96708,1.21307,1.01221,0.07899
+2054,creative,sit on,sit on,box,box,1.00421,0.93887,1.05599,1.04355,1.20542,1.04961,0.12878
+2054,creative,a stand,a stand,box,box,0.93414,1.01682,0.9326,0.91641,1.22076,1.00415,0.06605
+2054,creative,lighting,lighting,box,box,0.9115800000000001,0.91051,0.89231,0.97468,0.82024,0.90186,-0.00675
+2054,creative,cushion,cushion,box,box,0.80571,0.84197,0.89285,0.99293,0.88664,0.88402,-0.06578
+2054,creative,stair,stair,box,box,0.9148000000000001,0.8419,0.8620099999999999,0.87355,0.93276,0.885,-0.02144
+2054,creative,speaker holder,speaker holder,box,box,0.94388,0.91622,1.03311,0.98732,1.09076,0.99426,0.07524
+2054,creative,to play fetch,to play fetch,box,box,0.82669,1.0193699999999999,0.99108,0.97695,0.75183,0.91318,-0.00723
+2055,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2055,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2055,creative,crate,crate,box,box,0.62163,0.62005,0.71724,0.73575,0.70867,0.68067,-0.27672
+2055,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2055,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2055,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2055,creative,lamp shade,lamp shade,box,box,1.06186,1.0583,0.93626,0.99998,1.0664,1.02456,0.13009
+2055,creative,floor cover,floor cover,box,box,0.92052,0.91183,1.02797,1.0822,1.17946,1.0244,0.07311
+2055,creative,filing cabinet,filing cabinet,box,box,0.95906,0.93188,0.96425,1.03097,1.2668599999999999,1.0306,0.08235
+2056,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2056,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2056,creative,garden,garden,box,box,0.82532,0.89145,0.90972,0.99627,0.77366,0.87928,-0.05154
+2056,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2056,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2056,creative,lunchbox,lunchbox,box,box,0.6979500000000001,0.72099,0.75331,0.78086,0.9172899999999999,0.77408,-0.19008
+2056,creative,puppet show,puppet show,box,box,1.04631,1.00201,0.969,1.02821,0.95692,1.00049,0.11407
+2056,creative,plant pot,plant pot,box,box,1.01622,0.93597,1.01663,0.94732,1.04492,0.99221,0.10473
+2056,creative,baby bed,baby bed,box,box,1.02388,0.96493,1.00645,0.96495,1.10887,1.01382,0.11693
+2056,creative,paint face on,paint face on,box,box,0.8386899999999999,1.01851,0.99451,0.97368999999999994,0.7170099999999999,0.90848,-0.00338
+2056,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2057,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2057,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2057,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2057,creative,shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2057,creative,Frisbee target,frisbee target,box,box,1.014,1.01803,0.94875,0.95734,0.95399,0.97842,0.09097
+2057,creative,lacrosse goal,lacrosse goal,box,box,0.94414,1.04863,0.94807,0.9917,0.99112,0.98473,0.06555
+2057,creative,Hiding spot,hiding spot,box,box,0.98411,1.014,1.06986,1.00127,1.05721,1.02529,0.12142
+2057,creative,puppet house,puppet house,box,box,1.00731,1.01257,0.97581,1.00951,1.07929,1.0169,0.10757
+2057,creative,jump out of to surprise,jump out of to surprise,box,box,0.8599,0.91198,0.9931,0.96695,0.73121,0.89263,-0.01093
+2057,creative,hockey goal,hockey goal,box,box,1.12072,1.10326,0.9238,1.02735,1.11709,1.05844,0.1697
+2057,creative,soccer goal,soccer goal,box,box,1.02554,1.08243,0.96244,0.99711,1.15134,1.04377,0.13063
+2057,creative,shooting target,shooting target,box,box,0.94001,1.03992,1.01829,0.98049,1.16976,1.02969,0.097
+2057,creative,put present in,put present in,box,box,0.87732,0.8705700000000001,0.95586,0.92974,0.73087,0.87287,-0.02212
+2058,creative,Throw it like a ball,throw it like a ball,box,box,0.84467,0.92303,0.95992,0.96522,0.7210300000000001,0.88277,-0.02736
+2058,creative,Use it to jack up a car,use it to jack up a car,box,box,0.95276,1.04366,0.99525,0.96893,0.755,0.94312,0.06196
+2058,creative,Make a beehive,make a beehive,box,box,0.99542,0.92401,1.02235,1.0143,1.23973,1.03916,0.11334
+2058,creative,Make a shower curtain,make a shower curtain,box,box,0.99943,1.05998,1.00836,0.94187,1.23907,1.04974,0.13167
+2058,creative,Sit on it,sit on it,box,box,0.79,0.95435,0.94302,0.96744,0.7216400000000001,0.87529,-0.05433
+2058,creative,raft,raft,box,box,0.82228,0.91905,0.96019,0.9679,0.8721099999999999,0.90831,-0.0265
+2058,creative,Keep a snake in it,keep a snake in it,box,box,0.76495,0.84887,1.02014,0.96877,0.72821,0.86619,-0.06232
+2058,creative,Make a maze,make a maze,box,box,0.8976500000000001,0.89811,1.03995,1.00864,0.7207600000000001,0.91302,0.02059
+2058,creative,bird feeder,bird feeder,box,box,0.89586,1.0159,1.04198,1.02978,1.04008,1.00472,0.06883
+2058,creative,Wear as a hat,wear as a hat,box,box,1.06412,0.95332,0.92188,0.97621,1.21458,1.02602,0.11986
+2058,creative,Wear it as a costume,wear it as a costume,box,box,0.88996,1.02594,0.97021,0.96908,0.72599,0.91624,0.01728
+2058,creative,Use it as a sled,use it as a sled,box,box,0.91725,0.9801,0.92316,0.96895,0.79349,0.91659,0.01489
+2058,creative,Practice boxing,practice boxing,box,box,1.04722,1.02752,0.93759,0.99841,1.17923,1.03799,0.12706
+2059,creative,paper,paper,box,box,0.70502,0.82004,0.85809,0.93317,0.68028,0.79932,-0.15099
+2059,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2059,creative,container,container,box,box,0.6589700000000001,0.7753,0.71334,0.92802,0.72097,0.75932,-0.22145
+2059,creative,roof,roof,box,box,0.81816,0.89499,0.88345,0.9167,0.72836,0.84833,-0.06984
+2059,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2059,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2059,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2059,creative,suitcase,suitcase,box,box,0.62097,0.72586,0.71416,0.93894,0.77274,0.75453,-0.24427
+2059,creative,fence,fence,box,box,0.86243,0.86629,0.87125,0.95013,0.8019499999999999,0.87041,-0.04829
+2059,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2059,creative,hide,hide,box,box,0.69337,0.84987,0.90478,0.90869,0.84697,0.84074,-0.1251
+2059,creative,kite,kite,box,box,0.8541,0.9091,0.93554,1.05994,0.84967,0.92167,-0.01687
+2059,creative,throne,throne,box,box,0.9084099999999999,1.01135,0.92914,1.06025,0.8791,0.95765,0.02921
+2059,creative,calendar,calendar,box,box,0.89851,0.9226300000000001,0.92456,0.97133,0.88257,0.91992,0.0033
+2059,creative,mat,mat,box,box,0.8286,0.81506,0.92012,0.84116,0.90605,0.8622,-0.05654
+2059,creative,divider,divider,box,box,0.8212,0.83877,0.78234,0.95742,0.91681,0.86331,-0.09008
+2059,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2059,creative,surfboard,surfboard,box,box,0.90468,0.90724,0.98408,0.99739,0.97378,0.95343,0.03009
+2059,creative,filler material,filler material,box,box,1.05999,1.01397,1.05669,1.01236,0.98477,1.02556,0.15041
+2059,creative,flower bed,flower bed,box,box,0.9271,0.9966,1.02384,1.00913,1.10004,1.01134,0.07998
+2059,creative,fire starter,fire starter,box,box,1.01115,1.02874,0.9964,0.98577,1.11486,1.02738,0.12026
+2059,creative,paper towel,paper towel,box,box,1.0137,0.88179,0.97008,1.06086,1.13422,1.01213,0.09319
+2060,creative,fake fire place,fake fire place,box,box,0.91522,0.91167,0.94869,1.10979,0.75517,0.92811,0.01281
+2060,creative,ant farm,ant farm,box,box,1.0113,0.9264600000000001,1.03079,1.00073,0.94921,0.9837,0.09923
+2060,creative,turtle shell,turtle shell,box,box,0.96411,0.95732,0.98807,1.1306,1.03119,1.01426,0.08132
+2060,creative,bear trap,bear trap,box,box,1.00348,0.91621,0.97023,1.12729,1.1085099999999999,1.02514,0.09512
+2060,creative,race car,race car,box,box,1.08733,1.01081,1.08217,1.02126,1.15349,1.07101,0.18576
+2061,creative,desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2061,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2061,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2061,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2061,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2061,creative,toilet,toilet,box,box,0.7213700000000001,0.88446,0.91406,1.05639,0.74569,0.86439,-0.10359
+2061,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2061,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2061,creative,shelf,shelf,box,box,0.67503,0.6997800000000001,0.80559,0.79901,0.7623,0.74834,-0.20223
+2061,creative,couch,couch,box,box,0.8084899999999999,0.87603,0.92233,1.13849,0.76797,0.90266,-0.05276
+2061,creative,dress,dress,box,box,0.80924,0.99784,0.90762,0.99733,0.7898000000000001,0.90037,-0.04017
+2061,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2061,creative,stand,stand,box,box,0.7968500000000001,0.98897,0.86826,1.00779,0.80322,0.89302,-0.05792
+2061,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2061,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2061,creative,outfit,outfit,box,box,0.8081,0.91567,0.89981,0.9719,0.88466,0.89603,-0.05074
+2061,creative,self,self,box,box,0.86908,1.01878,0.8631,0.96026,0.88676,0.9196,-0.01288
+2061,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2061,creative,pet bed,pet bed,box,box,0.87755,0.92942,1.00959,1.02823,1.15591,1.00014,0.04451
+2061,creative,hold clothes,hold clothes,box,box,1.01055,0.92922,1.08116,0.83962,1.24342,1.02079,0.13114
+2062,creative,Pretend its a shield,pretend its a shield,box,box,1.046,0.98111,1.02748,1.00707,1.19212,1.05076,0.14614
+2062,creative,Make a robot,make a robot,box,box,0.84947,0.93687,0.98696,0.95539,0.73593,0.89292,-0.01379
+2062,creative,Make a fort,make a fort,box,box,0.96424,0.88449,0.97691,0.97742,0.7552300000000001,0.91166,0.03482
+2062,creative,Make a costume,make a costume,box,box,0.88541,0.9379,0.9504,0.93364,0.65436,0.87234,-0.01403
+2062,creative,Flatten it and make a sled,flatten it and make a sled,box,box,1.07617,1.0294,1.06689,0.96931,0.78576,0.98551,0.14553
+2062,creative,Make it a drum,make it a drum,box,box,0.94872,0.99295,0.97139,0.97534,1.23355,1.02439,0.0845
+2062,creative,Make a soccer  basketball goal,make a soccer basketball goal,box,box,0.91265,0.97573,0.96093,1.01671,0.7200500000000001,0.91721,0.01898
+2063,creative,put it over an area to kill the plant growth,put it over an area to kill the plant growth,box,box,1.02857,0.9237,1.00676,0.96873,1.23507,1.03257,0.12292
+2063,creative,house small pets,house small pets,box,box,0.99691,0.95645,0.98802,1.05984,0.76757,0.95376,0.07223
+2063,creative,flatten and use as surface to bare down on,flatten and use as surface to bare down on,box,box,0.87596,0.93892,1.07024,0.96899,1.2365599999999999,1.01813,0.06712
+2063,creative,giant manual fan,giant manual fan,box,box,0.8970899999999999,0.95045,0.96506,0.9515,0.8192699999999999,0.91667,0.0131
+2063,creative,stair sled,stair sled,box,box,1.05196,1.00584,0.92225,0.99128,0.95591,0.98545,0.10204
+2063,creative,a small sandbox,a small sandbox,box,box,0.83577,0.8304400000000001,0.90578,0.93214,1.07061,0.91495,-0.03625
+2063,creative,cigarette filter,cigarette filter,box,box,0.86602,1.02444,0.97645,1.14711,1.00915,1.00463,0.039
+2063,creative,used to create a sound absorbing recording studio,used to create a sound absorbing recording studio,box,box,1.00521,0.87518,0.95852,1.0137,1.23153,1.01683,0.09026
+2064,creative,Storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2064,creative,stand,stand,box,box,0.7968500000000001,0.98897,0.86826,1.00779,0.80322,0.89302,-0.05792
+2064,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2064,creative,steps,steps,box,box,0.89195,0.92132,0.93951,1.04847,0.85265,0.93078,0.0053
+2064,creative,robot costume,robot costume,box,box,1.03145,0.98187,0.989,0.96118,0.9224,0.97718,0.10278
+2064,creative,nightstand,nightstand,box,box,0.61677,0.64089,0.7087,0.99857,0.95389,0.78376,-0.24488
+2064,creative,alien costume,alien costume,box,box,1.03737,0.84816,1.0576699999999999,1.0116,1.00598,0.99216,0.11182
+2064,creative,door prop,door prop,box,box,1.00999,1.05973,0.94832,0.90562,1.01725,0.98818,0.09899
+2064,creative,play television,play television,box,box,0.92326,0.93714,1.07321,1.04541,1.16853,1.02951,0.08954
+2064,creative,workout equipment,workout equipment,box,box,1.0507,1.00592,0.9144,1.01175,1.18457,1.0334700000000001,0.1193
+2064,creative,display case,display case,box,box,0.96895,1.00697,1.04265,1.06691,1.21647,1.06039,0.12104
+2064,creative,play house,play house,box,box,0.91902,1.01195,1.05076,0.8534200000000001,1.24823,1.01668,0.09151
+2065,creative,Build a spaceship  use it as a sled  a makeshift tent when camping  to make a robot costume,build a spaceship use it as a sled a makeshift tent when camping to make a robot costume,box,box,1.0299,1.10949,0.9826,0.9688,1.22315,1.06279,0.14819
+2066,creative,a mask,a mask,box,box,0.97596,0.93014,1.03772,0.90742,1.15883,1.00201,0.09718
+2066,creative,a sled,a sled,box,box,1.02995,0.93401,0.99163,1.00001,1.06834,1.00479,0.10848
+2066,creative,a very ineffective helmet,a very ineffective helmet,box,box,0.91153,0.96877,0.95122,0.92886,1.26386,1.00485,0.05584
+2066,creative,a source of cardboard to make other things,a source of cardboard to make other things,box,box,0.99586,1.01241,1.02951,0.96912,1.21593,1.04457,0.12705
+2066,creative,A shadow that can be hung on the wall,a shadow that can be hung on the wall,box,box,0.86174,0.93459,0.95626,0.96889,0.76256,0.89681,-0.0141
+2066,creative,A miniature house for a small pet,a miniature house for a small pet,box,box,0.87246,0.98131,0.93016,0.96964,0.7748200000000001,0.90568,-0.00705
+2066,creative,something to put heavy things in and slide them across the floor more easily,something to put heavy things in and slide them across the floor more easily,box,box,1.14771,1.1379,0.9410000000000001,0.9688,1.23058,1.0852,0.20124
+2067,creative,desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2067,creative,doghouse,doghouse,box,box,0.7466200000000001,0.8575,0.81042,0.93282,0.85727,0.84093,-0.12247
+2067,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2067,creative,play fort,play fort,box,box,1.08994,0.9019,1.05701,1.08351,1.06347,1.03917,0.15595
+2067,creative,punching bag,punching bag,box,box,0.99313,1.05893,1.03955,1.07506,1.09217,1.05177,0.13146
+2067,creative,writing to do lists,writing to do lists,box,box,1.03021,1.03707,1.05742,0.96999,1.25277,1.06949,0.1601
+2067,creative,target practice,target practice,box,box,1.14181,1.04618,0.98502,1.02441,1.25511,1.09051,0.19974
+2068,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2068,creative,Car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2068,creative,purse,purse,box,box,0.65227,0.72368,0.8255,0.91781,0.76541,0.77693,-0.19778
+2068,creative,playhouse,playhouse,box,box,0.77893,0.85522,0.8581799999999999,0.865,0.86798,0.84506,-0.09485
+2068,creative,earring,earring,box,box,0.75642,0.82454,0.84031,1.04708,0.95843,0.88536,-0.1006
+2071,creative,window,window,box,box,0.69579,0.82545,0.7102299999999999,0.9333400000000001,0.63637,0.76024,-0.20176
+2071,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2071,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2071,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2071,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2071,creative,canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2071,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2071,creative,stage,stage,box,box,0.85043,0.9575,0.89559,0.98887,0.83365,0.90521,-0.02667
+2071,creative,cave,cave,box,box,0.80854,0.8823300000000001,0.88901,1.00085,0.86985,0.89012,-0.05941
+2071,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2071,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2071,creative,candle holder,candle holder,box,box,1.01214,1.14374,1.0175399999999999,1.03355,1.05164,1.05172,0.14415
+2071,creative,projector when you cut out the hole,projector when you cut out the hole,box,box,1.047,0.96332,0.92479,0.96923,1.11859,1.00459,0.10541
+2072,creative,Home,home,box,box,0.7118800000000001,0.91085,0.80741,0.96804,0.64393,0.80842,-0.1478
+2072,creative,Plate,plate,box,box,0.7761899999999999,0.93488,0.81447,0.96589,0.72255,0.8428,-0.10245
+2072,creative,Food,food,box,box,0.85084,0.84975,0.96852,1.02558,0.76715,0.89237,-0.02786
+2072,creative,Make a play town for small animals,make a play town for small animals,box,box,0.94827,1.03804,1.05744,0.96916,0.77523,0.95763,0.07865
+2072,creative,Wings,wings,box,box,0.85165,0.94112,0.93805,1.04257,0.77852,0.91038,-0.01855
+2072,creative,Casket,casket,box,box,0.59929,0.73044,0.7208300000000001,0.96861,0.78604,0.76104,-0.24995
+2072,creative,Marker,marker,box,box,0.78384,0.88143,0.80386,0.75757,0.78706,0.80275,-0.11561
+2072,creative,Art,art,box,box,0.87689,0.99145,0.94912,1.06425,0.79626,0.93559,0.00885
+2072,creative,Dance on,dance on,box,box,0.97532,1.06116,0.91246,0.92779,1.1339,1.00213,0.08204
+2072,creative,Clock,clock,box,box,0.73612,0.94653,0.78748,1.0339,0.83998,0.8688,-0.11549
+2072,creative,Clothes,clothes,box,box,0.75148,0.95066,0.89766,0.9902,0.84099,0.8862,-0.07667
+2072,creative,Patterns,patterns,box,box,0.96714,0.93203,0.99626,0.91664,0.84748,0.93191,0.05517
+2072,creative,Filter,filter,box,box,0.82892,0.78233,0.80097,1.00783,0.85856,0.85572,-0.09313
+2072,creative,Shovel,shovel,box,box,0.77849,0.78213,0.86012,0.83154,0.91402,0.83326,-0.10508
+2072,creative,Elephant ears,elephant ears,box,box,1.00453,1.03643,1.07721,0.98102,0.98846,1.01753,0.13112
+2072,creative,Pizza tray,pizza tray,box,box,0.95762,0.9663,0.97432,1.11959,1.02087,1.00774,0.07419
+2072,creative,Design weaponry,design weaponry,box,box,1.05692,0.97832,0.9813,0.83689,1.12797,0.99628,0.12413
+2072,creative,Make hats,make hats,box,box,1.06258,1.00712,0.97377,0.94752,1.17188,1.03257,0.13881
+2073,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2073,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2073,creative,poster,poster,box,box,0.81247,0.90886,0.88424,0.88026,0.7895099999999999,0.85507,-0.06665
+2073,creative,a clubhouse,a clubhouse,box,box,1.04183,0.93335,0.91292,0.92904,1.14462,0.99235,0.09431
+2073,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2073,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2073,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2073,creative,ottoman,ottoman,box,box,0.94895,0.8561,0.9557,0.97189,0.9448799999999999,0.9355,0.03153
+2073,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2073,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2073,creative,dog pen,dog pen,box,box,0.97855,1.12648,0.97425,0.99846,1.177,1.05095,0.12028
+2074,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2074,creative,Stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2074,creative,Costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2074,creative,Painting Canvas,painting canvas,box,box,1.00793,1.00519,1.02247,1.11226,1.09096,1.04776,0.12616
+2074,creative,Foot Rest,foot rest,box,box,1.08349,1.00434,0.93317,0.96649,1.13603,1.0247,0.13489
+2075,creative,using it as notebook paper,using it as notebook paper,box,box,0.93057,0.94523,1.01521,0.98436,0.79535,0.93414,0.04339
+2075,creative,rolling the down the hill so it can be chased by a dog,rolling the down the hill so it can be chased by a dog,box,box,0.90318,1.05207,0.87974,0.96879,0.77699,0.91615,0.0063
+2075,creative,using the as an imaginary space ship into space,using the as an imaginary space ship into space,box,box,1.10795,1.01203,0.97492,0.96837,0.75625,0.9639,0.12906
+2075,creative,using the as a sled,using the as a sled,box,box,1.00836,1.01632,0.9404,0.96724,0.78927,0.94432,0.072
+2075,creative,using the as a jacket,using the as a jacket,box,box,0.9822,1.03302,0.91798,0.96633,0.7578,0.93147,0.05243
+2075,creative,using the  as a hat,using the as a hat,box,box,0.90752,1.01744,0.97112,0.96594,0.77134,0.92667,0.0286
+2075,creative,using pieces of the to incorporate in mixed medium art,using pieces of the to incorporate in mixed medium art,box,box,1.18006,1.07031,0.99026,0.96839,1.2381199999999999,1.08943,0.22079
+2076,creative,home,home,box,box,0.7118800000000001,0.91085,0.80741,0.96804,0.64393,0.80842,-0.1478
+2076,creative,gift,gift,box,box,0.66974,0.80648,0.75024,0.9756,0.65056,0.77052,-0.20334
+2076,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2076,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2076,creative,collecting,collecting,box,box,0.77508,0.84842,0.8915,0.8559,0.81765,0.83771,-0.09288
+2076,creative,cooking,cooking,box,box,0.89046,0.9109,0.99869,1.05311,0.8356,0.93775,0.01887
+2076,creative,cooking,cooking,box,box,0.89046,0.9109,0.99869,1.05311,0.8356,0.93775,0.01887
+2076,creative,idea,idea,box,box,0.74956,0.96495,1.03907,1.00885,0.83846,0.92018,-0.03297
+2076,creative,decorating,decorating,box,box,0.8924300000000001,0.86695,0.9786,0.99867,0.85015,0.91736,0.00487
+2076,creative,steps,steps,box,box,0.89195,0.92132,0.93951,1.04847,0.85265,0.93078,0.0053
+2076,creative,shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2076,creative,gathering,gathering,box,box,0.89348,0.99533,1.02576,0.99441,0.9234,0.96648,0.04776
+2076,creative,transporting,transporting,box,box,0.8694,0.8679399999999999,0.97617,0.9762,0.96511,0.93096,0.00126
+2076,creative,sandbox,sandbox,box,box,0.9301200000000001,0.6893,0.92936,0.76819,0.97028,0.85745,-0.02265
+2076,creative,separation,separation,box,box,1.03142,0.97237,1.04814,0.95709,0.9992,1.00164,0.1247
+2076,creative,organizing,organizing,box,box,0.95564,0.89012,1.03305,1.0418,1.05871,0.99586,0.07648
+2076,creative,shielding,shielding,box,box,0.79766,0.8849,0.90741,1.00844,1.05909,0.9315,-0.04281
+2076,creative,height adjustment,height adjustment,box,box,1.03822,1.03276,0.94836,1.03362,1.12157,1.03491,0.12342
+2077,creative,an easel,an easel,box,box,0.96364,0.97061,0.99265,1.02599,0.8387,0.95832,0.0636
+2078,creative,Hide away messy/ugly things,hide away messyugly things,box,box,0.81157,0.94354,0.9439,0.98555,0.74139,0.88519,-0.04253
+2078,creative,use the cardboard for a photo lighting project,use the cardboard for a photo lighting project,box,box,1.08691,1.13777,0.95037,0.96874,1.21906,1.07257,0.17222
+2078,creative,Cat home,cat home,box,box,0.98468,0.95408,1.07968,1.05879,1.13958,1.04336,0.12372
+2078,creative,A poor person TV stand,a poor person tv stand,box,box,0.92959,0.93505,0.95702,0.85269,0.74838,0.88455,0.01381
+2079,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2079,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2079,creative,cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2079,creative,shelf,shelf,box,box,0.67503,0.6997800000000001,0.80559,0.79901,0.7623,0.74834,-0.20223
+2079,creative,suitcase,suitcase,box,box,0.62097,0.72586,0.71416,0.93894,0.77274,0.75453,-0.24427
+2079,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2079,creative,present,present,box,box,0.81703,0.91343,1.00402,0.97016,0.8544700000000001,0.91182,-0.01866
+2079,creative,diorama,diorama,box,box,0.87216,0.81226,0.84216,0.88225,0.87815,0.8574,-0.05824
+2079,creative,pedestal,pedestal,box,box,0.81245,0.90257,0.86788,1.13716,0.88391,0.92079,-0.05239
+2079,creative,incense,incense,box,box,0.77198,0.89269,0.89691,1.0101,0.9164,0.89762,-0.06942
+2079,creative,lunchbox,lunchbox,box,box,0.6979500000000001,0.72099,0.75331,0.78086,0.9172899999999999,0.77408,-0.19008
+2079,creative,trashcan,trashcan,box,box,0.7023699999999999,0.71591,0.7507699999999999,0.98084,0.97133,0.82424,-0.1754
+2079,creative,lampshade,lampshade,box,box,0.75093,0.88211,0.75274,0.89871,1.01297,0.85949,-0.12143
+2079,creative,collage material,collage material,box,box,1.02437,1.01536,0.92466,1.01274,1.04256,1.00394,0.09876
+2079,creative,dark place,dark place,box,box,0.98522,0.99361,1.02988,0.8889,1.12672,1.00487,0.10715
+2079,creative,trophy case,trophy case,box,box,0.92662,0.91867,1.05252,0.97989,1.13601,1.00274,0.07607
+2079,creative,doll house,doll house,box,box,0.97269,1.02136,1.10839,1.1159,1.15527,1.07472,0.14194
+2079,creative,homemade paper,homemade paper,box,box,0.9513199999999999,1.05221,1.04398,1.05872,1.19184,1.05961,0.118
+2080,creative,A cardboard place to live after college  a hat  a storage place for more    an obstacle  a sled  a hiding place,a cardboard place to live after college a hat a storage place for more an obstacle a sled a hiding place,box,box,1.05146,1.0990199999999999,1.05864,0.9688,0.77685,0.99095,0.14208
+2081,creative,door,door,box,box,0.64211,0.75976,0.73673,0.9056,0.6039,0.72962,-0.23676
+2081,creative,fan,fan,box,box,0.84612,0.91601,0.88222,0.84694,0.69827,0.83791,-0.05821
+2081,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2081,creative,flooring,flooring,box,box,0.97378,0.77713,0.9119,0.94388,0.90786,0.90291,0.01291
+2081,creative,lamp shade,lamp shade,box,box,1.06186,1.0583,0.93626,0.99998,1.0664,1.02456,0.13009
+2081,creative,magic trick,magic trick,box,box,1.00937,1.05885,1.00718,1.13636,1.07617,1.05759,0.13175
+2081,creative,play pen,play pen,box,box,1.0241,1.04315,0.97566,1.03923,1.11579,1.03959,0.12589
+2081,creative,cat bed,cat bed,box,box,0.97285,0.97264,0.98199,1.05453,1.1381999999999999,1.02404,0.09202
+2081,creative,school project,school project,box,box,1.04665,1.02161,0.89874,1.03126,1.21498,1.04265,0.1189
+2081,creative,fake car,fake car,box,box,0.91723,1.12765,0.9785200000000001,0.98546,1.21539,1.04485,0.0933
+2081,creative,fake computer,fake computer,box,box,0.92197,1.14137,0.9628099999999999,0.97492,1.22766,1.04575,0.09403
+2082,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2082,creative,television,television,box,box,0.79461,0.8463700000000001,0.84336,0.97796,0.7295,0.83836,-0.09906
+2082,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2082,creative,library,library,box,box,0.8385400000000001,0.9097500000000001,0.87317,1.08219,0.79588,0.89991,-0.04638
+2082,creative,art,art,box,box,0.87689,0.99145,0.94912,1.06425,0.79626,0.93559,0.00885
+2082,creative,bookshelf,bookshelf,box,box,0.789,0.72403,0.77717,0.862,0.82406,0.79525,-0.14042
+2082,creative,clothing,clothing,box,box,0.88526,0.90659,0.94609,1.05406,0.82699,0.9238,-6.3e-4
+2082,creative,bathtub,bathtub,box,box,0.71838,0.94355,0.84332,0.92583,0.92631,0.87148,-0.10651
+2082,creative,wallpaper,wallpaper,box,box,0.90225,0.87878,0.90125,0.7006399999999999,0.92954,0.86249,-0.01832
+2082,creative,skateboard,skateboard,box,box,0.92684,0.83029,0.9425,0.97589,0.97616,0.93034,0.01474
+2082,creative,secret getaway,secret getaway,box,box,0.9365,0.92586,0.97142,1.03947,1.03148,0.98095,0.05261
+2082,creative,rocket ship,rocket ship,box,box,1.07312,1.09255,1.00613,0.94694,1.14784,1.05332,0.16662
+2082,creative,doll house,doll house,box,box,0.97269,1.02136,1.10839,1.1159,1.15527,1.07472,0.14194
+2082,creative,hiding place,hiding place,box,box,1.01379,1.0602800000000001,0.99604,1.04431,1.15805,1.05449,0.13346
+2082,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2082,creative,time machine,time machine,box,box,0.95881,1.01699,0.97267,0.98799,1.2028699999999999,1.02787,0.09224
+2083,creative,Storm shelter for a mouse,storm shelter for a mouse,box,box,0.9559,0.92143,0.89205,0.97384,0.77372,0.90339,0.01358
+2083,creative,Untrustworthy boat,untrustworthy boat,box,box,0.95208,1.00869,1.06176,0.95961,1.04787,1.006,0.09913
+2083,creative,Stepping stool for a little person,stepping stool for a little person,box,box,1.15218,1.01751,1.1182,0.96994,1.21827,1.09522,0.23333
+2083,creative,Hiding place for a birthday present,hiding place for a birthday present,box,box,1.07968,0.87941,0.91098,0.95733,1.22067,1.00961,0.11115
+2083,creative,House for a family of cardboard people,house for a family of cardboard people,box,box,0.85294,0.95186,1.01151,0.9682,0.77891,0.91268,0.00203
+2083,creative,Personal space measurer,personal space measurer,box,box,0.94903,0.92144,1.03949,0.99305,1.23379,1.02736,0.09292
+2083,creative,Storage for a smaller,storage for a smaller,box,box,1.11457,0.91797,1.02629,0.97777,1.24017,1.05535,0.17203
+2084,creative,using it as a Frisbee,using it as a frisbee,box,box,0.95352,0.98854,0.94929,0.96979,1.18204,1.00864,0.07508
+2084,creative,coloring room,coloring room,box,box,1.01878,0.93208,0.8951,1.03173,1.08018,0.99157,0.07668
+2084,creative,playing catch,playing catch,box,box,0.97162,1.06311,0.98739,0.9501,1.14111,1.02267,0.10416
+2084,creative,dropping it off a building,dropping it off a building,box,box,0.97588,0.96172,0.9638,0.96662,0.75252,0.92411,0.0497
+2084,creative,using it as a shield,using it as a shield,box,box,0.93531,0.98966,0.94024,0.96827,0.7556,0.91782,0.02751
+2084,creative,smoking inside it,smoking inside it,box,box,0.86454,0.84801,1.06177,0.97126,0.75649,0.90041,0.00264
+2084,creative,make it your home,make it your home,box,box,0.9828,1.01792,1.01627,0.98017,1.24106,1.04764,0.12017
+2085,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2085,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2085,creative,shelves,shelves,box,box,0.75881,0.70967,0.7570600000000001,0.82535,0.7322299999999999,0.75662,-0.17359
+2085,creative,color on it,color on it,box,box,0.87332,0.85775,0.9185099999999999,0.9742,0.72603,0.86996,-0.03564
+2085,creative,furniture,furniture,box,box,0.75736,0.8229,0.8056300000000001,1.00131,0.774,0.83224,-0.12826
+2085,creative,art,art,box,box,0.87689,0.99145,0.94912,1.06425,0.79626,0.93559,0.00885
+2085,creative,clothes,clothes,box,box,0.75148,0.95066,0.89766,0.9902,0.84099,0.8862,-0.07667
+2085,creative,tunnel,tunnel,box,box,0.81853,0.86307,0.8553999999999999,0.95539,0.87155,0.87279,-0.06963
+2085,creative,plate/bowl,platebowl,box,box,NA,NA,NA,NA,NA,NA,NA
+2085,creative,use it as a stool,use it as a stool,box,box,0.95042,1.04711,0.91068,0.96989,0.7844800000000001,0.93252,0.03909
+2085,creative,arts and crafts,arts and crafts,box,box,0.7979499999999999,0.91276,0.9769,0.95728,0.76335,0.88165,-0.04466
+2085,creative,holds things,holds things,box,box,0.97725,1.03268,0.97634,1.01848,1.17387,1.03572,0.10442
+2085,creative,hide things,hide things,box,box,1.08912,1.01971,1.00531,0.95624,1.17619,1.04931,0.16449
+2085,creative,make tools,make tools,box,box,1.11833,0.96807,0.93951,0.94877,1.2363,1.0422,0.15558
+2085,creative,cover things up,cover things up,box,box,0.81351,0.97621,0.99419,0.93362,0.71968,0.88744,-0.02535
+2085,creative,use it as a ball,use it as a ball,box,box,0.88156,0.87966,0.97206,0.96935,0.75425,0.89138,-0.00977
+2086,creative,tv,tv,box,box,0.7513,0.91213,0.81343,0.95233,0.6951499999999999,0.82487,-0.1223
+2086,creative,you can kick it around like a ball,you can kick it around like a ball,box,box,1.05051,0.90479,0.90103,0.96897,1.2315,1.01136,0.0994
+2086,creative,you can make a fort out of it,you can make a fort out of it,box,box,1.02207,0.96963,0.95363,0.9688,1.22281,1.02739,0.1111
+2086,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2086,creative,spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2086,creative,use it to take out your aggression by completely mutilating the and stomping on it,use it to take out your aggression by completely mutilating the and stomping on it,box,box,0.99376,1.06354,1.06361,0.9688,1.11272,1.04049,0.1363
+2086,creative,you can use it as a chair long as you put something sturdy under it,you can use it as a chair long as you put something sturdy under it,box,box,0.91927,0.9389,1.09449,0.9688,1.11843,1.00798,0.08621
+2086,creative,practice your balance by balancing the  on your head,practice your balance by balancing the on your head,box,box,0.88067,1.03664,0.96574,0.97341,0.77605,0.9265,0.01756
+2086,creative,exercise by jumping in and out of the,exercise by jumping in and out of the,box,box,1.07225,1.04393,0.94565,0.96851,1.23079,1.05223,0.14788
+2086,creative,hide and seek,hide and seek,box,box,0.80445,0.93657,0.91874,0.97629,0.75275,0.87776,-0.05423
+2086,creative,you can turn it into dices,you can turn it into dices,box,box,0.89362,0.9140699999999999,0.96741,0.96755,0.76008,0.90055,0.00142
+2087,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2087,creative,food,food,box,box,0.85084,0.84975,0.96852,1.02558,0.76715,0.89237,-0.02786
+2087,creative,furniture,furniture,box,box,0.75736,0.8229,0.8056300000000001,1.00131,0.774,0.83224,-0.12826
+2087,creative,plane,plane,box,box,0.79849,0.95408,0.8875500000000001,1.04696,0.77447,0.89231,-0.05812
+2087,creative,clothing,clothing,box,box,0.88526,0.90659,0.94609,1.05406,0.82699,0.9238,-6.3e-4
+2087,creative,Spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2087,creative,skyscraper,skyscraper,box,box,0.92804,0.91329,0.88156,0.92933,0.89444,0.90933,0.00299
+2087,creative,dispensers,dispensers,box,box,0.79625,0.75046,0.80557,1.04184,0.9486600000000001,0.86856,-0.10473
+2087,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2087,creative,Teleporting,teleporting,box,box,0.7731,0.86487,0.91144,NA,1.07615,0.90639,-0.05836
+2087,creative,Imagination ship,imagination ship,box,box,0.98377,1.00224,1.00362,0.9595899999999999,1.13703,1.01725,0.10447
+2087,creative,smart house,smart house,box,box,1.05485,1.06373,1.12053,1.03483,1.16254,1.0873,0.19129
+2088,creative,Put your head in it for meditation,put your head in it for meditation,box,box,0.83831,1.02997,0.97737,0.96877,0.76654,0.91619,-0.00266
+2088,creative,Cut the edges to make a prism like shape and make a chandelier out of it,cut the edges to make a prism like shape and make a chandelier out of it,box,box,0.94484,1.10035,0.93758,0.9688,0.99254,0.98882,0.07095
+2088,creative,Grow plants in it,grow plants in it,box,box,1.0268,0.99083,0.98838,0.96231,1.24796,1.04326,0.12922
+2088,creative,Cut it up into slices to make mats,cut it up into slices to make mats,box,box,1.12533,0.97129,1.05508,0.96882,1.21029,1.06616,0.19237
+2089,creative,desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2089,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2089,creative,closet,closet,box,box,0.64339,0.6854100000000001,0.78191,0.81482,0.7302,0.73115,-0.22966
+2089,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2089,creative,dress,dress,box,box,0.80924,0.99784,0.90762,0.99733,0.7898000000000001,0.90037,-0.04017
+2089,creative,canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2089,creative,bowl,bowl,box,box,0.70824,0.87993,0.86571,0.96353,0.79791,0.84306,-0.12526
+2089,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2089,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2089,creative,backpack,backpack,box,box,0.79591,0.7421599999999999,0.81591,1.09728,0.82073,0.8544,-0.11143
+2089,creative,balloon,balloon,box,box,0.75909,0.85956,0.78617,0.9834,0.8511299999999999,0.84787,-0.12102
+2089,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2089,creative,A pedestal,a pedestal,box,box,1.00004,0.96221,1.01527,1.01075,0.84832,0.96732,0.08727
+2089,creative,dart board,dart board,box,box,0.99408,0.98736,1.01334,0.92486,1.01302,0.98653,0.09785
+2089,creative,frisbee,frisbee,box,box,0.80657,0.7717700000000001,0.9237299999999999,1.00985,1.02275,0.90693,-0.0564
+2089,creative,hiding spot,hiding spot,box,box,0.98411,1.014,1.06986,1.00127,1.05721,1.02529,0.12142
+2089,creative,wall art,wall art,box,box,1.02455,1.03119,0.89955,0.88229,1.13845,0.99521,0.09611
+2089,creative,craft supplies,craft supplies,box,box,1.00483,0.96677,0.95346,0.94363,1.14164,1.00207,0.0938
+2089,creative,boxing practice,boxing practice,box,box,1.04722,1.02752,0.93759,0.99841,1.17923,1.03799,0.12706
+2090,creative,Some people could find it interesting to make a hat out of it because the flaps could look like a ball cap and then you could decorate it as much as you wanted to,some people could find it interesting to make a hat out of it because the flaps could look like a ball cap and then you could decorate it as much as you wanted to,box,box,1.11494,1.07049,0.94603,0.9688,0.77685,0.97542,0.13615
+2090,creative,You can make a house out of a big like the refrigerator one  and carving a door and windows out of it Then you could decorate as much as you want my brother and I have done this in the past,you can make a house out of a big like the refrigerator one and carving a door and windows out of it then you could decorate as much as you want my brother and i have done this in the past,box,box,0.88833,1.0621,1.04889,0.9688,0.77685,0.94899,0.05015
+2091,creative,Cut it up and make signs out of the,cut it up and make signs out of the,box,box,1.00547,0.99746,0.91186,0.9688,0.76459,0.92964,0.05685
+2091,creative,Use a as a footrest,use a as a footrest,box,box,0.92036,0.85805,0.8778900000000001,0.96845,1.23311,0.97157,0.01862
+2091,creative,Use a as a doorstop,use a as a doorstop,box,box,0.83635,1.00646,0.99458,0.9670300000000001,1.22159,1.0052,0.0354
+2091,creative,Use a as a storage space,use a as a storage space,box,box,1.0613,1.04815,0.93935,0.9677,1.2381199999999999,1.05092,0.14181
+2091,creative,Use it as a laundry hamper,use it as a laundry hamper,box,box,1.05687,0.88399,0.99679,0.9684200000000001,1.24509,1.03023,0.12816
+2091,creative,Use it as a table by taping it up,use it as a table by taping it up,box,box,1.00953,1.12752,0.92807,0.96891,0.7824,0.96329,0.08804
+2091,creative,Use it to build a fort for kids to play,use it to build a fort for kids to play,box,box,0.95882,1.00201,1.00587,0.9688,1.22319,1.03174,0.10014
+2091,creative,Use it as a step stool,use it as a step stool,box,box,0.97453,0.83839,1.12912,0.9694,1.21781,1.02585,0.11504
+2091,creative,Use it as a chair,use it as a chair,box,box,0.81743999999999994,1.01983,0.91948,0.96968,0.75557,0.8964,-0.03287
+2091,creative,Use it to move,use it to move,box,box,0.85883,0.9617,0.92391,0.96856,1.24594,0.99179,0.02029
+2092,creative,Cement block mold,cement block mold,box,box,0.96079,1.02578,0.93418,0.94425,0.84946,0.94289,0.05172
+2092,creative,Mini garden,mini garden,box,box,1.10035,1.0098799999999999,1.00422,0.99642,1.07046,1.03627,0.16116
+2092,creative,Makeshift sled,makeshift sled,box,box,1.08505,0.90594,1.02697,0.99976,1.11542,1.02663,0.14574
+2092,creative,A serving dish,a serving dish,box,box,0.80799,0.94388,1.00009,0.83055,0.752,0.8669,-0.0343
+2092,creative,A bed for a pet,a bed for a pet,box,box,0.87797,0.95103,0.92974,0.96931,0.76482000000000006,0.89857,-0.01056
+2093,creative,Use it as a painting canvas,use it as a painting canvas,box,box,1.02222,0.917,1.07594,0.96752,1.244,1.04534,0.13952
+2093,creative,Use it to tape to the bottom of shoes so they don't get messed up,use it to tape to the bottom of shoes so they dont get messed up,box,box,0.87163,0.93422,1.05698,0.9688,1.22218,1.01076,0.05899
+2093,creative,Cover windshield from snow,cover windshield from snow,box,box,1.00023,1.00003,1.00916,0.99415,1.24496,1.04971,0.12475
+2093,creative,Use it to fold clothes neatly,use it to fold clothes neatly,box,box,1.03887,0.89413,1.05648,0.96846,0.98339,0.98827,0.11637
+2093,creative,Use it to iron on,use it to iron on,box,box,0.80569,0.85461,0.91864,0.96981,0.75548,0.86085,-0.06812
+2094,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2094,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2094,creative,cell phone speaker,cell phone speaker,box,box,0.8794,0.85189,0.93652,1.05747,0.80698,0.90645,-0.01754
+2094,creative,dog bath tub,dog bath tub,box,box,0.86493,0.9186,0.93829,1.03171,0.83799,0.9183,-0.01124
+2094,creative,ant farm,ant farm,box,box,1.0113,0.9264600000000001,1.03079,1.00073,0.94921,0.9837,0.09923
+2094,creative,protection,protection,box,box,0.899,0.98608,0.97884,0.94798,0.9569,0.95376,0.03577
+2094,creative,soundproofing,soundproofing,box,box,0.92703,0.7011499999999999,0.87894,NA,1.03174,0.88472,-0.02222
+2095,creative,something to cross mud,something to cross mud,box,box,0.89876,0.92416,1.00785,0.96477,1.22024,1.00316,0.05619
+2095,creative,shelf for a flower pot,shelf for a flower pot,box,box,0.8378099999999999,0.98542,0.88143,0.95547,0.7683800000000001,0.8857,-0.03937
+2095,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2095,creative,stencil,stencil,box,box,0.96484,0.74329,0.94903,1.02867,0.95868,0.9289,0.02164
+2095,creative,soggy boat,soggy boat,box,box,1.02464,0.94476,1.06225,1.05646,0.97952,1.01353,0.12363
+2095,creative,mouse house,mouse house,box,box,1.00122,0.9047499999999999,0.97382,1.09247,1.1510799999999999,1.02467,0.09493
+2096,creative,Tupperware replacement for storing food,tupperware replacement for storing food,box,box,0.96545,0.93576,0.98813,1.01515,1.23103,1.0271,0.08951
+2096,creative,a replacement for a tortoise shell,a replacement for a tortoise shell,box,box,1.02315,1.05332,1.00294,0.97286,1.21173,1.0528,0.14009
+2096,creative,a bath tub,a bath tub,box,box,0.81969,0.8782,0.93597,0.93271,0.93382,0.90008,-0.03859
+2096,creative,a replacement for a shoe,a replacement for a shoe,box,box,0.81965,1.0066,0.99716,0.96624,0.74924,0.90778,-0.01199
+2097,creative,A wooden could be used as a boat for a small child,a wooden could be used as a boat for a small child,box,box,1.0954,0.93446,0.95945,0.9688,1.22384,1.03639,0.14382
+2097,creative,A refrigerator  could be a rocket ship,a refrigerator could be a rocket ship,box,box,0.90335,0.97811,1.00283,0.96485,0.7556700000000001,0.92096,0.0275
+2097,creative,If it has a lid  it could be a talking if one drew a face on it,if it has a lid it could be a talking if one drew a face on it,box,box,1.01006,0.99955,0.93855,0.9688,1.18113,1.01962,0.10236
+2097,creative,If its a wooden  it can be used as a shelving unit on a wall,if its a wooden it can be used as a shelving unit on a wall,box,box,0.9028700000000001,1.05718,1.07419,0.9688,1.19566,1.03974,0.09925
+2097,creative,A small jewelry should be a bed for a mouse,a small jewelry should be a bed for a mouse,box,box,1.14014,1.08423,1.04814,0.96876,1.22537,1.09333,0.21896
+2098,creative,fence,fence,box,box,0.86243,0.86629,0.87125,0.95013,0.8019499999999999,0.87041,-0.04829
+2098,creative,put wheels on it and make it a wheelbarrow,put wheels on it and make it a wheelbarrow,box,box,0.94089,1.03985,0.96314,0.9688,1.05651,0.99384,0.07118
+2098,creative,solar eclipse viewer,solar eclipse viewer,box,box,1.02819,0.94954,0.99998,0.94128,0.86771,0.95734,0.09312
+2098,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2098,creative,cat toy,cat toy,box,box,1.00423,1.03954,1.02168,1.0119,1.09497,1.03446,0.12565
+2098,creative,place to hide,place to hide,box,box,0.76341,0.88814,1.07186,0.94598,0.73561,0.881,-0.04149
+2099,creative,kick it as hard as you can  you'll never know where it will bounce,kick it as hard as you can youll never know where it will bounce,box,box,1.08348,0.95864,0.97115,0.9688,0.77023,0.95046,0.10737
+2099,creative,pretend its a racecar,pretend its a racecar,box,box,1.02408,0.93813,0.88839,0.97699,0.74781,0.91508,0.04793
+2099,creative,tape it up as a makeshift basketball hoop  got to cut the bottom out,tape it up as a makeshift basketball hoop got to cut the bottom out,box,box,1.12097,0.94046,0.90253,0.9688,1.22319,1.03119,0.14107
+2099,creative,cut off the flaps and use them as wings,cut off the flaps and use them as wings,box,box,0.8982600000000001,0.95109,0.95414,0.96884,1.21954,0.99837,0.04505
+2099,creative,Pretend spaceship,pretend spaceship,box,box,0.92011,0.95509,0.90069,0.96327,1.00307,0.94845,0.02268
+2099,creative,wear it on your back like a turtle,wear it on your back like a turtle,box,box,1.05205,1.13477,0.96486,0.96866,1.20064,1.0642,0.15675
+2099,creative,cut the bottom out and wear it as armor,cut the bottom out and wear it as armor,box,box,0.87845,1.03927,1.10235,0.96881,0.75539,0.94885,0.05502
+2099,creative,put a little  on the end of each hand to feel like an old videogame character,put a little on the end of each hand to feel like an old videogame character,box,box,1.07753,0.93311,1.04611,0.9688,0.77484,0.96008,0.12224
+2099,creative,hide inside it to scare people,hide inside it to scare people,box,box,0.94358,0.94432,0.96849,0.96998,1.23958,1.01319,0.07274
+2099,creative,tape it up and you can mail yourself somewhere,tape it up and you can mail yourself somewhere,box,box,1.0279,0.94101,0.92305,0.96899,0.7603,0.92425,0.0612
+2099,creative,cut eyeholes out and its a helmet,cut eyeholes out and its a helmet,box,box,1.03959,1.00228,1.03719,0.96838,1.24573,1.05863,0.15213
+2100,creative,base for a sand castle,base for a sand castle,box,box,0.88115,0.99142,1.01559,1.01467,0.7405999999999999,0.92869,0.02346
+2100,creative,Hat for the tin man,hat for the tin man,box,box,0.80264,0.98638,0.97681,0.96289,0.76542,0.89883,-0.02892
+2100,creative,a computer parts storage,a computer parts storage,box,box,1.00083,0.92761,1.04702,0.97351,1.24479,1.03875,0.12242
+2100,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2100,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2100,creative,a canoe,a canoe,box,box,1.05752,0.95,1.02133,1.01794,1.01751,1.01286,0.13055
+2100,creative,container to hold birds feathers,container to hold birds feathers,box,box,0.90135,1.01231,0.91581,1.0315,0.7645500000000001,0.9251,0.0109
+2100,creative,Paneling for a tiny home,paneling for a tiny home,box,box,0.76988,0.97358,0.95848,0.961,1.21728,0.97604,-0.01526
+2100,creative,a base for a voltaic cell,a base for a voltaic cell,box,box,1.01523,1.05237,1.0164,0.97118,0.75854,0.96274,0.10172
+2100,creative,if tied on  a tool to keep your feet dry when walking through puddles,if tied on a tool to keep your feet dry when walking through puddles,box,box,0.89591,0.93386,0.90333,0.9688,0.77214,0.89481,-0.01166
+2101,creative,Desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2101,creative,Something to step on for reaching,something to step on for reaching,box,box,1.03345,0.92184,1.00077,0.96875,1.23834,1.03263,0.12358
+2101,creative,Puppet show stage,puppet show stage,box,box,0.90925,1.00838,0.87761,0.8817,0.75744,0.88688,-0.00473
+2101,creative,Costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2101,creative,Wire organizer,wire organizer,box,box,0.85382,0.9796,0.9295599999999999,1.02125,1.09915,0.97668,0.01275
+2101,creative,A house for a cat,a house for a cat,box,box,0.93611,0.88525,1.00164,0.97118,0.76163,0.91116,0.02821
+2101,creative,Living room coffee table,living room coffee table,box,box,0.98794,0.958,1.0348,0.9266,1.22939,1.02735,0.11413
+2102,creative,floatie,floatie,box,box,NA,0.81186,NA,NA,NA,0.81186,-0.10129
+2102,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2102,creative,toys,toys,box,box,0.671,0.7037599999999999,0.77753,0.87521,0.71338,0.74818,-0.21227
+2102,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2102,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2102,creative,jewelry,jewelry,box,box,0.72774,0.75607,0.8708400000000001,1.00215,0.74912,0.82118,-0.13793
+2102,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2102,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2102,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2102,creative,Wings,wings,box,box,0.85165,0.94112,0.93805,1.04257,0.77852,0.91038,-0.01855
+2102,creative,clothes,clothes,box,box,0.75148,0.95066,0.89766,0.9902,0.84099,0.8862,-0.07667
+2102,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2102,creative,ice skating,ice skating,box,box,1.05725,1.00798,0.97525,0.94005,0.95317,0.98674,0.11797
+2102,creative,surfboard,surfboard,box,box,0.90468,0.90724,0.98408,0.99739,0.97378,0.95343,0.03009
+2102,creative,step ladder,step ladder,box,box,1.17628,1.13448,0.90994,1.09113,0.97957,1.05828,0.19073
+2102,creative,prosthetic limb,prosthetic limb,box,box,0.99674,1.08064,0.98614,0.93088,0.98183,0.99525,0.10529
+2102,creative,cast for arm,cast for arm,box,box,0.97702,1.06578,1.11307,0.99276,0.6715,0.96403,0.10681
+2102,creative,punching bag,punching bag,box,box,0.99313,1.05893,1.03955,1.07506,1.09217,1.05177,0.13146
+2104,creative,Desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2104,creative,Hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2104,creative,Shoe,shoe,box,box,0.6607799999999999,0.79194,0.80305,0.66162,0.6954899999999999,0.72258,-0.20614
+2104,creative,Boat a bad one,boat a bad one,box,box,0.95908,1.13895,1.03927,0.92227,1.2286299999999999,1.05764,0.13239
+2104,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2104,creative,Drum,drum,box,box,0.82837,0.89804,0.91015,0.96106,0.7309300000000001,0.86571,-0.05398
+2104,creative,Coffin,coffin,box,box,0.62113,0.78213,0.81096,0.85921,0.7709900000000001,0.76888,-0.20985
+2104,creative,Decor,decor,box,box,0.9396,0.91877,0.89205,1.01866,0.8117099999999999,0.91616,0.01019
+2104,creative,Bookshelf,bookshelf,box,box,0.789,0.72403,0.77717,0.862,0.82406,0.79525,-0.14042
+2104,creative,Kite,kite,box,box,0.8541,0.9091,0.93554,1.05994,0.84967,0.92167,-0.01687
+2104,creative,Spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2104,creative,Boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2104,creative,Bathtub,bathtub,box,box,0.71838,0.94355,0.84332,0.92583,0.92631,0.87148,-0.10651
+2104,creative,Cubby,cubby,box,box,0.8004,0.76521,0.8097799999999999,NA,1.01877,0.84854,-0.09702
+2104,creative,Ball pit,ball pit,box,box,0.98122,1.07272,0.96479,1.03915,1.04452,1.02048,0.10021
+2104,creative,Foot stool,foot stool,box,box,1.07719,1.0412,0.96053,0.93835,1.08075,1.0196,0.14023
+2104,creative,Cat house,cat house,box,box,0.9751,1.03125,1.09637,1.02201,1.14685,1.05432,0.13619
+2104,creative,Computer stand,computer stand,box,box,0.94984,0.96269,0.98177,1.0135,1.20782,1.02312,0.08245
+2104,creative,Sign material,sign material,box,box,0.99911,0.96129,1.02071,0.95832,1.2833999999999999,1.04457,0.12228
+2106,creative,Draw/color it to be a spaceship for a child to play in,drawcolor it to be a spaceship for a child to play in,box,box,0.99826,0.9484,0.97556,0.9688,0.77539,0.93328,0.06416
+2106,creative,watch a cat try to fit into a smaller,watch a cat try to fit into a smaller,box,box,0.86319,0.92035,0.96435,0.9688,0.77181,0.8977,-0.01273
+2106,creative,turn it into a fort,turn it into a fort,box,box,0.85316,0.8777,0.92997,0.96781,0.76608,0.87894,-0.03592
+2106,creative,turn it into a opera house for ants,turn it into a opera house for ants,box,box,0.96327,0.91133,0.98108,0.96903,1.22049,1.00904,0.07895
+2107,creative,A home,a home,box,box,1.0195,1.0392,0.96935,1.01537,1.22997,1.05468,0.12947
+2107,creative,You can make an airplane  for a child,you can make an airplane for a child,box,box,1.10574,1.00025,0.92637,0.96883,1.2300200000000001,1.04624,0.15145
+2107,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2107,creative,Foot rest,foot rest,box,box,1.08349,1.00434,0.93317,0.96649,1.13603,1.0247,0.13489
+2107,creative,place to hold a bunch of junk,place to hold a bunch of junk,box,box,0.8555200000000001,1.10345,0.91787,0.96883,0.78216,0.92557,0.00283
+2107,creative,If you take it apart you can use it as a mat to break dance,if you take it apart you can use it as a mat to break dance,box,box,0.89882,1.06711,0.94404,0.9688,0.7769,0.93113,0.02559
+2107,creative,A hiding place when playing hide and go seek,a hiding place when playing hide and go seek,box,box,0.81749,0.97596,1.0428,0.96888,0.77149,0.91532,-0.00309
+2107,creative,Use it as a table,use it as a table,box,box,0.9877,1.09188,0.99578,0.96911,0.75509,0.95991,0.0883
+2107,creative,Use it as a chair,use it as a chair,box,box,0.81743999999999994,1.01983,0.91948,0.96968,0.75557,0.8964,-0.03287
+2108,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2108,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2108,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2108,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2108,creative,canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2108,creative,clothes,clothes,box,box,0.75148,0.95066,0.89766,0.9902,0.84099,0.8862,-0.07667
+2108,creative,shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2108,creative,puppet showcase,puppet showcase,box,box,1.13957,1.01546,0.89756,0.95858,0.94482,0.9912,0.13835
+2108,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2108,creative,raincoat,raincoat,box,box,0.7829699999999999,0.82165,0.75972,0.77207,0.96478,0.82024,-0.12389
+2108,creative,flotation device,flotation device,box,box,0.94603,1.07084,0.96705,1.0153,0.97792,0.99543,0.076
+2108,creative,drum set,drum set,box,box,0.94338,1.06604,0.94087,1.06081,1.11611,1.02544,0.07991
+2108,creative,book organizer,book organizer,box,box,0.95095,1.01996,1.05747,0.9511000000000001,1.17718,1.03133,0.10974
+2108,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2111,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2111,creative,Shoe,shoe,box,box,0.6607799999999999,0.79194,0.80305,0.66162,0.6954899999999999,0.72258,-0.20614
+2111,creative,car if you attach wheels,car if you attach wheels,box,box,0.97578,0.88056,0.90974,1.01227,0.75836,0.90734,0.02219
+2111,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2111,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2111,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2111,creative,kite,kite,box,box,0.8541,0.9091,0.93554,1.05994,0.84967,0.92167,-0.01687
+2111,creative,blanket,blanket,box,box,0.79912,0.88256,0.9336,0.85563,0.9232,0.87882,-0.0535
+2111,creative,Skirt,skirt,box,box,0.90314,0.99478,0.89784,0.90105,0.92347,0.92406,0.01059
+2111,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2111,creative,hiding spot,hiding spot,box,box,0.98411,1.014,1.06986,1.00127,1.05721,1.02529,0.12142
+2111,creative,canvas for drawing,canvas for drawing,box,box,0.95137,0.9319,0.94314,1.02393,0.72607,0.91528,0.0265
+2111,creative,staple holder,staple holder,box,box,0.9896199999999999,0.90677,1.0139,0.93686,1.0928,0.98799,0.08885
+2111,creative,surf board,surf board,box,box,1.11897,0.91186,0.96493,0.99362,1.10019,1.01791,0.14418
+2111,creative,Dog bed,dog bed,box,box,0.9065300000000001,0.88365,0.99813,1.00085,1.13906,0.98564,0.04504
+2111,creative,Dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2112,creative,to fill with other    one of which contains a present make sure to put things in other   so they don't know which one has the present in it,to fill with other one of which contains a present make sure to put things in other so they dont know which one has the present in it,box,box,0.89158,1.0903,0.93971,0.9688,1.22321,1.02272,0.06223
+2112,creative,Sliding down a rock quarry,sliding down a rock quarry,box,box,0.97805,0.98664,0.91714,0.99649,0.73809,0.92328,0.04171
+2112,creative,Holding for a Halloween costume because you're outside the,holding for a halloween costume because youre outside the,box,box,0.92708,0.8883,1.06057,0.96866,1.22266,1.01345,0.08007
+2112,creative,Hiding in to scare someone not original  but definitely fun,hiding in to scare someone not original but definitely fun,box,box,1.04725,0.9009,1.03532,0.96872,1.22841,1.03612,0.13619
+2113,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2113,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2113,creative,as a ruler to measure with the sides of the,as a ruler to measure with the sides of the,box,box,1.06345,1.03208,0.9883,0.96881,1.24251,1.05903,0.15485
+2113,creative,castle,castle,box,box,0.87119,0.92633,0.84623,0.8823,0.87647,0.8805,-0.03761
+2113,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2113,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2113,creative,as a shield,as a shield,box,box,0.99629,1.02255,0.89999,0.95945,0.7288399999999999,0.92142,0.04968
+2113,creative,planner,planner,box,box,0.95443,0.91953,0.94302,1.02523,0.977,0.96384,0.04698
+2113,creative,draw a map,draw a map,box,box,0.97757,0.98885,1.02201,1.00657,0.74885,0.94877,0.074
+2113,creative,drawing board,drawing board,box,box,1.11414,1.0235,1.07254,0.9077500000000001,1.29973,1.08353,0.20561
+2114,creative,Make 3D art,make d art,box,box,0.91625,0.90713,1.0033,1.10078,0.6979,0.92507,0.02332
+2114,creative,Make a mini city with,make a mini city with,box,box,0.95617,1.08396,1.08681,0.97062,0.76283,0.97208,0.09837
+2114,creative,Use as a trash can,use as a trash can,box,box,0.7942400000000001,0.94739,1.04266,0.97133,0.77462,0.90605,-0.01954
+2114,creative,Use it to decorate the walls of a child's room,use it to decorate the walls of a childs room,box,box,0.87842,1.07123,0.9164,0.9688,0.77751,0.92247,0.00793
+2114,creative,Shred it and use it as compost for a garden,shred it and use it as compost for a garden,box,box,1.01312,0.98431,1.04777,0.9688,0.79112,0.96102,0.1005
+2114,creative,Build a fort,build a fort,box,box,0.97562,0.85513,0.9456,0.92309,0.75179,0.89025,0.02335
+2114,creative,Make a costume,make a costume,box,box,0.88541,0.9379,0.9504,0.93364,0.65436,0.87234,-0.01403
+2114,creative,Use it as a separator for a garden,use it as a separator for a garden,box,box,1.003,1.07599,1.02367,0.96875,0.7763599999999999,0.96955,0.1032
+2115,creative,Covering it in clay and making a design on it,covering it in clay and making a design on it,box,box,1.16336,0.9269499999999999,1.08398,0.9688,1.22639,1.0739,0.21364
+2115,creative,Filling it with mirrors and shining a light in it,filling it with mirrors and shining a light in it,box,box,0.96261,0.99387,0.96023,0.96879,1.24389,1.02588,0.08897
+2115,creative,Putting electrical components in it to hide them the decorating the outside of it,putting electrical components in it to hide them the decorating the outside of it,box,box,1.14687,0.88108,0.92025,0.9688,1.24006,1.03141,0.15035
+2115,creative,Using it as a way to stop a vehicle from rolling away,using it as a way to stop a vehicle from rolling away,box,box,0.96973,1.06315,1.04109,0.9688,1.22653,1.05386,0.12703
+2116,creative,personal movie theater,personal movie theater,box,box,0.93873,0.97158,1.01474,0.99486,0.69497,0.92298,0.04409
+2116,creative,tower,tower,box,box,0.85102,0.8319799999999999,0.80657,1.00037,0.75649,0.84929,-0.08049
+2116,creative,coffin,coffin,box,box,0.62113,0.78213,0.81096,0.85921,0.7709900000000001,0.76888,-0.20985
+2116,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2116,creative,planter,planter,box,box,0.8434,0.82794,0.8693500000000001,1.04375,0.86199,0.88929,-0.05571
+2116,creative,mouse trap,mouse trap,box,box,0.86406,1.00185,0.86873,0.90974,1.08472,0.94582,-0.00253
+2116,creative,rocket ship,rocket ship,box,box,1.07312,1.09255,1.00613,0.94694,1.14784,1.05332,0.16662
+2116,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2117,creative,use in boxing matches you must from inside your,use in boxing matches you must from inside your,box,box,0.85193,0.93214,0.99693,0.97112,0.77433,0.90529,-0.00647
+2117,creative,use the as stairs like clouds in Mario video games,use the as stairs like clouds in mario video games,box,box,1.1225,0.93493,1.09743,0.96312,1.22294,1.06818,0.19775
+2117,creative,use   to decorate the walls,use to decorate the walls,box,box,0.9069,0.92566,0.96492,0.96831,0.77817,0.90879,0.01101
+2117,creative,collectable items,collectable items,box,box,1.04276,1.05187,1.06324,0.98859,0.82307,0.99391,0.13555
+2117,creative,wear the   as a costume,wear the as a costume,box,box,0.86722,0.95732,0.95339,0.96964,0.72583,0.89468,-0.01122
+2117,creative,make alike a book bag so you will only use book instead of book bags,make alike a book bag so you will only use book instead of book bags,box,box,1.0876,0.98472,0.94456,0.95542,0.77632,0.94972,0.10612
+2117,creative,use   as a sort of sketch pad,use as a sort of sketch pad,box,box,0.94812,0.97171,0.97593,0.96908,0.77681,0.92833,0.04313
+2117,creative,use a single as a reminder to always think outside the,use a single as a reminder to always think outside the,box,box,0.98167,0.87051,1.06778,0.9688,0.77414,0.93258,0.06901
+2117,creative,design a that will work as a boat,design a that will work as a boat,box,box,1.10758,1.0802100000000001,1.06187,0.96885,1.24164,1.09203,0.20717
+2120,creative,sheet,sheet,box,box,0.75118,0.8886000000000001,0.77895,0.94097,0.74231,0.8204,-0.1332
+2120,creative,Put old food in,put old food in,box,box,1.09875,1.00929,0.98607,0.96946,1.24688,1.06209,0.16846
+2120,creative,Food,food,box,box,0.85084,0.84975,0.96852,1.02558,0.76715,0.89237,-0.02786
+2120,creative,mattress,mattress,box,box,0.81081,0.7970200000000001,0.86389,0.89184,0.76725,0.82616,-0.09445
+2120,creative,a dress,a dress,box,box,1.08771,0.86146,0.94747,0.98545,1.19718,1.01585,0.12213
+2120,creative,shirt,shirt,box,box,0.76911,0.90647,0.84982,1.00433,0.81938,0.86982,-0.09069
+2120,creative,Shelter,shelter,box,box,0.86495,0.93466,0.91978,1.02954,0.86665,0.92312,-0.01153
+2120,creative,Cover a sunroof,cover a sunroof,box,box,0.7803599999999999,1.01158,0.97045,1.03209,1.06508,0.97191,-0.00916
+2120,creative,Workout equipment,workout equipment,box,box,1.0507,1.00592,0.9144,1.01175,1.18457,1.0334700000000001,0.1193
+2121,creative,cinema,cinema,box,box,0.84316,0.91886,0.86633,0.93926,0.7033,0.85418,-0.05904
+2121,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2121,creative,kitchen,kitchen,box,box,0.78422,0.83709,0.89639,1.02535,0.71787,0.85218,-0.08911
+2121,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2121,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2121,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2121,creative,coffin,coffin,box,box,0.62113,0.78213,0.81096,0.85921,0.7709900000000001,0.76888,-0.20985
+2121,creative,oven,oven,box,box,0.84965,0.8786,0.90772,0.96357,0.78382,0.87667,-0.04278
+2121,creative,camcorder,camcorder,box,box,0.81403,0.77401,0.85765,NA,0.80476,0.81261,-0.09247
+2121,creative,freezer,freezer,box,box,0.69943,0.75469,0.79925,0.95426,0.80724,0.80297,-0.1709
+2121,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2121,creative,mountain,mountain,box,box,0.82413,0.94828,0.9378299999999999,0.97359,0.81206,0.89918,-0.03175
+2121,creative,register,register,box,box,0.86279,0.78561,0.8614999999999999,0.9032,0.81282,0.84518,-0.06648
+2121,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2121,creative,be a robot,be a robot,box,box,0.80812,0.94844,1.10421,0.94963,0.73929,0.90994,0.00172
+2121,creative,bookshelf,bookshelf,box,box,0.789,0.72403,0.77717,0.862,0.82406,0.79525,-0.14042
+2121,creative,ship,ship,box,box,0.84154,0.91359,0.90789,0.97052,0.8307100000000001,0.89285,-0.03641
+2121,creative,playhouse,playhouse,box,box,0.77893,0.85522,0.8581799999999999,0.865,0.86798,0.84506,-0.09485
+2121,creative,saloon,saloon,box,box,0.87093,0.9648,0.9124,0.96887,0.87893,0.91919,-0.00723
+2121,creative,transformer,transformer,box,box,0.88851,0.79289,0.88142,1.04834,0.8927,0.90077,-0.03271
+2121,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2121,creative,rocket,rocket,box,box,0.82893,0.86665,0.90729,1.02851,0.89944,0.90616,-0.04268
+2121,creative,submarine,submarine,box,box,0.91383,0.90594,0.94252,0.96648,0.90456,0.92667,0.01501
+2121,creative,jail,jail,box,box,0.7749,0.91838,0.92578,1.01736,0.90602,0.90849,-0.05548
+2121,creative,magic prop,magic prop,box,box,1.0448,1.0807,1.07224,1.0179,0.95766,1.03466,0.157
+2121,creative,boombox,boombox,box,box,NA,0.83251,0.8025,NA,0.95976,0.86492,-0.10195
+2121,creative,sleigh,sleigh,box,box,0.808,0.86914,0.88977,1.03403,0.96413,0.91301,-0.05228
+2121,creative,igloo,igloo,box,box,0.91567,0.80687,0.87652,0.94241,0.99792,0.90788,-0.01415
+2121,creative,poker table,poker table,box,box,0.99877,1.03305,0.97588,1.05041,1.08154,1.02793,0.10901
+2121,creative,fire truck,fire truck,box,box,0.90816,1.08425,1.00925,1.09931,1.13816,1.04783,0.08903
+2121,creative,space ship,space ship,box,box,1.06811,1.02636,1.05265,0.9541,1.13991,1.04823,0.16576
+2121,creative,race car,race car,box,box,1.08733,1.01081,1.08217,1.02126,1.15349,1.07101,0.18576
+2121,creative,secret lab,secret lab,box,box,1.04519,1.05104,1.01638,1.05092,1.18695,1.0701,0.15643
+2122,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2122,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2122,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2122,creative,door stopper,door stopper,box,box,0.92105,0.90659,0.97918,0.98289,0.85143,0.92823,0.02585
+2122,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2122,creative,dollhouse,dollhouse,box,box,0.70278,0.77156,0.7967,0.91149,1.00884,0.83827,-0.15209
+2122,creative,rain hat,rain hat,box,box,0.97275,1.03816,0.95958,0.96989,1.11474,1.01102,0.09091
+2122,creative,hide out location,hide out location,box,box,0.92529,0.9357800000000001,0.96612,0.96653,0.73461,0.90567,0.01871
+2123,creative,home,home,box,box,0.7118800000000001,0.91085,0.80741,0.96804,0.64393,0.80842,-0.1478
+2123,creative,toy,toy,box,box,0.70409,0.73648,0.85502,0.75149,0.6654100000000001,0.7425,-0.17697
+2123,creative,packages,packages,box,box,0.7475,0.67519,0.78865,0.79962,0.6662699999999999,0.73545,-0.18288
+2123,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2123,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2123,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2123,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2123,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2123,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2123,creative,holder,holder,box,box,0.7453099999999999,0.80767,0.87498,0.97902,0.83094,0.84758,-0.11297
+2123,creative,weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2123,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2123,creative,barrier,barrier,box,box,0.89401,1.00563,0.87201,0.8126,0.87869,0.89259,-0.00768
+2123,creative,flooring,flooring,box,box,0.97378,0.77713,0.9119,0.94388,0.90786,0.90291,0.01291
+2123,creative,cake holder,cake holder,box,box,1.04527,1.02852,1.05195,0.97235,1.04015,1.02765,0.14687
+2123,creative,sun shade,sun shade,box,box,1.0308,1.04329,0.95105,1.0137100000000001,1.07325,1.02242,0.1173
+2123,creative,art board,art board,box,box,1.10971,1.09876,1.07775,0.94484,1.22025,1.09026,0.21322
+2124,creative,a home or place to sleep,a home or place to sleep,box,box,1.00821,0.89726,0.91207,0.96838,1.22833,1.00285,0.07961
+2124,creative,cooler,cooler,box,box,0.88901,0.93026,0.91472,0.97717,0.8791100000000001,0.91805,-0.00306
+2124,creative,recycling bin,recycling bin,box,box,1.03379,1.09042,1.05111,1.03833,1.03351,1.04943,0.15429
+2124,creative,book shelve,book shelve,box,box,0.88381,1.04728,1.07428,1.06613,1.09406,1.03311,0.084
+2125,creative,TOILET,toilet,box,box,0.7213700000000001,0.88446,0.91406,1.05639,0.74569,0.86439,-0.10359
+2125,creative,ROBOT TORSO,robot torso,box,box,1.04691,0.99953,0.99874,0.96723,0.90697,0.98388,0.11556
+2125,creative,PUPPET STAGE,puppet stage,box,box,1.08452,0.90779,1.04769,0.99357,0.91882,0.99048,0.13507
+2125,creative,SHIPPING CRATE FOR A LIZARD,shipping crate for a lizard,box,box,1.05851,1.02936,0.99296,0.99909,1.09407,1.0348,0.14222
+2125,creative,PIGGY BANK,piggy bank,box,box,1.01924,1.01237,0.93842,0.94968,0.99132,0.98221,0.09237
+2125,creative,MEDAL FOR LAST PLACE,medal for last place,box,box,0.8666,0.99169,1.06751,0.96905,1.22964,1.0249,0.07028
+2125,creative,FURNITURE IN RECENTLY MOVED INTO HOUSE,furniture in recently moved into house,box,box,1.02295,1.07826,1.00834,0.97918,1.242,1.06615,0.14881
+2125,creative,PANTS FOR HOBO,pants for hobo,box,box,0.81085,0.98077,1.09097,1.02545,1.29826,1.04126,0.05548
+2126,creative,Toy,toy,box,box,0.70409,0.73648,0.85502,0.75149,0.6654100000000001,0.7425,-0.17697
+2126,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2126,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2126,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2126,creative,Restaurant,restaurant,box,box,0.8157099999999999,0.90045,0.96888,1.08563,0.75884,0.9059,-0.03445
+2126,creative,purse,purse,box,box,0.65227,0.72368,0.8255,0.91781,0.76541,0.77693,-0.19778
+2126,creative,dress,dress,box,box,0.80924,0.99784,0.90762,0.99733,0.7898000000000001,0.90037,-0.04017
+2126,creative,belt,belt,box,box,0.79916,0.85695,0.90271,0.94157,0.80341,0.86076,-0.07301
+2126,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2126,creative,prop,prop,box,box,0.8170999999999999,0.78021,0.87904,0.99127,0.83372,0.86027,-0.07946
+2126,creative,sunroof,sunroof,box,box,0.74256,0.78412,0.80358,0.96217,0.8710100000000001,0.83269,-0.13689
+2126,creative,cushion,cushion,box,box,0.80571,0.84197,0.89285,0.99293,0.88664,0.88402,-0.06578
+2126,creative,bracelet,bracelet,box,box,0.76169,0.90544,0.8849,1.18189,0.91253,0.92929,-0.06805
+2126,creative,footwear,footwear,box,box,0.8829400000000001,0.80159,0.87729,0.96562,0.95255,0.896,-0.03413
+2126,creative,stress reliever,stress reliever,box,box,0.9793499999999999,1.0469,0.98733,1.02566,0.99634,1.00712,0.09664
+2126,creative,arm rest,arm rest,box,box,1.09607,1.03561,0.89249,0.94892,1.05287,1.00519,0.127
+2126,creative,sun blocker,sun blocker,box,box,0.96853,1.0824,0.92153,1.0168,1.07279,1.01241,0.08411
+2126,creative,Stepping stool,stepping stool,box,box,1.00611,1.1289,0.9554,0.93621,1.07505,1.02033,0.11759
+2126,creative,foot support,foot support,box,box,0.95529,0.99978,0.95057,0.88955,1.17429,0.9939,0.07385
+2126,creative,exercise equipment,exercise equipment,box,box,1.00078,1.00598,0.99455,0.9714,1.21103,1.03675,0.11786
+2126,creative,back support,back support,box,box,0.89878,1.04369,0.9817,1.0266,1.22461,1.03508,0.07286
+2126,creative,Vacation home,vacation home,box,box,0.99126,1.02012,0.9771,0.98223,1.24121,1.04238,0.11346
+2128,creative,a place to put stuff on,a place to put stuff on,box,box,0.97554,0.91573,1.085,0.96882,1.2361900000000001,1.03626,0.11773
+2128,creative,broken down can be used to break dance,broken down can be used to break dance,box,box,0.96896,1.07134,1.11516,0.97196,1.22298,1.07008,0.14966
+2128,creative,a castle,a castle,box,box,0.90115,0.89825,0.95086,0.98013,1.10127,0.96633,0.02686
+2128,creative,a big metal  can trap a large dinosaur,a big metal can trap a large dinosaur,box,box,0.87473,0.91066,0.9547,0.9768,1.22144,0.98767,0.02673
+2128,creative,a drawing board,a drawing board,box,box,0.94292,0.99186,0.99103,0.9931,0.74718,0.93322,0.04712
+2130,creative,ball,ball,box,box,0.75052,0.89877,0.76739,0.98265,0.62732,0.80533,-0.1428
+2130,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2130,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2130,creative,coffin,coffin,box,box,0.62113,0.78213,0.81096,0.85921,0.7709900000000001,0.76888,-0.20985
+2130,creative,bowl,bowl,box,box,0.70824,0.87993,0.86571,0.96353,0.79791,0.84306,-0.12526
+2130,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2130,creative,step,step,box,box,0.79219,0.98971,0.91945,1.0429,0.8556,0.91997,-0.03906
+2130,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2131,creative,to build a mini city,to build a mini city,box,box,0.9379,1.1505,1.06177,0.96765,0.76634,0.97683,0.09363
+2131,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2131,creative,step stool,step stool,box,box,1.05614,1.01799,0.88201,0.95999,1.06759,0.99674,0.10238
+2131,creative,Hiding place,hiding place,box,box,1.01379,1.0602800000000001,0.99604,1.04431,1.15805,1.05449,0.13346
+2131,creative,watch movies in complete darkness,watch movies in complete darkness,box,box,0.92691,1.10382,0.8962600000000001,0.97381,0.76208,0.93258,0.03124
+2131,creative,drawing board,drawing board,box,box,1.11414,1.0235,1.07254,0.9077500000000001,1.29973,1.08353,0.20561
+2133,creative,unfold to cover a window to block out the sun,unfold to cover a window to block out the sun,box,box,1.02538,0.94009,1.03937,0.9688,1.22299,1.03933,0.13275
+2133,creative,stack to make a play castle and/or thrown,stack to make a play castle andor thrown,box,box,1.03405,0.9095,1.01561,0.97035,0.77059,0.94002,0.08685
+2133,creative,make a pretend car for a child,make a pretend car for a child,box,box,0.92244,0.9793,1.04962,0.96905,0.76881,0.93784,0.05241
+2133,creative,To make a play house,to make a play house,box,box,0.91805,1.05601,0.92283,0.96873,0.75964,0.92505,0.0257
+2133,creative,use as a goal for a ball game,use as a goal for a ball game,box,box,1.04806,1.0958,1.0717,0.96878,1.22647,1.08216,0.18139
+2134,creative,MAKE A SMALL ROOM FOR BABY TO PLAY,make a small room for baby to play,box,box,1.14682,1.0209,1.02132,0.96883,1.2241900000000001,1.07641,0.20323
+2134,creative,MAKE THE TO KEEP CHICK,make the to keep chick,box,box,0.8605,1.0491,1.01318,0.96927,0.78934,0.93628,0.02438
+2135,creative,COFEE TABLE,cofee table,box,box,0.7476400000000001,1.02696,0.74925,1.03621,0.70747,0.85351,-0.11775
+2136,creative,HIDING SPOT,hiding spot,box,box,0.98411,1.014,1.06986,1.00127,1.05721,1.02529,0.12142
+2136,creative,CAT BED,cat bed,box,box,0.97285,0.97264,0.98199,1.05453,1.1381999999999999,1.02404,0.09202
+2136,creative,DOG BED,dog bed,box,box,0.9065300000000001,0.88365,0.99813,1.00085,1.13906,0.98564,0.04504
+2136,creative,HELMENT  HAT  INSTRUMENT,helment hat instrument,box,box,0.94681,0.993,0.9619,0.9593,1.16842,1.00589,0.07452
+2137,creative,private secret keeper,private secret keeper,box,box,0.83365,0.86892,0.97319,0.95824,0.8428100000000001,0.89536,-0.02867
+2137,creative,breath retainer,breath retainer,box,box,1.04319,0.96302,1.05364,1.00491,0.91894,0.99674,0.12616
+2137,creative,stepper,stepper,box,box,0.89537,1.03614,0.94716,1.00807,1.03704,0.98476,0.04304
+2137,creative,wrist prop for nail shops,wrist prop for nail shops,box,box,1.01767,1.01826,0.9479,0.96125,0.98851,0.98672,0.0957
+2137,creative,eye rest,eye rest,box,box,1.11449,1.09714,0.9855,0.96629,1.11597,1.05588,0.18056
+2139,creative,Hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2139,creative,Storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2139,creative,Container,container,box,box,0.6589700000000001,0.7753,0.71334,0.92802,0.72097,0.75932,-0.22145
+2139,creative,Drum,drum,box,box,0.82837,0.89804,0.91015,0.96106,0.7309300000000001,0.86571,-0.05398
+2139,creative,Seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2139,creative,Canvas,canvas,box,box,0.87734,0.91498,0.90292,0.87734,0.79199,0.87291,-0.0272
+2139,creative,Weight,weight,box,box,0.9198,0.98603,0.86603,1.02326,0.80351,0.91973,0.0039
+2139,creative,Speaker,speaker,box,box,0.91393,0.96382,0.93838,0.92447,0.81182,0.91048,0.01423
+2139,creative,Holder,holder,box,box,0.7453099999999999,0.80767,0.87498,0.97902,0.83094,0.84758,-0.11297
+2139,creative,Picture frame,picture frame,box,box,1.02114,1.01591,0.9646,0.96763,1.17555,1.02897,0.11796
+2139,creative,Exercise equipment,exercise equipment,box,box,1.00078,1.00598,0.99455,0.9714,1.21103,1.03675,0.11786
+2141,creative,A fort,a fort,box,box,0.903,0.95834,0.99264,1.01372,1.06537,0.98661,0.04921
+2141,creative,A seat,a seat,box,box,0.97191,0.94506,1.05457,0.98214,1.18811,1.02836,0.10872
+2141,creative,A house,a house,box,box,0.95209,0.99849,1.02521,1.01134,1.24112,1.04565,0.10532
+2141,creative,A costume,a costume,box,box,1.08919,0.77583,0.99088,0.96433,1.04443,0.97293,0.10671
+2141,creative,A train,a train,box,box,0.91984,0.98249,0.9356,0.97622,1.14773,0.99238,0.05038
+2141,creative,A rocket ship,a rocket ship,box,box,0.81619,0.9678599999999999,0.80665,0.98009,0.73826,0.86181,-0.0767
+2142,creative,Use as food trays,use as food trays,box,box,1.05154,0.97222,1.01712,0.92588,1.2019,1.03373,0.14129
+2142,creative,baby chicken incubator,baby chicken incubator,box,box,0.84926,0.98323,0.90752,0.98275,0.9142,0.92739,-0.01276
+2142,creative,sculptures,sculptures,box,box,0.87449,0.88075,0.90288,1.02006,0.91645,0.91893,-0.01741
+2142,creative,Make a skyscraper,make a skyscraper,box,box,0.96278,0.98108,0.91646,0.95021,0.79552,0.92121,0.03542
+2142,creative,Butterfly catcher,butterfly catcher,box,box,0.95059,0.91083,0.97857,1.09969,1.04018,0.99597,0.06279
+2142,creative,Foot rest,foot rest,box,box,1.08349,1.00434,0.93317,0.96649,1.13603,1.0247,0.13489
+2143,creative,break it down and break dance on it,break it down and break dance on it,box,box,0.82565,1.05408,0.98024,0.96879,1.22077,1.00991,0.03417
+2143,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2143,creative,house for someone/something,house for someonesomething,box,box,0.92335,0.99949,1.04036,0.96136,1.2652700000000001,1.03797,0.09504
+2143,creative,break up and use as plates,break up and use as plates,box,box,0.96181,1.08423,0.98516,0.97578,1.23954,1.0493,0.11174
+2143,creative,fort/ playhouse,fort playhouse,box,box,1.09109,1.05277,0.89974,1.1602000000000001,1.01809,1.04438,0.13678
+2143,creative,hide a body in it,hide a body in it,box,box,0.84672,1.0273,1.08111,0.96917,0.75572,0.936,0.03067
+2143,creative,to give birth in,to give birth in,box,box,1.07277,0.86376,1.1071,0.96753,1.23433,1.0491,0.16407
+2144,creative,Hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2144,creative,Shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2144,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2144,creative,Car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2144,creative,To plant fruits and veggies,to plant fruits and veggies,box,box,0.8121,0.93152,1.01614,0.97155,1.2326,0.99278,0.01741
+2144,creative,Pants,pants,box,box,0.7508,0.95054,0.93114,0.88714,0.80496,0.86492,-0.07515
+2144,creative,To sit in for hang gliding,to sit in for hang gliding,box,box,1.06239,1.03192,0.9615,0.96955,0.81072,0.96722,0.11019
+2144,creative,Chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2144,creative,Water raft,water raft,box,box,1.08215,1.01235,1.01553,0.96031,1.13433,1.04093,0.15934
+2144,creative,book bag,book bag,box,box,0.94767,0.9639,1.06119,0.9949,1.33357,1.06025,0.11454
+2146,creative,glove,glove,box,box,0.54956,0.6176200000000001,0.73394,0.93533,0.66591,0.70047,-0.3028
+2146,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2146,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2146,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2146,creative,vehicle,vehicle,box,box,0.82327,0.9387,0.8998,0.92897,0.80819,0.87979,-0.04748
+2146,creative,instrument,instrument,box,box,0.85449,0.92995,0.94795,0.99664,0.82915,0.91164,-0.01411
+2146,creative,clothes,clothes,box,box,0.75148,0.95066,0.89766,0.9902,0.84099,0.8862,-0.07667
+2146,creative,weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2146,creative,armor,armor,box,box,0.869,0.97938,0.97488,1.03841,0.85928,0.94419,0.01435
+2146,creative,ear cuffs,ear cuffs,box,box,0.97828,1.00253,1.01844,1.03018,0.9045300000000001,0.98679,0.08992
+2146,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2146,creative,art making tool aka brush  pen etc,art making tool aka brush pen etc,box,box,0.98089,1.02852,0.92097,0.9902,1.12307,1.00873,0.08368
+2148,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2148,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2148,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2148,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2148,creative,purse,purse,box,box,0.65227,0.72368,0.8255,0.91781,0.76541,0.77693,-0.19778
+2148,creative,backpack,backpack,box,box,0.79591,0.7421599999999999,0.81591,1.09728,0.82073,0.8544,-0.11143
+2148,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2149,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2149,creative,cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2149,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2149,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2149,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2149,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2149,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2149,creative,protection,protection,box,box,0.899,0.98608,0.97884,0.94798,0.9569,0.95376,0.03577
+2149,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2149,creative,punching bag,punching bag,box,box,0.99313,1.05893,1.03955,1.07506,1.09217,1.05177,0.13146
+2149,creative,TV stand,tv stand,box,box,0.98072,1.0126,0.96586,0.94258,1.15051,1.01045,0.09399
+2149,creative,garbage can,garbage can,box,box,0.958,0.96416,0.8604700000000001,0.88775,1.22835,0.97975,0.04698
+2151,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2151,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2151,creative,speaker,speaker,box,box,0.91393,0.96382,0.93838,0.92447,0.81182,0.91048,0.01423
+2151,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2151,creative,dome,dome,box,box,0.91322,0.97937,0.8705700000000001,1.14355,0.8667199999999999,0.95469,0.01177
+2151,creative,blanket,blanket,box,box,0.79912,0.88256,0.9336,0.85563,0.9232,0.87882,-0.0535
+2151,creative,footrest,footrest,box,box,0.8711800000000001,0.81857,0.86003,NA,1.03697,0.89669,-0.03505
+2151,creative,laundry basket,laundry basket,box,box,0.99758,0.97474,1.01079,0.88431,1.10515,0.99451,0.10246
+2151,creative,swimming pool,swimming pool,box,box,1.05798,1.09833,0.93148,1.01015,1.11838,1.04326,0.13861
+2151,creative,cat bed,cat bed,box,box,0.97285,0.97264,0.98199,1.05453,1.1381999999999999,1.02404,0.09202
+2151,creative,dog bed,dog bed,box,box,0.9065300000000001,0.88365,0.99813,1.00085,1.13906,0.98564,0.04504
+2151,creative,place for leaves,place for leaves,box,box,0.82947,0.86197,0.95513,1.00981,0.69257,0.86979,-0.04747
+2151,creative,food storage,food storage,box,box,1.01963,1.06974,0.98582,0.99532,1.17264,1.04863,0.13397
+2151,creative,bird house,bird house,box,box,0.9074,0.9937,1.03638,1.00838,1.18736,1.02664,0.08048
+2151,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2152,creative,desk,desk,box,box,0.62307,0.71035,0.7488,0.7829200000000001,0.66466,0.70596,-0.25229
+2152,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2152,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2152,creative,bookshelf,bookshelf,box,box,0.789,0.72403,0.77717,0.862,0.82406,0.79525,-0.14042
+2152,creative,dice,dice,box,box,0.8320799999999999,0.94441,0.84863,0.9857,0.90016,0.9022,-0.0466
+2152,creative,cabinet,cabinet,box,box,0.74089,0.77447,0.83872,0.97561,0.90637,0.84721,-0.12551
+2152,creative,ottoman,ottoman,box,box,0.94895,0.8561,0.9557,0.97189,0.9448799999999999,0.9355,0.03153
+2152,creative,dollhouse,dollhouse,box,box,0.70278,0.77156,0.7967,0.91149,1.00884,0.83827,-0.15209
+2152,creative,sound amp,sound amp,box,box,0.94352,0.95365,1.03633,1.0651,1.02628,1.00498,0.08087
+2152,creative,dog cage,dog cage,box,box,0.92727,0.99713,1.01855,0.92183,1.08279,0.98951,0.073
+2152,creative,camera obscura day,camera obscura day,box,box,0.83163,0.94673,1.03066,1.08789,1.29788,1.03896,0.04526
+2153,creative,bucket,bucket,box,box,0.70514,0.93955,0.7482800000000001,0.84748,0.72963,0.79402,-0.16206
+2153,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2153,creative,crib,crib,box,box,0.8328,0.80809,0.87943,1.04355,0.8356,0.87989,-0.06384
+2153,creative,ship/boat,shipboat,box,box,NA,NA,NA,NA,NA,NA,NA
+2153,creative,undo the to use the paper as a mat,undo the to use the paper as a mat,box,box,0.99065,1.06945,0.99785,0.9688,0.81414,0.96818,0.0914
+2153,creative,hideaway like a treehouse but on the ground,hideaway like a treehouse but on the ground,box,box,1.09403,0.8682300000000001,1.07936,0.96866,1.11474,1.025,0.15748
+2153,creative,repurpose the to make posters,repurpose the to make posters,box,box,1.09002,0.93155,1.02765,0.9693,1.23075,1.04985,0.1612
+2154,creative,to make a bird house,to make a bird house,box,box,0.85633,1.04055,0.96431,0.97305,0.76656,0.92016,0.00469
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,To live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,TO live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,To live in,to live in,box,box,0.79444,0.96036,0.87659,0.97041,0.74159,0.86868,-0.06869
+2154,creative,to use as a shelter,to use as a shelter,box,box,1.01001,0.96979,0.94799,0.96861,0.76584,0.93245,0.06497
+2154,creative,to use as a shelter,to use as a shelter,box,box,1.01001,0.96979,0.94799,0.96861,0.76584,0.93245,0.06497
+2154,creative,to use as a shelter,to use as a shelter,box,box,1.01001,0.96979,0.94799,0.96861,0.76584,0.93245,0.06497
+2154,creative,to use as a shelter,to use as a shelter,box,box,1.01001,0.96979,0.94799,0.96861,0.76584,0.93245,0.06497
+2154,creative,to use as a shelter,to use as a shelter,box,box,1.01001,0.96979,0.94799,0.96861,0.76584,0.93245,0.06497
+2154,creative,to make a shelter,to make a shelter,box,box,1.05504,0.98757,0.991,0.9665,1.23496,1.04701,0.14282
+2154,creative,to make a shelter,to make a shelter,box,box,1.05504,0.98757,0.991,0.9665,1.23496,1.04701,0.14282
+2155,creative,a place to tell your secrets,a place to tell your secrets,box,box,1.07595,1.08002,0.95155,0.96802,1.22988,1.06108,0.15773
+2155,creative,make a military compound,make a military compound,box,box,0.97525,1.02497,1.05506,1.01797,1.2471700000000001,1.06408,0.13128
+2155,creative,you can make a fort,you can make a fort,box,box,0.99757,0.8307100000000001,1.01747,0.97476,0.7717700000000001,0.91846,0.05539
+2155,creative,use it as a foot rest,use it as a foot rest,box,box,0.99806,1.13821,0.96354,0.96882,1.23725,1.06118,0.13272
+2155,creative,pretend the is a pet,pretend the is a pet,box,box,1.01829,1.02432,1.02803,0.97083,0.7445999999999999,0.95721,0.10056
+2155,creative,pretend the is a alien like et,pretend the is a alien like et,box,box,0.91145,0.96506,1.08867,0.96925,0.76294,0.93947,0.05531
+2155,creative,or make it into desk,or make it into desk,box,box,0.73471,0.93127,0.85032,0.97028,0.76928,0.85117,-0.10943
+2155,creative,house for animals,house for animals,box,box,0.88901,1.07209,1.03048,0.90656,0.75482,0.93059,0.04204
+2155,creative,cut up the to build something else out of it like a car,cut up the to build something else out of it like a car,box,box,0.9929,1.03968,0.94931,0.9688,0.7728200000000001,0.9447,0.06959
+2155,creative,you can make it in to a rocket ship,you can make it in to a rocket ship,box,box,1.00737,1.05987,0.94033,0.96883,0.75898,0.94708,0.07667
+2155,creative,cut up the to make more,cut up the to make more,box,box,0.96079,0.95562,1.01441,0.96876,1.24191,1.0283,0.09705
+2156,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2156,creative,cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2156,creative,shelves,shelves,box,box,0.75881,0.70967,0.7570600000000001,0.82535,0.7322299999999999,0.75662,-0.17359
+2156,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2156,creative,blocks,blocks,box,box,0.82319,0.92655,0.82603,1.07279,0.7817000000000001,0.88605,-0.06667
+2156,creative,toy house,toy house,box,box,0.94707,1.0157,1.00259,0.95121,1.1791,1.01913,0.09109
+2157,creative,door,door,box,box,0.64211,0.75976,0.73673,0.9056,0.6039,0.72962,-0.23676
+2157,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2157,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2157,creative,closet,closet,box,box,0.64339,0.6854100000000001,0.78191,0.81482,0.7302,0.73115,-0.22966
+2157,creative,toilet,toilet,box,box,0.7213700000000001,0.88446,0.91406,1.05639,0.74569,0.86439,-0.10359
+2157,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2157,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2157,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2157,creative,bowl,bowl,box,box,0.70824,0.87993,0.86571,0.96353,0.79791,0.84306,-0.12526
+2157,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2157,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2157,creative,step,step,box,box,0.79219,0.98971,0.91945,1.0429,0.8556,0.91997,-0.03906
+2157,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2157,creative,cutting broad,cutting broad,box,box,0.98494,0.96825,1.03218,0.99303,1.2164,1.03896,0.11572
+2157,creative,plate toilet step house,plate toilet step house,box,box,0.90771,1.01428,0.95643,1.0772,1.25149,1.04142,0.06947
+2158,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2158,creative,dining room table,dining room table,box,box,0.80125,0.90666,0.9051899999999999,1.04416,0.70821,0.87309,-0.06559
+2158,creative,plate,plate,box,box,0.7761899999999999,0.93488,0.81447,0.96589,0.72255,0.8428,-0.10245
+2158,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2158,creative,prep table for cooking,prep table for cooking,box,box,1.05151,0.9633,0.989,0.9759,1.2331,1.04256,0.13647
+2158,creative,a stool,a stool,box,box,0.99403,0.81827,1.00237,1.00938,1.06595,0.978,0.07334
+2158,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2158,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2158,creative,a weapon,a weapon,box,box,0.97928,0.89547,1.08105,0.91754,1.18984,1.01264,0.10856
+2158,creative,armor,armor,box,box,0.869,0.97938,0.97488,1.03841,0.85928,0.94419,0.01435
+2158,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2158,creative,cereal bowl,cereal bowl,box,box,0.919,1.07728,0.97695,0.99762,0.99056,0.99228,0.06657
+2158,creative,replica of a tv,replica of a tv,box,box,0.9467,1.11327,0.9779,0.9821,1.19042,1.04208,0.10325
+2158,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2159,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2159,creative,place to go to the bathroom in,place to go to the bathroom in,box,box,0.79494,0.92734,0.98577,0.96886,0.7703599999999999,0.88945,-0.03988
+2159,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2159,creative,hammock,hammock,box,box,0.7883,0.87373,0.88789,0.98106,1.00936,0.90807,-0.06072
+2159,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2160,creative,I could make a doll house out of the,i could make a doll house out of the,box,box,0.88612,1.0212,0.94192,0.96824,0.7769699999999999,0.91889,0.01045
+2160,creative,I can make a spaceship or I can go sledding with the I can make room decorations or I can sleep in the if I want,i can make a spaceship or i can go sledding with the i can make room decorations or i can sleep in the if i want,box,box,1.1109,1.06837,0.96179,0.9688,1.22197,1.06637,0.17575
+2160,creative,can make flip flops out the,can make flip flops out the,box,box,0.94071,1.0042,0.99443,0.96171,0.76555,0.93332,0.04922
+2160,creative,I can make a toy car,i can make a toy car,box,box,1.01011,1.0903100000000001,1.0414,0.9714,1.23348,1.06934,0.15304
+2161,creative,deconstructed and layered on top of one another to create a tall sculptural form,deconstructed and layered on top of one another to create a tall sculptural form,box,box,0.94475,1.09896,0.99931,0.9688,0.76368,0.9551,0.06954
+2161,creative,Frame for art,frame for art,box,box,0.95643,0.86742,1.01068,1.04616,0.74238,0.92461,0.03996
+2162,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2162,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2162,creative,container,container,box,box,0.6589700000000001,0.7753,0.71334,0.92802,0.72097,0.75932,-0.22145
+2162,creative,drum,drum,box,box,0.82837,0.89804,0.91015,0.96106,0.7309300000000001,0.86571,-0.05398
+2162,creative,form of money/ trade,form of money trade,box,box,0.98559,0.85681,0.94811,0.96726,1.24091,0.99974,0.07262
+2162,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2162,creative,stamp,stamp,box,box,0.84485,0.82388,0.87369,0.8944300000000001,0.76676,0.84072,-0.06954
+2162,creative,bowl,bowl,box,box,0.70824,0.87993,0.86571,0.96353,0.79791,0.84306,-0.12526
+2162,creative,weight,weight,box,box,0.9198,0.98603,0.86603,1.02326,0.80351,0.91973,0.0039
+2162,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2162,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2162,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2162,creative,hiding space,hiding space,box,box,0.96864,1.00837,1.0843099999999999,0.96913,1.16452,1.03899,0.12432
+2162,creative,paint brush/ painting tool,paint brush painting tool,box,box,1.07015,1.01581,1.09541,0.96547,1.25417,1.0802,0.18762
+2163,creative,container,container,box,box,0.6589700000000001,0.7753,0.71334,0.92802,0.72097,0.75932,-0.22145
+2163,creative,Fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2163,creative,Enclosure,enclosure,box,box,0.84828,0.86405,0.82624,0.82115,0.78701,0.82935,-0.07645
+2163,creative,Insulation,insulation,box,box,0.94208,0.72526,0.9020900000000001,0.91987,0.87623,0.87311,-0.01894
+2163,creative,mat,mat,box,box,0.8286,0.81506,0.92012,0.84116,0.90605,0.8622,-0.05654
+2163,creative,Divider,divider,box,box,0.8212,0.83877,0.78234,0.95742,0.91681,0.86331,-0.09008
+2164,creative,Hide a camera inside,hide a camera inside,box,box,1.06407,0.95541,0.94452,0.88651,1.23095,1.01629,0.12394
+2164,creative,Trap,trap,box,box,0.77147,0.85527,0.89791,0.83705,0.7491099999999999,0.82216,-0.09828
+2164,creative,Rug,rug,box,box,0.84336,0.87404,0.91493,0.81027,0.8964300000000001,0.86781,-0.0425
+2164,creative,Night Stand,night stand,box,box,0.96523,1.04881,1.02988,0.9865,1.21112,1.04831,0.11849
+2165,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2165,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2165,creative,bucket,bucket,box,box,0.70514,0.93955,0.7482800000000001,0.84748,0.72963,0.79402,-0.16206
+2165,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2165,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2165,creative,jewelry,jewelry,box,box,0.72774,0.75607,0.8708400000000001,1.00215,0.74912,0.82118,-0.13793
+2165,creative,crib,crib,box,box,0.8328,0.80809,0.87943,1.04355,0.8356,0.87989,-0.06384
+2165,creative,shoebox,shoebox,box,box,0.6036699999999999,0.5952200000000001,0.68554,0.62955,0.84356,0.67151,-0.29321
+2165,creative,door stopper,door stopper,box,box,0.92105,0.90659,0.97918,0.98289,0.85143,0.92823,0.02585
+2165,creative,weapon,weapon,box,box,0.82218,0.8931,0.94577,0.93948,0.85788,0.89168,-0.03789
+2165,creative,ash tray,ash tray,box,box,1.07507,0.97613,1.06755,0.9043,1.11078,1.02677,0.16
+2165,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2165,creative,trash can,trash can,box,box,0.96359,0.93662,0.90578,0.8688,1.23057,0.98107,0.05754
+2165,creative,build things,build things,box,box,1.11185,0.98336,0.9588,0.99415,1.23499,1.05663,0.16271
+2166,creative,Ball,ball,box,box,0.75052,0.89877,0.76739,0.98265,0.62732,0.80533,-0.1428
+2166,creative,Bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2166,creative,Shelf,shelf,box,box,0.67503,0.6997800000000001,0.80559,0.79901,0.7623,0.74834,-0.20223
+2166,creative,Pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2166,creative,Clothing,clothing,box,box,0.88526,0.90659,0.94609,1.05406,0.82699,0.9238,-6.3e-4
+2166,creative,Ladder,ladder,box,box,0.83125,0.84143,0.90055,0.8959,0.8549599999999999,0.86482,-0.05798
+2166,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2168,creative,as a hat,as a hat,box,box,0.84318,1.05208,0.86141,0.96102,0.71414,0.88637,-0.0351
+2168,creative,cooking utensil,cooking utensil,box,box,1.01677,1.04566,1.0327,0.93302,0.90356,0.98634,0.11646
+2168,creative,coin collector,coin collector,box,box,1.08095,0.98765,1.01938,1.01604,0.9834,1.01748,0.1455
+2168,creative,flower pot,flower pot,box,box,1.08749,0.89937,1.02824,0.92104,1.032,0.99363,0.13543
+2168,creative,as a sporting game,as a sporting game,box,box,1.07593,1.01978,0.98564,0.96588,1.2173,1.05291,0.15597
+2169,creative,used for jumps,used for jumps,box,box,0.83436,0.91839,1.00349,0.98537,0.76095,0.90051,-0.0163
+2169,creative,building a fort,building a fort,box,box,0.95926,0.92178,0.91277,1.01519,0.75196,0.91219,0.02157
+2169,creative,storing away old memories,storing away old memories,box,box,0.88467,0.99192,1.04909,0.90547,1.27338,1.02091,0.07471
+2170,creative,home,home,box,box,0.7118800000000001,0.91085,0.80741,0.96804,0.64393,0.80842,-0.1478
+2170,creative,gift,gift,box,box,0.66974,0.80648,0.75024,0.9756,0.65056,0.77052,-0.20334
+2170,creative,gift,gift,box,box,0.66974,0.80648,0.75024,0.9756,0.65056,0.77052,-0.20334
+2170,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2170,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2170,creative,packaging,packaging,box,box,0.6888000000000001,0.77754,0.69531,0.90263,0.73876,0.76061,-0.21097
+2170,creative,casket,casket,box,box,0.59929,0.73044,0.7208300000000001,0.96861,0.78604,0.76104,-0.24995
+2170,creative,present,present,box,box,0.81703,0.91343,1.00402,0.97016,0.8544700000000001,0.91182,-0.01866
+2170,creative,meditation,meditation,box,box,0.89598,0.98368,0.97411,0.97851,0.95968,0.95839,0.03412
+2170,creative,deceased body,deceased body,box,box,0.96902,0.97992,1.08808,0.98718,1.12209,1.02926,0.11791
+2170,creative,quiet time,quiet time,box,box,1.03021,0.99129,0.90759,1.0763,1.2162,1.04432,0.1101
+2171,creative,stand,stand,box,box,0.7968500000000001,0.98897,0.86826,1.00779,0.80322,0.89302,-0.05792
+2171,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2171,creative,door stopper,door stopper,box,box,0.92105,0.90659,0.97918,0.98289,0.85143,0.92823,0.02585
+2171,creative,piggy,piggy,box,box,0.81018,0.87439,0.87061,0.93923,1.00643,0.90017,-0.05684
+2171,creative,place holder,place holder,box,box,1.0646,0.95216,0.94328,0.93294,1.17357,1.01331,0.12067
+2171,creative,exercise object,exercise object,box,box,0.96186,1.01356,1.03834,0.98208,1.17531,1.03423,0.10984
+2174,creative,A cardboard home for my dolls,a cardboard home for my dolls,box,box,1.10801,1.03665,1.12517,0.96891,1.22665,1.09308,0.21703
+2174,creative,A temporary home to hide a dead animal,a temporary home to hide a dead animal,box,box,1.01854,0.95624,1.053,0.96901,1.22415,1.04419,0.13623
+2174,creative,A sled,a sled,box,box,1.02995,0.93401,0.99163,1.00001,1.06834,1.00479,0.10848
+2174,creative,A dungeon for my puppy,a dungeon for my puppy,box,box,0.89796,0.86504,1.01906,0.95303,0.76368,0.89975,0.00976
+2174,creative,A skirt,a skirt,box,box,1.08281,0.9008,0.96393,0.96772,1.12443,1.00794,0.12444
+2174,creative,A trap for an elf,a trap for an elf,box,box,1.01062,0.95015,0.96177,0.97203,1.1550799999999999,1.00993,0.09873
+2174,creative,Stash all of my candy,stash all of my candy,box,box,0.81918,1.00213,1.03912,0.97917,0.79643,0.92721,0.00388
+2174,creative,A lampshade,a lampshade,box,box,1.0590600000000001,0.89322,0.95999,0.98733,0.8676200000000001,0.95344,0.08929
+2174,creative,A home for a bunny,a home for a bunny,box,box,0.92195,0.8982,0.85234,0.96919,0.81387,0.89111,-0.01619
+2174,creative,Robot armor,robot armor,box,box,1.02814,0.99176,0.98331,0.97392,1.07847,1.01112,0.11489
+2174,creative,A boat for a cat,a boat for a cat,box,box,0.95057,0.98051,0.94464,0.96844,0.76213,0.92126,0.03547
+2174,creative,Get a bunch of   and created a tower,get a bunch of and created a tower,box,box,1.02374,0.90795,1.06226,0.96901,1.21882,1.03636,0.13264
+2174,creative,Safe place,safe place,box,box,0.99069,0.98909,1.05935,1.09084,1.19831,1.06566,0.13341
+2175,creative,cat,cat,box,box,0.75635,0.87293,0.86726,0.82247,0.7263299999999999,0.80907,-0.11442
+2175,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2175,creative,mouse,mouse,box,box,0.81784,0.83204,0.84405,0.82917,0.80863,0.82635,-0.09007
+2175,creative,earphones,earphones,box,box,0.78687,0.84583,0.76738,0.96628,0.89966,0.8532,-0.11162
+2175,creative,face  body,face body,box,box,1.03009,0.92156,0.9275100000000001,1.00378,1.18471,1.01353,0.09751
+2175,creative,living space,living space,box,box,1.00752,0.99123000000000006,1.01284,0.9456,1.2171400000000001,1.03487,0.12332
+2175,creative,head  car  dog  wheels,head car dog wheels,box,box,1.07065,1.08514,1.00474,0.95465,1.23932,1.0709,0.17171
+2176,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2176,creative,tear gas bomb,tear gas bomb,box,box,0.963,0.92739,1.02505,0.9634199999999999,0.7349,0.92275,0.05348
+2176,creative,microphone,microphone,box,box,0.8213,0.8685700000000001,0.82138,1.00711,0.7384999999999999,0.85137,-0.08595
+2176,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2176,creative,earrings,earrings,box,box,0.80806,0.85913,0.8513999999999999,0.9796,0.85914,0.87147,-0.07668
+2176,creative,condom,condom,box,box,0.81256,0.79621,0.90312,0.97721,0.8647199999999999,0.87076,-0.06994
+2176,creative,underwear,underwear,box,box,0.7232700000000001,0.8617900000000001,0.95707,1.02843,0.86776,0.88766,-0.08508
+2176,creative,spaceship,spaceship,box,box,0.81025,0.85886,0.85101,1.01079,0.86825,0.87983,-0.07348
+2176,creative,horse chair,horse chair,box,box,1.0908,1.08821,0.95208,0.89874,1.06579,1.01912,0.14976
+2176,creative,boxing gloves,boxing gloves,box,box,1.11397,1.12052,0.96249,1.08237,1.11805,1.07948,0.18337
+2176,creative,shot glasses,shot glasses,box,box,0.93419,1.06183,1.02782,0.97178,1.17639,1.0344,0.10084
+2177,creative,casket,casket,box,box,0.59929,0.73044,0.7208300000000001,0.96861,0.78604,0.76104,-0.24995
+2177,creative,pool,pool,box,box,0.8228800000000001,0.83725,0.92561,0.99173,0.80863,0.87722,-0.05492
+2177,creative,stage,stage,box,box,0.85043,0.9575,0.89559,0.98887,0.83365,0.90521,-0.02667
+2177,creative,kite,kite,box,box,0.8541,0.9091,0.93554,1.05994,0.84967,0.92167,-0.01687
+2177,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2177,creative,nightstand,nightstand,box,box,0.61677,0.64089,0.7087,0.99857,0.95389,0.78376,-0.24488
+2177,creative,flotation device,flotation device,box,box,0.94603,1.07084,0.96705,1.0153,0.97792,0.99543,0.076
+2177,creative,turtle shell,turtle shell,box,box,0.96411,0.95732,0.98807,1.1306,1.03119,1.01426,0.08132
+2177,creative,soccer ball,soccer ball,box,box,1.04269,1.1131199999999999,1.01587,0.96537,1.03612,1.03463,0.14919
+2177,creative,cat house,cat house,box,box,0.9751,1.03125,1.09637,1.02201,1.14685,1.05432,0.13619
+2178,creative,a hat,a hat,box,box,1.01084,0.82601,0.92862,0.98427,1.16427,0.9828,0.06864
+2178,creative,a place to keep memories,a place to keep memories,box,box,0.89518,0.87443,1.06197,0.96705,0.75613,0.91095,0.02262
+2178,creative,shoes,shoes,box,box,0.69365,0.8400799999999999,0.83757,0.88376999999999994,0.7273000000000001,0.79647,-0.15764
+2178,creative,a sled,a sled,box,box,1.02995,0.93401,0.99163,1.00001,1.06834,1.00479,0.10848
+2179,creative,To contain something,to contain something,box,box,0.89429,0.88648,0.97527,0.90455,0.76308,0.88473,-0.00354
+2179,creative,To use as a fort,to use as a fort,box,box,0.9019,0.89169,0.99302,0.96867,0.77661,0.90638,0.01063
+2179,creative,To use the cardboard or materials for another purpose after destroying the,to use the cardboard or materials for another purpose after destroying the,box,box,1.00026,1.06187,1.02477,0.96879,1.22038,1.05521,0.13695
+2179,creative,To use as a stepping stool,to use as a stepping stool,box,box,1.03112,0.93381,1.09326,0.96796,1.21977,1.04918,0.15004
+2179,creative,For clothing,for clothing,box,box,1.0254,0.85468,1.02243,0.98395,1.23169,1.02363,0.11422
+2180,creative,cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2180,creative,seat,seat,box,box,0.7377199999999999,0.79768,0.89104,0.91044,0.74031,0.81544,-0.12474
+2180,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2180,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2180,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2180,creative,Space ship,space ship,box,box,1.06811,1.02636,1.05265,0.9541,1.13991,1.04823,0.16576
+2181,creative,slide,slide,box,box,0.79957,0.91691,0.8424,0.75344,0.73055,0.80857,-0.09504
+2181,creative,bed,bed,box,box,0.74756,0.89961,0.858,1.01096,0.75585,0.8544,-0.10543
+2181,creative,house,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2181,creative,wagon,wagon,box,box,0.80142,0.92657,0.85918,0.90366,0.79264,0.85669,-0.0751
+2181,creative,helmet,helmet,box,box,0.84904,0.89168,0.8578399999999999,1.05421,0.8169299999999999,0.89394,-0.04831
+2181,creative,pillow,pillow,box,box,0.71089,0.82309,0.81662,1.04034,0.8187800000000001,0.84194,-0.1429
+2181,creative,clothing,clothing,box,box,0.88526,0.90659,0.94609,1.05406,0.82699,0.9238,-6.3e-4
+2181,creative,friend,friend,box,box,0.79377,1.00987,1.01294,1.11651,0.87748,0.96211,-0.00194
+2181,creative,blanket,blanket,box,box,0.79912,0.88256,0.9336,0.85563,0.9232,0.87882,-0.0535
+2181,creative,projectile,projectile,box,box,0.9077,0.83867,0.95252,1.02181,0.95505,0.93515,0.00989
+2181,creative,play armor,play armor,box,box,0.91165,0.9419,1.03245,1.0677,1.01758,0.99426,0.06093
+2181,creative,play fort,play fort,box,box,1.08994,0.9019,1.05701,1.08351,1.06347,1.03917,0.15595
+2181,creative,boxing gloves,boxing gloves,box,box,1.11397,1.12052,0.96249,1.08237,1.11805,1.07948,0.18337
+2182,creative,storage,storage,box,box,0.77012,0.73776,0.89035,1.01653,0.71,0.82495,-0.11656999999999999
+2182,creative,foot rest,foot rest,box,box,1.08349,1.00434,0.93317,0.96649,1.13603,1.0247,0.13489
+2182,creative,place to keep baby animals,place to keep baby animals,box,box,0.89601,0.98203,1.02437,0.90305,0.76246,0.91358,0.02842
+2182,creative,used as protection,used as protection,box,box,1.00585,0.96431,0.94551,0.98644,0.75885,0.93219,0.06144
+2182,creative,used as a house,used as a house,box,box,1.04487,0.9878,1.04611,0.97576,1.24249,1.05941,0.15495
+2183,creative,gift,gift,box,box,0.66974,0.80648,0.75024,0.9756,0.65056,0.77052,-0.20334
+2183,creative,stool,stool,box,box,0.82323,0.87113,0.8385400000000001,0.96709,0.79081,0.85816,-0.077
+2183,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2183,creative,table stand,table stand,box,box,1.00879,1.04836,0.96208,1.00319,1.16051,1.03659,0.11711
+2184,creative,Door,door,box,box,0.64211,0.75976,0.73673,0.9056,0.6039,0.72962,-0.23676
+2184,creative,cage,cage,box,box,0.68242,0.82504,0.7616,0.79402,0.7152700000000001,0.75567,-0.19355
+2184,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2184,creative,Trap,trap,box,box,0.77147,0.85527,0.89791,0.83705,0.7491099999999999,0.82216,-0.09828
+2184,creative,A game,a game,box,box,1.03837,0.97423,1.0213,0.94678,1.22,1.04014,0.13872
+2184,creative,House,house,box,box,0.67362,0.81725,0.7679,0.98658,0.75598,0.80027,-0.18492
+2184,creative,Costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2184,creative,A boat,a boat,box,box,0.98393,0.92932,0.99959,0.97784,1.14298,1.00673,0.09191
+2184,creative,Bathtub,bathtub,box,box,0.71838,0.94355,0.84332,0.92583,0.92631,0.87148,-0.10651
+2184,creative,A derby car,a derby car,box,box,0.8305,1.00084,0.9636,0.9423,0.72497,0.89244,-0.02053
+2185,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2185,creative,smack someone in the head,smack someone in the head,box,box,0.82809,0.8983,0.88753,0.96708,0.98833,0.91387,-0.0388
+2185,creative,ladder climber,ladder climber,box,box,1.04187,1.01718,0.94665,0.98073,0.94115,0.98552,0.10435
+2185,creative,trunk opener,trunk opener,box,box,1.04666,0.96492,1.02718,1.03217,0.94958,1.0041,0.12436
+2185,creative,paddle downstream,paddle downstream,box,box,0.92022,1.04081,1.00331,0.9656,0.95422,0.97683,0.06393
+2185,creative,bar stool,bar stool,box,box,0.96024,1.03071,1.06342,1.05526,1.09215,1.04036,0.1159
+2185,creative,car companion,car companion,box,box,0.91749,0.92379,1.01414,1.03159,1.11182,0.99977,0.06152
+2185,creative,waste disposal,waste disposal,box,box,1.00777,1.05502,1.0549,1.01053,1.17694,1.06103,0.14672
+2185,creative,package food,package food,box,box,0.99845,1.09783,0.94667,1.01671,1.23078,1.05809,0.12261
+2186,creative,A ball,a ball,box,box,1.08966,0.96267,1.03776,1.03337,1.15434,1.05556,0.16609
+2186,creative,A seat,a seat,box,box,0.97191,0.94506,1.05457,0.98214,1.18811,1.02836,0.10872
+2186,creative,Car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2186,creative,Wings,wings,box,box,0.85165,0.94112,0.93805,1.04257,0.77852,0.91038,-0.01855
+2186,creative,A sign,a sign,box,box,0.91244,0.95866,0.91181,0.94504,1.22399,0.99039,0.04038
+2186,creative,A raft,a raft,box,box,0.96268,0.92917,0.97683,0.99938,1.19555,1.01272,0.0799
+2186,creative,Sculpture,sculpture,box,box,0.88159,0.91366,0.90461,1.04161,0.89535,0.92736,-0.00826
+2186,creative,Rug,rug,box,box,0.84336,0.87404,0.91493,0.81027,0.8964300000000001,0.86781,-0.0425
+2186,creative,Robot suit,robot suit,box,box,0.97959,1.11709,1.01546,0.97382,0.99776,1.01674,0.11501
+2186,creative,Shade panel,shade panel,box,box,1.02294,1.0509,1.02719,0.98103,1.08933,1.03428,0.13678
+2186,creative,Space helmet,space helmet,box,box,1.07119,1.01323,1.0236,0.95878,1.11583,1.03653,0.15469
+2186,creative,A huge die,a huge die,box,box,0.89722,0.96729,0.98987,0.97186,0.75391,0.91603,0.01888
+2186,creative,Painting board,painting board,box,box,1.02005,1.06587,1.14229,0.9888,1.22702,1.08881,0.18365
+2187,creative,table,table,box,box,0.7476400000000001,0.88459,0.74925,1.03621,0.70747,0.82503,-0.14279
+2187,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2187,creative,target,target,box,box,0.85209,0.96285,0.92642,0.96299,0.80213,0.9013,-0.01973
+2187,creative,costume,costume,box,box,0.80366,0.90318,0.88693,0.96955,0.8091,0.87448,-0.06542
+2187,creative,sled,sled,box,box,0.9005,0.87295,0.94127,1.07967,0.86408,0.93169,0.00409
+2187,creative,doll house,doll house,box,box,0.97269,1.02136,1.10839,1.1159,1.15527,1.07472,0.14194
+2187,creative,pet carrier,pet carrier,box,box,0.93274,0.98914,1.027,1.00083,1.26177,1.0423,0.09564
+2188,creative,fort,fort,box,box,0.91954,0.95528,0.93495,0.995,0.72951,0.90686,0.01101
+2188,creative,chair,chair,box,box,0.75413,0.84501,0.93172,1.0471,0.8210500000000001,0.8798,-0.08288
+2188,creative,shelving,shelving,box,box,0.94473,0.83118,0.81777,0.9264600000000001,0.94831,0.89369,-0.01733
+2188,creative,abstract sculpture,abstract sculpture,box,box,1.10398,1.03708,0.92037,1.07656,1.01524,1.03065,0.14237
+2188,creative,doll house,doll house,box,box,0.97269,1.02136,1.10839,1.1159,1.15527,1.07472,0.14194
+2188,creative,dog house,dog house,box,box,0.98545,1.08656,1.04808,0.89803,1.19526,1.04268,0.13515
+2188,creative,play house,play house,box,box,0.91902,1.01195,1.05076,0.8534200000000001,1.24823,1.01668,0.09151
+2189,creative,a plate,a plate,box,box,1.01237,1.03526,0.90812,0.99578,1.14593,1.01949,0.09921
+2189,creative,a wagon,a wagon,box,box,0.93994,0.91214,0.95954,1.0208,1.05365,0.97721,0.04942
+2189,creative,a helmet,a helmet,box,box,0.95953,0.85583,1.03051,0.93157,1.18643,0.99277,0.07715
+2189,creative,a backpack,a backpack,box,box,0.97073,0.90081,0.99634,0.99434,1.15366,1.00318,0.08095
+2189,creative,a posh light fixture,a posh light fixture,box,box,1.03539,1.02465,1.05756,0.98753,1.10654,1.04233,0.14913
+2189,creative,a pinhole camera,a pinhole camera,box,box,0.86188,0.99449,0.95095,0.84232,1.2752,0.98497,0.03198
+2189,creative,a pillow  in dire straits,a pillow in dire straits,box,box,0.88446,1.00645,0.9009,0.97195,1.08442,0.96964,0.02098
+2189,creative,a bird feeder,a bird feeder,box,box,0.90629,0.90267,1.00825,0.91673,1.07646,0.96208,0.04197
+2189,creative,a rowboat,a rowboat,box,box,1.0266,0.91501999999999994,1.06968,0.97101,0.904,0.97726,0.11115
+2189,creative,a house for rabbits,a house for rabbits,box,box,1.08158,0.94969,1.06124,0.95502,1.21648,1.0528,0.16809
+2189,creative,draw eyes and a mouth on  your new best friend,draw eyes and a mouth on your new best friend,box,box,0.97013,0.91813,1.00866,0.9688,1.22388,1.01792,0.09198
+2189,creative,a new mask,a new mask,box,box,0.8577,1.03392,0.89477,0.99543,0.73426,0.90322,-0.01782
+2190,creative,hat,hat,box,box,0.7218,0.85716,0.77508,0.89029,0.69479,0.78782,-0.16114
+2190,creative,car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2190,creative,bricks,bricks,box,box,0.85673,0.84836,0.89956,1.02132,0.79187,0.88357,-0.04347
+2190,creative,bowl,bowl,box,box,0.70824,0.87993,0.86571,0.96353,0.79791,0.84306,-0.12526
+2190,creative,pants,pants,box,box,0.7508,0.95054,0.93114,0.88714,0.80496,0.86492,-0.07515
+2190,creative,ramp,ramp,box,box,0.96185,0.91221,0.89999,0.92365,0.89604,0.91875,0.02518
+2190,creative,boat,boat,box,box,0.76791,0.87382,0.89148,0.91765,0.89859,0.86989,-0.0823
+2190,creative,umbrella,umbrella,box,box,0.79271,0.84168,0.86173,0.8421,0.95703,0.85905,-0.08282
+2190,creative,shield,shield,box,box,0.85979,0.97223,0.89285,1.01298,0.95872,0.93931,-0.00849
+2191,creative,a house for ants,a house for ants,box,box,1.17741,0.97764,1.07546,0.96684,1.22588,1.08465,0.22704
+2191,creative,a stepping stool,a stepping stool,box,box,0.96896,0.95026,1.00037,0.96068,0.7635000000000001,0.92875,0.05555
+2191,creative,build your own stereo,build your own stereo,box,box,0.90138,1.03597,1.03506,0.94195,1.19331,1.02153,0.08181
+2191,creative,a pet burial,a pet burial,box,box,0.94619,0.9961,0.99254,1.08032,0.77315,0.95766,0.05631
+2192,creative,Car,car,box,box,0.76151,0.92254,0.85387,1.01515,0.75955,0.86252,-0.09503
+2192,creative,Makeshift table leg,makeshift table leg,box,box,0.76496,0.91234,0.95033,0.99011,0.79001,0.88155,-0.06542
+2192,creative,Snowman,snowman,box,box,0.76044,0.84569,0.83378,1.11854,0.91323,0.89434,-0.09715
+2192,creative,3D Sculpture,d sculpture,box,box,1.03064,0.90013,1.00227,1.06956,1.00427,1.00137,0.10393
+2192,creative,Window blinds,window blinds,box,box,1.05948,1.01987,0.98889,1.06723,1.11903,1.0509,0.14519

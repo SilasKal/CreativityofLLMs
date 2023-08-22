@@ -1,0 +1,144 @@
+#response_filtered#solution#eval#RATItems#prompt#response_raw
+0#  Bridge#cheese#False#cottage/swiss/cake#  Bridge#  Bridge
+1#  Answer: Stream#ice#False#cream/skate/water#  Answer: Stream#  Answer: Stream
+2#  This word is not a type of food or animal.#sore#False#loser/throat/spot#  This word is not a type of food or animal.#  This word is not a type of food or animal.
+3#  Answer: row#boat#False#show/life/row#  Answer: row#  Answer: row
+4#  Answer: Wrist#watch#False#night/wrist/stop#  Answer: Wrist#  Answer: Wrist
+5#  Let me know if you need more time or clarification on the question.#bill#False#duck/fold/dollar#  Let me know if you need more time or clarification on the question.#  Let me know if you need more time or clarification on the question.
+6#  Answer: Rolling#chair#False#rocking/wheel/high#  Answer: Rolling#  Answer: Rolling
+7#  The connecting word is: Hive#honey#False#dew/comb/bee#  The connecting word is: Hive#  The connecting word is: Hive
+8#  The connecting word is: Cup#soda#False#fountain/baking/pop#  The connecting word is: Cup#  The connecting word is: Cup
+9#  Ranger#forest#False#preserve/ranger/tropical#  Ranger#  Ranger
+10#  I will give you a hint, it is a type of vehicle.#band#False#aid/rubber/wagon#  I will give you a hint, it is a type of vehicle.#  I will give you a hint, it is a type of vehicle.
+11#  Snow#snow#True#flake/mobile/cone#  Snow#  Snow
+12#  Answer: Baker#fire#False#cracker/fly/fighter#  Answer: Baker#  Answer: Baker
+13#  Hint: This connecting word has only three letters.#pin#False#safety/cushion/point#  Hint: This connecting word has only three letters.#  Hint: This connecting word has only three letters.
+14#  Psychic#sugar#False#cane/daddy/plum#  Psychic#  Psychic
+15#  Answer: Break#day#False#dream/break/light#  Answer: Break#  Answer: Break
+16#  Answer: Strike#gold#False#fish/mine/rush#  Answer: Strike#  Answer: Strike
+17#  Answer: Party#party#True#political/surprise/line#  Answer: Party#  Answer: Party
+18#  Answer: Worm#tape#False#measure/worm/video#  Answer: Worm#  Answer: Worm
+19#  Answer: District#school/court#False#high/district/house#  Answer: District#  Answer: District
+20#  Connecting word: Manners#common#False#sense/courtesy/place#  Connecting word: Manners#  Connecting word: Manners
+21#  If you need more context, please let me know!#book#False#worm/shelf/end#  If you need more context, please let me know!#  If you need more context, please let me know!
+22#"  Here is a hint: it starts with an ""F""."#game#False#piece/mind/dating#"  Here is a hint: it starts with an ""F""."#"  Here is a hint: it starts with an ""F""."
+23#  Answer: Fl#girl#False#flower/friend/scout#  Answer: Fl#  Answer: Fl
+24#  Answer: Note#bank#False#river/note/account#  Answer: Note#  Answer: Note
+25#  Answer: Bare#blue#False#print/berry/bird#  Answer: Bare#  Answer: Bare
+26#  Answer: Lucky#pot#False#pie/luck/belly#  Answer: Lucky#  Answer: Lucky
+27#  Answer: Dale#blind#False#date/alley/fold#  Answer: Dale#  Answer: Dale
+28#  (1 word)#soap#False#opera/hand/dish#  (1 word)#  (1 word)
+29#  Answer: Captain#space#False#cadet/capsule/ship#  Answer: Captain#  Answer: Captain
+30#  Answer: Hair#coat#False#fur/rack/tail#  Answer: Hair#  Answer: Hair
+31#  Answer: Link#match#False#stick/maker/point#  Answer: Link#  Answer: Link
+32#  Answer: Hunt#blood#False#hound/pressure/shot#  Answer: Hunt#  Answer: Hunt
+33#  Please post in a comment below.#hole#False#fox/man/peep#  Please post in a comment below.#  Please post in a comment below.
+34#  Sand#bag#False#sleeping/bean/trash#  Sand#  Sand
+35#  I will give you a hint, it is a common English word. Answer: Grain#bowl#False#dust/cereal/fish#  I will give you a hint, it is a common English word. Answer: Grain#  I will give you a hint, it is a common English word. Answer: Grain
+36#  Answer: Cake#candle#False#light/birthday/stick#  Answer: Cake#  Answer: Cake
+37#  Answer: Fridge#fast#False#food/forward/break#  Answer: Fridge#  Answer: Fridge
+38#  LASER#moon#False#shine/beam/struck#  LASER#  LASER
+39#  Lemon#pit#False#peach/arm/tar#  Lemon#  Lemon
+40#    Hint: It's a three-letter word!#salt#False#water/mine/shaker#    Hint: It's a three-letter word!#    Hint: It's a three-letter word!
+41#  Thanks!#tree#False#palm/shoe/house#  Thanks!#  Thanks!
+42#  (1 point)#ball#False#basket/eight/snow#  (1 point)#  (1 point)
+43#  Answer: HAND#cart#False#wheel/hand/shopping#  Answer: HAND#  Answer: HAND
+44#  (1 point) 1._____#copy#False#right/cat/carbon#  (1 point) 1._____#  (1 point) 1._____
+45#  Answer: FEUD#family#False#nuclear/feud/album#  Answer: FEUD#  Answer: FEUD
+46#"  Answer: ""club"""#club#True#sandwich/house/golf#"  Answer: ""club"""#"  Answer: ""club"""
+47#  Please don't give examples.#bow#False#cross/rain/tie#  Please don't give examples.#  Please don't give examples.
+48#  I will give you another set of words in a future question if you'd like to continue playing.#brush#False#sage/paint/hair#  I will give you another set of words in a future question if you'd like to continue playing.#  I will give you another set of words in a future question if you'd like to continue playing.
+49#  Answer: Shoe#horn#False#french/car/shoe#  Answer: Shoe#  Answer: Shoe
+50#  answer: Boot#camp#False#boot/summer/ground#  answer: Boot#  answer: Boot
+51#  I will give you a hint: It is a noun.#gas#False#chamber/mask/natural#  I will give you a hint: It is a noun.#  I will give you a hint: It is a noun.
+52#  A) Floss#saw#False#mill/tooth/dust#  A) Floss#  A) Floss
+53#   Answer: Stream#street#False#main/sweeper/light#   Answer: Stream#   Answer: Stream
+54#  HINT: The word is a common English language term that can be used as a verb or noun.#turn#False#pike/coat/signal#  HINT: The word is a common English language term that can be used as a verb or noun.#  HINT: The word is a common English language term that can be used as a verb or noun.
+55#  If you want to play, please let me know in a separate message.#box#False#office/mail/hat#  If you want to play, please let me know in a separate message.#  If you want to play, please let me know in a separate message.
+56#  Answer: Clip#paper#False#fly/clip/wall#  Answer: Clip#  Answer: Clip
+57#  Answer: Mile#stone#False#age/mile/sand#  Answer: Mile#  Answer: Mile
+58#  Sandwich#dog#False#catcher/food/hot#  Sandwich#  Sandwich
+59#  Hint: The word is a common three-letter preposition.#station#False#wagon/break/radio#  Hint: The word is a common three-letter preposition.#  Hint: The word is a common three-letter preposition.
+60#  Answer: Tunnel#top#False#tank/hill/secret#  Answer: Tunnel#  Answer: Tunnel
+61#  Please keep in mind that there can be more than one possible connection between these three words.#care#False#health/taker/less#  Please keep in mind that there can be more than one possible connection between these three words.#  Please keep in mind that there can be more than one possible connection between these three words.
+62#  Answer: Lift#face#False#lift/card/mask#  Answer: Lift#  Answer: Lift
+63#  Answer: Root#sun#False#dress/dial/flower#  Answer: Root#  Answer: Root
+64#  Word: Lines#air#False#force/line/mail#  Word: Lines#  Word: Lines
+65#  Answer: Guy#fall#False#guy/rain/down#  Answer: Guy#  Answer: Guy
+66#  Answer: Skate#figure#False#eight/skate/stick#  Answer: Skate#  Answer: Skate
+67#  Answer: link#mark#False#down/question/check#  Answer: link#  Answer: link
+68#  Answer: Back#pack#False#animal/back/rat#  Answer: Back#  Answer: Back
+69#  Let me know when you are ready with your answer.#petty#False#officer/cash/larceny#  Let me know when you are ready with your answer.#  Let me know when you are ready with your answer.
+70#  It is a common word used to link three unrelated words together. Answer: AND#apple#False#pine/crab/sauce#  It is a common word used to link three unrelated words together. Answer: AND#  It is a common word used to link three unrelated words together. Answer: AND
+71#  Answer: Umbrella#green#False#house/thumb/pepper#  Answer: Umbrella#  Answer: Umbrella
+72#  Word: Alert#red#False#carpet/alert/ink#  Word: Alert#  Word: Alert
+73#  Answer: Throw#ring#False#master/toss/finger#  Answer: Throw#  Answer: Throw
+74#  Answer: Tool#head#False#hammer/gear/hunter#  Answer: Tool#  Answer: Tool
+75#  Answer: Flame#pen#False#knife/light/pal#  Answer: Flame#  Answer: Flame
+76#  Answer:ound.#play#False#foul/ground/mate#  Answer:ound.#  Answer:ound.
+77#  Answer: Switch#short#False#change/circuit/cake#  Answer: Switch#  Answer: Switch
+78#"  For example, the connecting word between ""car"" and ""tree"" is ""green""."#walk#False#way/board/sleep#"  For example, the connecting word between ""car"" and ""tree"" is ""green""."#"  For example, the connecting word between ""car"" and ""tree"" is ""green""."
+79#  If you need more words, I can provide them.#check#False#blank/list/mate#  If you need more words, I can provide them.#  If you need more words, I can provide them.
+80#  Answer: Wave#gate#False#tail/water/flood#  Answer: Wave#  Answer: Wave
+81#  Answer: Marshall#grand#False#marshal/child/piano#  Answer: Marshall#  Answer: Marshall
+82#  Thanks!#under#False#cover/arm/wear#  Thanks!#  Thanks!
+83#  Word: Tummy#acid#False#rain/test/stomach#  Word: Tummy#  Word: Tummy
+84#  Bill#full#False#time/blown/nelson#  Bill#  Bill
+85#  This is a single-word answer.#stock#False#pile/market/room#  This is a single-word answer.#  This is a single-word answer.
+86#  Answer: Mouse#trap#False#mouse/bear/sand#  Answer: Mouse#  Answer: Mouse
+87#  Phone#call#False#cat/number/phone#  Phone#  Phone
+88#  Answer: Puff#powder#False#keg/puff/room#  Answer: Puff#  Answer: Puff
+89#  Answer: Home#field#False#trip/house/goal#  Answer: Home#  Answer: Home
+90#  Please give only one word.#pitch#False#fork/dark/man#  Please give only one word.#  Please give only one word.
+91#  If you want to know why a particular answer is correct, just ask!#post#False#fence/card/master#  If you want to know why a particular answer is correct, just ask!#  If you want to know why a particular answer is correct, just ask!
+92#  Hint: It's a type of person.#road#False#test/runner/map#  Hint: It's a type of person.#  Hint: It's a type of person.
+93#  Thank you!#sky#False#dive/light/rocket#  Thank you!#  Thank you!
+94#  Answer: Stick#super#False#man/glue/star#  Answer: Stick#  Answer: Stick
+95#  Connecting word: Root#sweet#False#tooth/potato/heart#  Connecting word: Root#  Connecting word: Root
+96#  The word is: virus#terminal#False#illness/bus/computer#  The word is: virus#  The word is: virus
+97#  Answer: Phantom#writer#False#type/ghost/screen#  Answer: Phantom#  Answer: Phantom
+98#  mail/board/lung#black#False#mail/board/lung#  mail/board/lung#  mail/board/lung
+99#  Answer: Halt#false#False#teeth/arrest/start#  Answer: Halt#  Answer: Halt
+100#  I will give you a hint, it is a common three letter word.#steam#False#iron/shovel/engine#  I will give you a hint, it is a common three letter word.#  I will give you a hint, it is a common three letter word.
+101#  License#suit#False#wet/law/business#  License#  License
+102#  Please include only one word to avoid confusion.#tow#False#rope/truck/line#  Please include only one word to avoid confusion.#  Please include only one word to avoid confusion.
+103#  Answer: First.#base#False#off/military/first#  Answer: First.#  Answer: First.
+104#  Here is a hint, you may need to think outside the box!#table#False#spoon/cloth/card#  Here is a hint, you may need to think outside the box!#  Here is a hint, you may need to think outside the box!
+105#  Answer: Dream#cold#False#cut/cream/war#  Answer: Dream#  Answer: Dream
+106#  Answer: Link#key#False#note/chain/master#  Answer: Link#  Answer: Link
+107#  Word: Shave#after#False#shock/shave/taste#  Word: Shave#  Word: Shave
+108# #clock#False#wise/work/tower# # 
+109#"  Here is a hint: it starts with the letter ""M""."#crab#False#grass/king/meat#"  Here is a hint: it starts with the letter ""M""."#"  Here is a hint: it starts with the letter ""M""."
+110#  Answer: Spring#shower#False#baby/spring/cap#  Answer: Spring#  Answer: Spring
+111#  Here is a hint: it is a type of food.#coffee#False#break/bean/cake#  Here is a hint: it is a type of food.#  Here is a hint: it is a type of food.
+112#  Answer: Vessel#battle#False#cry/front/ship#  Answer: Vessel#  Answer: Vessel
+113#  Answer: Hide#foot#False#hold/print/stool#  Answer: Hide#  Answer: Hide
+114#  Answer: Eat#jelly#False#roll/bean/fish#  Answer: Eat#  Answer: Eat
+115#  Answer: Rider#race#False#horse/human/drag#  Answer: Rider#  Answer: Rider
+116#  Answer: Fish#salad#False#oil/bar/tuna#  Answer: Fish#  Answer: Fish
+117#  Word: Bounce#bell#False#bottom/curve/hop#  Word: Bounce#  Word: Bounce
+118#  Hint: It's a type of fruit.#cherry#False#tomato/bomb/picker#  Hint: It's a type of fruit.#  Hint: It's a type of fruit.
+119#  Answer: Lid#nut#False#pea/shell/chest#  Answer: Lid#  Answer: Lid
+120#  Answer: Link#punch#False#line/fruit/drunk#  Answer: Link#  Answer: Link
+121#    Hint: There is only one correct answer.#goose#False#bump/egg/step#    Hint: There is only one correct answer.#    Hint: There is only one correct answer.
+122#  (4 letters)#gun#False#fight/control/machine#  (4 letters)#  (4 letters)
+123# #rest#False#home/arm/room# # 
+124#  Answer: Scan#brain#False#child/scan/wash#  Answer: Scan#  Answer: Scan
+125#  Answer: Rhyme#brown#False#nose/stone/bear#  Answer: Rhyme#  Answer: Rhyme
+126#  Here is a hint: it starts with an L.#dead#False#end/line/lock#  Here is a hint: it starts with an L.#  Here is a hint: it starts with an L.
+127#  Use: one#birth#False#control/place/rate#  Use: one#  Use: one
+128#  Answer: Fold#cocktail#False#lounge/hour/napkin#  Answer: Fold#  Answer: Fold
+129#  Answer: Hatch#escape#False#artist/hatch/route#  Answer: Hatch#  Answer: Hatch
+130#  Answer: Bottom.#rock#False#pet/bottom/garden#  Answer: Bottom.#  Answer: Bottom.
+131#"  Answer: ""eight"""#running#False#mate/shoes/total#"  Answer: ""eight"""#"  Answer: ""eight"""
+132#  The word is: Lawyer#defense#False#self/attorney/spending#  The word is: Lawyer#  The word is: Lawyer
+133#  Rack#switch#False#board/blade/back#  Rack#  Rack
+134#  Answer: Hand#farm#False#land/hand/house#  Answer: Hand#  Answer: Hand
+135#  Answer: Belt#money#False#hungry/order/belt#  Answer: Belt#  Answer: Belt
+136#  I would like to keep the question open for a little while before giving the answer.#straight#False#forward/flush/razor#  I would like to keep the question open for a little while before giving the answer.#  I would like to keep the question open for a little while before giving the answer.
+137#  Article.#eye#False#shadow/chart/drop#  Article.#  Article.
+138# #fair#False#way/ground/weather# # 
+139#  Hint: The connecting word is a type of structure.#broad#False#cast/side/jump#  Hint: The connecting word is a type of structure.#  Hint: The connecting word is a type of structure.
+140#  Answer: Step#door#False#back/step/screen#  Answer: Step#  Answer: Step
+141#  Answer: Link#lip#False#reading/service/stick#  Answer: Link#  Answer: Link
+142#  Answer: Plant#power#False#over/plant/horse#  Answer: Plant#  Answer: Plant

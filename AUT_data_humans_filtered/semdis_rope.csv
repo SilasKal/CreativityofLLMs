@@ -1,0 +1,1316 @@
+id,condition,response,response_clean,item,item_clean,SemDis_glove_c_m
+2001,creative,bracelet,bracelet,rope,rope,0.78295
+2001,creative,woven dog bed,woven dog bed,rope,rope,0.90176
+2001,creative,keychain,keychain,rope,rope,0.97748
+2001,creative,hanging board to clip papers to,hanging board to clip papers to,rope,rope,1.11284
+2001,creative,teambuilding toy for a game,teambuilding toy for a game,rope,rope,1.11549
+2001,creative,game of telephone,game of telephone,rope,rope,0.89295
+2002,creative,ladder,ladder,rope,rope,0.47565999999999997
+2002,creative,pulley,pulley,rope,rope,0.5626599999999999
+2002,creative,leash,leash,rope,rope,0.6070800000000001
+2002,creative,harness,harness,rope,rope,0.6071599999999999
+2002,creative,wheel,wheel,rope,rope,0.7083900000000001
+2002,creative,shoes,shoes,rope,rope,0.71302
+2002,creative,mat,mat,rope,rope,0.71834
+2002,creative,necklace,necklace,rope,rope,0.74881
+2002,creative,weight,weight,rope,rope,0.75099
+2002,creative,clothing,clothing,rope,rope,0.76149
+2002,creative,calculator,calculator,rope,rope,0.91772
+2002,creative,bulldozer,bulldozer,rope,rope,0.92033
+2002,creative,soccer ball,soccer ball,rope,rope,0.94522
+2002,creative,cheese cutter,cheese cutter,rope,rope,1.01904
+2002,creative,musical instrument,musical instrument,rope,rope,1.01989
+2002,creative,capillary tube,capillary tube,rope,rope,1.07134
+2002,creative,signaling device,signaling device,rope,rope,1.0972
+2003,creative,strap down,strap down,rope,rope,0.9655
+2003,creative,wire,wire,rope,rope,0.5656300000000001
+2003,creative,hose,hose,rope,rope,0.6251800000000001
+2003,creative,jump,jump,rope,rope,0.64956
+2003,creative,climb,climb,rope,rope,0.64988
+2003,creative,belt,belt,rope,rope,0.68721
+2003,creative,fishing,fishing,rope,rope,0.76353
+2003,creative,lasso,lasso,rope,rope,0.79369
+2003,creative,weapon,weapon,rope,rope,0.8230500000000001
+2003,creative,whip,whip,rope,rope,0.8432
+2003,creative,dog leash,dog leash,rope,rope,0.93323
+2003,creative,pet,pet,rope,rope,0.94613
+2003,creative,tie things,tie things,rope,rope,1.01919
+2003,creative,helicopter blade,helicopter blade,rope,rope,1.02535
+2004,creative,if you have small    make bracelets out of them,if you have small make bracelets out of them,rope,rope,0.88856
+2004,creative,tie together a bouquet of flowers,tie together a bouquet of flowers,rope,rope,0.8910899999999999
+2004,creative,use it as a belt,use it as a belt,rope,rope,0.8805499999999999
+2004,creative,hang lights from the,hang lights from the,rope,rope,1.10218
+2004,creative,hang several of them and use it as a curtain,hang several of them and use it as a curtain,rope,rope,1.1078999999999999
+2005,creative,lasso,lasso,rope,rope,0.79369
+2005,creative,make a ladder,make a ladder,rope,rope,0.81052
+2005,creative,play limbo,play limbo,rope,rope,0.97277
+2005,creative,play jump,play jump,rope,rope,1.00346
+2005,creative,tie things up,tie things up,rope,rope,0.85819
+2005,creative,climbing tool,climbing tool,rope,rope,1.04335
+2005,creative,pull things,pull things,rope,rope,1.08369
+2005,creative,clear oil off top of water,clear oil off top of water,rope,rope,1.11986
+2006,creative,belt,belt,rope,rope,0.68721
+2006,creative,hair,hair,rope,rope,0.7051700000000001
+2006,creative,hammock,hammock,rope,rope,0.70806
+2006,creative,necklace,necklace,rope,rope,0.74881
+2006,creative,fake snake,fake snake,rope,rope,0.98556
+2006,creative,braid instructions unravel and fix,braid instructions unravel and fix,rope,rope,0.91965
+2006,creative,wound wrappings,wound wrappings,rope,rope,1.04093
+2006,creative,hair tie,hair tie,rope,rope,1.0521
+2006,creative,animal toy,animal toy,rope,rope,1.07034
+2006,creative,frame for pictures,frame for pictures,rope,rope,0.87306
+2006,creative,cord coverings,cord coverings,rope,rope,1.14083
+2007,creative,tourniquet,tourniquet,rope,rope,0.68955
+2007,creative,splint,splint,rope,rope,0.78617
+2007,creative,perimeter of a table decoration,perimeter of a table decoration,rope,rope,0.87745
+2007,creative,used as material in art,used as material in art,rope,rope,0.8789899999999999
+2007,creative,exercise between two people,exercise between two people,rope,rope,1.11789
+2007,creative,make a bowl,make a bowl,rope,rope,0.83799
+2007,creative,hair piece,hair piece,rope,rope,1.07765
+2007,creative,hang decorations from,hang decorations from,rope,rope,0.87085
+2007,creative,to make a seat,to make a seat,rope,rope,1.11388
+2007,creative,animal structures,animal structures,rope,rope,1.1236
+2008,creative,belt,belt,rope,rope,0.68721
+2008,creative,dog leash,dog leash,rope,rope,0.93323
+2008,creative,play with as a snake,play with as a snake,rope,rope,0.84874
+2010,creative,wire,wire,rope,rope,0.5656300000000001
+2010,creative,ring,ring,rope,rope,0.70275
+2010,creative,crutches,crutches,rope,rope,0.7192000000000001
+2010,creative,cane,cane,rope,rope,0.74085
+2010,creative,necklace,necklace,rope,rope,0.74881
+2010,creative,pencil,pencil,rope,rope,0.75239
+2010,creative,bracelet,bracelet,rope,rope,0.78295
+2010,creative,lighter,lighter,rope,rope,0.8234
+2010,creative,toothpick,toothpick,rope,rope,0.83443
+2010,creative,hair bow,hair bow,rope,rope,1.02209
+2011,creative,pulley,pulley,rope,rope,0.5626599999999999
+2011,creative,fencing,fencing,rope,rope,0.63822
+2011,creative,necklace,necklace,rope,rope,0.74881
+2011,creative,whip,whip,rope,rope,0.8432
+2011,creative,lobster leash,lobster leash,rope,rope,0.99611
+2011,creative,string for instrument,string for instrument,rope,rope,0.88545
+2011,creative,measuring device,measuring device,rope,rope,1.09292
+2012,creative,belt,belt,rope,rope,0.68721
+2012,creative,hair,hair,rope,rope,0.7051700000000001
+2012,creative,towing,towing,rope,rope,0.71052
+2012,creative,wallpaper,wallpaper,rope,rope,0.80184
+2012,creative,weapon,weapon,rope,rope,0.8230500000000001
+2012,creative,decoration,decoration,rope,rope,0.88772
+2012,creative,sling for a cast,sling for a cast,rope,rope,0.8694500000000001
+2012,creative,packaging material,packaging material,rope,rope,1.04647
+2012,creative,tying your shoes,tying your shoes,rope,rope,0.85697
+2012,creative,fix a car,fix a car,rope,rope,0.86555
+2012,creative,able to use it to guide yourself back,able to use it to guide yourself back,rope,rope,1.11264
+2013,creative,as a belt,as a belt,rope,rope,0.85623
+2013,creative,as floss,as floss,rope,rope,0.82974
+2013,creative,as a seatbelt,as a seatbelt,rope,rope,1.04251
+2013,creative,make a hat,make a hat,rope,rope,0.85954
+2013,creative,make a shirt,make a shirt,rope,rope,0.85545
+2013,creative,as a hand warmer,as a hand warmer,rope,rope,1.11526
+2014,creative,belt,belt,rope,rope,0.68721
+2014,creative,cord/wire insulation,cordwire insulation,rope,rope,0.76029
+2014,creative,giant gift bow,giant gift bow,rope,rope,0.84135
+2014,creative,redneck party streamer,redneck party streamer,rope,rope,0.95626
+2014,creative,holding back a spring loaded slingshot,holding back a spring loaded slingshot,rope,rope,0.87757
+2014,creative,fake hair,fake hair,rope,rope,1.13364
+2015,creative,hangers,hangers,rope,rope,0.68474
+2015,creative,bracelets,bracelets,rope,rope,0.78131
+2015,creative,confetti,confetti,rope,rope,0.83893
+2015,creative,divider,divider,rope,rope,0.85494
+2015,creative,fan,fan,rope,rope,0.91926
+2015,creative,ruler,ruler,rope,rope,0.97152
+2015,creative,door lock,door lock,rope,rope,1.07585
+2015,creative,shoe holder,shoe holder,rope,rope,1.09879
+2015,creative,party decorations,party decorations,rope,rope,1.10567
+2016,creative,shoelace,shoelace,rope,rope,0.7185699999999999
+2016,creative,tie it to resemble a dog or other animal,tie it to resemble a dog or other animal,rope,rope,0.89322
+2017,creative,harness,harness,rope,rope,0.6071599999999999
+2017,creative,belt,belt,rope,rope,0.68721
+2017,creative,bridge,bridge,rope,rope,0.68838
+2017,creative,shoelace,shoelace,rope,rope,0.7185699999999999
+2017,creative,swing,swing,rope,rope,0.7401800000000001
+2017,creative,military   bridge belt,military bridge belt,rope,rope,0.87166
+2017,creative,hair band,hair band,rope,rope,0.96029
+2017,creative,hair on a doll,hair on a doll,rope,rope,1.07702
+2017,creative,vintage ribbon,vintage ribbon,rope,rope,1.06547
+2017,creative,chew toy,chew toy,rope,rope,1.0779
+2017,creative,resistance bands,resistance bands,rope,rope,1.08977
+2018,creative,leash,leash,rope,rope,0.6070800000000001
+2018,creative,handcuffs,handcuffs,rope,rope,0.65667
+2018,creative,tourniquet,tourniquet,rope,rope,0.68955
+2018,creative,a swing,a swing,rope,rope,1.02017
+2018,creative,headband,headband,rope,rope,0.80498
+2018,creative,a weapon,a weapon,rope,rope,1.09586
+2018,creative,jewelry,jewelry,rope,rope,0.86519
+2018,creative,a hair bow,a hair bow,rope,rope,0.80827
+2019,creative,fence,fence,rope,rope,0.57341
+2019,creative,knot,knot,rope,rope,0.58655
+2019,creative,necklace,necklace,rope,rope,0.74881
+2019,creative,bracelet,bracelet,rope,rope,0.78295
+2019,creative,decoration,decoration,rope,rope,0.88772
+2019,creative,dog leash,dog leash,rope,rope,0.93323
+2019,creative,hair band,hair band,rope,rope,0.96029
+2019,creative,hair tie,hair tie,rope,rope,1.0521
+2019,creative,clothes line,clothes line,rope,rope,1.08815
+2019,creative,can phone,can phone,rope,rope,1.10253
+2020,creative,necklace,necklace,rope,rope,0.74881
+2020,creative,border around pictures,border around pictures,rope,rope,0.86517
+2020,creative,twisted up a candle holder,twisted up a candle holder,rope,rope,0.91174
+2020,creative,dress material,dress material,rope,rope,1.02975
+2020,creative,use the end as a paintbrush,use the end as a paintbrush,rope,rope,0.87879
+2021,creative,handcuffs,handcuffs,rope,rope,0.65667
+2021,creative,used to fence in animals,used to fence in animals,rope,rope,0.88951
+2021,creative,used as a dog leash or collar,used as a dog leash or collar,rope,rope,0.88118
+2021,creative,walk across a lake or gap,walk across a lake or gap,rope,rope,1.10515
+2022,creative,pull it to pull a lever that hits the power button on a tv,pull it to pull a lever that hits the power button on a tv,rope,rope,1.11634
+2022,creative,use it as the string on a hillbilly bass also used a bucket and piece of wood,use it as the string on a hillbilly bass also used a bucket and piece of wood,rope,rope,1.10412
+2022,creative,you can tie sticks together and make a chair,you can tie sticks together and make a chair,rope,rope,0.89007
+2023,creative,ladder,ladder,rope,rope,0.47565999999999997
+2023,creative,bag,bag,rope,rope,0.65375
+2023,creative,roof,roof,rope,rope,0.69179
+2023,creative,swing,swing,rope,rope,0.7401800000000001
+2023,creative,necklace,necklace,rope,rope,0.74881
+2023,creative,clothing,clothing,rope,rope,0.76149
+2023,creative,umbrella,umbrella,rope,rope,0.85746
+2024,creative,tail,tail,rope,rope,0.6687000000000001
+2024,creative,belt,belt,rope,rope,0.68721
+2024,creative,weapon,weapon,rope,rope,0.8230500000000001
+2024,creative,toy,toy,rope,rope,0.84333
+2024,creative,streamer,streamer,rope,rope,0.86207
+2024,creative,snake puppet,snake puppet,rope,rope,0.8853
+2024,creative,musical instrument,musical instrument,rope,rope,1.01989
+2024,creative,safety line,safety line,rope,rope,1.112
+2025,creative,noose,noose,rope,rope,0.62784
+2025,creative,jump,jump,rope,rope,0.64956
+2025,creative,belt,belt,rope,rope,0.68721
+2025,creative,hammock,hammock,rope,rope,0.70806
+2025,creative,swing,swing,rope,rope,0.7401800000000001
+2025,creative,lasso,lasso,rope,rope,0.79369
+2025,creative,headband,headband,rope,rope,0.80498
+2025,creative,jewelry,jewelry,rope,rope,0.86519
+2025,creative,three legged race,three legged race,rope,rope,0.81982
+2025,creative,dog leash,dog leash,rope,rope,0.93323
+2025,creative,tug of war,tug of war,rope,rope,0.88636
+2025,creative,hanging plants,hanging plants,rope,rope,1.03771
+2026,creative,to swing from,to swing from,rope,rope,0.8572
+2026,creative,to tie someone to a bed,to tie someone to a bed,rope,rope,1.10713
+2026,creative,to use as a hair tie,to use as a hair tie,rope,rope,1.11967
+2026,creative,to use to make into a bow,to use to make into a bow,rope,rope,0.88273
+2026,creative,to use as a trip wire,to use as a trip wire,rope,rope,1.114
+2026,creative,to use to block off a room,to use to block off a room,rope,rope,0.8899
+2026,creative,to tie to a tree,to tie to a tree,rope,rope,0.87641
+2026,creative,to play jump   with,to play jump with,rope,rope,1.09115
+2026,creative,to use for pranks,to use for pranks,rope,rope,1.0845
+2026,creative,to use as a path so you don't get lost,to use as a path so you dont get lost,rope,rope,1.10979
+2026,creative,to wrap a present with it,to wrap a present with it,rope,rope,1.12071
+2027,creative,can be used as weapon when force is applied,can be used as weapon when force is applied,rope,rope,0.87873
+2027,creative,can be used as a climbing tool example when climbing tree,can be used as a climbing tool example when climbing tree,rope,rope,0.89231
+2027,creative,can be used to start a fire when pulled back and forth with speed,can be used to start a fire when pulled back and forth with speed,rope,rope,1.1072899999999999
+2027,creative,can be used to tie someone up,can be used to tie someone up,rope,rope,0.8862099999999999
+2028,creative,ladder,ladder,rope,rope,0.47565999999999997
+2028,creative,leash,leash,rope,rope,0.6070800000000001
+2028,creative,jump,jump,rope,rope,0.64956
+2028,creative,bridge,bridge,rope,rope,0.68838
+2028,creative,swing,swing,rope,rope,0.7401800000000001
+2028,creative,wig,wig,rope,rope,0.79383
+2028,creative,handle,handle,rope,rope,0.79818
+2028,creative,tent support system,tent support system,rope,rope,0.87985
+2028,creative,fake snake,fake snake,rope,rope,0.98556
+2028,creative,fire starter,fire starter,rope,rope,1.07032
+2029,creative,leash,leash,rope,rope,0.6070800000000001
+2029,creative,noose,noose,rope,rope,0.62784
+2029,creative,belt,belt,rope,rope,0.68721
+2029,creative,girdle,girdle,rope,rope,0.78383
+2029,creative,lasso,lasso,rope,rope,0.79369
+2029,creative,jewelry,jewelry,rope,rope,0.86519
+2029,creative,circulation cutter offer,circulation cutter offer,rope,rope,0.91646
+2029,creative,mediocre whip,mediocre whip,rope,rope,1.00892
+2029,creative,doll hair,doll hair,rope,rope,1.01271
+2029,creative,best friend,best friend,rope,rope,1.01931
+2029,creative,toe organizer,toe organizer,rope,rope,1.02287
+2029,creative,hair tie,hair tie,rope,rope,1.0521
+2029,creative,floss for a giant,floss for a giant,rope,rope,0.89788
+2030,creative,leash,leash,rope,rope,0.6070800000000001
+2030,creative,jump,jump,rope,rope,0.64956
+2030,creative,belt,belt,rope,rope,0.68721
+2030,creative,necklace,necklace,rope,rope,0.74881
+2030,creative,bracelet,bracelet,rope,rope,0.78295
+2030,creative,headband,headband,rope,rope,0.80498
+2030,creative,vines from trees,vines from trees,rope,rope,0.91635
+2030,creative,tie it and pull things around with,tie it and pull things around with,rope,rope,0.87483
+2030,creative,land marker tying to a tree,land marker tying to a tree,rope,rope,1.10059
+2031,creative,wrapping an object in it to prevent growth  such as plants,wrapping an object in it to prevent growth such as plants,rope,rope,0.87887
+2031,creative,transporting food to a house,transporting food to a house,rope,rope,0.8883
+2031,creative,cutting into small pieces and using as a trail to find one ways back,cutting into small pieces and using as a trail to find one ways back,rope,rope,1.10493
+2031,creative,carving object in it to create pictures,carving object in it to create pictures,rope,rope,0.88485
+2031,creative,building an house,building an house,rope,rope,0.87641
+2031,creative,holding object way in the air,holding object way in the air,rope,rope,1.12
+2031,creative,building an other object purely out of   such as a car  plane  tree,building an other object purely out of such as a car plane tree,rope,rope,0.89207
+2032,creative,ladder,ladder,rope,rope,0.47565999999999997
+2032,creative,thread,thread,rope,rope,0.53904
+2032,creative,cord,cord,rope,rope,0.54653
+2032,creative,leash,leash,rope,rope,0.6070800000000001
+2032,creative,tightrope,tightrope,rope,rope,0.75475
+2032,creative,line,line,rope,rope,0.76678
+2032,creative,decoration,decoration,rope,rope,0.88772
+2032,creative,vase,vase,rope,rope,0.93883
+2032,creative,weed eater,weed eater,rope,rope,0.95031
+2032,creative,cup,cup,rope,rope,0.96262
+2032,creative,fan blade,fan blade,rope,rope,1.07318
+2033,creative,unstring the   for a wig,unstring the for a wig,rope,rope,0.90467
+2033,creative,use it to hold up your pants,use it to hold up your pants,rope,rope,0.87869
+2033,creative,use it to dance with like the gymnasts do at the Olympics,use it to dance with like the gymnasts do at the olympics,rope,rope,1.10523
+2033,creative,seduce a snake,seduce a snake,rope,rope,0.96186
+2033,creative,coil it up and use it to lure a cat,coil it up and use it to lure a cat,rope,rope,1.10481
+2033,creative,put one end and water and water a plant via capillary action,put one end and water and water a plant via capillary action,rope,rope,0.89542
+2034,creative,climbing,climbing,rope,rope,0.57054
+2034,creative,leash,leash,rope,rope,0.6070800000000001
+2034,creative,jump,jump,rope,rope,0.64956
+2034,creative,belt,belt,rope,rope,0.68721
+2034,creative,swing,swing,rope,rope,0.7401800000000001
+2034,creative,net,net,rope,rope,0.85581
+2034,creative,clothes line,clothes line,rope,rope,1.08815
+2034,creative,water skiing,water skiing,rope,rope,1.1298300000000001
+2035,creative,climb,climb,rope,rope,0.64988
+2035,creative,tie down,tie down,rope,rope,1.0152
+2035,creative,hold doors shut,hold doors shut,rope,rope,0.86726
+2035,creative,wick,wick,rope,rope,0.88205
+2035,creative,hair in wig,hair in wig,rope,rope,1.04078
+2035,creative,mark off areas,mark off areas,rope,rope,0.87712
+2035,creative,outline projects,outline projects,rope,rope,1.14348
+2036,creative,clothing,clothing,rope,rope,0.76149
+2036,creative,furniture,furniture,rope,rope,0.8223
+2036,creative,tree cutter,tree cutter,rope,rope,0.9504900000000001
+2036,creative,pot for plant,pot for plant,rope,rope,0.87907
+2036,creative,currency,currency,rope,rope,1.00764
+2036,creative,hair extensions,hair extensions,rope,rope,1.12665
+2037,creative,a belt,a belt,rope,rope,1.05259
+2037,creative,cat toy,cat toy,rope,rope,1.04492
+2037,creative,hair tie,hair tie,rope,rope,1.0521
+2037,creative,decorations  similar to Christmas lights,decorations similar to christmas lights,rope,rope,0.88918
+2039,creative,padding,padding,rope,rope,0.75363
+2039,creative,insulation,insulation,rope,rope,0.76029
+2039,creative,ballast,ballast,rope,rope,0.80814
+2039,creative,roofing,roofing,rope,rope,0.81056
+2039,creative,cat toy,cat toy,rope,rope,1.04492
+2039,creative,fabric material,fabric material,rope,rope,1.0512299999999999
+2039,creative,door stop,door stop,rope,rope,1.09715
+2039,creative,knife handle,knife handle,rope,rope,1.14002
+2040,creative,belt,belt,rope,rope,0.68721
+2040,creative,necklace,necklace,rope,rope,0.74881
+2040,creative,wig,wig,rope,rope,0.79383
+2040,creative,net,net,rope,rope,0.85581
+2040,creative,picture frame,picture frame,rope,rope,1.03458
+2041,creative,take it apart so the fibers are all in a big bunch and leave it somewhere for a coworker to have to clean up,take it apart so the fibers are all in a big bunch and leave it somewhere for a coworker to have to clean up,rope,rope,1.10517
+2041,creative,roll it up so that it's flat and only the sides are touching like a big circle and use as a canvas for a painting or something,roll it up so that its flat and only the sides are touching like a big circle and use as a canvas for a painting or something,rope,rope,0.89479
+2042,creative,dip the tip in kerosene and light it for use as a light source,dip the tip in kerosene and light it for use as a light source,rope,rope,1.11751
+2042,creative,tie a knot in one end and use it as a weapon,tie a knot in one end and use it as a weapon,rope,rope,0.89669
+2042,creative,tie it around your waist and use it as a belt,tie it around your waist and use it as a belt,rope,rope,0.8803799999999999
+2042,creative,unravel it and use the strands to make a wig,unravel it and use the strands to make a wig,rope,rope,1.11886
+2042,creative,make it into a lasso and use it to catch criminals like in the old west,make it into a lasso and use it to catch criminals like in the old west,rope,rope,1.1049
+2042,creative,use it as a jump,use it as a jump,rope,rope,0.8797699999999999
+2043,creative,shoelaces,shoelaces,rope,rope,0.66508
+2043,creative,tail,tail,rope,rope,0.6687000000000001
+2043,creative,for fishing,for fishing,rope,rope,1.08886
+2043,creative,to burn like a candle,to burn like a candle,rope,rope,0.89721
+2043,creative,hammock lots of,hammock lots of,rope,rope,1.11913
+2043,creative,to climb down from a window,to climb down from a window,rope,rope,1.1108
+2043,creative,trail for avoiding getting lost,trail for avoiding getting lost,rope,rope,0.89366
+2044,creative,dress,dress,rope,rope,0.76801
+2044,creative,weapon,weapon,rope,rope,0.8230500000000001
+2044,creative,instrument,instrument,rope,rope,0.84137
+2044,creative,sculpture,sculpture,rope,rope,0.87665
+2044,creative,giant  3d hair piece,giant d hair piece,rope,rope,1.04622
+2044,creative,make a   bridge to connect all continents,make a bridge to connect all continents,rope,rope,0.88473
+2045,creative,swing,swing,rope,rope,0.7401800000000001
+2045,creative,horse,horse,rope,rope,0.7428600000000001
+2045,creative,horse lead,horse lead,rope,rope,0.96616
+2045,creative,vase decoration,vase decoration,rope,rope,0.98948
+2045,creative,woven coffee table top,woven coffee table top,rope,rope,1.02155
+2045,creative,aisle runner edge weight,aisle runner edge weight,rope,rope,1.02498
+2045,creative,workout tool,workout tool,rope,rope,1.02567
+2045,creative,craft material,craft material,rope,rope,1.03212
+2045,creative,cat toy,cat toy,rope,rope,1.04492
+2045,creative,fishing line,fishing line,rope,rope,1.09834
+2046,creative,use it to represent cords of muscle in a sculpture,use it to represent cords of muscle in a sculpture,rope,rope,1.1121
+2046,creative,attach it to a helicopter to whack birds,attach it to a helicopter to whack birds,rope,rope,0.89119
+2046,creative,make a massive candle with it as the wick,make a massive candle with it as the wick,rope,rope,1.10468
+2046,creative,hang upside down from it and pretend you're a bat,hang upside down from it and pretend youre a bat,rope,rope,0.88605
+2046,creative,thread it into oversized shoes as if it were a shoelace,thread it into oversized shoes as if it were a shoelace,rope,rope,1.0747
+2046,creative,use it instead of tinsel on your Christmas tree,use it instead of tinsel on your christmas tree,rope,rope,1.10875
+2047,creative,ladder,ladder,rope,rope,0.47565999999999997
+2047,creative,snake,snake,rope,rope,0.67092
+2047,creative,swing,swing,rope,rope,0.7401800000000001
+2047,creative,anchor,anchor,rope,rope,0.78243
+2047,creative,lasso,lasso,rope,rope,0.79369
+2047,creative,spinner,spinner,rope,rope,0.8599600000000001
+2047,creative,long distance phone,long distance phone,rope,rope,0.87689
+2047,creative,wick,wick,rope,rope,0.88205
+2047,creative,bad parachute,bad parachute,rope,rope,0.94838
+2047,creative,tractor pull,tractor pull,rope,rope,1.02124
+2047,creative,airplane tether,airplane tether,rope,rope,1.04087
+2047,creative,DNA strand,dna strand,rope,rope,1.10034
+2048,creative,as a belt,as a belt,rope,rope,0.85623
+2048,creative,for a game,for a game,rope,rope,0.87656
+2048,creative,woven to make a fish net,woven to make a fish net,rope,rope,1.0403
+2048,creative,to demonstrate tension vs compression,to demonstrate tension vs compression,rope,rope,0.94776
+2048,creative,shaped into letters to make a sign,shaped into letters to make a sign,rope,rope,0.88134
+2048,creative,as a unit of measure,as a unit of measure,rope,rope,0.87896
+2049,creative,handcuffs,handcuffs,rope,rope,0.65667
+2049,creative,belt,belt,rope,rope,0.68721
+2049,creative,hat,hat,rope,rope,0.7714
+2049,creative,to mark a path,to mark a path,rope,rope,1.10194
+2049,creative,safety harness,safety harness,rope,rope,1.10048
+2050,creative,pulley,pulley,rope,rope,0.5626599999999999
+2050,creative,leash,leash,rope,rope,0.6070800000000001
+2050,creative,whip,whip,rope,rope,0.8432
+2050,creative,restraint,restraint,rope,rope,0.85614
+2050,creative,high wire act,high wire act,rope,rope,0.88087
+2050,creative,coiled turban,coiled turban,rope,rope,0.93764
+2050,creative,fake snake,fake snake,rope,rope,0.98556
+2050,creative,imaginary noodles,imaginary noodles,rope,rope,1.01248
+2050,creative,Rapunzel braid,rapunzel braid,rope,rope,1.03261
+2050,creative,fake worms,fake worms,rope,rope,1.03321
+2050,creative,weaving material,weaving material,rope,rope,1.03322
+2050,creative,imaginary wires,imaginary wires,rope,rope,1.05718
+2051,creative,ladder,ladder,rope,rope,0.47565999999999997
+2051,creative,swing,swing,rope,rope,0.7401800000000001
+2051,creative,weapon,weapon,rope,rope,0.8230500000000001
+2051,creative,dog toy,dog toy,rope,rope,1.02579
+2051,creative,toy for a kid,toy for a kid,rope,rope,1.10149
+2051,creative,car decoration,car decoration,rope,rope,1.1153
+2052,creative,belt,belt,rope,rope,0.68721
+2052,creative,swing,swing,rope,rope,0.7401800000000001
+2052,creative,tie your bumper to your car,tie your bumper to your car,rope,rope,1.10104
+2052,creative,as a border on a poster,as a border on a poster,rope,rope,1.10106
+2052,creative,cut something,cut something,rope,rope,1.10334
+2053,creative,pulley,pulley,rope,rope,0.5626599999999999
+2053,creative,stairs,stairs,rope,rope,0.65023
+2053,creative,belt,belt,rope,rope,0.68721
+2053,creative,mat,mat,rope,rope,0.71834
+2053,creative,clothing,clothing,rope,rope,0.76149
+2053,creative,door,door,rope,rope,0.77517
+2053,creative,weapon,weapon,rope,rope,0.8230500000000001
+2053,creative,vehicle,vehicle,rope,rope,0.84512
+2053,creative,seating,seating,rope,rope,0.85922
+2053,creative,liner,liner,rope,rope,0.89508
+2053,creative,laptop,laptop,rope,rope,0.90603
+2053,creative,shoe laces,shoe laces,rope,rope,0.94631
+2053,creative,mi,mi,rope,rope,0.95281
+2053,creative,ear muffs,ear muffs,rope,rope,0.96106
+2053,creative,monitor,monitor,rope,rope,1.01064
+2053,creative,kick stand,kick stand,rope,rope,1.01506
+2053,creative,dog toy,dog toy,rope,rope,1.02579
+2053,creative,DVD player,dvd player,rope,rope,1.03594
+2053,creative,stove top,stove top,rope,rope,1.043
+2053,creative,child's toy,childs toy,rope,rope,1.09279
+2053,creative,counting tool,counting tool,rope,rope,1.07842
+2053,creative,microwave oven,microwave oven,rope,rope,1.09293
+2053,creative,safety line,safety line,rope,rope,1.112
+2053,creative,cattle wrangler,cattle wrangler,rope,rope,1.11303
+2053,creative,power sources,power sources,rope,rope,1.12354
+2053,creative,measuring tool,measuring tool,rope,rope,1.14263
+2054,creative,ladder,ladder,rope,rope,0.47565999999999997
+2054,creative,swing,swing,rope,rope,0.7401800000000001
+2054,creative,magic,magic,rope,rope,0.8113900000000001
+2054,creative,whip,whip,rope,rope,0.8432
+2054,creative,tie to a can to speak through,tie to a can to speak through,rope,rope,0.8861600000000001
+2054,creative,repel,repel,rope,rope,0.95421
+2055,creative,belt,belt,rope,rope,0.68721
+2055,creative,bracelet,bracelet,rope,rope,0.78295
+2055,creative,ruler,ruler,rope,rope,0.97152
+2056,creative,jump,jump,rope,rope,0.64956
+2056,creative,belt,belt,rope,rope,0.68721
+2056,creative,jewelry,jewelry,rope,rope,0.86519
+2056,creative,outfit,outfit,rope,rope,0.8917
+2056,creative,dog leash,dog leash,rope,rope,0.93323
+2056,creative,clock background wind   into a circle,clock background wind into a circle,rope,rope,1.10711
+2057,creative,jump,jump,rope,rope,0.64956
+2057,creative,tourniquet,tourniquet,rope,rope,0.68955
+2057,creative,swing,swing,rope,rope,0.7401800000000001
+2057,creative,pulling someone out of a hole,pulling someone out of a hole,rope,rope,1.10663
+2057,creative,rock climbing,rock climbing,rope,rope,0.9647
+2057,creative,tightrope to walk across,tightrope to walk across,rope,rope,0.88522
+2057,creative,tug of war,tug of war,rope,rope,0.88636
+2058,creative,belt,belt,rope,rope,0.68721
+2058,creative,guide people on a trail,guide people on a trail,rope,rope,0.89289
+2058,creative,wrap it around a tree to keep it warm,wrap it around a tree to keep it warm,rope,rope,0.88568
+2058,creative,use it as a wick in a giant candle,use it as a wick in a giant candle,rope,rope,1.10464
+2058,creative,make a bracelet,make a bracelet,rope,rope,0.85594
+2058,creative,otters can use it to climb out of the river,otters can use it to climb out of the river,rope,rope,0.92457
+2058,creative,hair extension,hair extension,rope,rope,1.07724
+2058,creative,tie it to your phone so you never lose it,tie it to your phone so you never lose it,rope,rope,1.11368
+2058,creative,tie two cars together so they don't get separated,tie two cars together so they dont get separated,rope,rope,0.89294
+2058,creative,pretend it's a giant pet worm,pretend its a giant pet worm,rope,rope,1.11748
+2059,creative,ladder,ladder,rope,rope,0.47565999999999997
+2059,creative,leash,leash,rope,rope,0.6070800000000001
+2059,creative,noose,noose,rope,rope,0.62784
+2059,creative,yarn,yarn,rope,rope,0.62967
+2059,creative,scarf,scarf,rope,rope,0.72978
+2059,creative,tightrope,tightrope,rope,rope,0.75475
+2059,creative,wig,wig,rope,rope,0.79383
+2059,creative,divider,divider,rope,rope,0.85494
+2059,creative,decoration,decoration,rope,rope,0.88772
+2059,creative,wind chime,wind chime,rope,rope,0.94955
+2059,creative,trail marker,trail marker,rope,rope,1.02309
+2059,creative,dog toy,dog toy,rope,rope,1.02579
+2059,creative,dog toy,dog toy,rope,rope,1.02579
+2059,creative,tire swing,tire swing,rope,rope,1.04756
+2059,creative,trip someone,trip someone,rope,rope,1.04902
+2059,creative,depth marker,depth marker,rope,rope,1.09448
+2060,creative,rug,rug,rope,rope,0.69406
+2060,creative,dress,dress,rope,rope,0.76801
+2060,creative,jewelry,jewelry,rope,rope,0.86519
+2060,creative,fishing line for big ocean fish,fishing line for big ocean fish,rope,rope,1.10636
+2061,creative,harness,harness,rope,rope,0.6071599999999999
+2061,creative,belt,belt,rope,rope,0.68721
+2061,creative,hammock,hammock,rope,rope,0.70806
+2061,creative,purse,purse,rope,rope,0.74598
+2061,creative,divider,divider,rope,rope,0.85494
+2061,creative,jewelry,jewelry,rope,rope,0.86519
+2061,creative,hang wall decor,hang wall decor,rope,rope,0.89713
+2061,creative,hair tie,hair tie,rope,rope,1.0521
+2061,creative,child's toy,childs toy,rope,rope,1.09279
+2061,creative,clothes line,clothes line,rope,rope,1.08815
+2061,creative,hang objects,hang objects,rope,rope,1.1931
+2062,creative,tie it to a belt loop and pretend it's a tail,tie it to a belt loop and pretend its a tail,rope,rope,0.88246
+2062,creative,make a tire swing,make a tire swing,rope,rope,1.11215
+2062,creative,make it a snake,make it a snake,rope,rope,1.07195
+2062,creative,pretend its a lasso and you're a cowboy,pretend its a lasso and youre a cowboy,rope,rope,0.88357
+2062,creative,tie it between 2 trees and use it as a tight,tie it between trees and use it as a tight,rope,rope,1.1137299999999999
+2063,creative,jump,jump,rope,rope,0.64956
+2063,creative,overhead light pulley system light switch,overhead light pulley system light switch,rope,rope,0.88332
+2063,creative,prop wire,prop wire,rope,rope,0.93821
+2063,creative,clothes hanger,clothes hanger,rope,rope,0.96771
+2063,creative,line a walkway,line a walkway,rope,rope,0.91724000000000006
+2063,creative,toy snake,toy snake,rope,rope,0.98737
+2063,creative,fire starter,fire starter,rope,rope,1.07032
+2063,creative,a measuring device,a measuring device,rope,rope,0.88917
+2063,creative,a carpet beater,a carpet beater,rope,rope,1.01119
+2063,creative,wall art glued to the wall in patterns you enjoy,wall art glued to the wall in patterns you enjoy,rope,rope,1.1046
+2064,creative,leash,leash,rope,rope,0.6070800000000001
+2064,creative,belt,belt,rope,rope,0.68721
+2064,creative,jewelry,jewelry,rope,rope,0.86519
+2064,creative,decoration,decoration,rope,rope,0.88772
+2064,creative,curtain holder,curtain holder,rope,rope,1.03857
+2064,creative,clothes line,clothes line,rope,rope,1.08815
+2065,creative,jump,jump,rope,rope,0.64956
+2065,creative,belt,belt,rope,rope,0.68721
+2065,creative,swing,swing,rope,rope,0.7401800000000001
+2065,creative,necklace,necklace,rope,rope,0.74881
+2065,creative,dishcloth,dishcloth,rope,rope,0.7666999999999999
+2065,creative,pull a canoe from a truck,pull a canoe from a truck,rope,rope,1.09903
+2065,creative,something to carry your purse with,something to carry your purse with,rope,rope,1.11805
+2065,creative,lawnmower,lawnmower,rope,rope,0.87706
+2065,creative,shoestring,shoestring,rope,rope,0.9486
+2065,creative,hair extensions,hair extensions,rope,rope,1.12665
+2066,creative,to make a fake snake,to make a fake snake,rope,rope,0.88255
+2066,creative,as a material to fill in the cracks between door frames and bodies so that no one can see in,as a material to fill in the cracks between door frames and bodies so that no one can see in,rope,rope,1.10865
+2066,creative,to create a hammock in your living room instead of a couch,to create a hammock in your living room instead of a couch,rope,rope,0.89653
+2066,creative,to make a turban,to make a turban,rope,rope,1.09503
+2066,creative,to connect two doors so that you can open them at the same time,to connect two doors so that you can open them at the same time,rope,rope,1.10649
+2066,creative,to hang furniture from the ceiling that you want to turn into a swing,to hang furniture from the ceiling that you want to turn into a swing,rope,rope,1.10717
+2067,creative,delineate a play area for a game,delineate a play area for a game,rope,rope,1.10863
+2067,creative,make it into a coat,make it into a coat,rope,rope,0.8745499999999999
+2067,creative,use it as a scarf,use it as a scarf,rope,rope,0.8811
+2067,creative,make it into a chair,make it into a chair,rope,rope,0.87418
+2067,creative,tie it around your car so no one can break in,tie it around your car so no one can break in,rope,rope,0.89123
+2068,creative,jump,jump,rope,rope,0.64956
+2068,creative,belt,belt,rope,rope,0.68721
+2068,creative,suspenders,suspenders,rope,rope,0.69863
+2068,creative,headband,headband,rope,rope,0.80498
+2068,creative,house decor,house decor,rope,rope,1.01969
+2068,creative,hair tie,hair tie,rope,rope,1.0521
+2068,creative,measuring tool,measuring tool,rope,rope,1.14263
+2071,creative,jump,jump,rope,rope,0.64956
+2071,creative,handcuffs,handcuffs,rope,rope,0.65667
+2071,creative,shoelaces,shoelaces,rope,rope,0.66508
+2071,creative,belt,belt,rope,rope,0.68721
+2071,creative,necklace,necklace,rope,rope,0.74881
+2071,creative,pretend hair,pretend hair,rope,rope,0.91037
+2071,creative,dog leash,dog leash,rope,rope,0.93323
+2071,creative,zip line,zip line,rope,rope,0.94772
+2071,creative,pretend snake,pretend snake,rope,rope,0.95509
+2071,creative,make a rug,make a rug,rope,rope,0.86431
+2071,creative,hair tie,hair tie,rope,rope,1.0521
+2071,creative,phone cord,phone cord,rope,rope,1.05653
+2072,creative,belt,belt,rope,rope,0.68721
+2072,creative,weave it into a cozy blanket,weave it into a cozy blanket,rope,rope,1.12957
+2072,creative,repair broken shoes,repair broken shoes,rope,rope,0.85019
+2072,creative,keep your car together,keep your car together,rope,rope,1.11355
+2072,creative,knit a sweater for a cat,knit a sweater for a cat,rope,rope,0.8893
+2072,creative,keep the gate outside of your house together,keep the gate outside of your house together,rope,rope,1.10544
+2072,creative,create a robe,create a robe,rope,rope,0.88175
+2072,creative,get garbage out of a dangerous place for you to go to,get garbage out of a dangerous place for you to go to,rope,rope,1.10543
+2072,creative,use to catch crabs,use to catch crabs,rope,rope,1.09369
+2072,creative,catch raindrops,catch raindrops,rope,rope,0.93694
+2072,creative,make a curtain,make a curtain,rope,rope,0.85129
+2072,creative,make a couch,make a couch,rope,rope,0.85817
+2072,creative,fly a kite,fly a kite,rope,rope,0.87987
+2072,creative,fish hooks,fish hooks,rope,rope,1.07236
+2072,creative,make clothes,make clothes,rope,rope,1.07718
+2072,creative,collect shells with,collect shells with,rope,rope,0.88383
+2072,creative,attach to an icicle and use it as a weapon in the winter,attach to an icicle and use it as a weapon in the winter,rope,rope,1.11188
+2073,creative,belt,belt,rope,rope,0.68721
+2073,creative,swing,swing,rope,rope,0.7401800000000001
+2073,creative,dog leash,dog leash,rope,rope,0.93323
+2073,creative,tire tread,tire tread,rope,rope,0.94905
+2073,creative,paper towel holder,paper towel holder,rope,rope,0.94941
+2073,creative,shoe strings,shoe strings,rope,rope,0.9615
+2073,creative,bow tie,bow tie,rope,rope,1.03066
+2073,creative,picture frame,picture frame,rope,rope,1.03458
+2073,creative,tire swing,tire swing,rope,rope,1.04756
+2073,creative,hair tie,hair tie,rope,rope,1.0521
+2074,creative,lift,lift,rope,rope,0.6973199999999999
+2074,creative,trap,trap,rope,rope,0.7167399999999999
+2075,creative,using the   to time travel to different galaxies,using the to time travel to different galaxies,rope,rope,1.1211
+2075,creative,using the   to trip somebody,using the to trip somebody,rope,rope,0.88516
+2075,creative,using the   as a leash for a dog,using the as a leash for a dog,rope,rope,1.1199
+2075,creative,mining gold with a magic,mining gold with a magic,rope,rope,0.90695
+2075,creative,making yarn from a,making yarn from a,rope,rope,0.97214
+2075,creative,stealing harry potters wand with a,stealing harry potters wand with a,rope,rope,0.99469
+2075,creative,making a bird house out of robe,making a bird house out of robe,rope,rope,0.89538
+2075,creative,making music with a,making music with a,rope,rope,1.11126
+2076,creative,climbing,climbing,rope,rope,0.57054
+2076,creative,pull,pull,rope,rope,0.58895
+2076,creative,knots,knots,rope,rope,0.63828
+2076,creative,wrapping,wrapping,rope,rope,0.6563300000000001
+2076,creative,tie,tie,rope,rope,0.67869
+2076,creative,belt,belt,rope,rope,0.68721
+2076,creative,hang,hang,rope,rope,0.7173499999999999
+2076,creative,swing,swing,rope,rope,0.7401800000000001
+2076,creative,dress,dress,rope,rope,0.76801
+2076,creative,steps,steps,rope,rope,0.82953
+2076,creative,exercise,exercise,rope,rope,0.83269
+2076,creative,whip,whip,rope,rope,0.8432
+2076,creative,toy,toy,rope,rope,0.84333
+2076,creative,gather,gather,rope,rope,0.94088
+2076,creative,music,music,rope,rope,0.95567
+2076,creative,art,art,rope,rope,0.97981
+2077,creative,a belt,a belt,rope,rope,1.05259
+2077,creative,circular wall hangings,circular wall hangings,rope,rope,0.85136
+2077,creative,a headband,a headband,rope,rope,0.94893
+2077,creative,a towel rack,a towel rack,rope,rope,0.97248
+2077,creative,a knot sculpture,a knot sculpture,rope,rope,0.90743
+2077,creative,wrapping it around a vase or jar for decoration,wrapping it around a vase or jar for decoration,rope,rope,1.09697
+2077,creative,a hanging seat if you attached some to two walls or the ceiling,a hanging seat if you attached some to two walls or the ceiling,rope,rope,0.89403
+2078,creative,making a hammock,making a hammock,rope,rope,1.07971
+2078,creative,learn to make awesome knots,learn to make awesome knots,rope,rope,1.09007
+2078,creative,fishing net,fishing net,rope,rope,1.04332
+2078,creative,use to grow vine squash,use to grow vine squash,rope,rope,0.86347
+2079,creative,noose,noose,rope,rope,0.62784
+2079,creative,belt,belt,rope,rope,0.68721
+2079,creative,bondage,bondage,rope,rope,0.70199
+2079,creative,ring,ring,rope,rope,0.70275
+2079,creative,shoelace,shoelace,rope,rope,0.7185699999999999
+2079,creative,necklace,necklace,rope,rope,0.74881
+2079,creative,pendulum,pendulum,rope,rope,0.75832
+2079,creative,bracelet,bracelet,rope,rope,0.78295
+2079,creative,whip,whip,rope,rope,0.8432
+2079,creative,crochet material,crochet material,rope,rope,0.90038
+2079,creative,bungee chord,bungee chord,rope,rope,0.91417
+2079,creative,rock climbing,rock climbing,rope,rope,0.9647
+2079,creative,hair tie,hair tie,rope,rope,1.0521
+2079,creative,measuring tape,measuring tape,rope,rope,1.05473
+2079,creative,performance art,performance art,rope,rope,1.07118
+2079,creative,trip wire,trip wire,rope,rope,1.10169
+2080,creative,lasso,lasso,rope,rope,0.79369
+2080,creative,as a manmade vine to swing amongst trees,as a manmade vine to swing amongst trees,rope,rope,1.00949
+2080,creative,hair accessory,hair accessory,rope,rope,1.07956
+2080,creative,decorative purposes,decorative purposes,rope,rope,1.1202
+2081,creative,belt,belt,rope,rope,0.68721
+2081,creative,necklace,necklace,rope,rope,0.74881
+2081,creative,bracelet,bracelet,rope,rope,0.78295
+2081,creative,border,border,rope,rope,0.93135
+2081,creative,toy snake,toy snake,rope,rope,0.98737
+2081,creative,neck tie,neck tie,rope,rope,1.02437
+2082,creative,pulley,pulley,rope,rope,0.5626599999999999
+2082,creative,tether,tether,rope,rope,0.60623
+2082,creative,belt,belt,rope,rope,0.68721
+2082,creative,ring,ring,rope,rope,0.70275
+2082,creative,bracelet,bracelet,rope,rope,0.78295
+2082,creative,buoy,buoy,rope,rope,0.80533
+2082,creative,paintbrush,paintbrush,rope,rope,0.84766
+2082,creative,decorations,decorations,rope,rope,0.8508
+2082,creative,watch,watch,rope,rope,0.85155
+2082,creative,jewelry,jewelry,rope,rope,0.86519
+2082,creative,earring,earring,rope,rope,0.87067
+2082,creative,guitar string,guitar string,rope,rope,0.91373
+2082,creative,shoe string,shoe string,rope,rope,0.91744
+2082,creative,anchor line,anchor line,rope,rope,0.92227
+2082,creative,purse string,purse string,rope,rope,0.92862
+2082,creative,dog leash,dog leash,rope,rope,0.93323
+2082,creative,pull out a tooth,pull out a tooth,rope,rope,1.09426
+2082,creative,fort,fort,rope,rope,0.97754
+2082,creative,dog toy,dog toy,rope,rope,1.02579
+2082,creative,stamp,stamp,rope,rope,1.04817
+2082,creative,fishing line,fishing line,rope,rope,1.09834
+2083,creative,tie two people who annoy each other together for mediation,tie two people who annoy each other together for mediation,rope,rope,0.8935
+2083,creative,bridge across two buildings for birds,bridge across two buildings for birds,rope,rope,1.10653
+2083,creative,hold a bridge up,hold a bridge up,rope,rope,1.10877
+2083,creative,keep a helicopter from flying too high,keep a helicopter from flying too high,rope,rope,0.88641
+2084,creative,to climb up it,to climb up it,rope,rope,1.11026
+2084,creative,bracelet,bracelet,rope,rope,0.78295
+2084,creative,tie something together,tie something together,rope,rope,0.83577
+2084,creative,using it to make a bridge,using it to make a bridge,rope,rope,1.11905
+2084,creative,using it to pull something,using it to pull something,rope,rope,0.8786
+2084,creative,shoe lace,shoe lace,rope,rope,0.93165
+2084,creative,tug a war,tug a war,rope,rope,0.84561
+2084,creative,hanging someone,hanging someone,rope,rope,1.0537
+2084,creative,whipping someone with it,whipping someone with it,rope,rope,1.09704
+2084,creative,using it as a belt,using it as a belt,rope,rope,0.87959
+2084,creative,using the material to make a fire,using the material to make a fire,rope,rope,0.88452
+2085,creative,stretch it out,stretch it out,rope,rope,0.84701
+2085,creative,exercise with it,exercise with it,rope,rope,0.87913
+2085,creative,connect things together,connect things together,rope,rope,0.8702
+2085,creative,decoration,decoration,rope,rope,0.88772
+2085,creative,tie things,tie things,rope,rope,1.01919
+2085,creative,sew things together,sew things together,rope,rope,1.02664
+2085,creative,stretch things,stretch things,rope,rope,1.05782
+2085,creative,arts and crafts,arts and crafts,rope,rope,0.89966
+2085,creative,create marks,create marks,rope,rope,1.06782
+2085,creative,pull things,pull things,rope,rope,1.08369
+2086,creative,shoelaces,shoelaces,rope,rope,0.66508
+2086,creative,belt,belt,rope,rope,0.68721
+2086,creative,scarf,scarf,rope,rope,0.72978
+2086,creative,necklace,necklace,rope,rope,0.74881
+2086,creative,dress,dress,rope,rope,0.76801
+2086,creative,lasso,lasso,rope,rope,0.79369
+2086,creative,handle to a purse/bag,handle to a pursebag,rope,rope,0.8698
+2086,creative,whip,whip,rope,rope,0.8432
+2086,creative,use it to wrap up presents,use it to wrap up presents,rope,rope,1.12221
+2086,creative,hair band,hair band,rope,rope,0.96029
+2086,creative,you wan make a wrap around ring,you wan make a wrap around ring,rope,rope,1.02643
+2086,creative,backpack straps,backpack straps,rope,rope,1.03623
+2086,creative,you can use it as a tight walking,you can use it as a tight walking,rope,rope,1.11439
+2087,creative,food lasso,food lasso,rope,rope,0.90913
+2087,creative,intestinal connections,intestinal connections,rope,rope,1.12366
+2087,creative,sensory   for diseases,sensory for diseases,rope,rope,0.89233
+2088,creative,wrap the   around your hand and use it to practice boxing,wrap the around your hand and use it to practice boxing,rope,rope,0.89342
+2088,creative,dye the   your hair color and use it as extensions or make a bun,dye the your hair color and use it as extensions or make a bun,rope,rope,0.8913
+2089,creative,swing,swing,rope,rope,0.7401800000000001
+2089,creative,Firestarter,firestarter,rope,rope,0.9616
+2089,creative,straps on bags,straps on bags,rope,rope,1.0207
+2090,creative,you can make an art sculpture and use the   to hold pieces up or be a part of the pieces,you can make an art sculpture and use the to hold pieces up or be a part of the pieces,rope,rope,1.10533
+2090,creative,you can tear up a piece of   and tie the strings together to make a hat or a basket of some sort,you can tear up a piece of and tie the strings together to make a hat or a basket of some sort,rope,rope,1.10515
+2091,creative,you can use a   as a belt to hold your pants up,you can use a as a belt to hold your pants up,rope,rope,1.11073
+2091,creative,use a   to pull things closer to you without having to move up and get it,use a to pull things closer to you without having to move up and get it,rope,rope,1.108
+2091,creative,use a   to whip your kids if they misbehave,use a to whip your kids if they misbehave,rope,rope,1.11685
+2091,creative,you can use a   to make a tire swing by hanging it off a tree,you can use a to make a tire swing by hanging it off a tree,rope,rope,0.89426
+2091,creative,use a   to hold something together ie furniture,use a to hold something together ie furniture,rope,rope,1.106
+2091,creative,use a   to tie it to the tv remote  so you don't have to get up and get it,use a to tie it to the tv remote so you dont have to get up and get it,rope,rope,0.8946000000000001
+2091,creative,use a   to climb outside your window,use a to climb outside your window,rope,rope,0.89058
+2092,creative,belt,belt,rope,rope,0.68721
+2092,creative,blanket,blanket,rope,rope,0.71551
+2092,creative,bowtie,bowtie,rope,rope,0.99938
+2092,creative,mummy wrappings,mummy wrappings,rope,rope,1.02504
+2092,creative,hair extensions,hair extensions,rope,rope,1.12665
+2093,creative,use it to tie up a bicycle,use it to tie up a bicycle,rope,rope,0.8924300000000001
+2093,creative,use it to hang decorations around a house,use it to hang decorations around a house,rope,rope,1.11169
+2093,creative,turn it into jewelry,turn it into jewelry,rope,rope,1.10664
+2093,creative,undo it to make a design for clothes,undo it to make a design for clothes,rope,rope,1.07817
+2094,creative,belt,belt,rope,rope,0.68721
+2094,creative,clothing,clothing,rope,rope,0.76149
+2094,creative,jewelry,jewelry,rope,rope,0.86519
+2094,creative,art,art,rope,rope,0.97981
+2094,creative,door holder,door holder,rope,rope,1.03962
+2095,creative,belt,belt,rope,rope,0.68721
+2095,creative,clothes,clothes,rope,rope,0.74484
+2095,creative,insulation,insulation,rope,rope,0.76029
+2095,creative,fuse,fuse,rope,rope,0.7850699999999999
+2095,creative,fire starter,fire starter,rope,rope,1.07032
+2096,creative,necklace,necklace,rope,rope,0.74881
+2096,creative,tightrope,tightrope,rope,rope,0.75475
+2096,creative,wristband,wristband,rope,rope,0.92034
+2096,creative,wind chime,wind chime,rope,rope,0.94955
+2096,creative,hand cuffs,hand cuffs,rope,rope,0.97502
+2097,creative,if coiled on itself and glued together it could be a table,if coiled on itself and glued together it could be a table,rope,rope,0.89625
+2097,creative,if cut and frayed  it could be hay bales in a cowboy diorama,if cut and frayed it could be hay bales in a cowboy diorama,rope,rope,1.11632
+2097,creative,a hopscotch play area,a hopscotch play area,rope,rope,0.89378
+2097,creative,it could be used as a cat scratching post,it could be used as a cat scratching post,rope,rope,0.8797699999999999
+2098,creative,connecting arguing siblings to force them to be together,connecting arguing siblings to force them to be together,rope,rope,0.89577
+2098,creative,lion's breath instrument,lions breath instrument,rope,rope,0.9126
+2098,creative,large yarn,large yarn,rope,rope,0.94985
+2098,creative,ruler,ruler,rope,rope,0.97152
+2098,creative,unwind it and make fake hair,unwind it and make fake hair,rope,rope,0.98851
+2098,creative,exercise equipment,exercise equipment,rope,rope,1.11382
+2098,creative,show and tell for vocabulary lesson,show and tell for vocabulary lesson,rope,rope,1.1142
+2099,creative,jump over it,jump over it,rope,rope,0.83985
+2099,creative,strap things to your car,strap things to your car,rope,rope,0.87457
+2099,creative,throw it over a branch to swing on,throw it over a branch to swing on,rope,rope,1.1067
+2099,creative,lasso something,lasso something,rope,rope,0.94794
+2099,creative,play tug of war with your dog,play tug of war with your dog,rope,rope,0.85564
+2099,creative,pretend it's a snake to scare someone,pretend its a snake to scare someone,rope,rope,0.8705499999999999
+2099,creative,tie someone up,tie someone up,rope,rope,0.84334
+2099,creative,wear it as a belt and pretend you're a monk,wear it as a belt and pretend youre a monk,rope,rope,0.89689
+2099,creative,practice knots,practice knots,rope,rope,1.06747
+2099,creative,crawl up it to get inside a window,crawl up it to get inside a window,rope,rope,1.10961
+2099,creative,use it as a tail,use it as a tail,rope,rope,0.87876
+2100,creative,a reliable manner of glue,a reliable manner of glue,rope,rope,0.92696
+2100,creative,building a bridge,building a bridge,rope,rope,0.87106
+2100,creative,decorations for a house,decorations for a house,rope,rope,1.11355
+2100,creative,a way to keep your hair together,a way to keep your hair together,rope,rope,0.87692
+2101,creative,leash,leash,rope,rope,0.6070800000000001
+2101,creative,use for painting a braided design,use for painting a braided design,rope,rope,0.89922
+2101,creative,puppet strings,puppet strings,rope,rope,0.97053
+2101,creative,something to hold your books together,something to hold your books together,rope,rope,1.12105
+2101,creative,use for exercise,use for exercise,rope,rope,0.88043
+2102,creative,a belt,a belt,rope,rope,1.05259
+2102,creative,toy,toy,rope,rope,0.84333
+2102,creative,exercise equipment,exercise equipment,rope,rope,1.11382
+2104,creative,pulley,pulley,rope,rope,0.5626599999999999
+2104,creative,clothesline,clothesline,rope,rope,0.67309
+2104,creative,shoelace,shoelace,rope,rope,0.7185699999999999
+2104,creative,lasso,lasso,rope,rope,0.79369
+2104,creative,child leash,child leash,rope,rope,0.84826
+2104,creative,puppet string,puppet string,rope,rope,0.93524
+2104,creative,curtain tie,curtain tie,rope,rope,0.97481
+2104,creative,kite tail,kite tail,rope,rope,1.0871
+2106,creative,to climb up,to climb up,rope,rope,0.83628
+2106,creative,tug o war,tug o war,rope,rope,0.86626
+2106,creative,swing,swing,rope,rope,0.7401800000000001
+2106,creative,twist and shape and put concrete on it  call it art,twist and shape and put concrete on it call it art,rope,rope,0.88836
+2106,creative,lasso for astronauts to catch aliens,lasso for astronauts to catch aliens,rope,rope,1.10558
+2107,creative,jewelry,jewelry,rope,rope,0.86519
+2107,creative,take it apart and use string as shoe laces,take it apart and use string as shoe laces,rope,rope,1.11101
+2107,creative,create a leash,create a leash,rope,rope,0.86936
+2107,creative,as a weapon  to spank children with,as a weapon to spank children with,rope,rope,1.02511
+2107,creative,wall decorations,wall decorations,rope,rope,1.10402
+2107,creative,use it as a belt when you cant find one,use it as a belt when you cant find one,rope,rope,0.8921
+2108,creative,leash,leash,rope,rope,0.6070800000000001
+2108,creative,skirt,skirt,rope,rope,0.73532
+2108,creative,necklace,necklace,rope,rope,0.74881
+2108,creative,bracelet,bracelet,rope,rope,0.78295
+2108,creative,picture frame holder,picture frame holder,rope,rope,0.83264
+2108,creative,clothes line,clothes line,rope,rope,1.08815
+2108,creative,measuring stick,measuring stick,rope,rope,1.107
+2108,creative,safety gear,safety gear,rope,rope,1.1553499999999999
+2111,creative,leash,leash,rope,rope,0.6070800000000001
+2111,creative,jump,jump,rope,rope,0.64956
+2111,creative,pants,pants,rope,rope,0.67706
+2111,creative,tie,tie,rope,rope,0.67869
+2111,creative,belt,belt,rope,rope,0.68721
+2111,creative,bracelet,bracelet,rope,rope,0.78295
+2111,creative,wig,wig,rope,rope,0.79383
+2111,creative,measurement,measurement,rope,rope,0.85359
+2111,creative,fake snake,fake snake,rope,rope,0.98556
+2111,creative,finish line,finish line,rope,rope,1.03087
+2111,creative,bungee cord,bungee cord,rope,rope,1.04008
+2111,creative,hair tie,hair tie,rope,rope,1.0521
+2111,creative,blind fold,blind fold,rope,rope,1.11106
+2112,creative,a belt,a belt,rope,rope,1.05259
+2112,creative,tie the bumper of a car on,tie the bumper of a car on,rope,rope,0.89471
+2112,creative,fray and use as floss,fray and use as floss,rope,rope,0.89898
+2112,creative,hang out of the back of pants to be the scarecrow's pet,hang out of the back of pants to be the scarecrows pet,rope,rope,0.88522
+2113,creative,as a tie,as a tie,rope,rope,0.83424
+2113,creative,as a belt,as a belt,rope,rope,0.85623
+2113,creative,to play a game of jumping jacks,to play a game of jumping jacks,rope,rope,0.88337
+2113,creative,to keep a mattress from sliding off of a car,to keep a mattress from sliding off of a car,rope,rope,0.9097999999999999
+2113,creative,as a hair tie,as a hair tie,rope,rope,1.05777
+2113,creative,to pull a car,to pull a car,rope,rope,1.11189
+2113,creative,to measure your arm,to measure your arm,rope,rope,1.11932
+2113,creative,to hang your clothes across when tied up,to hang your clothes across when tied up,rope,rope,1.11257
+2114,creative,use it as necklace,use it as necklace,rope,rope,1.10526
+2114,creative,use it as a leash,use it as a leash,rope,rope,0.90296
+2114,creative,use it as a lever  pull it and something will happen,use it as a lever pull it and something will happen,rope,rope,0.93187
+2114,creative,use it as a swing,use it as a swing,rope,rope,0.88503
+2114,creative,use it as a belt,use it as a belt,rope,rope,0.8805499999999999
+2114,creative,tie many together and make a large swing,tie many together and make a large swing,rope,rope,1.10655
+2115,creative,making some form of clothing out of it,making some form of clothing out of it,rope,rope,1.11892
+2115,creative,unbinding it and weaving the pieces into a patter on a piece of mesh,unbinding it and weaving the pieces into a patter on a piece of mesh,rope,rope,1.12093
+2115,creative,braiding a small piece into a person's hair to create a design,braiding a small piece into a persons hair to create a design,rope,rope,0.88717
+2116,creative,belt,belt,rope,rope,0.68721
+2116,creative,swing,swing,rope,rope,0.7401800000000001
+2116,creative,earrings,earrings,rope,rope,0.7679199999999999
+2116,creative,wig,wig,rope,rope,0.79383
+2116,creative,picture frame edge,picture frame edge,rope,rope,0.82004
+2116,creative,neck tie,neck tie,rope,rope,1.02437
+2116,creative,fire starter,fire starter,rope,rope,1.07032
+2117,creative,use   to pull out teeth,use to pull out teeth,rope,rope,0.88008
+2117,creative,use colorful   as decoration on a wine bottle or vase,use colorful as decoration on a wine bottle or vase,rope,rope,0.88101
+2117,creative,do any experiment on how you get along with a person you're tied to for 4 hours using,do any experiment on how you get along with a person youre tied to for hours using,rope,rope,1.10534
+2117,creative,use   to practice braiding in case you don't have a doll to practice on,use to practice braiding in case you dont have a doll to practice on,rope,rope,0.89495
+2117,creative,use tiny   for earrings,use tiny for earrings,rope,rope,1.13071
+2117,creative,use   as a replacement for hair if you can't afford weave,use as a replacement for hair if you cant afford weave,rope,rope,0.89679
+2117,creative,use   as a belt,use as a belt,rope,rope,1.12012
+2117,creative,use   to store things on the ceiling instead of the floor,use to store things on the ceiling instead of the floor,rope,rope,0.89123
+2120,creative,ladder,ladder,rope,rope,0.47565999999999997
+2120,creative,belt,belt,rope,rope,0.68721
+2120,creative,a ring,a ring,rope,rope,1.0778699999999999
+2120,creative,necklace,necklace,rope,rope,0.74881
+2120,creative,bracelet,bracelet,rope,rope,0.78295
+2120,creative,camping,camping,rope,rope,0.83544
+2120,creative,watch,watch,rope,rope,0.85155
+2120,creative,dream catcher,dream catcher,rope,rope,0.86418
+2120,creative,pumpkin,pumpkin,rope,rope,0.8702
+2120,creative,tie down a trunk,tie down a trunk,rope,rope,0.96185
+2120,creative,shoe string,shoe string,rope,rope,0.91744
+2120,creative,dog leash,dog leash,rope,rope,0.93323
+2120,creative,carry a cup,carry a cup,rope,rope,0.88162
+2120,creative,pull up bar,pull up bar,rope,rope,0.85834
+2120,creative,hair tie,hair tie,rope,rope,1.0521
+2120,creative,fishing pole,fishing pole,rope,rope,1.05339
+2121,creative,climbing,climbing,rope,rope,0.57054
+2121,creative,harness,harness,rope,rope,0.6071599999999999
+2121,creative,noose,noose,rope,rope,0.62784
+2121,creative,hitch,hitch,rope,rope,0.6476999999999999
+2121,creative,belay,belay,rope,rope,0.69697
+2121,creative,escape,escape,rope,rope,0.73519
+2121,creative,pendulum,pendulum,rope,rope,0.75832
+2121,creative,lasso,lasso,rope,rope,0.79369
+2121,creative,pulley system,pulley system,rope,rope,0.89441
+2121,creative,make a splint,make a splint,rope,rope,1.08529
+2121,creative,training,training,rope,rope,0.94001
+2121,creative,dock a boat,dock a boat,rope,rope,0.83543
+2121,creative,tug o  war,tug o war,rope,rope,0.86626
+2121,creative,make a raft,make a raft,rope,rope,0.87803
+2122,creative,pulley,pulley,rope,rope,0.5626599999999999
+2122,creative,jump,jump,rope,rope,0.64956
+2122,creative,tie,tie,rope,rope,0.67869
+2122,creative,belt,belt,rope,rope,0.68721
+2122,creative,weapon,weapon,rope,rope,0.8230500000000001
+2122,creative,guitar string,guitar string,rope,rope,0.91373
+2122,creative,shoe lace,shoe lace,rope,rope,0.93165
+2122,creative,tug of war,tug of war,rope,rope,0.88636
+2123,creative,tow,tow,rope,rope,0.5385599999999999
+2123,creative,leash,leash,rope,rope,0.6070800000000001
+2123,creative,noose,noose,rope,rope,0.62784
+2123,creative,tourniquet,tourniquet,rope,rope,0.68955
+2123,creative,swing,swing,rope,rope,0.7401800000000001
+2123,creative,measuring,measuring,rope,rope,0.82128
+2123,creative,connects,connects,rope,rope,0.8314900000000001
+2123,creative,exercise,exercise,rope,rope,0.83269
+2123,creative,coaster,coaster,rope,rope,0.84263
+2123,creative,net,net,rope,rope,0.85581
+2123,creative,marker,marker,rope,rope,0.86212
+2123,creative,decoration,decoration,rope,rope,0.88772
+2123,creative,trivet,trivet,rope,rope,0.93186
+2123,creative,boat anchor,boat anchor,rope,rope,0.98682
+2123,creative,art holder,art holder,rope,rope,1.09128
+2123,creative,fishing line,fishing line,rope,rope,1.09834
+2124,creative,jump,jump,rope,rope,0.64956
+2124,creative,hammock,hammock,rope,rope,0.70806
+2124,creative,swing,swing,rope,rope,0.7401800000000001
+2124,creative,headband,headband,rope,rope,0.80498
+2124,creative,boat anchor,boat anchor,rope,rope,0.98682
+2124,creative,to dry your clothes on,to dry your clothes on,rope,rope,0.88735
+2125,creative,belt,belt,rope,rope,0.68721
+2125,creative,headband,headband,rope,rope,0.80498
+2125,creative,paint like a snake to scare folks,paint like a snake to scare folks,rope,rope,0.88765
+2125,creative,use to make telephone,use to make telephone,rope,rope,1.12103
+2125,creative,trick people by putting a dollar on the end and pulling it away,trick people by putting a dollar on the end and pulling it away,rope,rope,0.89218
+2125,creative,practice using scissors,practice using scissors,rope,rope,0.88265
+2125,creative,use its friction to cut clay objects,use its friction to cut clay objects,rope,rope,0.88746
+2125,creative,floss for a giant,floss for a giant,rope,rope,0.89788
+2125,creative,use to make a large drat shooter,use to make a large drat shooter,rope,rope,1.11812
+2125,creative,tie on a doorknob to shut door from a distance,tie on a doorknob to shut door from a distance,rope,rope,0.89439
+2126,creative,parachute,parachute,rope,rope,0.65225
+2126,creative,handcuffs,handcuffs,rope,rope,0.65667
+2126,creative,skis,skis,rope,rope,0.67508
+2126,creative,swing,swing,rope,rope,0.7401800000000001
+2126,creative,necklace,necklace,rope,rope,0.74881
+2126,creative,bracelet,bracelet,rope,rope,0.78295
+2126,creative,lasso,lasso,rope,rope,0.79369
+2126,creative,vehicle,vehicle,rope,rope,0.84512
+2126,creative,shield,shield,rope,rope,0.84883
+2126,creative,dream catcher,dream catcher,rope,rope,0.86418
+2126,creative,dinner,dinner,rope,rope,0.89978
+2126,creative,dresser,dresser,rope,rope,0.93341
+2126,creative,floatation device,floatation device,rope,rope,0.93405
+2126,creative,swimsuit,swimsuit,rope,rope,0.93477
+2126,creative,bowtie,bowtie,rope,rope,0.99938
+2126,creative,hair accessory,hair accessory,rope,rope,1.07956
+2128,creative,to jump,to jump,rope,rope,1.0704
+2128,creative,to climb up,to climb up,rope,rope,0.83628
+2128,creative,to hang,to hang,rope,rope,1.08182
+2128,creative,a swing,a swing,rope,rope,1.02017
+2128,creative,to swing on,to swing on,rope,rope,0.85316
+2128,creative,a lasso,a lasso,rope,rope,1.04634
+2128,creative,make a wrestling ring,make a wrestling ring,rope,rope,1.05478
+2128,creative,to get to a higher place,to get to a higher place,rope,rope,1.11598
+2128,creative,to repel out of a copter,to repel out of a copter,rope,rope,0.89172
+2128,creative,to drag something,to drag something,rope,rope,0.85049
+2128,creative,to keep a car trunk closed,to keep a car trunk closed,rope,rope,1.09343
+2128,creative,to retrieve a spear,to retrieve a spear,rope,rope,1.09362
+2128,creative,to drag another car behind,to drag another car behind,rope,rope,0.8726700000000001
+2128,creative,tie down my gf,tie down my gf,rope,rope,1.05468
+2128,creative,to hold something up,to hold something up,rope,rope,1.11733
+2130,creative,belt,belt,rope,rope,0.68721
+2130,creative,sash,sash,rope,rope,0.7396400000000001
+2130,creative,necklace,necklace,rope,rope,0.74881
+2130,creative,weight,weight,rope,rope,0.75099
+2130,creative,floss,floss,rope,rope,0.7708200000000001
+2130,creative,headband,headband,rope,rope,0.80498
+2131,creative,make a wig,make a wig,rope,rope,1.04431
+2131,creative,costume,costume,rope,rope,0.85082
+2131,creative,use to tie up hair,use to tie up hair,rope,rope,0.88018
+2131,creative,decoration,decoration,rope,rope,0.88772
+2131,creative,make a hammock,make a hammock,rope,rope,1.08588
+2131,creative,make figurines,make figurines,rope,rope,0.98734
+2131,creative,to make a picture,to make a picture,rope,rope,1.11228
+2131,creative,measure things,measure things,rope,rope,1.12622
+2133,creative,hang from a tree to climb,hang from a tree to climb,rope,rope,1.10689
+2133,creative,use to pull a person with,use to pull a person with,rope,rope,1.11563
+2133,creative,use as a belt,use as a belt,rope,rope,1.12012
+2133,creative,use to bundle objects together,use to bundle objects together,rope,rope,0.87953
+2134,creative,use it for decorate,use it for decorate,rope,rope,1.10245
+2134,creative,make it for play exercise in the morning,make it for play exercise in the morning,rope,rope,1.10856
+2135,creative,belt,belt,rope,rope,0.68721
+2135,creative,kite,kite,rope,rope,0.7039500000000001
+2135,creative,vase,vase,rope,rope,0.93883
+2135,creative,doll hair,doll hair,rope,rope,1.01271
+2136,creative,bracelet,bracelet,rope,rope,0.78295
+2136,creative,exercise,exercise,rope,rope,0.83269
+2136,creative,whip,whip,rope,rope,0.8432
+2136,creative,magic trick,magic trick,rope,rope,1.00091
+2136,creative,sending things over high elevation,sending things over high elevation,rope,rope,0.9373
+2136,creative,hair tie,hair tie,rope,rope,1.0521
+2136,creative,art project,art project,rope,rope,1.0748199999999999
+2137,creative,suitcase puller,suitcase puller,rope,rope,0.90182
+2137,creative,to unravel for knitting,to unravel for knitting,rope,rope,1.0688
+2137,creative,fire starters,fire starters,rope,rope,1.10866
+2137,creative,measuring tool,measuring tool,rope,rope,1.14263
+2139,creative,leash,leash,rope,rope,0.6070800000000001
+2139,creative,jump,jump,rope,rope,0.64956
+2139,creative,tie,tie,rope,rope,0.67869
+2139,creative,bondage,bondage,rope,rope,0.70199
+2139,creative,tightrope,tightrope,rope,rope,0.75475
+2139,creative,dress,dress,rope,rope,0.76801
+2139,creative,magic,magic,rope,rope,0.8113900000000001
+2139,creative,coloring utensil,coloring utensil,rope,rope,1.06714
+2141,creative,twine,twine,rope,rope,0.5371699999999999
+2141,creative,a noose,a noose,rope,rope,0.93509
+2141,creative,bandage,bandage,rope,rope,0.6947
+2141,creative,a dress,a dress,rope,rope,1.0708
+2141,creative,a giant broom,a giant broom,rope,rope,0.88553
+2141,creative,a neck tie,a neck tie,rope,rope,0.8015
+2141,creative,use as a wick in a candle,use as a wick in a candle,rope,rope,1.10466
+2142,creative,tie around your stomach to lose weight,tie around your stomach to lose weight,rope,rope,0.8708
+2142,creative,make a   dragon for Chinese new years,make a dragon for chinese new years,rope,rope,0.8959
+2142,creative,fishing rod for sharks,fishing rod for sharks,rope,rope,1.09659
+2142,creative,tie hair,tie hair,rope,rope,1.0521
+2142,creative,section hair off while bleaching,section hair off while bleaching,rope,rope,1.11904
+2143,creative,noose,noose,rope,rope,0.62784
+2143,creative,jump,jump,rope,rope,0.64956
+2143,creative,make into a hair bow hair tie,make into a hair bow hair tie,rope,rope,0.83785
+2143,creative,dog toy,dog toy,rope,rope,1.02579
+2143,creative,trace your steps,trace your steps,rope,rope,0.8743799999999999
+2144,creative,gloves,gloves,rope,rope,0.72783
+2144,creative,bracelet,bracelet,rope,rope,0.78295
+2144,creative,hair bow,hair bow,rope,rope,1.02209
+2144,creative,hair tie,hair tie,rope,rope,1.0521
+2144,creative,to remember where you came from,to remember where you came from,rope,rope,1.10431
+2144,creative,coffee holder,coffee holder,rope,rope,1.10544
+2146,creative,a curtain,a curtain,rope,rope,1.02857
+2146,creative,underwear,underwear,rope,rope,0.75735
+2146,creative,brush,brush,rope,rope,0.76201
+2146,creative,a hat,a hat,rope,rope,1.02778
+2146,creative,a helicopter,a helicopter,rope,rope,1.05622
+2146,creative,pen,pen,rope,rope,0.86304
+2146,creative,holder,holder,rope,rope,0.90703
+2146,creative,a costume  stickman,a costume stickman,rope,rope,1.11543
+2146,creative,coiled wearables,coiled wearables,rope,rope,0.99232
+2146,creative,a ring to hold things with or carry,a ring to hold things with or carry,rope,rope,1.11377
+2146,creative,hair extensions,hair extensions,rope,rope,1.12665
+2148,creative,shoelaces,shoelaces,rope,rope,0.66508
+2148,creative,computer wire,computer wire,rope,rope,1.13861
+2149,creative,jump,jump,rope,rope,0.64956
+2149,creative,belt,belt,rope,rope,0.68721
+2149,creative,decoration,decoration,rope,rope,0.88772
+2149,creative,prop,prop,rope,rope,0.92767
+2149,creative,dog leash,dog leash,rope,rope,0.93323
+2149,creative,hula hoop,hula hoop,rope,rope,0.97306
+2149,creative,seat belt,seat belt,rope,rope,0.99153
+2149,creative,hair tie,hair tie,rope,rope,1.0521
+2151,creative,pulley,pulley,rope,rope,0.5626599999999999
+2151,creative,shoelaces,shoelaces,rope,rope,0.66508
+2151,creative,belt,belt,rope,rope,0.68721
+2151,creative,hanger,hanger,rope,rope,0.74343
+2151,creative,string,string,rope,rope,0.76029
+2151,creative,lasso,lasso,rope,rope,0.79369
+2151,creative,dog toy,dog toy,rope,rope,1.02579
+2151,creative,cat toy,cat toy,rope,rope,1.04492
+2151,creative,hair tie,hair tie,rope,rope,1.0521
+2151,creative,fishing line,fishing line,rope,rope,1.09834
+2152,creative,a belt,a belt,rope,rope,1.05259
+2152,creative,word art for wall,word art for wall,rope,rope,1.10612
+2152,creative,wreath,wreath,rope,rope,0.86992
+2152,creative,garland for tree,garland for tree,rope,rope,1.03084
+2152,creative,dog leash,dog leash,rope,rope,0.93323
+2152,creative,place mat,place mat,rope,rope,0.95673
+2153,creative,doorbell when attached to a bell,doorbell when attached to a bell,rope,rope,1.0924
+2153,creative,unthread it so you can use the strands to make something like a weaved basket/net/hat,unthread it so you can use the strands to make something like a weaved basketnethat,rope,rope,1.11253
+2153,creative,boundary divide,boundary divide,rope,rope,0.96841
+2153,creative,coil it to make a hat or basket,coil it to make a hat or basket,rope,rope,1.10764
+2153,creative,lever to pull/load things,lever to pullload things,rope,rope,0.92099
+2153,creative,exercise equipment,exercise equipment,rope,rope,1.11382
+2154,creative,ladder,ladder,rope,rope,0.47565999999999997
+2154,creative,a leash,a leash,rope,rope,0.94221
+2154,creative,a noose,a noose,rope,rope,0.93509
+2154,creative,to climb,to climb,rope,rope,1.05193
+2154,creative,a swing,a swing,rope,rope,1.02017
+2154,creative,a lasso,a lasso,rope,rope,1.04634
+2154,creative,a weapon,a weapon,rope,rope,1.09586
+2154,creative,net,net,rope,rope,0.85581
+2154,creative,to make a trap,to make a trap,rope,rope,1.10854
+2154,creative,to make a fire,to make a fire,rope,rope,1.1158
+2154,creative,exercise equipment,exercise equipment,rope,rope,1.11382
+2155,creative,bows,bows,rope,rope,0.66614
+2155,creative,pretend its the longest noodle in the world,pretend its the longest noodle in the world,rope,rope,0.86498
+2155,creative,or you can use it as a jump,or you can use it as a jump,rope,rope,1.11591
+2155,creative,or use it to make a doll,or use it to make a doll,rope,rope,0.89654
+2155,creative,knot it together to make a blanket,knot it together to make a blanket,rope,rope,1.09632
+2155,creative,ties,ties,rope,rope,0.9141
+2155,creative,pretend its a snake,pretend its a snake,rope,rope,0.99249
+2155,creative,pretend its a eel,pretend its a eel,rope,rope,0.88742
+2155,creative,decoration on a door,decoration on a door,rope,rope,1.11503
+2155,creative,or decoration on a tree,or decoration on a tree,rope,rope,0.87691
+2155,creative,make it a pet,make it a pet,rope,rope,1.1179999999999999
+2155,creative,or use it to make clothes for something,or use it to make clothes for something,rope,rope,1.11721
+2155,creative,or decoration on the mantle,or decoration on the mantle,rope,rope,0.86663
+2156,creative,stairs,stairs,rope,rope,0.65023
+2156,creative,hammock,hammock,rope,rope,0.70806
+2156,creative,swing,swing,rope,rope,0.7401800000000001
+2156,creative,braids,braids,rope,rope,0.74966
+2156,creative,bracelet,bracelet,rope,rope,0.78295
+2156,creative,hold a piñata,hold a piñata,rope,rope,1.13514
+2156,creative,make straight lines,make straight lines,rope,rope,0.86032
+2156,creative,obstacle course,obstacle course,rope,rope,1.02804
+2157,creative,climb,climb,rope,rope,0.64988
+2157,creative,hang flower pots,hang flower pots,rope,rope,0.85854
+2157,creative,curl hair,curl hair,rope,rope,0.98763
+2157,creative,walk a dog,walk a dog,rope,rope,0.84797
+2157,creative,tire swing,tire swing,rope,rope,1.04756
+2157,creative,make a basket,make a basket,rope,rope,0.84717
+2157,creative,create words with it,create words with it,rope,rope,1.11391
+2158,creative,noose,noose,rope,rope,0.62784
+2158,creative,belt,belt,rope,rope,0.68721
+2158,creative,shoelace,shoelace,rope,rope,0.7185699999999999
+2158,creative,swing,swing,rope,rope,0.7401800000000001
+2158,creative,a necklace,a necklace,rope,rope,0.98796
+2158,creative,making a replica of spaghetti noodle,making a replica of spaghetti noodle,rope,rope,0.8853800000000001
+2158,creative,binding,binding,rope,rope,0.80427
+2158,creative,whip,whip,rope,rope,0.8432
+2158,creative,decoration,decoration,rope,rope,0.88772
+2158,creative,replacement for a fishing line,replacement for a fishing line,rope,rope,0.88964
+2158,creative,hair tie,hair tie,rope,rope,1.0521
+2159,creative,use it as hair extension,use it as hair extension,rope,rope,0.87826
+2159,creative,hot couture fashion,hot couture fashion,rope,rope,0.91361
+2159,creative,door stuffer,door stuffer,rope,rope,0.95333
+2159,creative,make furniture out of,make furniture out of,rope,rope,1.12059
+2160,creative,I can make a swing,i can make a swing,rope,rope,0.87593
+2160,creative,I can make shoes,i can make shoes,rope,rope,1.11504
+2160,creative,I can make a dress,i can make a dress,rope,rope,0.87407
+2160,creative,I can make a blanket,i can make a blanket,rope,rope,0.88195
+2160,creative,I can make a sled,i can make a sled,rope,rope,0.89857
+2160,creative,make a bowl,make a bowl,rope,rope,0.83799
+2160,creative,or go fishing with the,or go fishing with the,rope,rope,0.88892
+2160,creative,I can make a hammock,i can make a hammock,rope,rope,1.0965
+2160,creative,I can make a hair bow,i can make a hair bow,rope,rope,1.10935
+2161,creative,unweave a   and use it as a tool to paint with,unweave a and use it as a tool to paint with,rope,rope,1.11152
+2161,creative,coiled together to form a headpiece/mask,coiled together to form a headpiecemask,rope,rope,1.1213
+2161,creative,multiple knitted together to form a hanging construction/hammocks,multiple knitted together to form a hanging constructionhammocks,rope,rope,1.10062
+2162,creative,basket,basket,rope,rope,0.6919500000000001
+2162,creative,carpet,carpet,rope,rope,0.7224999999999999
+2162,creative,floss,floss,rope,rope,0.7708200000000001
+2162,creative,paper,paper,rope,rope,0.8292200000000001
+2162,creative,taken apart and used to make clothing,taken apart and used to make clothing,rope,rope,0.88059
+2162,creative,tracking system in order to avoid getting lost use it to anchor yourself to a post,tracking system in order to avoid getting lost use it to anchor yourself to a post,rope,rope,1.11835
+2162,creative,exfoliate the skin,exfoliate the skin,rope,rope,1.15145
+2162,creative,first aid to help compress a wound,first aid to help compress a wound,rope,rope,0.97706
+2162,creative,light decor,light decor,rope,rope,1.08002
+2162,creative,paint brush,paint brush,rope,rope,1.11173
+2163,creative,pulley,pulley,rope,rope,0.5626599999999999
+2163,creative,leash,leash,rope,rope,0.6070800000000001
+2163,creative,belt,belt,rope,rope,0.68721
+2163,creative,tourniquet,tourniquet,rope,rope,0.68955
+2163,creative,shoes,shoes,rope,rope,0.71302
+2163,creative,snare,snare,rope,rope,0.7340599999999999
+2163,creative,hat,hat,rope,rope,0.7714
+2163,creative,support,support,rope,rope,0.92574
+2163,creative,protection,protection,rope,rope,0.95163
+2163,creative,tinder,tinder,rope,rope,0.96595
+2164,creative,leash,leash,rope,rope,0.6070800000000001
+2164,creative,handcuffs,handcuffs,rope,rope,0.65667
+2164,creative,necklace,necklace,rope,rope,0.74881
+2164,creative,face exfoliator,face exfoliator,rope,rope,0.93247
+2164,creative,hula hoop,hula hoop,rope,rope,0.97306
+2164,creative,dog toy,dog toy,rope,rope,1.02579
+2165,creative,leash,leash,rope,rope,0.6070800000000001
+2165,creative,belt,belt,rope,rope,0.68721
+2165,creative,swing,swing,rope,rope,0.7401800000000001
+2165,creative,whip,whip,rope,rope,0.8432
+2165,creative,bind things,bind things,rope,rope,0.97763
+2165,creative,tug war,tug war,rope,rope,1.00944
+2165,creative,power lines,power lines,rope,rope,1.10365
+2165,creative,phone wire,phone wire,rope,rope,1.12396
+2166,creative,frame,frame,rope,rope,0.6443099999999999
+2166,creative,bridge,bridge,rope,rope,0.68838
+2166,creative,hat,hat,rope,rope,0.7714
+2166,creative,bra,bra,rope,rope,0.85747
+2166,creative,clothes hanger,clothes hanger,rope,rope,0.96771
+2166,creative,pot holder,pot holder,rope,rope,0.97389
+2166,creative,fishing pole,fishing pole,rope,rope,1.05339
+2168,creative,as a belt,as a belt,rope,rope,0.85623
+2168,creative,as a necklace,as a necklace,rope,rope,0.82696
+2168,creative,fake spaghetti noodles,fake spaghetti noodles,rope,rope,0.86085
+2168,creative,hair for your Halloween outfit,hair for your halloween outfit,rope,rope,0.89752
+2168,creative,spider web,spider web,rope,rope,1.00517
+2168,creative,as ninja nunchucks,as ninja nunchucks,rope,rope,1.06168
+2168,creative,used to keep a door closed,used to keep a door closed,rope,rope,1.1188
+2169,creative,climbing,climbing,rope,rope,0.57054
+2169,creative,jump,jump,rope,rope,0.64956
+2169,creative,tying stuff together,tying stuff together,rope,rope,0.82953
+2170,creative,shoelace,shoelace,rope,rope,0.7185699999999999
+2170,creative,swing,swing,rope,rope,0.7401800000000001
+2170,creative,hold things together,hold things together,rope,rope,0.86263
+2170,creative,use it to start a fire,use it to start a fire,rope,rope,1.11422
+2170,creative,tie someone up,tie someone up,rope,rope,0.84334
+2170,creative,tie a gift up,tie a gift up,rope,rope,1.09673
+2170,creative,murder weapon,murder weapon,rope,rope,1.06455
+2170,creative,help someone up,help someone up,rope,rope,0.86188
+2170,creative,spanking someone,spanking someone,rope,rope,1.11366
+2171,creative,jump,jump,rope,rope,0.64956
+2171,creative,belt,belt,rope,rope,0.68721
+2171,creative,measuring,measuring,rope,rope,0.82128
+2171,creative,whip,whip,rope,rope,0.8432
+2171,creative,divider,divider,rope,rope,0.85494
+2171,creative,tug of war,tug of war,rope,rope,0.88636
+2171,creative,tying stuff,tying stuff,rope,rope,1.01869
+2171,creative,learning knots,learning knots,rope,rope,1.07321
+2171,creative,using it as an reinforce,using it as an reinforce,rope,rope,0.88925
+2174,creative,as a dress,as a dress,rope,rope,0.854
+2174,creative,to tie up a criminal and have them dangling over the edge of a mountain,to tie up a criminal and have them dangling over the edge of a mountain,rope,rope,0.89421
+2174,creative,to hang a dead body,to hang a dead body,rope,rope,0.88529
+2174,creative,to catch someone trying to run away,to catch someone trying to run away,rope,rope,0.8901
+2174,creative,use them for sexual acts,use them for sexual acts,rope,rope,0.8822099999999999
+2174,creative,to play hula hoop with,to play hula hoop with,rope,rope,0.99955
+2174,creative,to create a ladder to climb up and down,to create a ladder to climb up and down,rope,rope,0.89663
+2174,creative,to tie dragon up,to tie dragon up,rope,rope,0.9636
+2174,creative,to set a trap up for elves in the forest,to set a trap up for elves in the forest,rope,rope,1.10189
+2174,creative,to choke someone from telling a secret,to choke someone from telling a secret,rope,rope,0.88125
+2175,creative,fence,fence,rope,rope,0.57341
+2175,creative,frame,frame,rope,rope,0.6443099999999999
+2175,creative,snake,snake,rope,rope,0.67092
+2175,creative,bridge,bridge,rope,rope,0.68838
+2175,creative,hair,hair,rope,rope,0.7051700000000001
+2175,creative,coil,coil,rope,rope,0.72723
+2175,creative,swing,swing,rope,rope,0.7401800000000001
+2175,creative,clothes,clothes,rope,rope,0.74484
+2175,creative,shirt,shirt,rope,rope,0.78874
+2175,creative,husband,husband,rope,rope,0.9218
+2175,creative,pocketbook,pocketbook,rope,rope,1.0188
+2175,creative,filing cabinet,filing cabinet,rope,rope,1.12676
+2176,creative,ladder,ladder,rope,rope,0.47565999999999997
+2176,creative,basket,basket,rope,rope,0.6919500000000001
+2176,creative,plate,plate,rope,rope,0.81431
+2176,creative,whip,whip,rope,rope,0.8432
+2176,creative,stuffed snake toy,stuffed snake toy,rope,rope,0.84663
+2176,creative,satchel,satchel,rope,rope,0.91645
+2176,creative,booby trap,booby trap,rope,rope,0.99451
+2176,creative,grappling hook,grappling hook,rope,rope,1.1002399999999999
+2177,creative,belt,belt,rope,rope,0.68721
+2177,creative,swing,swing,rope,rope,0.7401800000000001
+2177,creative,headband,headband,rope,rope,0.80498
+2177,creative,bra,bra,rope,rope,0.85747
+2177,creative,to wrap around a gift,to wrap around a gift,rope,rope,0.88168
+2177,creative,pet leash,pet leash,rope,rope,0.95984
+2177,creative,door knocker,door knocker,rope,rope,0.96523
+2177,creative,hula hoop,hula hoop,rope,rope,0.97306
+2177,creative,loofah,loofah,rope,rope,1.03175
+2177,creative,makeup brush,makeup brush,rope,rope,1.10683
+2178,creative,jumping,jumping,rope,rope,0.55123
+2178,creative,dancing,dancing,rope,rope,0.74
+2178,creative,swing,swing,rope,rope,0.7401800000000001
+2178,creative,painting,painting,rope,rope,0.86774
+2178,creative,working out,working out,rope,rope,1.08473
+2178,creative,a means to transport things,a means to transport things,rope,rope,0.88131
+2178,creative,bungee cord,bungee cord,rope,rope,1.04008
+2178,creative,hair tie,hair tie,rope,rope,1.0521
+2179,creative,to throw,to throw,rope,rope,1.07734
+2179,creative,to bind,to bind,rope,rope,1.01715
+2179,creative,for sailing,for sailing,rope,rope,1.07366
+2179,creative,for measuring knowing length of,for measuring knowing length of,rope,rope,0.87809
+2179,creative,to tie a knot,to tie a knot,rope,rope,0.88182
+2179,creative,to hang a weight,to hang a weight,rope,rope,1.1152
+2179,creative,to use for a belt,to use for a belt,rope,rope,0.88618
+2179,creative,to attach one item to another,to attach one item to another,rope,rope,1.1115
+2180,creative,leash,leash,rope,rope,0.6070800000000001
+2180,creative,clothes,clothes,rope,rope,0.74484
+2180,creative,decoration,decoration,rope,rope,0.88772
+2180,creative,grappling hook,grappling hook,rope,rope,1.1002399999999999
+2181,creative,noose,noose,rope,rope,0.62784
+2181,creative,shoelaces,shoelaces,rope,rope,0.66508
+2181,creative,tourniquet,tourniquet,rope,rope,0.68955
+2181,creative,hoisting,hoisting,rope,rope,0.70793
+2181,creative,shoes,shoes,rope,rope,0.71302
+2181,creative,string,string,rope,rope,0.76029
+2181,creative,binding,binding,rope,rope,0.80427
+2181,creative,saw,saw,rope,rope,0.87631
+2181,creative,demolition,demolition,rope,rope,0.95006
+2181,creative,fibers for fabric,fibers for fabric,rope,rope,0.9342
+2181,creative,mechanical tendon,mechanical tendon,rope,rope,1.00224
+2181,creative,fire starter,fire starter,rope,rope,1.07032
+2182,creative,to tie things together,to tie things together,rope,rope,1.09758
+2182,creative,to pull something heavy,to pull something heavy,rope,rope,1.11999
+2182,creative,to divide a room,to divide a room,rope,rope,1.11313
+2182,creative,to hang someone,to hang someone,rope,rope,0.84593
+2183,creative,ribbon,ribbon,rope,rope,0.61673
+2183,creative,belt,belt,rope,rope,0.68721
+2183,creative,necklace,necklace,rope,rope,0.74881
+2183,creative,bracelet,bracelet,rope,rope,0.78295
+2183,creative,shoe lace,shoe lace,rope,rope,0.93165
+2184,creative,swing,swing,rope,rope,0.7401800000000001
+2184,creative,a lasso,a lasso,rope,rope,1.04634
+2184,creative,tie things from cars,tie things from cars,rope,rope,1.11271
+2184,creative,puppet,puppet,rope,rope,0.8302
+2184,creative,instrument,instrument,rope,rope,0.84137
+2184,creative,vehicle,vehicle,rope,rope,0.84512
+2184,creative,cobweb,cobweb,rope,rope,0.86003
+2184,creative,giant worm,giant worm,rope,rope,1.01675
+2184,creative,safety harness,safety harness,rope,rope,1.10048
+2185,creative,g string,g string,rope,rope,1.0378
+2185,creative,tooth flosser,tooth flosser,rope,rope,0.89472
+2185,creative,booby trap,booby trap,rope,rope,0.99451
+2185,creative,cheese string,cheese string,rope,rope,0.99604
+2185,creative,door opener,door opener,rope,rope,1.00446
+2185,creative,get in between the toes,get in between the toes,rope,rope,0.85823
+2185,creative,butt wiper,butt wiper,rope,rope,1.0207
+2185,creative,pass messages,pass messages,rope,rope,1.11321
+2186,creative,curtains,curtains,rope,rope,0.67443
+2186,creative,swing,swing,rope,rope,0.7401800000000001
+2186,creative,a wig,a wig,rope,rope,0.91118
+2186,creative,a wall,a wall,rope,rope,1.09195
+2186,creative,human sized web,human sized web,rope,rope,0.8739399999999999
+2186,creative,a bowl,a bowl,rope,rope,1.03687
+2186,creative,package stuffing,package stuffing,rope,rope,1.03618
+2187,creative,ladder,ladder,rope,rope,0.47565999999999997
+2187,creative,strap,strap,rope,rope,0.5117
+2187,creative,trap,trap,rope,rope,0.7167399999999999
+2187,creative,swing,swing,rope,rope,0.7401800000000001
+2187,creative,communication system,communication system,rope,rope,1.09624
+2188,creative,flooring,flooring,rope,rope,0.77052
+2188,creative,swinging bridge,swinging bridge,rope,rope,0.94274
+2188,creative,circular rug,circular rug,rope,rope,0.99361
+2188,creative,abstract coat hanger,abstract coat hanger,rope,rope,1.0288
+2188,creative,hanging shelving,hanging shelving,rope,rope,1.0625499999999999
+2188,creative,see through wall,see through wall,rope,rope,0.85277
+2189,creative,a scarf,a scarf,rope,rope,1.00992
+2189,creative,a snake to scare people with,a snake to scare people with,rope,rope,1.10565
+2189,creative,a new potholder,a new potholder,rope,rope,1.14278
+2189,creative,cover it in peanut butter  a treat for squirrels,cover it in peanut butter a treat for squirrels,rope,rope,0.89499
+2189,creative,new handles on a bike,new handles on a bike,rope,rope,0.88359
+2189,creative,macrame owl,macrame owl,rope,rope,1.01041
+2189,creative,a teething toy,a teething toy,rope,rope,1.12994
+2190,creative,belt,belt,rope,rope,0.68721
+2190,creative,hair,hair,rope,rope,0.7051700000000001
+2190,creative,swing,swing,rope,rope,0.7401800000000001
+2190,creative,necklace,necklace,rope,rope,0.74881
+2190,creative,shirt,shirt,rope,rope,0.78874
+2190,creative,pasta,pasta,rope,rope,0.92623
+2191,creative,an impromptu belt,an impromptu belt,rope,rope,0.8920399999999999
+2191,creative,combining   to make a massive jump    up to 15 people could jump at once,combining to make a massive jump up to people could jump at once,rope,rope,0.89315
+2191,creative,unraveling  using the material to weave into something else,unraveling using the material to weave into something else,rope,rope,0.88338
+2192,creative,a fuse,a fuse,rope,rope,1.01196
+2192,creative,corset tie,corset tie,rope,rope,0.90152
+2192,creative,hair tie,hair tie,rope,rope,1.0521

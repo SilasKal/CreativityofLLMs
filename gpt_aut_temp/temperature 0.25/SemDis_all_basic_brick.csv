@@ -1,0 +1,251 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_GloVe_c_m
+0,1,creative,1 Use it as a doorstop or paperweight,use it as a doorstop or paperweight,brick,brick,0.8089
+1,2,creative,2 Create a unique bookend by stacking bricks and gluing them together,create a unique bookend by stacking bricks and gluing them together,brick,brick,0.80714
+2,3,creative,3 Build a small garden wall or border,build a small garden wall or border,brick,brick,0.80787
+3,4,creative,4 Use it as a weight for a workout routine,use it as a weight for a workout routine,brick,brick,0.80755
+4,5,creative,5 Paint it and use it as a decorative piece in your home,paint it and use it as a decorative piece in your home,brick,brick,1.19231
+5,6,creative,6 Use it as a base for a DIY outdoor fire pit,use it as a base for a diy outdoor fire pit,brick,brick,1.19173
+6,7,creative,7 Create a unique outdoor seating area by stacking bricks and adding cushions,create a unique outdoor seating area by stacking bricks and adding cushions,brick,brick,0.8086
+7,8,creative,8 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+8,9,creative,9 Use it as a prop for a photo shoot or theatrical production,use it as a prop for a photo shoot or theatrical production,brick,brick,0.8079000000000001
+9,10,creative,10 Create a unique birdhouse by stacking bricks and adding a roof and entrance hole,create a unique birdhouse by stacking bricks and adding a roof and entrance hole,brick,brick,0.80767
+10,11,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+11,12,creative,2 Create a garden border by stacking bricks in a decorative pattern,create a garden border by stacking bricks in a decorative pattern,brick,brick,0.80821
+12,13,creative,3 Use bricks as weights for a DIY workout routine,use bricks as weights for a diy workout routine,brick,brick,1.19165
+13,14,creative,4 Build a small fire pit or grill using bricks,build a small fire pit or grill using bricks,brick,brick,0.80832
+14,15,creative,5 Use bricks as a base for a table or bench,use bricks as a base for a table or bench,brick,brick,1.19165
+15,16,creative,6 Create a unique piece of art by painting or carving designs into a brick,create a unique piece of art by painting or carving designs into a brick,brick,brick,1.192
+16,17,creative,7 Use bricks to create a makeshift step stool or platform,use bricks to create a makeshift step stool or platform,brick,brick,1.19168
+17,18,creative,8 Build a birdhouse or bird bath using bricks,build a birdhouse or bird bath using bricks,brick,brick,0.8083
+18,19,creative,9 Use bricks to create a DIY pizza oven in your backyard,use bricks to create a diy pizza oven in your backyard,brick,brick,1.19167
+19,20,creative,10 Create a unique and rustic bookshelf by stacking bricks and using wooden planks as shelves,create a unique and rustic bookshelf by stacking bricks and using wooden planks as shelves,brick,brick,0.80718
+20,21,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+21,22,creative,2 Build a small garden wall or border with bricks,build a small garden wall or border with bricks,brick,brick,0.80831
+22,23,creative,3 Use bricks as weights for outdoor workouts,use bricks as weights for outdoor workouts,brick,brick,0.8083400000000001
+23,24,creative,4 Create a unique outdoor fire pit with bricks,create a unique outdoor fire pit with bricks,brick,brick,1.19165
+24,25,creative,5 Use a brick as a makeshift hammer or tool for DIY projects,use a brick as a makeshift hammer or tool for diy projects,brick,brick,0.80832
+25,26,creative,6 Build a brick pathway in your garden or backyard,build a brick pathway in your garden or backyard,brick,brick,0.8083
+26,27,creative,7 Use bricks as a base for a tabletop or outdoor furniture,use bricks as a base for a tabletop or outdoor furniture,brick,brick,0.80832
+27,28,creative,8 Create a unique piece of art by painting or carving a design into a brick,create a unique piece of art by painting or carving a design into a brick,brick,brick,0.80813
+28,29,creative,9 Use bricks as a foundation for a raised garden bed,use bricks as a foundation for a raised garden bed,brick,brick,1.19169
+29,30,creative,10 Build a brick mailbox or birdhouse for your yard,build a brick mailbox or birdhouse for your yard,brick,brick,1.19143
+30,31,creative,1 Use it as a doorstop or bookend,use it as a doorstop or bookend,brick,brick,0.80965
+31,32,creative,2 Turn it into a garden border or edging,turn it into a garden border or edging,brick,brick,0.8080700000000001
+32,33,creative,3 Use it as a weight for a DIY workout routine,use it as a weight for a diy workout routine,brick,brick,0.80881
+33,34,creative,4 Create a unique outdoor seating area by stacking bricks and adding cushions,create a unique outdoor seating area by stacking bricks and adding cushions,brick,brick,0.8086
+34,35,creative,5 Use it as a base for a DIY birdhouse or feeder,use it as a base for a diy birdhouse or feeder,brick,brick,1.19303
+35,36,creative,6 Turn it into a unique paperweight by painting or decorating it,turn it into a unique paperweight by painting or decorating it,brick,brick,1.19239
+36,37,creative,7 Use it as a mold for homemade soap or candles,use it as a mold for homemade soap or candles,brick,brick,1.1917200000000001
+37,38,creative,8 Create a DIY fire pit by stacking bricks in a circle,create a diy fire pit by stacking bricks in a circle,brick,brick,1.19178
+38,39,creative,9 Use it as a makeshift hammer in a pinch,use it as a makeshift hammer in a pinch,brick,brick,0.80847
+39,40,creative,10 Turn it into a unique bookshelf by stacking bricks and adding wooden planks,turn it into a unique bookshelf by stacking bricks and adding wooden planks,brick,brick,0.81195
+40,41,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+41,42,creative,2 Create a unique garden border by stacking bricks vertically,create a unique garden border by stacking bricks vertically,brick,brick,0.80794
+42,43,creative,3 Use a brick as a weight to hold down a tarp or outdoor tablecloth,use a brick as a weight to hold down a tarp or outdoor tablecloth,brick,brick,0.80804
+43,44,creative,4 Build a brick fire pit in your backyard for outdoor gatherings,build a brick fire pit in your backyard for outdoor gatherings,brick,brick,0.80833
+44,45,creative,5 Use bricks as a base for a DIY coffee table or bench,use bricks as a base for a diy coffee table or bench,brick,brick,0.80832
+45,46,creative,6 Create a brick pathway in your garden or yard,create a brick pathway in your garden or yard,brick,brick,0.80825
+46,47,creative,7 Use bricks to create a unique and rustic backsplash in your kitchen,use bricks to create a unique and rustic backsplash in your kitchen,brick,brick,0.8084
+47,48,creative,8 Build a brick mailbox that stands out on your street,build a brick mailbox that stands out on your street,brick,brick,1.19171
+48,49,creative,9 Use bricks to create a unique and sturdy bookshelf,use bricks to create a unique and sturdy bookshelf,brick,brick,0.81447
+49,50,creative,10 Create a brick accent wall in your home for a bold and industrial look,create a brick accent wall in your home for a bold and industrial look,brick,brick,0.81194
+50,51,creative,1 Use a brick as a bookend for a rustic or industrialthemed bookshelf,use a brick as a bookend for a rustic or industrialthemed bookshelf,brick,brick,0.80894
+51,52,creative,2 Create a unique doorstop by wrapping a brick in colorful fabric or yarn,create a unique doorstop by wrapping a brick in colorful fabric or yarn,brick,brick,0.80806
+52,53,creative,3 Use bricks as weights for outdoor games like cornhole or horseshoes,use bricks as weights for outdoor games like cornhole or horseshoes,brick,brick,1.19166
+53,54,creative,4 Build a small garden wall or border using bricks as the base,build a small garden wall or border using bricks as the base,brick,brick,1.19169
+54,55,creative,5 Use a brick as a makeshift hammer in a pinch,use a brick as a makeshift hammer in a pinch,brick,brick,1.19166
+55,56,creative,6 Create a DIY fire pit by stacking bricks in a circle and filling the center with wood or charcoal,create a diy fire pit by stacking bricks in a circle and filling the center with wood or charcoal,brick,brick,1.19167
+56,57,creative,7 Use bricks as a base for a DIY outdoor table or bench,use bricks as a base for a diy outdoor table or bench,brick,brick,0.80833
+57,58,creative,8 Create a unique piece of wall art by painting a brick with a fun design or quote,create a unique piece of wall art by painting a brick with a fun design or quote,brick,brick,0.80802
+58,59,creative,9 Use bricks as a base for a DIY birdhouse or bird bath,use bricks as a base for a diy birdhouse or bird bath,brick,brick,1.19167
+59,60,creative,10 Create a unique and sturdy bookshelf by stacking bricks and wooden planks,create a unique and sturdy bookshelf by stacking bricks and wooden planks,brick,brick,0.82082
+60,61,creative,1 Use a brick as a doorstop,use a brick as a doorstop,brick,brick,0.80828
+61,62,creative,2 Create a unique bookend by stacking a few bricks together,create a unique bookend by stacking a few bricks together,brick,brick,0.80698
+62,63,creative,3 Use a brick as a weight to hold down a tarp or tent,use a brick as a weight to hold down a tarp or tent,brick,brick,0.80836
+63,64,creative,4 Use a brick as a makeshift hammer to drive in nails,use a brick as a makeshift hammer to drive in nails,brick,brick,0.8083400000000001
+64,65,creative,5 Create a garden border by stacking bricks together,create a garden border by stacking bricks together,brick,brick,1.19179
+65,66,creative,6 Use a brick as a paperweight on your desk,use a brick as a paperweight on your desk,brick,brick,1.19183
+66,67,creative,7 Use a brick as a base for a DIY birdhouse or bird bath,use a brick as a base for a diy birdhouse or bird bath,brick,brick,0.8083400000000001
+67,68,creative,8 Create a unique piece of art by painting a brick and displaying it on a shelf,create a unique piece of art by painting a brick and displaying it on a shelf,brick,brick,1.1919
+68,69,creative,9 Use a brick as a prop for a photo shoot or movie scene,use a brick as a prop for a photo shoot or movie scene,brick,brick,1.19164
+69,70,creative,10 Use a brick as a weight to hold down a blanket or tablecloth during a picnic,use a brick as a weight to hold down a blanket or tablecloth during a picnic,brick,brick,0.8084899999999999
+70,71,creative,1 Use a brick as a doorstop or paperweight,use a brick as a doorstop or paperweight,brick,brick,1.19181
+71,72,creative,2 Create a unique bookend by stacking bricks and gluing them together,create a unique bookend by stacking bricks and gluing them together,brick,brick,0.80714
+72,73,creative,3 Use bricks to create a raised garden bed or border for a flower bed,use bricks to create a raised garden bed or border for a flower bed,brick,brick,1.19167
+73,74,creative,4 Build a brick fire pit in your backyard for outdoor gatherings,build a brick fire pit in your backyard for outdoor gatherings,brick,brick,0.80833
+74,75,creative,5 Use bricks to create a DIY outdoor bench or table,use bricks to create a diy outdoor bench or table,brick,brick,0.80832
+75,76,creative,6 Use bricks as weights for a homemade workout routine,use bricks as weights for a homemade workout routine,brick,brick,0.80832
+76,77,creative,7 Create a brick pathway in your garden or backyard,create a brick pathway in your garden or backyard,brick,brick,0.8083
+77,78,creative,8 Use bricks to create a unique and rustic wall decoration,use bricks to create a unique and rustic wall decoration,brick,brick,1.19037
+78,79,creative,9 Use bricks to create a base for a birdhouse or bird bath,use bricks to create a base for a birdhouse or bird bath,brick,brick,0.80832
+79,80,creative,10 Use bricks to create a DIY pizza oven in your backyard,use bricks to create a diy pizza oven in your backyard,brick,brick,1.19167
+80,81,creative,1 Bookend Use a brick as a sturdy bookend to keep your books in place on a shelf,bookend use a brick as a sturdy bookend to keep your books in place on a shelf,brick,brick,1.18833
+81,82,creative,2 Garden marker Paint a brick with the name of a plant or herb and use it as a garden marker,garden marker paint a brick with the name of a plant or herb and use it as a garden marker,brick,brick,1.19167
+82,83,creative,3 Doorstop Use a brick as a doorstop to keep a door open or closed,doorstop use a brick as a doorstop to keep a door open or closed,brick,brick,1.19167
+83,84,creative,4 Paperweight Use a brick as a heavy paperweight to keep papers from flying away,paperweight use a brick as a heavy paperweight to keep papers from flying away,brick,brick,1.19168
+84,85,creative,5 Exercise weight Use a brick as a makeshift weight for arm curls or other exercises,exercise weight use a brick as a makeshift weight for arm curls or other exercises,brick,brick,1.19168
+85,86,creative,6 Phone holder Prop up your phone on a brick to watch videos or take photos,phone holder prop up your phone on a brick to watch videos or take photos,brick,brick,1.19112
+86,87,creative,7 Fire pit Build a small fire pit with bricks for a cozy outdoor gathering spot,fire pit build a small fire pit with bricks for a cozy outdoor gathering spot,brick,brick,1.19167
+87,88,creative,8 Pet food bowl holder Use a brick to elevate your pet's food bowl off the ground,pet food bowl holder use a brick to elevate your pets food bowl off the ground,brick,brick,0.8083400000000001
+88,89,creative,9 DIY bookshelf Stack bricks to create a unique DIY bookshelf,diy bookshelf stack bricks to create a unique diy bookshelf,brick,brick,1.19286
+89,90,creative,10 DIY garden bench Use bricks to create a sturdy DIY garden bench,diy garden bench use bricks to create a sturdy diy garden bench,brick,brick,0.80833
+90,91,creative,1 Use it as a doorstop or bookend,use it as a doorstop or bookend,brick,brick,0.80965
+91,92,creative,2 Paint it and use it as a decorative paperweight,paint it and use it as a decorative paperweight,brick,brick,1.1923
+92,93,creative,3 Use it as a weight for outdoor games like cornhole or horseshoes,use it as a weight for outdoor games like cornhole or horseshoes,brick,brick,0.8086800000000001
+93,94,creative,4 Build a small raised garden bed with bricks as the border,build a small raised garden bed with bricks as the border,brick,brick,0.80832
+94,95,creative,5 Use it as a makeshift hammer to pound in stakes or nails,use it as a makeshift hammer to pound in stakes or nails,brick,brick,1.19096
+95,96,creative,6 Create a unique piece of art by painting or carving designs into the brick,create a unique piece of art by painting or carving designs into the brick,brick,brick,1.19202
+96,97,creative,7 Use it as a base for a birdhouse or bird bath,use it as a base for a birdhouse or bird bath,brick,brick,1.19186
+97,98,creative,8 Use it as a weight to hold down a tarp or tent,use it as a weight to hold down a tarp or tent,brick,brick,1.19116
+98,99,creative,9 Use it as a prop for photography or film sets,use it as a prop for photography or film sets,brick,brick,0.85588
+99,100,creative,10 Use it as a mold for making homemade soap or candles,use it as a mold for making homemade soap or candles,brick,brick,0.80829
+100,101,creative,1 Use a brick as a doorstop or paperweight,use a brick as a doorstop or paperweight,brick,brick,1.19181
+101,102,creative,2 Create a unique bookend by stacking bricks and gluing them together,create a unique bookend by stacking bricks and gluing them together,brick,brick,0.80714
+102,103,creative,3 Use a brick as a makeshift weight for a workout,use a brick as a makeshift weight for a workout,brick,brick,1.19166
+103,104,creative,4 Build a small garden bed by stacking bricks in a square or rectangular shape,build a small garden bed by stacking bricks in a square or rectangular shape,brick,brick,1.19169
+104,105,creative,5 Use bricks as a base for a fire pit or outdoor grill,use bricks as a base for a fire pit or outdoor grill,brick,brick,1.19167
+105,106,creative,6 Create a unique piece of art by painting or decorating a brick,create a unique piece of art by painting or decorating a brick,brick,brick,1.19196
+106,107,creative,7 Use bricks to create a unique and sturdy outdoor bench or seating area,use bricks to create a unique and sturdy outdoor bench or seating area,brick,brick,1.19167
+107,108,creative,8 Use bricks to create a unique and sturdy outdoor table or workspace,use bricks to create a unique and sturdy outdoor table or workspace,brick,brick,1.1912
+108,109,creative,9 Use bricks to create a unique and sturdy outdoor bar or serving area,use bricks to create a unique and sturdy outdoor bar or serving area,brick,brick,1.19164
+109,110,creative,10 Use bricks to create a unique and sturdy outdoor pizza oven,use bricks to create a unique and sturdy outdoor pizza oven,brick,brick,1.19162
+110,111,creative,1 Use it as a doorstop or paperweight,use it as a doorstop or paperweight,brick,brick,0.8089
+111,112,creative,2 Turn it into a bookend for your bookshelf,turn it into a bookend for your bookshelf,brick,brick,1.16402
+112,113,creative,3 Use it as a weight for your workout routine,use it as a weight for your workout routine,brick,brick,0.80737
+113,114,creative,4 Create a unique garden border by stacking bricks,create a unique garden border by stacking bricks,brick,brick,1.1917200000000001
+114,115,creative,5 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+115,116,creative,6 Turn it into a unique and rustic photo frame,turn it into a unique and rustic photo frame,brick,brick,0.81401
+116,117,creative,7 Use it as a base for a DIY outdoor fire pit,use it as a base for a diy outdoor fire pit,brick,brick,1.19173
+117,118,creative,8 Create a unique and industriallooking bookshelf by stacking bricks and wooden planks,create a unique and industriallooking bookshelf by stacking bricks and wooden planks,brick,brick,0.81136
+118,119,creative,9 Use it as a prop for a theatrical production or photo shoot,use it as a prop for a theatrical production or photo shoot,brick,brick,0.8079000000000001
+119,120,creative,10 Turn it into a unique and functional birdhouse,turn it into a unique and functional birdhouse,brick,brick,0.86978
+120,121,creative,1 Use it as a doorstop or bookend,use it as a doorstop or bookend,brick,brick,0.80965
+121,122,creative,2 Create a unique garden border by stacking bricks vertically,create a unique garden border by stacking bricks vertically,brick,brick,0.80794
+122,123,creative,3 Use it as a weight for a homemade workout routine,use it as a weight for a homemade workout routine,brick,brick,1.19183
+123,124,creative,4 Build a small outdoor fireplace or grill,build a small outdoor fireplace or grill,brick,brick,0.80835
+124,125,creative,5 Use it as a base for a table or bench,use it as a base for a table or bench,brick,brick,1.19143
+125,126,creative,6 Create a DIY birdhouse by stacking bricks and leaving openings for birds to nest,create a diy birdhouse by stacking bricks and leaving openings for birds to nest,brick,brick,1.19154
+126,127,creative,7 Use it as a paperweight on a desk,use it as a paperweight on a desk,brick,brick,0.80682
+127,128,creative,8 Build a small retaining wall to prevent erosion in a garden,build a small retaining wall to prevent erosion in a garden,brick,brick,0.80768
+128,129,creative,9 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+129,130,creative,10 Create a unique piece of art by painting or carving designs into the brick,create a unique piece of art by painting or carving designs into the brick,brick,brick,1.19202
+130,131,creative,1 Use it as a doorstop or paperweight,use it as a doorstop or paperweight,brick,brick,0.8089
+131,132,creative,2 Turn it into a bookend for your bookshelf,turn it into a bookend for your bookshelf,brick,brick,1.16402
+132,133,creative,3 Use it as a weight for your workout routine,use it as a weight for your workout routine,brick,brick,0.80737
+133,134,creative,4 Create a unique garden border by stacking bricks,create a unique garden border by stacking bricks,brick,brick,1.1917200000000001
+134,135,creative,5 Use it as a base for a DIY outdoor fire pit,use it as a base for a diy outdoor fire pit,brick,brick,1.19173
+135,136,creative,6 Turn it into a decorative piece by painting or carving designs into it,turn it into a decorative piece by painting or carving designs into it,brick,brick,0.80696
+136,137,creative,7 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+137,138,creative,8 Use it as a prop for a photoshoot or film set,use it as a prop for a photoshoot or film set,brick,brick,0.8399300000000001
+138,139,creative,9 Create a unique piece of furniture by stacking and gluing bricks together,create a unique piece of furniture by stacking and gluing bricks together,brick,brick,0.80755
+139,140,creative,10 Use it as a mold for making homemade soap or candles,use it as a mold for making homemade soap or candles,brick,brick,0.80829
+140,141,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+141,142,creative,2 Create a unique garden border by stacking bricks in a decorative pattern,create a unique garden border by stacking bricks in a decorative pattern,brick,brick,1.19181
+142,143,creative,3 Use bricks as weights for a DIY workout routine,use bricks as weights for a diy workout routine,brick,brick,1.19165
+143,144,creative,4 Use a brick as a makeshift hammer in a pinch,use a brick as a makeshift hammer in a pinch,brick,brick,1.19166
+144,145,creative,5 Build a small fire pit or barbecue using bricks,build a small fire pit or barbecue using bricks,brick,brick,0.80828
+145,146,creative,6 Use bricks to create a unique and sturdy base for a coffee table or other piece of furniture,use bricks to create a unique and sturdy base for a coffee table or other piece of furniture,brick,brick,0.80845
+146,147,creative,7 Use bricks as a base for a DIY birdhouse or feeder,use bricks as a base for a diy birdhouse or feeder,brick,brick,1.19187
+147,148,creative,8 Create a unique and rustic wall decoration by arranging bricks in a pattern and hanging them on the wall,create a unique and rustic wall decoration by arranging bricks in a pattern and hanging them on the wall,brick,brick,0.80847
+148,149,creative,9 Use bricks to create a unique and sturdy base for a mailbox,use bricks to create a unique and sturdy base for a mailbox,brick,brick,0.80811
+149,150,creative,10 Use bricks to create a unique and sturdy base for a garden statue or other outdoor decoration,use bricks to create a unique and sturdy base for a garden statue or other outdoor decoration,brick,brick,1.19167
+150,151,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+151,152,creative,2 Build a small garden wall or border with bricks,build a small garden wall or border with bricks,brick,brick,0.80831
+152,153,creative,3 Use a brick as a weight for exercise,use a brick as a weight for exercise,brick,brick,1.19224
+153,154,creative,4 Create a unique piece of art by painting or carving a design into a brick,create a unique piece of art by painting or carving a design into a brick,brick,brick,0.80813
+154,155,creative,5 Use a brick as a makeshift hammer or tool for DIY projects,use a brick as a makeshift hammer or tool for diy projects,brick,brick,0.80832
+155,156,creative,6 Build a fire pit or barbecue grill with bricks,build a fire pit or barbecue grill with bricks,brick,brick,0.80833
+156,157,creative,7 Use bricks as weights to hold down outdoor furniture during windy weather,use bricks as weights to hold down outdoor furniture during windy weather,brick,brick,0.80833
+157,158,creative,8 Create a unique outdoor seating area by stacking bricks and adding cushions,create a unique outdoor seating area by stacking bricks and adding cushions,brick,brick,0.8086
+158,159,creative,9 Use bricks to create a unique pathway or stepping stones in a garden,use bricks to create a unique pathway or stepping stones in a garden,brick,brick,0.80833
+159,160,creative,10 Build a birdhouse or bird bath with bricks,build a birdhouse or bird bath with bricks,brick,brick,0.80829
+160,161,creative,1 Use it as a doorstop or paperweight,use it as a doorstop or paperweight,brick,brick,0.8089
+161,162,creative,2 Turn it into a bookend by painting or decorating it,turn it into a bookend by painting or decorating it,brick,brick,0.81804
+162,163,creative,3 Use it as a weight for outdoor furniture during windy weather,use it as a weight for outdoor furniture during windy weather,brick,brick,1.19158
+163,164,creative,4 Create a unique garden border by stacking bricks vertically,create a unique garden border by stacking bricks vertically,brick,brick,0.80794
+164,165,creative,5 Use it as a base for a DIY fire pit in your backyard,use it as a base for a diy fire pit in your backyard,brick,brick,1.19162
+165,166,creative,6 Turn it into a unique planter by drilling holes and adding soil and plants,turn it into a unique planter by drilling holes and adding soil and plants,brick,brick,0.8494200000000001
+166,167,creative,7 Use it as a weight for a homemade workout routine,use it as a weight for a homemade workout routine,brick,brick,1.19183
+167,168,creative,8 Create a rustic and industriallooking shelf by stacking bricks and placing a wooden board on top,create a rustic and industriallooking shelf by stacking bricks and placing a wooden board on top,brick,brick,0.80936
+168,169,creative,9 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+169,170,creative,10 Turn it into a unique and functional doorstop by attaching a handle or knob to it,turn it into a unique and functional doorstop by attaching a handle or knob to it,brick,brick,1.19046
+170,171,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+171,172,creative,2 Create a unique garden border by stacking bricks in a pattern,create a unique garden border by stacking bricks in a pattern,brick,brick,0.808
+172,173,creative,3 Use bricks as weights for a DIY workout routine,use bricks as weights for a diy workout routine,brick,brick,1.19165
+173,174,creative,4 Build a brick fire pit in your backyard for outdoor gatherings,build a brick fire pit in your backyard for outdoor gatherings,brick,brick,0.80833
+174,175,creative,5 Use bricks as a base for a DIY coffee table or bench,use bricks as a base for a diy coffee table or bench,brick,brick,0.80832
+175,176,creative,6 Create a brick pathway in your garden or backyard,create a brick pathway in your garden or backyard,brick,brick,0.8083
+176,177,creative,7 Use bricks to create a unique and rustic accent wall in your home,use bricks to create a unique and rustic accent wall in your home,brick,brick,1.19269
+177,178,creative,8 Build a brick mailbox that stands out from the rest,build a brick mailbox that stands out from the rest,brick,brick,1.19171
+178,179,creative,9 Use bricks to create a DIY pizza oven in your backyard,use bricks to create a diy pizza oven in your backyard,brick,brick,1.19167
+179,180,creative,10 Create a unique and industriallooking bookshelf by stacking bricks and wooden planks,create a unique and industriallooking bookshelf by stacking bricks and wooden planks,brick,brick,0.81136
+180,181,creative,1 Use it as a doorstop,use it as a doorstop,brick,brick,1.19056
+181,182,creative,2 Paint it and use it as a bookend,paint it and use it as a bookend,brick,brick,0.82254
+182,183,creative,3 Build a small garden wall or border,build a small garden wall or border,brick,brick,0.80787
+183,184,creative,4 Use it as a weight for a homemade workout routine,use it as a weight for a homemade workout routine,brick,brick,1.19183
+184,185,creative,5 Create a unique paperweight for your desk,create a unique paperweight for your desk,brick,brick,1.19564
+185,186,creative,6 Use it as a base for a DIY outdoor fire pit,use it as a base for a diy outdoor fire pit,brick,brick,1.19173
+186,187,creative,7 Turn it into a decorative piece by carving or etching designs into it,turn it into a decorative piece by carving or etching designs into it,brick,brick,1.18961
+187,188,creative,8 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+188,189,creative,9 Create a unique and rustic door handle,create a unique and rustic door handle,brick,brick,0.8274
+189,190,creative,10 Use it as a prop for a photo shoot or movie set,use it as a prop for a photo shoot or movie set,brick,brick,0.80963
+190,191,creative,1 Use it as a doorstop or paperweight,use it as a doorstop or paperweight,brick,brick,0.8089
+191,192,creative,2 Build a small garden bed or raised planter,build a small garden bed or raised planter,brick,brick,0.80771
+192,193,creative,3 Create a unique bookend by stacking bricks and gluing them together,create a unique bookend by stacking bricks and gluing them together,brick,brick,0.80714
+193,194,creative,4 Use it as a weight for exercise or as a prop for yoga poses,use it as a weight for exercise or as a prop for yoga poses,brick,brick,0.89341
+194,195,creative,5 Turn it into a rustic candle holder by drilling a hole in the top,turn it into a rustic candle holder by drilling a hole in the top,brick,brick,1.19259
+195,196,creative,6 Use it as a base for a table or bench,use it as a base for a table or bench,brick,brick,1.19143
+196,197,creative,7 Create a DIY fire pit by stacking bricks in a circle,create a diy fire pit by stacking bricks in a circle,brick,brick,1.19178
+197,198,creative,8 Use it as a makeshift step stool or platform,use it as a makeshift step stool or platform,brick,brick,0.80827
+198,199,creative,9 Turn it into a decorative piece by painting or adding mosaic tiles,turn it into a decorative piece by painting or adding mosaic tiles,brick,brick,1.19239
+199,200,creative,10 Use it as a weight to hold down a tarp or tent while camping,use it as a weight to hold down a tarp or tent while camping,brick,brick,1.19175
+200,201,creative,1 Use it as a doorstop or paperweight,use it as a doorstop or paperweight,brick,brick,0.8089
+201,202,creative,2 Build a small garden wall or border,build a small garden wall or border,brick,brick,0.80787
+202,203,creative,3 Use it as a weight for a workout,use it as a weight for a workout,brick,brick,1.19271
+203,204,creative,4 Create a unique bookend by stacking bricks,create a unique bookend by stacking bricks,brick,brick,1.1828
+204,205,creative,5 Use it as a base for a DIY outdoor fire pit,use it as a base for a diy outdoor fire pit,brick,brick,1.19173
+205,206,creative,6 Use it as a makeshift hammer for small DIY projects,use it as a makeshift hammer for small diy projects,brick,brick,0.80828
+206,207,creative,7 Create a unique and rustic bookshelf by stacking bricks and wooden planks,create a unique and rustic bookshelf by stacking bricks and wooden planks,brick,brick,1.19554
+207,208,creative,8 Use it as a prop for a photoshoot or film set,use it as a prop for a photoshoot or film set,brick,brick,0.8399300000000001
+208,209,creative,9 Create a unique and functional outdoor seating area by stacking bricks and adding cushions,create a unique and functional outdoor seating area by stacking bricks and adding cushions,brick,brick,0.80874
+209,210,creative,10 Use it as a unique and rustic centerpiece for a table setting,use it as a unique and rustic centerpiece for a table setting,brick,brick,1.1917200000000001
+210,211,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+211,212,creative,2 Create a unique garden border by stacking bricks in a decorative pattern,create a unique garden border by stacking bricks in a decorative pattern,brick,brick,1.19181
+212,213,creative,3 Use a brick as a weight for outdoor games like cornhole or horseshoes,use a brick as a weight for outdoor games like cornhole or horseshoes,brick,brick,1.19164
+213,214,creative,4 Build a small outdoor fireplace or fire pit with bricks,build a small outdoor fireplace or fire pit with bricks,brick,brick,1.19167
+214,215,creative,5 Use bricks as weights for a DIY workout routine,use bricks as weights for a diy workout routine,brick,brick,1.19165
+215,216,creative,6 Create a rustic and industriallooking shelf by stacking bricks and placing a wooden board on top,create a rustic and industriallooking shelf by stacking bricks and placing a wooden board on top,brick,brick,0.80936
+216,217,creative,7 Use a brick as a makeshift hammer in a pinch,use a brick as a makeshift hammer in a pinch,brick,brick,1.19166
+217,218,creative,8 Use bricks to create a unique and sturdy base for a table or bench,use bricks to create a unique and sturdy base for a table or bench,brick,brick,0.80828
+218,219,creative,9 Create a DIY birdhouse by stacking bricks and leaving openings for birds to nest,create a diy birdhouse by stacking bricks and leaving openings for birds to nest,brick,brick,1.19154
+219,220,creative,10 Use bricks to create a unique and eyecatching backdrop for photography or events,use bricks to create a unique and eyecatching backdrop for photography or events,brick,brick,1.19191
+220,221,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+221,222,creative,2 Create a unique garden border by stacking bricks,create a unique garden border by stacking bricks,brick,brick,1.1917200000000001
+222,223,creative,3 Use bricks as weights for a DIY workout routine,use bricks as weights for a diy workout routine,brick,brick,1.19165
+223,224,creative,4 Build a small fire pit or barbecue grill with bricks,build a small fire pit or barbecue grill with bricks,brick,brick,1.19167
+224,225,creative,5 Use bricks as a base for a table or bench,use bricks as a base for a table or bench,brick,brick,1.19165
+225,226,creative,6 Create a unique piece of wall art by painting bricks and arranging them in a pattern,create a unique piece of wall art by painting bricks and arranging them in a pattern,brick,brick,1.19177
+226,227,creative,7 Use bricks as a makeshift step stool or platform,use bricks as a makeshift step stool or platform,brick,brick,0.80832
+227,228,creative,8 Build a birdhouse or bird bath with bricks,build a birdhouse or bird bath with bricks,brick,brick,0.80829
+228,229,creative,9 Use bricks to create a unique pathway in your yard or garden,use bricks to create a unique pathway in your yard or garden,brick,brick,1.19169
+229,230,creative,10 Use bricks as a base for a DIY outdoor pizza oven,use bricks as a base for a diy outdoor pizza oven,brick,brick,1.19167
+230,231,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+231,232,creative,2 Create a unique garden border by stacking bricks in a decorative pattern,create a unique garden border by stacking bricks in a decorative pattern,brick,brick,1.19181
+232,233,creative,3 Use bricks to create a DIY fire pit in your backyard,use bricks to create a diy fire pit in your backyard,brick,brick,1.19167
+233,234,creative,4 Use a brick as a weight to hold down a tarp or outdoor furniture during windy weather,use a brick as a weight to hold down a tarp or outdoor furniture during windy weather,brick,brick,1.19167
+234,235,creative,5 Create a rustic and industriallooking shelf by stacking bricks and placing a wooden board on top,create a rustic and industriallooking shelf by stacking bricks and placing a wooden board on top,brick,brick,0.80936
+235,236,creative,6 Use bricks as a base for a table or bench in your outdoor space,use bricks as a base for a table or bench in your outdoor space,brick,brick,1.19167
+236,237,creative,7 Use bricks to create a unique and eyecatching mailbox stand,use bricks to create a unique and eyecatching mailbox stand,brick,brick,0.80844
+237,238,creative,8 Use bricks to create a DIY outdoor oven or grill,use bricks to create a diy outdoor oven or grill,brick,brick,0.80833
+238,239,creative,9 Use bricks to create a unique and sturdy bookshelf,use bricks to create a unique and sturdy bookshelf,brick,brick,0.81447
+239,240,creative,10 Use bricks to create a decorative and functional pathway in your garden or backyard,use bricks to create a decorative and functional pathway in your garden or backyard,brick,brick,1.19167
+240,241,creative,1 Use a brick as a doorstop or bookend,use a brick as a doorstop or bookend,brick,brick,1.19161
+241,242,creative,2 Create a unique garden border by stacking bricks,create a unique garden border by stacking bricks,brick,brick,1.1917200000000001
+242,243,creative,3 Use bricks as weights for a homemade workout routine,use bricks as weights for a homemade workout routine,brick,brick,0.80832
+243,244,creative,4 Build a small outdoor fireplace or grill using bricks,build a small outdoor fireplace or grill using bricks,brick,brick,0.80833
+244,245,creative,5 Use bricks as a base for a DIY coffee table or side table,use bricks as a base for a diy coffee table or side table,brick,brick,1.19163
+245,246,creative,6 Create a unique piece of wall art by painting bricks and arranging them in a pattern,create a unique piece of wall art by painting bricks and arranging them in a pattern,brick,brick,1.19177
+246,247,creative,7 Use bricks as a makeshift step stool or platform for hardtoreach areas,use bricks as a makeshift step stool or platform for hardtoreach areas,brick,brick,0.80833
+247,248,creative,8 Build a small retaining wall to create a raised garden bed,build a small retaining wall to create a raised garden bed,brick,brick,0.80813
+248,249,creative,9 Use bricks as a base for a bird bath or fountain,use bricks as a base for a bird bath or fountain,brick,brick,0.80833
+249,250,creative,10 Create a unique outdoor seating area by stacking bricks and adding cushions,create a unique outdoor seating area by stacking bricks and adding cushions,brick,brick,0.8086

@@ -1,0 +1,250 @@
+...1,id,condition,response,response_clean,item,item_clean,SemDis_cbowukwacsubtitle_c_m,SemDis_cbowsubtitle_c_m,SemDis_cbowBNCwikiukwac_c_m,SemDis_TASA_c_m,SemDis_glove_c_m,SemDis_MEAN,SemDis_factor
+0,1,creative,1 Make a swing,make a swing,rope,rope,0.71265,0.89514,0.94898,0.91003,0.8544700000000001,0.86425,-0.2093
+1,2,creative,2 Use it as a jump rope,use it as a jump rope,rope,rope,0.83758,0.94054,1.14178,0.963,1.11696,0.99997,-0.07921
+2,3,creative,3 Use it as a leash for your pet,use it as a leash for your pet,rope,rope,1.09091,1.06735,1.10599,0.96103,1.11892,1.06884,0.11836
+3,4,creative,4 Tie it around a tree branch to make a hammock,tie it around a tree branch to make a hammock,rope,rope,1.06323,0.97003,1.10067,0.96096,0.88278,0.99553,0.08327
+4,5,creative,5 Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+5,6,creative,6 Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+6,7,creative,7 Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+7,8,creative,8 Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+8,9,creative,9 Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+9,10,creative,10 Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+10,11,creative,Here are some creative uses for a rope,here are some creative uses for a rope,rope,rope,0.87446,0.90966,1.09768,0.95399,1.11074,0.98931,-0.0615
+11,12,creative,As a clothesline A rope can be used as a clothesline to dry clothes towels or sheets,as a clothesline a rope can be used as a clothesline to dry clothes towels or sheets,rope,rope,0.84395,0.92924,1.03911,0.96095,0.89784,0.93422,-0.08878
+12,13,creative,As a hammock A rope can be used to create a hammock which is a comfortable and relaxing way to enjoy the outdoors,as a hammock a rope can be used to create a hammock which is a comfortable and relaxing way to enjoy the outdoors,rope,rope,0.89332,0.92487,1.0833,0.96095,0.89421,0.95133,-0.04874
+13,14,creative,As a skipping rope A rope can be used as a skipping rope for exercise or for playing with friends,as a skipping rope a rope can be used as a skipping rope for exercise or for playing with friends,rope,rope,1.15481,1.07554,0.93921,0.96095,1.10515,1.04713,0.15075
+14,15,creative,As a dog leash A rope can be used as a dog leash for walking or training dogs,as a dog leash a rope can be used as a dog leash for walking or training dogs,rope,rope,1.10569,0.97513,0.97134,0.9611,1.10636,1.02392,0.1063
+15,16,creative,As a clothesline A rope can be used as a clothesline to dry clothes towels or sheets,as a clothesline a rope can be used as a clothesline to dry clothes towels or sheets,rope,rope,0.84395,0.92924,1.03911,0.96095,0.89784,0.93422,-0.08878
+16,17,creative,As a shoelace A rope can be used as a shoelace for shoes or boots,as a shoelace a rope can be used as a shoelace for shoes or boots,rope,rope,0.84337,1.07127,1.0052,0.96093,0.89203,0.95456,-0.0766
+17,18,creative,As a swing A rope can be used as a swing for children or adults,as a swing a rope can be used as a swing for children or adults,rope,rope,0.80228,0.92346,1.05851,0.96095,0.89482,0.928,-0.11845
+18,19,creative,As a fishing line A rope can be used as a fishing line to catch fish,as a fishing line a rope can be used as a fishing line to catch fish,rope,rope,1.15976,1.07553,0.81945,0.96096,1.10521,1.02418,0.14327
+19,20,creative,As a climbing rope A rope can be used as a climbing rope for climbing mountains or trees,as a climbing rope a rope can be used as a climbing rope for climbing mountains or trees,rope,rope,1.15531,1.07075,0.97179,0.96095,1.1052,1.0528,0.15362
+20,21,creative,As a decoration A rope can be used as a decoration for parties weddings or other events,as a decoration a rope can be used as a decoration for parties weddings or other events,rope,rope,1.01237,0.96501,0.9143,0.96093,0.8958,0.94968,0.02798
+21,22,creative,As a rope sculpture A rope can be used to create a sculpture or piece of art,as a rope sculpture a rope can be used to create a sculpture or piece of art,rope,rope,1.14375,0.92474,0.96623,0.96095,0.89474,0.97808,0.12535
+22,23,creative,Use a rope as a clothesline to dry clothes,use a rope as a clothesline to dry clothes,rope,rope,0.82907,0.88693,0.87946,0.96093,1.11359,0.934,-0.11636
+23,24,creative,Use a rope as a jump rope for exercise,use a rope as a jump rope for exercise,rope,rope,0.79018,0.90159,0.94465,0.95941,0.89245,0.89766,-0.14078
+24,25,creative,Use a rope as a tightrope for circus acrobatics,use a rope as a tightrope for circus acrobatics,rope,rope,0.8016,0.87822,0.88032,0.95945,1.10456,0.92483,-0.13798
+25,26,creative,Use a rope as a sling for injured body parts,use a rope as a sling for injured body parts,rope,rope,1.12772,1.09312,1.0409,0.96011,0.89544,1.02346,0.13908
+26,27,creative,Use a rope as a leash for a dog,use a rope as a leash for a dog,rope,rope,0.80139,0.93358,0.87644,0.96064,0.88565,0.89154,-0.13511
+27,28,creative,Use a rope as a fishing line,use a rope as a fishing line,rope,rope,0.80523,0.91744,0.9425,0.95878,0.89119,0.90303,-0.12824
+28,29,creative,Use a rope as a pulley to lift heavy objects,use a rope as a pulley to lift heavy objects,rope,rope,1.133,1.07538,1.06742,0.96158,0.89222,1.02592,0.14373
+29,30,creative,Use a rope as a swing for children,use a rope as a swing for children,rope,rope,1.13425,0.94234,1.04625,0.96063,1.10628,1.03795,0.13061
+30,31,creative,Use a rope as a tightrope for a highwire act,use a rope as a tightrope for a highwire act,rope,rope,0.96669,0.86078,0.9410000000000001,0.96113,1.1014,0.9662,-0.01202
+31,32,creative,Use a rope as a tightrope to walk on between two buildings,use a rope as a tightrope to walk on between two buildings,rope,rope,1.09377,0.89432,0.95361,0.96097,0.89533,0.9596,0.08388
+32,33,creative,Creating a swing,creating a swing,rope,rope,0.95366,0.8917,0.8946000000000001,0.94233,0.8556699999999999,0.90759,-0.02988
+33,34,creative,Creating a makeshift clothesline,creating a makeshift clothesline,rope,rope,0.92449,0.96296,1.02384,0.94317,0.90761,0.95241,-0.03056
+34,35,creative,Creating a rope ladder,creating a rope ladder,rope,rope,0.95598,0.89951,1.12143,0.91725,1.08804,0.99644,-0.00826
+35,36,creative,Creating a rope bracelet,creating a rope bracelet,rope,rope,0.94732,0.83773,0.8423700000000001,1.12562,1.10585,0.97178,-0.00335
+36,37,creative,Creating a rope leash,creating a rope leash,rope,rope,0.96854,1.08457,1.06895,0.96074,1.08823,1.03421,0.02595
+37,38,creative,Creating a rope basket,creating a rope basket,rope,rope,0.9136299999999999,0.90779,1.1062400000000001,0.93176,1.12814,0.99751,-0.03642
+38,39,creative,Creating a rope leash for a pet,creating a rope leash for a pet,rope,rope,1.00979,1.02188,1.03255,0.95375,0.87707,0.97901,0.04164
+39,40,creative,Creating a rope handrail,creating a rope handrail,rope,rope,0.90171,0.91071,0.8299799999999999,0.80831,0.90054,0.87025,-0.09977
+40,41,creative,Creating a rope hammock,creating a rope hammock,rope,rope,0.98509,0.99508,1.03173,0.93364,0.8917,0.96745,0.01629
+41,42,creative,Creating a rope obstacle course for an outdoor party or camp,creating a rope obstacle course for an outdoor party or camp,rope,rope,0.89962,0.97683,0.9264,0.96121,0.8944300000000001,0.9317,-0.05283
+42,43,creative,Create a clothesline for drying clothes,create a clothesline for drying clothes,rope,rope,0.85456,0.9456,1.07226,0.97504,0.8717699999999999,0.94385,-0.07343
+43,44,creative,Use it to hang a painting,use it to hang a painting,rope,rope,0.89067,0.9250700000000001,0.99719,0.96053,1.1175,0.97819,-0.05568
+44,45,creative,Use it as a belt to hold up a pair of pants,use it as a belt to hold up a pair of pants,rope,rope,1.13229,0.92172,0.96859,0.96095,1.10859,1.01843,0.11973
+45,46,creative,Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+46,47,creative,Use it to make a rope swing,use it to make a rope swing,rope,rope,0.82942,0.87552,0.9419,0.9607,0.89046,0.8996,-0.11471
+47,48,creative,Use it as a leash for a dog,use it as a leash for a dog,rope,rope,1.02488,1.09628,1.02528,0.96109,1.12127,1.04576,0.06535
+48,49,creative,Use it as a clothesline for drying clothes,use it as a clothesline for drying clothes,rope,rope,1.13451,1.04525,1.03678,0.96099,0.87995,1.0115,0.13834
+49,50,creative,Use it as a clothesline for drying clothes,use it as a clothesline for drying clothes,rope,rope,1.13451,1.04525,1.03678,0.96099,0.87995,1.0115,0.13834
+50,51,creative,Use it as a leash for a dog,use it as a leash for a dog,rope,rope,1.02488,1.09628,1.02528,0.96109,1.12127,1.04576,0.06535
+51,52,creative,Use it as a leash for a dog,use it as a leash for a dog,rope,rope,1.02488,1.09628,1.02528,0.96109,1.12127,1.04576,0.06535
+52,53,creative,Use it as a clothesline for drying clothes,use it as a clothesline for drying clothes,rope,rope,1.13451,1.04525,1.03678,0.96099,0.87995,1.0115,0.13834
+53,54,creative,As a lasso for catching wild animals,as a lasso for catching wild animals,rope,rope,0.97183,0.92555,0.8390299999999999,0.95863,0.8958699999999999,0.91818,-0.01386
+54,55,creative,As a clothesline to dry wet clothes,as a clothesline to dry wet clothes,rope,rope,0.80627,0.99923,0.93637,0.96084,1.10181,0.9609,-0.11556
+55,56,creative,As a tow rope to pull a car out of mud,as a tow rope to pull a car out of mud,rope,rope,0.79761,0.95696,0.94882,0.96096,0.89451,0.91177,-0.12837
+56,57,creative,As a grappling hook to climb a cliff,as a grappling hook to climb a cliff,rope,rope,1.1124,0.92883,1.1574,0.96098,1.1367099999999999,1.05926,0.1238
+57,58,creative,As a safety net for a trapeze artist,as a safety net for a trapeze artist,rope,rope,1.15227,1.03078,1.02877,0.96252,0.88194,1.01126,0.14945
+58,59,creative,As a lead for a pet dog,as a lead for a pet dog,rope,rope,0.98114,0.93519,1.01958,0.96167,0.89002,0.95752,0.01145
+59,60,creative,As a swing for a playground,as a swing for a playground,rope,rope,1.04615,1.03063,1.04533,0.96109,1.10355,1.03735,0.07535
+60,61,creative,As a tightrope for a circus performer,as a tightrope for a circus performer,rope,rope,0.81655,1.08412,0.9460500000000001,0.96103,0.98924,0.9594,-0.09912
+61,62,creative,As a tightrope for a highwire artist,as a tightrope for a highwire artist,rope,rope,0.90712,0.9828,1.05053,0.96075,0.91068,0.96238,-0.03495
+62,63,creative,As a jump rope for exercise,as a jump rope for exercise,rope,rope,1.08841,0.96027,1.00366,0.96374,1.11072,1.02536,0.0955
+63,64,creative,As a lifeline for a boat,as a lifeline for a boat,rope,rope,0.98858,0.96844,0.86425,0.96086,1.11358,0.97914,0.00913
+64,65,creative,1 As a makeshift clothes line for drying wet clothes,as a makeshift clothes line for drying wet clothes,rope,rope,0.83384,0.91639,0.99596,0.96118,0.92605,0.92668,-0.10126
+65,66,creative,2 As a leash for walking or training dogs,as a leash for walking or training dogs,rope,rope,0.99184,0.99621,1.0348600000000001,0.96425,1.11078,1.01959,0.03119
+66,67,creative,3 As a skipping rope for exercise or fun,as a skipping rope for exercise or fun,rope,rope,1.13693,0.87839,0.96631,0.96358,1.10402,1.00985,0.11861
+67,68,creative,4 As a hammock for relaxing outdoors,as a hammock for relaxing outdoors,rope,rope,0.94011,1.00861,1.06767,0.96089,0.89219,0.97389,-0.00633
+68,69,creative,5 As a pulley system for moving heavy objects,as a pulley system for moving heavy objects,rope,rope,1.10941,1.01268,0.99376,0.95863,0.8863300000000001,0.99216,0.11175
+69,70,creative,6 As a decorative element for home decor,as a decorative element for home decor,rope,rope,1.1280999999999999,0.97533,0.91173,0.96676,0.87573,0.97153,0.11533
+70,71,creative,7 As a replacement for shoelaces,as a replacement for shoelaces,rope,rope,0.91308,0.95928,0.93948,0.95987,1.11462,0.97727,-0.04086
+71,72,creative,8 As a rappelling rope for climbing,as a rappelling rope for climbing,rope,rope,1.1339299999999999,0.90721,1.06844,0.96231,0.8913800000000001,0.99265,0.12589
+72,73,creative,9 As a survival tool for building shelters or making traps,as a survival tool for building shelters or making traps,rope,rope,1.0216,1.07241,0.98342,0.96113,1.106,1.02891,0.05616
+73,74,creative,10 As a toy for playing with pets or children,as a toy for playing with pets or children,rope,rope,1.02798,1.05559,0.88525,0.96096,0.8947,0.9649,0.0469
+74,75,creative,Create a hammock,create a hammock,rope,rope,0.8858,0.93249,0.87666,0.93711,1.07815,0.94204,-0.07514
+75,76,creative,Create a makeshift clothesline,create a makeshift clothesline,rope,rope,0.88369,0.99817,1.04364,1.08714,0.90543,0.98361,-0.02461
+76,77,creative,Use it as a leash for your pet dog,use it as a leash for your pet dog,rope,rope,0.84632,1.08471,0.92344,0.96097,0.87909,0.93891,-0.0807
+77,78,creative,Create a rope swing in your backyard,create a rope swing in your backyard,rope,rope,1.13222,0.91539,0.97997,0.96813,0.89437,0.97802,0.11858
+78,79,creative,Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+79,80,creative,Use it as a clothesline for drying clothes,use it as a clothesline for drying clothes,rope,rope,1.13451,1.04525,1.03678,0.96099,0.87995,1.0115,0.13834
+80,81,creative,Use it as a prop in a play or performance,use it as a prop in a play or performance,rope,rope,1.0772599999999999,0.92691,1.11346,0.96096,0.95922,1.00756,0.09107
+81,82,creative,Create a rope ladder,create a rope ladder,rope,rope,0.90968,0.8596,1.13883,0.95827,1.05756,0.98479,-0.03708
+82,83,creative,Use it as a tool to climb trees,use it as a tool to climb trees,rope,rope,1.03655,0.96067,0.89426,0.96097,1.11083,0.99266,0.04648
+83,84,creative,Use it to tie down objects or materials,use it to tie down objects or materials,rope,rope,0.9586,0.98767,1.07959,0.96307,1.11923,1.02163,0.00971
+84,85,creative,Use it as a clothesline for drying clothes,use it as a clothesline for drying clothes,rope,rope,1.13451,1.04525,1.03678,0.96099,0.87995,1.0115,0.13834
+85,86,creative,1 Make a simple swing by hanging the rope from a tree branch or beam,make a simple swing by hanging the rope from a tree branch or beam,rope,rope,0.91334,0.92432,0.95164,0.96094,1.10643,0.97133,-0.04332
+86,87,creative,2 Use a rope as a clothesline to dry clothes or towels outside,use a rope as a clothesline to dry clothes or towels outside,rope,rope,1.17487,1.0729899999999999,1.14907,0.96096,0.89933,1.05144,0.18196
+87,88,creative,3 Tie up a bundle of firewood or camping gear with rope for easier transport,tie up a bundle of firewood or camping gear with rope for easier transport,rope,rope,1.15525,0.84822,0.88787,0.96095,1.1051,0.99148,0.12094
+88,89,creative,4 Use rope to create a makeshift shelter or tent,use rope to create a makeshift shelter or tent,rope,rope,1.09788,0.93349,1.08274,0.95849,0.89484,0.99349,0.10277
+89,90,creative,5 Use rope to suspend a hammock between two trees or posts,use rope to suspend a hammock between two trees or posts,rope,rope,0.93203,1.04517,0.88683,0.96038,1.11046,0.98697,-0.02212
+90,91,creative,6 Use rope to create a rope ladder for climbing tall trees or other structures,use rope to create a rope ladder for climbing tall trees or other structures,rope,rope,1.10946,1.0673300000000001,0.94028,0.9605,1.10512,1.03654,0.11634
+91,92,creative,7 Use rope to create a tire swing by tying it around a tire and attaching it to a branch or beam,use rope to create a tire swing by tying it around a tire and attaching it to a branch or beam,rope,rope,1.05926,0.92415,1.03164,0.96095,0.89653,0.97451,0.06898
+92,93,creative,8 Use rope to create a fishing net or trap for catching fish or other animals,use rope to create a fishing net or trap for catching fish or other animals,rope,rope,1.15463,0.88798,1.0441,0.96093,0.89476,0.98848,0.13653
+93,94,creative,9 Use rope to create a skipping rope for exercise or fun,use rope to create a skipping rope for exercise or fun,rope,rope,1.1499,0.88678,1.0301,0.96755,0.89527,0.98592,0.133
+94,95,creative,10 Use rope to create a rope bridge to cross a body of water or ravine,use rope to create a rope bridge to cross a body of water or ravine,rope,rope,1.07741,1.07589,1.04407,0.96096,1.10538,1.05274,0.10338
+95,96,creative,Making a swing,making a swing,rope,rope,0.80098,0.89707,0.90527,0.87933,0.85426,0.86738,-0.15437
+96,97,creative,Creating a hammock,creating a hammock,rope,rope,0.88115,0.9713,0.8209299999999999,0.97166,1.07687,0.94438,-0.07217
+97,98,creative,Tying knots for decoration or as a hobby,tying knots for decoration or as a hobby,rope,rope,1.14945,1.05539,0.86928,0.96129,0.89356,0.98579,0.13518
+98,99,creative,Creating an obstacle course,creating an obstacle course,rope,rope,0.96544,0.92019,1.0572300000000001,0.97547,1.11779,1.00722,0.00775
+99,100,creative,Creating a pulley system to lift heavy objects,creating a pulley system to lift heavy objects,rope,rope,0.90747,0.98965,0.9538,0.94715,0.88344,0.9363,-0.04617
+100,101,creative,Making a clothesline,making a clothesline,rope,rope,0.77507,0.99726,0.80798,0.90019,1.11777,0.91965,-0.16334
+101,102,creative,Creating a rope ladder,creating a rope ladder,rope,rope,0.95598,0.89951,1.12143,0.91725,1.08804,0.99644,-0.00826
+102,103,creative,Making a clothesline,making a clothesline,rope,rope,0.77507,0.99726,0.80798,0.90019,1.11777,0.91965,-0.16334
+103,104,creative,Making a skipping rope,making a skipping rope,rope,rope,1.15059,0.87132,1.04676,1.1166,1.08882,1.05482,0.16743
+104,105,creative,Creating a rope swing,creating a rope swing,rope,rope,0.88778,0.8360799999999999,0.83801,1.16249,1.09489,0.96385,-0.0403
+105,106,creative,Making a decorative rope display such as for a holiday or special occasion,making a decorative rope display such as for a holiday or special occasion,rope,rope,0.86715,0.88039,1.014,0.96095,0.89465,0.92343,-0.07948
+106,107,creative,Hang a hammock,hang a hammock,rope,rope,0.74865,1.01033,1.03005,0.95345,1.04975,0.95845,-0.15045
+107,108,creative,Make an obstacle course,make an obstacle course,rope,rope,0.96831,0.92995,1.14352,0.97247,1.11471,1.02579,0.01831
+108,109,creative,Use it as a jump rope,use it as a jump rope,rope,rope,0.83758,0.94054,1.14178,0.963,1.11696,0.99997,-0.07921
+109,110,creative,Use it as a makeshift pulley system,use it as a makeshift pulley system,rope,rope,0.98619,1.02676,0.94811,0.96423,1.10382,1.00582,0.02225
+110,111,creative,Use it as a leash for a pet,use it as a leash for a pet,rope,rope,1.05827,1.05189,1.02497,0.96107,1.12113,1.04347,0.08502
+111,112,creative,Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+112,113,creative,Use it as a belt,use it as a belt,rope,rope,0.81142,0.97575,0.89226,0.96131,0.8805499999999999,0.90426,-0.12145
+113,114,creative,Use it as a bookmark,use it as a bookmark,rope,rope,1.09467,0.94043,0.99245,0.95841,1.1052,1.01823,0.09567
+114,115,creative,Use it as a curtain tieback,use it as a curtain tieback,rope,rope,0.89994,0.9453,0.95584,0.96236,0.88321,0.92933,-0.05328
+115,116,creative,Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+116,117,creative,Use it as a lasso,use it as a lasso,rope,rope,0.98163,0.90916,0.94084,0.96057,0.93632,0.9457,0.00199
+117,118,creative,Make a giant jump rope,make a giant jump rope,rope,rope,0.7408600000000001,1.09983,0.8728899999999999,0.89011,0.8463700000000001,0.89001,-0.17701
+118,119,creative,Use the rope as a clothesline,use the rope as a clothesline,rope,rope,1.14269,0.98696,1.07111,0.96178,0.88957,1.01042,0.14137
+119,120,creative,Use it as a swing,use it as a swing,rope,rope,0.75619,0.95351,0.95685,0.96172,0.88503,0.90266,-0.15857
+120,121,creative,Use it as a net for catching fish,use it as a net for catching fish,rope,rope,1.15453,1.00709,0.93479,0.96092,1.11032,1.03353,0.14256
+121,122,creative,Use it as a clothes rack,use it as a clothes rack,rope,rope,1.15947,1.09817,1.06608,0.96079,1.07508,1.07192,0.16807
+122,123,creative,Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+123,124,creative,Use it as a tether for a dog,use it as a tether for a dog,rope,rope,1.02572,0.92938,1.00195,0.961,0.90425,0.96446,0.04215
+124,125,creative,Use it as a decoration,use it as a decoration,rope,rope,0.93864,0.95661,0.93373,0.96006,0.88259,0.93433,-0.02598
+125,126,creative,Use it as a tightrope,use it as a tightrope,rope,rope,0.80592,0.90505,0.97508,0.96203,1.0830899999999999,0.94623,-0.12274
+126,127,creative,Use it as a lasso,use it as a lasso,rope,rope,0.98163,0.90916,0.94084,0.96057,0.93632,0.9457,0.00199
+127,128,creative,Make a swing,make a swing,rope,rope,0.71265,0.89514,0.94898,0.91003,0.8544700000000001,0.86425,-0.2093
+128,129,creative,Use it to create a clothesline,use it to create a clothesline,rope,rope,1.01673,0.92894,1.08972,0.96059,0.88441,0.97608,0.04326
+129,130,creative,Use it as a tourniquet in an emergency,use it as a tourniquet in an emergency,rope,rope,0.98805,0.88507,0.87934,0.96124,0.89442,0.92162,-0.00211
+130,131,creative,Use it to create a pulley system,use it to create a pulley system,rope,rope,0.94358,1.05757,0.96352,0.95917,1.11746,1.00826,-0.00523
+131,132,creative,Use it to secure a tent or tarp,use it to secure a tent or tarp,rope,rope,1.01326,0.96388,0.97595,0.9615,1.10334,1.00359,0.03724
+132,133,creative,Use it to make a hammock,use it to make a hammock,rope,rope,1.00748,1.03066,1.0929,0.9608099999999999,0.89328,0.99703,0.04824
+133,134,creative,Use it to mark a trail,use it to mark a trail,rope,rope,1.04599,1.11204,0.98058,0.96116,1.1032,1.04059,0.07831
+134,135,creative,Use it to create a fishing net,use it to create a fishing net,rope,rope,1.08679,1.05474,1.00404,0.9614,0.88194,0.99778,0.10122
+135,136,creative,Use it to create a skipping rope,use it to create a skipping rope,rope,rope,1.07265,0.92674,0.92142,0.96138,0.89824,0.95609,0.06903
+136,137,creative,Use it to create a dog leash,use it to create a dog leash,rope,rope,0.96296,1.00411,0.89335,0.96025,0.88488,0.94111,-0.0064
+137,138,creative,1 as a decorative element in a room 2 as a clothesline 3 as a makeshift dog leash 4 as a jump rope 5 as a swing 6 as a hammock 7 as a shoelace 8 as a belt 9 as a tether for a tent 10 as a tourniquet,as a decorative element in a room as a clothesline as a makeshift dog leash as a jump rope as a swing as a hammock as a shoelace as a belt as a tether for a tent as a tourniquet,rope,rope,0.84479,1.03873,0.89827,0.96095,0.89486,0.92752,-0.08909
+138,139,creative,Make a rope swing,make a rope swing,rope,rope,1.19005,0.9686,1.16827,1.13674,1.08152,1.10904,0.22288
+139,140,creative,Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+140,141,creative,Use it to tie up packages or bundles,use it to tie up packages or bundles,rope,rope,1.03623,1.04064,0.9366,0.96118,1.11659,1.01825,0.05923
+141,142,creative,Use it as a dog leash,use it as a dog leash,rope,rope,1.02328,1.0952,1.02376,0.9658100000000001,1.11397,1.0444,0.0648
+142,143,creative,Use it as a belt,use it as a belt,rope,rope,0.81142,0.97575,0.89226,0.96131,0.8805499999999999,0.90426,-0.12145
+143,144,creative,Use it as a jump rope,use it as a jump rope,rope,rope,0.83758,0.94054,1.14178,0.963,1.11696,0.99997,-0.07921
+144,145,creative,Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+145,146,creative,Use it as a tug of war rope,use it as a tug of war rope,rope,rope,0.77235,0.82486,0.99624,0.96148,1.12089,0.93516,-0.15411
+146,147,creative,Use it as a clothesline for drying clothes,use it as a clothesline for drying clothes,rope,rope,1.13451,1.04525,1.03678,0.96099,0.87995,1.0115,0.13834
+147,148,creative,Use it as a decorative element in your home,use it as a decorative element in your home,rope,rope,1.13594,0.95349,0.95298,0.96194,0.89061,0.97899,0.12171
+148,149,creative,Make a rope swing,make a rope swing,rope,rope,1.19005,0.9686,1.16827,1.13674,1.08152,1.10904,0.22288
+149,150,creative,Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+150,151,creative,Use it as a dog leash,use it as a dog leash,rope,rope,1.02328,1.0952,1.02376,0.9658100000000001,1.11397,1.0444,0.0648
+151,152,creative,Use it as a belt,use it as a belt,rope,rope,0.81142,0.97575,0.89226,0.96131,0.8805499999999999,0.90426,-0.12145
+152,153,creative,Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+153,154,creative,Use it as a tourniquet,use it as a tourniquet,rope,rope,0.85319,0.98393,0.89851,0.9611,1.10619,0.96058,-0.08602
+154,155,creative,Use it as a rappelling rope,use it as a rappelling rope,rope,rope,0.93621,0.9761,0.99667,0.96298,0.8815999999999999,0.95071,-0.01915
+155,156,creative,Use it as a towing rope,use it as a towing rope,rope,rope,0.8732800000000001,0.89499,0.90872,0.96263,1.09381,0.94669,-0.08
+156,157,creative,Use it as a jump rope,use it as a jump rope,rope,rope,0.83758,0.94054,1.14178,0.963,1.11696,0.99997,-0.07921
+157,158,creative,Use it as a decorative rope,use it as a decorative rope,rope,rope,1.11355,0.85307,0.95668,0.95961,1.11221,0.99902,0.09689
+158,159,creative,1 Create rope art,create rope art,rope,rope,0.8385199999999999,0.85005,0.83828,0.83466,0.81992,0.83629,-0.14801
+159,160,creative,2 Use a rope as a jump rope,use a rope as a jump rope,rope,rope,0.68889,0.88298,0.8805499999999999,0.9569,0.89057,0.85998,-0.22419
+160,161,creative,3 Use a rope as a dog leash,use a rope as a dog leash,rope,rope,0.78142,0.93033,0.85473,0.94848,0.87945,0.87888,-0.15489
+161,162,creative,4 Use a rope as a clothesline,use a rope as a clothesline,rope,rope,1.13532,0.93999,0.94356,0.96157,0.89011,0.97411,0.11879
+162,163,creative,5 Use a rope as a tiedown strap,use a rope as a tiedown strap,rope,rope,0.96432,0.94648,0.8477,0.96221,1.12001,0.96814,-0.0124
+163,164,creative,6 Use a rope as a tent line,use a rope as a tent line,rope,rope,0.75516,0.97647,0.99532,0.96125,0.89551,0.91674,-0.15315
+164,165,creative,7 Use a rope as a hammock,use a rope as a hammock,rope,rope,1.11777,0.96002,0.99642,0.9587,0.88122,0.98283,0.11225
+165,166,creative,8 Use a rope as a swing,use a rope as a swing,rope,rope,1.03075,0.92114,0.98482,0.96321,1.10998,1.00198,0.04667
+166,167,creative,9 Use a rope as a clothesline,use a rope as a clothesline,rope,rope,1.13532,0.93999,0.94356,0.96157,0.89011,0.97411,0.11879
+167,168,creative,10 Use a rope as a decorative element,use a rope as a decorative element,rope,rope,1.10868,1.04307,0.9460500000000001,0.97156,0.88958,0.99179,0.11294
+168,169,creative,As a skipping rope,as a skipping rope,rope,rope,1.02109,0.88457,1.01268,0.94329,1.09985,0.9923,0.0337
+169,170,creative,As a lasso,as a lasso,rope,rope,0.82562,0.86409,0.87961,0.97192,0.97862,0.90397,-0.121
+170,171,creative,As a clothesline,as a clothesline,rope,rope,0.77671,0.97101,0.8071,0.94421,1.09322,0.91845,-0.1562
+171,172,creative,As a swing,as a swing,rope,rope,0.65162,0.9162399999999999,0.88267,0.95527,0.85289,0.85174,-0.24868
+172,173,creative,As a tether for a dog,as a tether for a dog,rope,rope,1.08299,1.03447,0.90637,0.96087,0.90826,0.97859,0.08732
+173,174,creative,As a safety line when climbing,as a safety line when climbing,rope,rope,1.16445,0.95276,1.0865,0.96141,1.11681,1.05639,0.15813
+174,175,creative,As a decorative element,as a decorative element,rope,rope,0.86668,0.9559,0.98649,0.93641,1.12127,0.97335,-0.07599
+175,176,creative,As a curtain tieback,as a curtain tieback,rope,rope,0.8391299999999999,0.9592,0.87985,0.95083,0.83712,0.89323,-0.10679
+176,177,creative,As a belt,as a belt,rope,rope,0.80001,0.80255,0.83575,0.95786,0.85623,0.85048,-0.15553
+177,178,creative,As a bookmark,as a bookmark,rope,rope,1.0812599999999999,0.95361,0.92175,0.97985,1.14338,1.01597,0.08571
+178,179,creative,As a shoelace,as a shoelace,rope,rope,0.81724,0.87066,0.8204,0.9765,1.11606,0.92017,-0.1291
+179,180,creative,1 Making a swing,making a swing,rope,rope,0.80098,0.89707,0.90527,0.87933,0.85426,0.86738,-0.15437
+180,181,creative,2 Tying a knot,tying a knot,rope,rope,0.73371,1.01455,0.82311,0.96963,0.90925,0.89005,-0.17881
+181,182,creative,3 Using it as a jump rope,using it as a jump rope,rope,rope,0.92831,0.9237299999999999,1.13126,0.96269,1.11727,1.01265,-0.0151
+182,183,creative,4 Making a clothesline,making a clothesline,rope,rope,0.77507,0.99726,0.80798,0.90019,1.11777,0.91965,-0.16334
+183,184,creative,5 Making a tightrope,making a tightrope,rope,rope,0.89629,0.85539,0.91262,0.88409,1.04916,0.91951,-0.08423
+184,185,creative,6 Making a hammock,making a hammock,rope,rope,0.75818,1.02691,0.8635200000000001,0.94721,1.07971,0.93511,-0.15795
+185,186,creative,7 Making a leash for a dog,making a leash for a dog,rope,rope,1.1641,1.05487,0.964,0.95553,1.11768,1.05124,0.15665
+186,187,creative,8 Making a fishing net,making a fishing net,rope,rope,1.19595,0.9198999999999999,0.98578,1.09422,1.11819,1.06281,0.19638
+187,188,creative,9 Making a skipping rope,making a skipping rope,rope,rope,1.15059,0.87132,1.04676,1.1166,1.08882,1.05482,0.16743
+188,189,creative,10 Making a tug of war rope,making a tug of war rope,rope,rope,0.90479,1.01305,0.97712,0.96101,1.0924800000000001,0.98969,-0.03755
+189,190,creative,Create a hammock between two trees,create a hammock between two trees,rope,rope,1.12374,1.01805,1.1029,0.98978,0.87969,1.02283,0.13957
+190,191,creative,Use it as a clothesline to dry clothes,use it as a clothesline to dry clothes,rope,rope,1.10696,0.99435,1.12945,0.96106,0.87918,1.0142,0.12094
+191,192,creative,Use it as a dog leash,use it as a dog leash,rope,rope,1.02328,1.0952,1.02376,0.9658100000000001,1.11397,1.0444,0.0648
+192,193,creative,Use it as a jump rope,use it as a jump rope,rope,rope,0.83758,0.94054,1.14178,0.963,1.11696,0.99997,-0.07921
+193,194,creative,Use it as a prop in a play or musical,use it as a prop in a play or musical,rope,rope,1.12634,0.92514,0.97824,0.96095,0.9117500000000001,0.98048,0.11389
+194,195,creative,Use it as a swing for young kids,use it as a swing for young kids,rope,rope,1.15824,0.98331,0.96665,0.96095,1.10591,1.03501,0.14556
+195,196,creative,Use it as a clothesline for hanging pictures or decorations,use it as a clothesline for hanging pictures or decorations,rope,rope,1.1503,0.97765,1.041,0.96096,0.89354,1.00469,0.14304
+196,197,creative,Use it as a decorative accent in your home,use it as a decorative accent in your home,rope,rope,0.8766,0.94172,0.92019,0.96087,1.06779,0.95343,-0.072
+197,198,creative,Use it as a belt or sash,use it as a belt or sash,rope,rope,0.89837,0.99246,0.98332,0.96075,0.91403,0.94979,-0.04654
+198,199,creative,Use it as a handle for carrying large objects,use it as a handle for carrying large objects,rope,rope,0.82338,1.08006,1.0278100000000001,0.96098,0.88775,0.956,-0.08834
+199,200,creative,Use it as a tether for tying down a tent or awning,use it as a tether for tying down a tent or awning,rope,rope,1.09102,0.95831,0.81797,0.96092,1.10428,0.9865,0.07925
+200,201,creative,1 As a clothesline Hang a rope between two trees or posts and use it to dry your clothes,as a clothesline hang a rope between two trees or posts and use it to dry your clothes,rope,rope,0.84657,0.92483,0.98082,0.96095,0.89359,0.92135,-0.09282
+201,202,creative,2 As a swing Attach a rope to a sturdy tree branch and use it as a swing,as a swing attach a rope to a sturdy tree branch and use it as a swing,rope,rope,0.83095,0.93326,1.01017,0.96095,1.10402,0.96787,-0.09777
+202,203,creative,3 As a hammock Use two ropes and attach them to two trees or posts to make a hammock,as a hammock use two ropes and attach them to two trees or posts to make a hammock,rope,rope,1.16287,0.92374,1.02654,0.96095,1.10795,1.03641,0.14793
+203,204,creative,4 As a skipping rope Use the rope for skipping,as a skipping rope use the rope for skipping,rope,rope,0.82239,0.92696,1.05638,0.96177,0.89476,0.93245,-0.10323
+204,205,creative,5 As a tugofwar rope Split the rope into two teams and play a game of tugofwar,as a tugofwar rope split the rope into two teams and play a game of tugofwar,rope,rope,1.16891,1.01339,0.9257,0.96096,1.10501,1.03479,0.15298
+205,206,creative,6 As a tightrope Use a rope to create a tightrope and walk across it,as a tightrope use a rope to create a tightrope and walk across it,rope,rope,1.05226,1.07059,1.0909200000000001,0.96095,1.10565,1.05607,0.08857
+206,207,creative,7 As a tightrope walker's safety rope Use a safety rope for tightrope walkers to walk across,as a tightrope walkers safety rope use a safety rope for tightrope walkers to walk across,rope,rope,1.07852,1.00953,0.99447,0.96085,1.10516,1.02971,0.09215
+207,208,creative,8 As a climbing rope Use a rope to climb a tree or rock,as a climbing rope use a rope to climb a tree or rock,rope,rope,0.83779,0.92384,0.84447,0.96093,0.8947,0.89235,-0.11209
+208,209,creative,9 As a lasso Use the rope to lasso an animal or toy,as a lasso use the rope to lasso an animal or toy,rope,rope,0.94768,0.89793,1.14678,0.96084,1.10631,1.01191,-0.00277
+209,210,creative,10 As a necklace Use a rope to make a necklace or bracelet,as a necklace use a rope to make a necklace or bracelet,rope,rope,1.15822,0.95293,0.92128,0.96083,1.12148,1.02295,0.13812
+210,211,creative,1 Create a hammock between two trees or poles or hang it from the ceiling to create a cozy reading nook,create a hammock between two trees or poles or hang it from the ceiling to create a cozy reading nook,rope,rope,1.10765,1.07669,0.93115,0.96095,0.90169,0.99563,0.11247
+211,212,creative,2 Use a rope to create a clothesline for drying clothes,use a rope to create a clothesline for drying clothes,rope,rope,0.85821,0.90626,1.1575,0.96116,0.88793,0.95421,-0.06989
+212,213,creative,3 Use a rope to create a swing for your kids or pets,use a rope to create a swing for your kids or pets,rope,rope,0.84708,1.0759,1.09062,0.96094,1.10523,1.01595,-0.06244
+213,214,creative,4 Use a rope to create a clothesline for drying clothes,use a rope to create a clothesline for drying clothes,rope,rope,0.85821,0.90626,1.1575,0.96116,0.88793,0.95421,-0.06989
+214,215,creative,5 Use a rope to create a net for catching fish or crabs,use a rope to create a net for catching fish or crabs,rope,rope,0.8455,1.01797,1.10065,0.96094,1.10378,1.00577,-0.06916
+215,216,creative,6 Use a rope to create a clothesline for drying clothes,use a rope to create a clothesline for drying clothes,rope,rope,0.85821,0.90626,1.1575,0.96116,0.88793,0.95421,-0.06989
+216,217,creative,7 Use a rope to create a hammock between two trees or poles or hang it from the ceiling to create a cozy reading nook,use a rope to create a hammock between two trees or poles or hang it from the ceiling to create a cozy reading nook,rope,rope,1.10616,1.07531,1.01665,0.96095,0.8964300000000001,1.0111,0.1191
+217,218,creative,8 Use a rope to create a swing for your kids or pets,use a rope to create a swing for your kids or pets,rope,rope,0.84708,1.0759,1.09062,0.96094,1.10523,1.01595,-0.06244
+218,219,creative,9 Use a rope to create a clothesline for drying clothes,use a rope to create a clothesline for drying clothes,rope,rope,0.85821,0.90626,1.1575,0.96116,0.88793,0.95421,-0.06989
+219,220,creative,10 Use a rope to create a net for catching fish or crabs,use a rope to create a net for catching fish or crabs,rope,rope,0.8455,1.01797,1.10065,0.96094,1.10378,1.00577,-0.06916
+220,221,creative,1 Create a hammock for camping or relaxing,create a hammock for camping or relaxing,rope,rope,0.97899,0.88525,0.90676,0.96319,1.09332,0.9655,-0.00307
+221,222,creative,2 Use it as a clothesline to dry wet clothes or sheets,use it as a clothesline to dry wet clothes or sheets,rope,rope,0.82113,0.93755,0.97382,0.96096,1.09929,0.95855,-0.10799
+222,223,creative,3 Hang a picture frame with it,hang a picture frame with it,rope,rope,0.97392,1.09139,0.90111,0.95903,1.11632,1.00835,0.0151
+223,224,creative,4 Use it as a jump rope for exercise,use it as a jump rope for exercise,rope,rope,1.05027,0.94899,0.94225,0.96136,1.11134,1.00284,0.05986
+224,225,creative,5 Use it as a leash for a dog,use it as a leash for a dog,rope,rope,1.02488,1.09628,1.02528,0.96109,1.12127,1.04576,0.06535
+225,226,creative,6 Use it as a belt to keep your pants up,use it as a belt to keep your pants up,rope,rope,1.09882,1.0766499999999999,1.1516,0.96097,1.11684,1.08098,0.12944
+226,227,creative,7 Use it as a tourniquet to stop bleeding,use it as a tourniquet to stop bleeding,rope,rope,1.00055,0.91968,0.96316,0.96087,0.89425,0.9477,0.0187
+227,228,creative,8 Use it as a lasso to catch animals or people,use it as a lasso to catch animals or people,rope,rope,1.06333,1.08061,1.1443699999999999,0.96101,1.10311,1.07049,0.10281
+228,229,creative,9 Use it as a tow rope to pull a car or boat,use it as a tow rope to pull a car or boat,rope,rope,0.89374,0.9193,1.08873,0.96094,1.10591,0.99372,-0.04562
+229,230,creative,10 Use it as a prop in a play or performance,use it as a prop in a play or performance,rope,rope,1.0772599999999999,0.92691,1.11346,0.96096,0.95922,1.00756,0.09107
+230,231,creative,A rope can be used as a clothesline a swing or a hammock,a rope can be used as a clothesline a swing or a hammock,rope,rope,0.84175,1.08071,0.95386,0.96096,0.8925,0.94596,-0.08151
+231,232,creative,A rope can be used as a dog leash a tool for tying down things or for climbing,a rope can be used as a dog leash a tool for tying down things or for climbing,rope,rope,0.84499,1.07156,1.05096,0.96095,1.10478,1.00665,-0.06817
+232,233,creative,A rope can be used as a decorative element for a home especially for a rustic or bohemian style,a rope can be used as a decorative element for a home especially for a rustic or bohemian style,rope,rope,0.8827,0.92389,0.87917,0.96095,1.1049,0.95032,-0.07277
+233,234,creative,A rope can be used as a part of a costume or as part of a theater set,a rope can be used as a part of a costume or as part of a theater set,rope,rope,0.96567,0.93611,0.98164,0.96095,1.10524,0.98992,-5.7e-4
+234,235,creative,A rope can be used as a part of a workout routine such as for skipping rope or for resistance training,a rope can be used as a part of a workout routine such as for skipping rope or for resistance training,rope,rope,1.15247,1.07601,0.93324,0.96095,0.89487,1.00351,0.14561
+235,236,creative,A rope can be used as a part of a craft or art project such as for weaving or macramé,a rope can be used as a part of a craft or art project such as for weaving or macramé,rope,rope,0.84888,0.92552,1.01573,0.96095,0.8941,0.92904,-0.08778
+236,237,creative,A rope can be used as a part of a game such as for tugofwar or for limbo,a rope can be used as a part of a game such as for tugofwar or for limbo,rope,rope,0.84388,0.92927,1.00287,0.96095,0.89486,0.92637,-0.09225
+237,238,creative,A rope can be used as a part of a magic trick such as for making things disappear or appear,a rope can be used as a part of a magic trick such as for making things disappear or appear,rope,rope,0.9753000000000001,1.14445,0.91688,0.96095,1.1051,1.02054,0.02376
+238,239,creative,A rope can be used as a part of a survival kit or for outdoor use such as for setting up a tent or for hanging food,a rope can be used as a part of a survival kit or for outdoor use such as for setting up a tent or for hanging food,rope,rope,0.8445400000000001,0.92654,1.01796,0.96095,0.89486,0.92897,-0.09066
+239,240,creative,1 Create a rope swing,create a rope swing,rope,rope,0.90323,0.80709,0.99733,1.02203,1.09233,0.9644,-0.04694
+240,241,creative,2 Use it as a clothesline,use it as a clothesline,rope,rope,0.82332,0.93803,0.88909,0.96306,1.11531,0.94576,-0.11354
+241,242,creative,3 Make a rope ladder,make a rope ladder,rope,rope,1.19053,1.0758,1.12977,0.99695,1.03237,1.08508,0.20147
+242,243,creative,4 Use it for towing or pulling,use it for towing or pulling,rope,rope,0.89358,0.94162,0.95118,0.96123,1.09586,0.96869,-0.05612
+243,244,creative,5 Use it as a leash or tether,use it as a leash or tether,rope,rope,0.8592500000000001,1.05418,0.89588,0.95981,0.98736,0.9513,-0.07586
+244,245,creative,6 Use it as a skipping rope,use it as a skipping rope,rope,rope,0.91902,0.94779,0.98497,0.9614,1.10173,0.98298,-0.03338
+245,246,creative,7 Use it as a pulley system,use it as a pulley system,rope,rope,1.06386,1.06586,1.01791,0.96654,0.88168,0.99917,0.08789
+246,247,creative,8 Use it as a clothesline or drying rack,use it as a clothesline or drying rack,rope,rope,1.12689,1.01272,1.08667,0.96128,0.92043,1.0216,0.13435
+247,248,creative,9 Use it as a jump rope,use it as a jump rope,rope,rope,0.83758,0.94054,1.14178,0.963,1.11696,0.99997,-0.07921
+248,249,creative,10 Use it as a knottying practice tool,use it as a knottying practice tool,rope,rope,1.01151,0.9268,0.91235,0.96205,1.11402,0.98535,0.02616
